@@ -1,0 +1,54 @@
+{{Short description|American politician}}
+{{under construction}}
+{{Use mdy dates|date=November 2026}}
+{{Infobox officeholder
+|name = Leticia Gutierrez
+|state = [[Texas]]
+|district = {{ushr|TX|9|9th}}
+|term_start = January 3, 2027
+|term_end = 
+|succeeding = [[Al Green (politician)|Al Green]] (redistricted)
+|predecessor = [[Al Green (politician)|Al Green]] (redistricted)
+|successor = 
+|birth_date = {{Bbad|40|2013|10|17}}
+|birth_place = Mexico 
+|death_date = 
+|death_place = 
+|party = [[Democratic Party (United States)|Democratic]]
+|education = [[University of St. Thomas (Texas)|University of St. Thomas]] ([[Bachelor of Science|BS]])
+}}
+'''Leticia Gutierrez-Ablaza''' (born 1972 or 1973) is an American politician. A member of the [[Democratic Party (United States)|Democratic Party]], she is the member-elect for the [[United States House of Representatives]] for {{ushr|TX|9}}.
+
+Gutierrez was born in Mexico, in 1972 or 1973.<ref name=2013council>{{cite web|title=Infrastructure critical concern for District I candidates|url=https://www.houstonchronicle.com/politics/houston/article/Infrastructure-critical-concern-for-District-I-4905680.php|date=October 17, 2013|publisher=Houston Chronicle|access-date=November 4, 2026}}</ref><ref>{{cite web|title=Community Fellows|url=https://ces.rice.edu/community-fellows|publisher=Rice University Humanities and Arts Center for Environmental Studies|access-date=November 4, 2026}}</ref> She graduated from [[Milby High School]], located in the [[East End, Houston|East End]] of [[Houston]], and the [[University of St. Thomas (Texas)|University of St. Thomas]].<ref name=fox26/> She worked as a community outreach organizer for Air Alliance Houston.<ref>{{Cite web|url=https://defendernetwork.com/people/dn-news-profiles/black-hispanic-environmental-justice-houston/|title=Leticia Gutierrez: Frontline environmental justice warrior|first=Aswad|last=Walker|date=January 25, 2024}}</ref> Gutierrez also served as chief of staff to Houston City Council member [[Helena Brown (politician)|Helena Brown]] until her resignation in April 2012.<ref name=chron26>{{cite web|title=He's a working class kid who went to space. She's running under a new name. Who will win in the Hispanic 9th? |url=https://www.houstonchronicle.com/opinion/outlook/article/district-9-election-vote-race-mealer-terry-virts-21367711.php|last=Lankenau|first=Regina|publisher=Houston Chronicle|date=February 20, 2026|access-date=November 4, 2026}}</ref><ref>{{cite web|title=2 top members of Brown's staff resign|url=https://www.chron.com/news/houston-texas/article/2-top-members-of-brown-s-staff-resign-3504233.php|last=Moran|first=Chris|date=April 23, 2012|publisher=Houston Chronicle|access-date=November 4, 2026}}</ref> Gutierrez was also an unsuccessful candidate for Houston City Council in 2011 and 2013.<ref>{{cite web|title=Local election results|url=https://www.houstonchronicle.com/news/houston-texas/article/local-election-results-2259506.php|date=November 8, 2011|publisher=Houston Chronicle|access-date=November 4, 2026}}</ref><ref name=2013council /><ref name=chron26 />
+
+Gutierrez ran in the 2026 election for the [[United States House of Representatives]] for {{ushr|TX|9}}. She defeated [[Alex Mealer]] in the general election.<ref name=fox26>{{Cite web|url=https://www.fox26houston.com/news/alex-mealer-concedes-leticia-gutierrez-texas-9th-congressional-district-race|title=Alex Mealer concedes to Leticia Gutierrez in Texas' 9th Congressional District race|first=Ronnie|last=Marley|date=November 3, 2026|publisher=FOX 26 Houston|website=FOX 26 Houston}}</ref>
+
+==References==
+{{reflist}}
+
+{{s-start}}
+{{s-par|us-hs}}
+{{s-bef|before=[[Al Green (politician)|Al Green]]<br>Redistricted}}
+{{s-ttl|title=Member of the [[List of United States representatives from Texas|U.S. House of Representatives]]<br>from [[Texas's 9th congressional district]]|years=Taking office 2027<!-- –present -->}}
+{{s-non|reason=Elect}}<!-- {{s-inc}} -->
+{{s-end}}
+
+<!-- {{TX-FedRep}}
+{{Current U.S. representatives}}
+{{USCongRep-start |congresses=120th–present [[United States Congress]] |state=[[Texas's congressional delegations|Texas]]}}
+{{USCongRep/TX/120}}
+{{USCongRep-end}} -->
+
+{{DEFAULTSORT:Gutierrez, Leticia}}
+[[Category:21st-century American women politicians]]
+[[Category:21st-century United States representatives]]
+[[Category:Candidates in the 2026 United States House of Representatives elections]]
+[[Category:Democratic Party United States representatives from Texas]]
+[[Category:Female United States representatives]]
+[[Category:Hispanic and Latino American members of the United States Congress]]
+[[Category:Hispanic and Latino American people in Texas politics]]
+[[Category:Hispanic and Latino American women in politics]]
+[[Category:Living people]]
+[[Category:Texas Democrats]]
+[[Category:University of St. Thomas (Texas) alumni]]
+[[Category:Women in Texas politics]]

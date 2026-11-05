@@ -1,0 +1,1908 @@
+{{Short description|None}}
+{{more citations needed|date=July 2014}}
+{{Use mdy dates|date=April 2025}}
+This is a list of [[Hispanic and Latino Americans in the United States Congress|Hispanic and Latino Americans]] who have served in the [[United States Congress]]. Persons included are identified as having a lineage from [[Spain]] or [[Latin America]], a definition that includes [[Brazil]], but not [[Portugal]].
+
+Entries shaded in gray refer to current members of the U.S. Congress.
+
+== Senate ==
+{|class="sortable wikitable"
+!Picture
+!Senator<br />{{small|(lifespan)}}
+!Hispanic or Latino ancestry
+!Party
+!State
+!Term start
+!Term end
+!Notes
+|-
+|rowspan=2 |[[File:CharlesBouligny.jpg|100px|Sen. Bouligny]]
+|rowspan=2 |'''{{sortname|Dominique|Bouligny|Charles Dominique Joseph Bouligny}}'''<br />{{small|(1773–1833)}}
+|rowspan=2 |Spanish 
+|{{Party shading/Democratic-Republican}} |[[Democratic-Republican Party (United States)|Democratic-Republican]] <br /> {{small|(1824–1828)}}
+|rowspan=2 |[[Louisiana]]
+|rowspan=2 |{{dts|abbr=on|1824|11|19}}
+|rowspan=2 |{{dts|abbr=off|1829|3|4}}
+|rowspan=2 |Retired
+|-
+|{{Party shading/National Republican}} |[[National Republican Party (United States)|National Republican]] <br /> {{small|(1828–1829)}}
+|-
+|rowspan=2 |[[File:David Levy Yulee - Brady-Handy.jpg|100px|Sen. Yulee]]
+|rowspan=2 |'''{{sortname|David Levy|Yulee|David Levy Yulee}}'''<br />{{small|(1810–1886)}}
+| rowspan="2" |Spanish<ref>{{Cite book |last=Monaco |first=C.S. |url=https://books.google.com/books?id=zYPnXzambCIC&pg=PA12 |title=Moses Levy of Florida: Jewish Utopian and Antebellum Reformer |date=2005 |publisher=Louisiana State University Press |isbn=0-8071-3095-8 |language=en}}</ref>
+|rowspan=2 {{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|rowspan=2 |[[Florida]]
+|{{dts|abbr=off|1845|7|1}}
+|{{dts|abbr=off|1851|3|4}}
+||Lost re-election
+|-
+|{{dts|abbr=off|1855|3|4}}
+|{{dts|abbr=on|1861|1|21}}
+| Resigned when Florida [[Secession in the United States|seceded from the Union]]
+|-
+|rowspan=2 |[[File:Judah P Benjamin crop.jpg|100px|Sen. Benjamin]]
+|rowspan=2 |'''{{sortname|Judah P.|Benjamin|Judah P. Benjamin}}'''<br />{{small|(1811–1884)}}
+|rowspan=2 |Spanish<ref>{{cite web |title=Judah Benjamin: Pioneer Louisiana Jewish Lawyer, First Jewish U.S. Senator, & Secretary of State of the Confederacy |url=https://www.jmaw.org/benjamin-jewish-new-orleans/ |publisher=Jewish Museum of the American West |access-date=December 27, 2023}}</ref><ref>{{Cite book |last=O'Donnell-Rosales |first=John |url=https://books.google.com/books?id=Jsuy2CLtuD0C&q=judah |title=Hispanic Confederates |date=2006 |publisher=Genealogical Publishing Co. |isbn=978-0-8063-5230-5 |page=18 |language=en}}</ref>
+|{{Party shading/Whig}}|[[Whig Party (United States)|Whig]] <br /> {{small|(1853–1856)}}
+|rowspan=2 |[[Louisiana]]
+|rowspan=2 |{{dts|abbr=off|1853|3|4}}
+|rowspan=2 |{{dts|abbr=on|1861|2|4}}
+|rowspan=2 |Resigned when Louisiana [[Secession in the United States|seceded from the Union]]
+|-
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]] <br /> {{small|(1856–1861)}}
+|-
+|[[File:SRMalloryII.jpg|100px|Sen. Mallory]]
+|'''{{sortname|Stephen|Mallory II}}'''<br />{{small|(1848–1907)}}
+|Spanish<ref>{{Cite book |last=O'Donnell-Rosales |first=John |url=https://books.google.com/books?id=Jsuy2CLtuD0C&q=mallory |title=Hispanic Confederates |date=2006 |publisher=Genealogical Publishing Co. |isbn=978-0-8063-5230-5 |page=82 |language=en}}</ref>
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Florida]]
+|{{dts|abbr=off|1897|5|15}}
+|{{dts|abbr=on|1907|12|23}}
+|Died in office
+|-
+|[[File:Octaviano Larrazolo, bw photo portrait, 1919.jpg|100px|Sen. Larrazolo]]
+|'''{{sortname|Octaviano|Larrazolo|Octaviano Ambrosio Larrazolo}}'''{{#tag:ref|Larrazolo was the first person born in Latin America to serve in the U.S. Senate.|group="note"}}<br />{{small|(1859–1930)}}
+|Mexican<ref>{{cite web |title=Octaviano Larrazolo |url=https://www.loc.gov/rr/hispanic/congress/larrazolo.html |publisher=Library of Congress |access-date=January 19, 2021}}</ref>
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[New Mexico]]
+|{{dts|abbr=on|1928|12|7}}
+|{{dts|abbr=off|1929|3|4}}
+|Retired
+|-
+|[[File:Dennis Chavez cph.3b20083.jpg|100px|Sen. Chávez]]
+|'''{{sortname|Dennis|Chávez}}'''<br />{{small|(1888–1962)}}
+|Mexican<ref>{{cite news |title=New Mexico lawmaker proposes holiday to honor Cesar Chavez, Dennis Chavez |url=https://www.nbcnews.com/news/latino/new-mexico-lawmaker-proposes-holiday-honor-cesar-chavez-dennis-chavez-n955941 |access-date=January 19, 2021 |publisher=NBC News |date=January 7, 2019}}</ref>
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[New Mexico]]
+|{{dts|abbr=off|1935|5|11}}
+|{{dts|abbr=on|1962|11|18}}
+|Died in office
+|-
+|[[File:Thomas_M._Storke.jpg|100px|Sen. Storke]]
+|'''{{sortname|Thomas M.|Storke}}'''<br />{{small|(1876–1971)}}
+|Mexican<ref>{{cite journal |journal=History Dissertations |title=Pearl Chase and Thomas More Storke: Two Community Builders in Twentieth Century Santa Barbara, California |pages=18–19 |last=Zeledon |first= Jacqueline M. |number=68 |date=2022 |url=https://mavmatrix.uta.edu/cgi/viewcontent.cgi?article=1067&context=history_dissertations |publisher=The University of Texas at Arlington}}</ref>
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[California]]
+|{{dts|abbr=on|1938|11|9}}
+|{{dts|abbr=off|1939|1|3}}
+|Retired
+|-
+|[[File:Joseph M Montoya.jpg|100px|Sen. Montoya]]
+|'''{{sortname|Joseph|Montoya}}'''<br />{{small|(1915–1978)}}
+|Mexican<ref>{{cite web |title=Joseph Manuel Montoya |url=https://www.loc.gov/rr/hispanic/congress/montoyaj.html|publisher=Library of Congress |access-date=January 19, 2021}}</ref>
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[New Mexico]]
+|{{dts|abbr=on|1964|11|4}}
+|{{dts|abbr=on|1977|1|3}}
+|Lost re-election
+|-
+|[[File:John E. Sununu.jpg|100px|Sen. Sununu]]
+|'''{{sortname|John E.|Sununu|John E. Sununu}}'''<br />{{small|(born 1964)}}
+|Salvadoran<ref>{{cite news |last1=Lauter |first1=David |title=Sununu urges comprehensive action on immigration |url=https://www.latimes.com/politics/la-xpm-2012-aug-27-la-pn-sununu-urges-comprehensive-action-on-immigration-20120827-story.html |access-date=January 19, 2021 |date=August 27, 2012}}</ref>
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[New Hampshire]]
+|{{dts|abbr=on|2003|1|3}}
+|{{dts|abbr=on|2009|1|3}}
+|Lost re-election
+|-
+|[[File:Mel Martinez.jpg|100px|Sen. Martínez]]
+|'''{{sortname|Mel|Martínez}}'''{{#tag:ref|Martínez previously served as [[United States Secretary of Housing and Urban Development]].|group="note"}}<br />{{small|(born 1946)}}
+|Cuban<ref>{{cite news |title=Mel Martinez on President's Cuba Speech, RNC Resignation |url=https://www.npr.org/templates/story/story.php?storyId=15622600 |access-date=January 19, 2021 |publisher=NPR |date=October 25, 2007}}</ref>
+| {{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[Florida]]
+|{{dts|abbr=on|2005|1|3}}
+|{{dts|abbr=on|2009|9|9}}
+|Resigned<br />
+|-
+|[[File:Kensalazar.jpg|100px|Sen. Salazar]]
+|'''{{sortname|Ken|Salazar}}'''<br />{{small|(born 1955)}}
+|Mexican<ref>{{cite news |last1=Johnson |first1=Kirk |title=At Fore on Immigration, Senator Has a Story to Tell |url=https://www.nytimes.com/2006/06/11/us/11salazar.html |access-date=January 19, 2021 |work=The New York Times |date=June 11, 2006}}</ref>
+| {{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Colorado]]
+|{{dts|abbr=on|2005|1|3}}
+|{{dts|abbr=on|2009|1|20}}
+|Resigned to become [[United States Secretary of the Interior|U.S. Secretary of the Interior]]
+|-
+|[[File:Senator Bob Menendez (2022) (cropped).jpg|100px|Sen. Menendez]]
+|'''{{sortname|Bob|Menendez}}'''<br />{{small|(born 1954)}}
+|Cuban<ref>{{cite news |last1=Gambino |first1=Lauren |title=New Jersey senator Robert Menendez alleges Cuba behind sex allegations |url=https://www.theguardian.com/world/2014/jul/08/new-jersey-robert-menendez-cuba-prostitution-sex--allegations |access-date=January 19, 2021 |work=The Guardian |date=July 8, 2014}}</ref>
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[New Jersey]]
+|{{dts|abbr=on|2006|1|17}}
+|Aug 20, 2024
+|Resigned after bribery conviction<ref>{{Cite web |title=Senator Bob Menendez resigns after bribery convictions |url=https://www.bbc.com/news/articles/cdx6l3p5lrro |access-date=2024-08-21 |website=www.bbc.com |language=en-GB}}</ref>
+|-
+|[[File:Senator Rubio official portrait (cropped)1.jpg|100px|Sen. Rubio]]
+|'''{{sortname|Marco|Rubio}}'''<br />{{small|(born 1971)}}
+|Cuban<ref name=guardian>{{cite news |last1=Glenza |first1=Jessica |title=Cruz and Rubio condemn Castro as questions remain over Cuba-US ties |url=https://www.theguardian.com/us-news/2016/nov/27/trump-cuba-ted-cruz-marco-rubio-fidel-castro |access-date=January 19, 2021 |work=The Guardian |date=November 27, 2016}}</ref>
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[Florida]]
+|{{dts|abbr=on|2011|1|3}}
+|Jan 20, 2025
+| Resigned to become [[United States Secretary of State|U.S. Secretary of State]]
+|- style="background:#e0e0e0"
+|[[File:Ted Cruz official 116th portrait (cropped).jpg|100px|Sen. Cruz]]
+|'''{{sortname|Ted|Cruz}}'''<br />{{small|(born 1970)}}
+|Cuban<ref name=guardian/><ref>{{Cite web|url=https://abcnews.go.com/International/donald-trump-ted-cruz-us-political-figures-react/story?id=43790782|website=[[ABC News (United States)|ABC News]]|title=Donald Trump, US Political Figures React to Fidel Castro's Death|first1=Michael|last1=Edison Hayden|first2=Alexander|last2=Mallin|first3=Paul|last3=Blake|date=November 26, 2016}}</ref>
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[Texas]]
+|{{dts|abbr=on|2013|1|3}}
+|Incumbent
+|
+|- style="background:#e0e0e0"
+|[[File:Catherine Cortez Masto portrait red.jpg|100px|Sen. Cortez Masto]]
+|'''{{nowrap|{{sortname|Catherine|Cortez Masto|Catherine Cortez Masto}}}}'''{{#tag:ref|Cortez Masto is the first Latina to serve in the U.S. Senate.|group="note"}}<br />{{small|(born 1964)}}
+|Mexican<ref>{{cite news |last1=Gamboa |first1=Suzanne |title='It's About Time': Catherine Cortez Masto, 1st Latina U.S. Senator Sworn In |url=https://www.nbcnews.com/news/latino/it-s-about-time-catherine-cortez-masto-1st-latina-u-n702691 |access-date=January 19, 2021 |publisher=NBC News |date=January 3, 2017}}</ref>
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Nevada]]
+|{{dts|abbr=on|2017|1|3}}
+|Incumbent
+|
+|- style="background:#e0e0e0"
+|[[File:Ben Ray Luján, official portrait (119th Congress).jpg|100px|Sen. Luján]]
+|'''{{sortname|Ben Ray|Luján|Ben Ray Luján}}'''<br />{{small|(born 1972)}}
+|Mexican<ref>{{cite news |last1=Bernal |first1=Rafael |title=Democrat Ben Ray Luján wins open Senate seat in New Mexico |url=https://thehill.com/homenews/campaign/523911-democrat-ben-ray-lujan-wins-open-senate-seat-in-new-mexico |access-date=January 19, 2021 |work=The Hill |date=November 4, 2020}}</ref>
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[New Mexico]]
+|{{dts|abbr=on|2021|1|3}}
+|Incumbent
+|
+|- style="background:#e0e0e0"
+|[[File:Alex Padilla 117th Congress portrait.jpg|100px|Sen. Padilla]]
+|'''{{sortname|Alex|Padilla|Alex Padilla}}'''<br />{{small|(born 1973)}}
+|Mexican<ref>{{cite news |last1=Kumar |first1=Maria Teresa |title=Padilla's California nomination helps heal America's historical omission of the Latino experience |url=https://www.msnbc.com/opinion/padilla-s-california-nomination-helps-heal-america-s-historical-omission-n1252443 |access-date=January 19, 2021 |publisher=MSNBC |date=December 28, 2020}}</ref>
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[California]]
+|{{dts|abbr=on|2021|1|20}}
+|Incumbent
+|
+|- style="background:#e0e0e0"
+|[[File:Senator Ruben Gallego Official Portrait.jpg|125x125px|Sen. Gallego]]
+|'''{{sortname|Ruben|Gallego}}'''<br />{{small|(born 1979)}}
+|Colombian,<br />Mexican
+| {{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Arizona]]
+|{{dts|abbr=on|2025|1|3}}
+|Incumbent
+|
+|- style="background:#e0e0e0"
+|[[File:Moreno Portrait.jpg|125x125px|Sen. Moreno]]
+|'''{{sortname|Bernie|Moreno}}'''<br />{{small|(born 1967)}}
+|Colombian
+| {{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[Ohio]]
+|{{dts|abbr=on|2025|1|3}}
+|Incumbent
+|
+|}
+
+=== Elected to the Senate, but not seated ===
+{|class="sortable wikitable"
+!Picture
+!Senator-elect<br />{{small|(lifespan)}}
+!Hispanic or Latino ancestry
+!Party
+!State
+!Year elected
+!Notes
+|-
+|[[File:Charles Gayarré by Jules Lion.png|100px|Sen.-elect Gayarré]]
+|'''{{sortname|Charles|Gayarré}}'''<br />{{small|(1805–1895)}}
+|Spanish
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Louisiana]]
+|1834
+|Prior to being seated, resigned due to ill health
+|}
+
+== House of Representatives ==
+{|class="sortable wikitable"
+!Picture
+!Representative<br />{{small|(lifespan)}}
+!Hispanic or Latino ancestry
+!Party
+!State
+!Term start
+!Term end
+!Notes
+|-
+|[[File:No image.svg|100px]]
+|'''{{sortname|Alcée|la Branche|Alcée Louis la Branche}}'''<br />{{small|(1806–1881)}}
+|Spanish
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Louisiana]]
+|{{dts|abbr=off|1843|3|4}}
+|{{dts|abbr=off|1845|3|4}}
+|Retired
+|-
+|rowspan=2 |[[File:John_Edward_Bouligny_-_Brady_(crop).png|100px|Rep. Bouligny]]
+|rowspan=2 |'''{{sortname|John Edward|Bouligny|John Edward Bouligny}}'''<br />{{small|(1824–1864)}}
+|rowspan=2 |Spanish
+|{{Party shading/Know-Nothing}} |[[Know Nothing|American (Know-Nothing)]] <br />{{small|(1859–1860)}}
+|rowspan=2 |[[Louisiana]]
+|rowspan=2 |{{dts|abbr=off|1859|3|4}}
+|rowspan=2 |{{dts|abbr=off|1861|3|4}}
+|rowspan=2 |Retired{{#tag:ref|Bouligny was the only congressman from Louisiana not to resign when [[Secession in the United States|the state seceded from the Union]].|group="note"}}
+|-
+|{{Party shading/Constitutional Union}} |[[Constitutional Union Party (United States)|Constitutional Union]] <br /> {{small|(1860–1861)}}
+|-
+|rowspan=2 |[[File:Romualdo Pacheco - Brady-Handy.jpg|100px|Rep. Pacheco]]
+|rowspan=2 |'''{{sortname|Romualdo|Pacheco}}'''{{#tag:ref|Pacheco was the first Latino to serve in Congress, and he previously served as the first (and, to date, only) Hispanic [[List of governors of California|governor of the State of California]].|group="note"}}<br />{{small|(1831–1899)}}
+| rowspan="2" |Mexican
+| rowspan="2" {{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|rowspan=2 |[[California]]
+|{{dts|abbr=off|1877|3|4}}
+|{{dts|abbr=on|1878|2|7}}
+||Lost election contestation
+|-
+|{{dts|abbr=off|1879|3|4}}
+|{{dts|abbr=off|1883|3|4}}
+|Retired
+|-
+|[[File:Stephenmallory.jpg|100px|Rep. Mallory]]
+|'''{{sortname|Stephen|Mallory II}}'''<br />{{small|(1848–1907)}}
+|Spanish
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Florida]]
+|{{dts|abbr=off|1891|3|4}}
+|{{dts|abbr=on|1895|3|4}}
+|Retired
+|-
+|[[File:Frank_Leslie_Coombs.jpg|100px|Rep. Coombs]]
+|'''{{sortname|Frank|Coombs|dab=politician}}'''<br />{{small|(1853–1934)}}
+|Mexican
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[California]]
+|{{dts|abbr=off|1901|3|4}}
+|{{dts|abbr=off|1903|3|4}}
+|Lost re-election
+|-
+|[[File:EstopinalOfLouisiana.jpg|100px|Rep. Estopinal]]
+|'''{{sortname|Albert|Estopinal}}'''<br />{{small|(1845–1919)}}
+|Spanish
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Louisiana]]
+|{{dts|abbr=on|1908|11|3}}
+|{{dts|abbr=off|1919|4|28}}
+|Died in office
+|-
+|[[File:Ladislas Lazaro.jpg|100px|Rep. Lazaro]]
+|'''{{sortname|Ladislas|Lazaro}}'''<br />{{small|(1872–1927)}}
+|Spanish
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Louisiana]]
+|{{dts|abbr=off|1913|3|4}}
+|{{dts|abbr=off|1927|3|30}}
+|Died in office
+|-
+|rowspan=2 |[[File:Benigno C Hernández.jpg|100px|Rep. Hernández]]
+|rowspan=2 |'''{{sortname|Benigno C.|Hernández|Benigno C. Hernández}}'''<br />{{small|(1862–1954)}}
+| rowspan="2" |Mexican
+| rowspan="2" {{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|rowspan=2 |[[New Mexico]]
+|{{dts|abbr=off|1915|3|4}}
+|{{dts|abbr=off|1917|3|4}}
+|Lost<br> re-election
+|-
+|{{dts|abbr=off|1919|3|4}}
+|{{dts|abbr=off|1921|3|4}}
+|Retired
+|-
+|[[File:NestorMontoya.jpg|100px|Rep. Montoya]]
+|'''{{sortname|Néstor|Montoya}}'''<br />{{small|(1862–1923)}}
+|Mexican
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[New Mexico]]
+|{{dts|abbr=off|1921|3|4}}
+|{{dts|abbr=on|1923|1|13}}
+|Died in office
+|-
+|[[File:Dennis Chavez cph.3b20083.jpg|100px|Rep. Chávez]]
+|'''{{sortname|Dennis|Chávez}}'''<br />{{small|(1888–1962)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[New Mexico]]
+|{{dts|abbr=off|1931|3|4}}
+|{{dts|abbr=on|1935|1|3}}
+|Retired to run unsuccessfully for the [[United States Senate elections, 1934|U.S. Senate from New Mexico]]{{#tag:ref|Chávez later was appointed as [[United States Senator]] from [[New Mexico]].|group="note"}}
+|-
+|[[File:Joachim O Fernández.jpg|100px|Rep. Fernández]]
+|'''{{sortname|Joachim O.|Fernández|Joachim O. Fernández}}'''<br />{{small|(1896–1978)}}
+|Spanish
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Louisiana]]
+|{{dts|abbr=off|1931|3|4}}
+|{{dts|abbr=on|1941|1|3}}
+|Lost re-election
+|-
+|[[File:Antonio M Fernández.jpg|100px|Rep. Fernández]]
+|'''{{sortname|Antonio M.|Fernández|Antonio M. Fernández}}'''<br />{{small|(1902–1956)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[New Mexico]]
+|{{dts|abbr=on|1943|1|3}}
+|{{dts|abbr=on|1956|11|7}}
+|Died in office
+|-
+|[[File:Joseph M Montoya.jpg|100px|Rep. Montoya]]
+|'''{{sortname|Joseph|Montoya}}'''<br />{{small|(1915–1978)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[New Mexico]]
+|{{dts|abbr=off|1957|4|9}}
+|{{dts|abbr=on|1964|11|3}}
+|Retired to run successfully for the [[United States Senate elections, 1964|U.S. Senate from New Mexico]]
+|-
+|[[File:Henry B Gonzalez.jpg|100px|Rep. González]]
+|'''{{sortname|Henry B.|González|Henry B. González}}'''<br />{{small|(1916–2000)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Texas]]
+|{{dts|abbr=on|1961|11|4}}
+|{{dts|abbr=on|1999|1|3}}
+|Retired
+|-
+|[[File:Thomas_Gill.jpg|100px|Rep. Gill]]
+|'''{{sortname|Thomas Ponce|Gill|Thomas Gill (politician)}}'''<br />{{small|(1922–2009)}}
+|Cuban
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Hawaii]]
+|{{dts|abbr=on|1963|1|3}}
+|{{dts|abbr=on|1965|1|3}}
+|Retired to run unsuccessfully for the [[United States Senate election in Hawaii, 1964|U.S. Senate from Hawaii]]
+|-
+|[[File:Edward R Roybal.jpg|100px|Rep. Roybal]]
+|'''{{sortname|Edward R.|Roybal|Edward R. Roybal}}'''<br />{{small|(1916–2005)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[California]]
+|{{dts|abbr=on|1963|1|3}}
+|{{dts|abbr=on|1993|1|3}}
+|Retired
+|-
+|[[File:Kika de la Garza - Flickr - USDAgov.jpg|100px|Rep. de la Garza]]
+|'''{{sortname|Kika|de la Garza}}'''<br />{{small|(1927–2017)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Texas]]
+|{{dts|abbr=on|1965|1|3}}
+|{{dts|abbr=on|1997|1|3}}
+|Retired
+|-
+|[[File:Lujan manuel.jpg|100px|Rep. Lujan]]
+|'''{{sortname|Manuel|Lujan|Manuel Lujan Jr.}}'''<br />{{small|(1928–2019)}}
+|Mexican
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[New Mexico]]
+|{{dts|abbr=on|1969|1|3}}
+|{{dts|abbr=on|1989|1|3}}
+|Retired{{#tag:ref|Lujan later served as [[United States Secretary of the Interior]].|group="note"}}
+|-
+|[[File:Herman Badillo.JPG|100px|Rep. Badillo]]
+|'''{{sortname|Herman|Badillo}}'''<br />{{small|(1929–2014)}}
+|{{nowrap|Puerto Rican}}
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[New York (state)|New York]]
+|{{dts|abbr=on|1971|1|3}}
+|{{dts|abbr=on|1977|12|31}}
+|Resigned to become Deputy Mayor of [[New York City]]
+|-
+| [[File:Charles Rangel, official portrait, 113th Congress.jpg|100px|Rep. Rangel]]
+|'''{{sortname|Charles|Rangel}}'''<br />{{small|(1930–2025)}}
+|{{nowrap|Puerto Rican}}
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[New York (state)|New York]]
+|{{dts|abbr=on|1971|1|3}}
+|{{dts|abbr=on|2017|1|3}}
+|Retired
+|-
+|[[File:Robert Garcia.jpg|100px|Rep. Garcia]]
+|'''{{sortname|Robert|Garcia|Robert Garcia (New York politician)}}'''<br />{{small|(1933–2017)}}
+|{{nowrap|Puerto Rican}}
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]{{#tag:ref|Garcia was elected under the Republican and [[Liberal Party of New York|Liberal Party]] ballot lines in the special election for his first term, but caucused with the Democrats upon taking his seat.|group="note"}}
+|[[New York (state)|New York]]
+|{{dts|abbr=on|1978|2|21}}
+|{{dts|abbr=on|1990|1|7}}
+|Resigned{{#tag:ref|Garcia later was jailed due to the [[Wedtech scandal]], but his conviction ultimately was reversed by an appellate court.|group="note"}}
+|-
+|rowspan=2 |[[File:Matthew G Martinez.jpg|100px|Rep. Martínez]]
+|rowspan=2 |'''{{sortname|Matthew G.|Martínez|Matthew G. Martínez}}'''<br />{{small|(1929–2011)}}
+|rowspan=2 |Mexican
+|{{Party shading/Democratic}} |<br />[[Democratic Party (United States)|Democratic]] <br /> {{small|(1982–2000)}} <br />{{small|.}}
+|rowspan=2 |[[California]]
+|rowspan=2 |{{dts|abbr=off|1982|7|13}}
+|rowspan=2 |{{dts|abbr=on|2001|1|3}}
+|rowspan=2 |Lost renomination as a Democrat and joined the Republican Party
+|-
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]<br />{{small|(2000–2001)}}
+|-
+|[[File:SolomonOrtiz.jpg|100px|Rep. Ortiz]]
+|'''{{sortname|Solomon P.|Ortiz|Solomon P. Ortiz}}'''<br />{{small|(born 1937)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Texas]]
+|{{dts|abbr=on|1983|1|3}}
+|{{dts|abbr=on|2011|1|3}}
+|Lost re-election
+|-
+|[[File:Congressman Bill Richardson.jpg|100px|Rep. Richardson]]
+|'''{{sortname|Bill|Richardson}}'''<br />{{small|(1947–2023)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[New Mexico]]
+|{{dts|abbr=on|1983|1|3}}
+|{{dts|abbr=on|1997|2|13}}
+|Resigned to become [[United States Ambassador to the United Nations|U.S. Ambassador to the United Nations]]{{#tag:ref|Richardson later served as [[United States Secretary of Energy]] and [[Governor of New Mexico]].|group="note"}}
+|-
+|[[File:Esteban Edward Torres.png|100px|Rep. Torres]]
+|'''{{sortname|Esteban E.|Torres|Esteban Edward Torres}}'''<br />{{small|(1930–2022)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[California]]
+|{{dts|abbr=on|1983|1|3}}
+|{{dts|abbr=on|1999|1|3}}
+|Retired
+|-
+|[[File:Barbara vucanovich.jpg|100px|Rep. Vucanovich]]
+|'''{{sortname|Barbara|Vucanovich}}'''{{#tag:ref|Although [[Ileana Ros-Lehtinen]] is widely credited as the first Hispanic woman in Congress, Vucanovich's mother was of partial Mexican Hispanic heritage.|group="note"}}<br />{{small|(1921–2013)}}
+|Mexican
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[Nevada]]
+|{{dts|abbr=on|1983|1|3}}
+|{{dts|abbr=on|1997|1|3}}
+|Retired
+|-
+|[[File:Albert Bustamante.jpg|100px|Rep. Bustamente]]
+|'''{{sortname|Albert|Bustamante}}'''<br />{{small|(1935–2021)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Texas]]
+|{{dts|abbr=on|1985|1|3}}
+|{{dts|abbr=on|1993|1|3}}
+|Lost re-election{{#tag:ref|Bustamante later was jailed for bribery.|group="note"}}
+|-
+|[[File:Ileana Ros-Lehtinen.jpg|100px|Rep. Ros-Lehtinen]]
+|'''{{sortname|Ileana|Ros-Lehtinen}}'''<br />{{small|(born 1952)}}
+|Cuban
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[Florida]]
+|{{dts|abbr=on|1989|8|29}}
+|{{dts|abbr=on|2019|1|3}}
+|Retired
+|- 
+|[[File:Josieserrano.jpeg|100px|Rep. Serrano]]
+|'''{{sortname|José E.|Serrano|José E. Serrano}}'''<br />{{small|(born 1943)}}
+|{{nowrap|Puerto Rican}}
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[New York (state)|New York]]
+|{{dts|abbr=off|1990|3|20}}
+|{{dts|abbr=on|2021|1|3}}
+|Retired
+|-
+|[[File:Ed Pastor, official portrait, 110th Congress (cropped).jpg|100px|Rep. Pastor]]
+|'''{{sortname|Ed|Pastor}}'''<br />{{small|(1943–2018)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Arizona]]
+|{{dts|abbr=on|1991|10|3}}
+|{{dts|abbr=on|2015|1|3}}
+|Retired
+|-
+|[[File:Xavierbecerra.jpeg|100px|Rep. Becerra]]
+|'''{{sortname|Xavier|Becerra}}'''<br />{{small|(born 1958)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[California]]
+|{{dts|abbr=on|1993|1|3}}
+|{{dts|abbr=on|2017|1|24}}
+|Resigned to become [[Attorney General of California]]{{#tag:ref|Becerra later served as [[United States Secretary of Health and Human Services]].|group="note"}}
+|-
+|[[File:Bonilla picture.JPG|100px|Rep. Bonilla]]
+|'''{{sortname|Henry|Bonilla}}'''<br />{{small|(born 1954)}}
+|Mexican
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[Texas]]
+|{{dts|abbr=on|1993|1|3}}
+|{{dts|abbr=on|2007|1|3}}
+|Lost re-election
+|-
+|[[File:Lincoln Diaz-Balart.jpg|100px|Rep. Díaz-Balart]]
+|'''{{sortname|Lincoln|Díaz-Balart}}'''<br />{{small|(1954–2025)}}
+|Cuban
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[Florida]]
+|{{dts|abbr=on|1993|1|3}}
+|{{dts|abbr=on|2011|1|3}}
+|Retired
+|-
+|[[File:Luiiii.jpeg|100px|Rep. Gutiérrez]]
+|'''{{sortname|Luis|Gutiérrez}}'''<br />{{small|(born 1953)}}
+|{{nowrap|Puerto Rican}}
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Illinois]]
+|{{dts|abbr=on|1993|1|3}}
+|{{dts|abbr=on|2019|1|3}}
+|Retired
+|-
+|[[File:Robert Menendez official photo (cropped).jpg|100px|Rep. Menendez]]
+|'''{{sortname|Bob|Menendez}}'''<br />{{small|(born 1954)}}
+||Cuban
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[New Jersey]]
+|{{dts|abbr=on|1993|1|3}}
+|{{dts|abbr=on|2006|1|16}}
+|Resigned to accept appointment as [[United States Senator|U.S. Senator]] from [[New Jersey]]
+|- 
+|[[File:Lucille Roybal-Allard official photo.jpg|100px|Rep. Roybal-Allard]]
+|'''{{sortname|Lucille|Roybal-Allard}}'''<br />{{small|(born 1941)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[California]]
+|{{dts|abbr=on|1993|1|3}}
+|{{dts|abbr=on|2023|1|03}}
+|Retired
+|-
+|[[File:Frank M Tejeda.jpg|100px|Rep. Tejeda]]
+|'''{{sortname|Frank|Tejeda}}'''<br />{{small|(1945–1997)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Texas]]
+|{{dts|abbr=on|1993|1|3}}
+|{{dts|abbr=on|1997|1|30}}
+|Died in office
+|-
+|- style="background:#e0e0e0"
+|[[File:Nydia Velázquez official portrait (cropped).jpg|100px|Rep. Velázquez]]
+|'''{{sortname|Nydia|Velázquez}}'''<br />{{small|(born 1953)}}
+|{{nowrap|Puerto Rican}}
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[New York (state)|New York]]
+|{{dts|abbr=on|1993|1|3}}
+|Incumbent
+|<i>Did not seek re-election in 2026</i>
+|-
+|[[File:Rubengu.jpg|100px|Rep. Hinojosa]]
+|'''{{sortname|Rubén|Hinojosa}}'''<br />{{small|(born 1940)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Texas]]
+|{{dts|abbr=on|1997|1|3}}
+|{{dts|abbr=on|2017|1|3}}
+|Retired
+|-
+|[[File:Silvestre Reyes, Official Portrait, c112th Congress.jpg|100px|Rep. Reyes]]
+|'''{{sortname|Silvestre|Reyes|Silvestre Reyes}}'''<br />{{small|(born 1944)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Texas]]
+|{{dts|abbr=on|1997|1|3}}
+|{{dts|abbr=on|2013|1|3}}
+|Lost renomination
+|-
+|[[File:Loretta Sanchez official photo.jpg|100px|Rep. Sánchez]]
+|'''{{sortname|Loretta|Sánchez|Loretta Sanchez}}'''<br />{{small|(born 1960)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[California]]
+|{{dts|abbr=on|1997|1|3}}
+|{{dts|abbr=on|2017|1|3}}
+|Retired to run unsuccessfully for the [[United States Senate election in California, 2016|U.S. Senate from California]]
+|-
+|[[File:John E. Sununu.jpg|100px|Rep. Sununu]]
+|'''{{sortname|John E.|Sununu|John E. Sununu}}'''<br />{{small|(born 1964)}}
+|Salvadoran
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[New Hampshire]]
+|{{dts|abbr=on|1997|1|3}}
+|{{dts|abbr=on|2003|1|3}}
+|Retired to run successfully for the [[United States Senate election in New Hampshire, 2002|U.S. Senate from New Hampshire]]
+|-
+| rowspan="2" |[[File:Ciro Rodriguez, official 110th Congress photo.JPG|100px|Rep. Rodríguez]]
+| rowspan="2" |'''{{sortname|Ciro|Rodríguez|Ciro Rodriguez}}'''<br />{{small|(born 1946)}}
+| rowspan="2" |Mexican
+| rowspan="2" {{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+| rowspan="2" |[[Texas]]
+|{{dts|abbr=off|1997|4|12}}
+|{{dts|abbr=on|2005|1|3}}
+|Lost renomination
+|-
+|{{dts|abbr=on|2007|1|3}}
+|{{dts|abbr=on|2011|1|3}}
+|Lost re-election
+|-
+|[[File:Charlie A. Gonzalez, official portrait.jpg|100px|Rep. González]]
+|'''{{sortname|Charlie|González|Charlie Gonzalez}}'''<br />{{small|(born 1945)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Texas]]
+|{{dts|abbr=on|1999|1|3}}
+|{{dts|abbr=on|2013|1|3}}
+|Retired
+|-
+|-
+|[[File:Rep-Napolitano.jpg|100px|Rep. Napolitano]]
+|'''{{sortname|Grace|Napolitano}}'''<br />{{small|(born 1936)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[California]]
+|{{dts|abbr=on|1999|1|3}}
+|{{dts|abbr=on|2025|1|3}}
+|Retired
+|-
+|[[File:Joe Baca Portrait.jpg|100px|Rep. Baca]]
+|'''{{sortname|Joe|Baca}}'''<br />{{small|(born 1947)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[California]]
+|{{dts|abbr=on|1999|11|16}}
+|{{dts|abbr=on|2013|1|3}}
+|Lost re-election
+|-
+|[[File:Hilda Solis official DOL portrait.jpg|100px|Rep. Solis]]
+|'''{{sortname|Hilda|Solis}}'''<br />{{small|(born 1957)}}
+|Mexican,<br />Nicaraguan
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[California]]
+|{{dts|abbr=on|2001|1|3}}
+|{{dts|abbr=on|2009|2|24}}
+|Resigned to become [[United States Secretary of Labor]]
+|- style="background:#e0e0e0"
+|[[File:Mario Díaz-Balart official photo.jpg|100px|Rep. Díaz-Balart]]
+|'''{{sortname|Mario|Díaz-Balart}}'''<br />{{small|(born 1961)}}
+|Cuban
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[Florida]]
+|{{dts|abbr=on|2003|1|3}}
+|Incumbent
+|
+|-
+|[[File:Raúl Grijalva, official portrait, 117th Congress (cropped).jpg|100px|Rep. Grijalva]]
+|'''{{sortname|Raúl|Grijalva}}'''<br />{{small|(1948–2025)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Arizona]]
+|{{dts|abbr=on|2003|1|3}}
+|{{dts|abbr=on|2025|3|13}}
+|Died in office
+|- style="background:#e0e0e0"
+|[[File:Linda Sánchez, 116th Congress, official photo.jpg|100px|Rep. Sánchez]]
+|'''{{sortname|Linda|Sánchez}}'''<br />{{small|(born 1969)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[California]]
+|{{dts|abbr=on|2003|1|3}}
+|Incumbent
+|
+|- style="background:#e0e0e0"
+|[[File:Henry Cuellar, official portrait.jpg|100px|Rep. Cuellar]]
+|'''{{sortname|Henry|Cuellar}}'''<br />{{small|(born 1955)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Texas]]
+|{{dts|abbr=on|2005|1|3}}
+|Incumbent
+|
+|-
+|[[File:Rep John Salazar.jpg|100px|Rep. Salazar]]
+|'''{{sortname|John|Salazar}}'''<br />{{small|(born 1953)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Colorado]]
+|{{dts|abbr=on|2005|1|3}}
+|{{dts|abbr=on|2011|1|3}}
+|Lost re-election
+|- 
+|[[File:Albio sires.jpg|100px|Rep. Sires]]
+|'''{{sortname|Albio|Sires}}'''<br />{{small|(born 1951)}}
+|Cuban
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[New Jersey]]
+|{{dts|abbr=on|2006|11|13}}
+|{{dts|abbr=on|2023|1|03}}
+|Retired
+|-
+|[[File:BenLujan2016.jpg|100px|Rep. Luján]]
+|'''{{sortname|Ben Ray|Luján|Ben Ray Luján}}'''<br />{{small|(born 1972)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[New Mexico]]
+|{{dts|abbr=on|2009|1|3}}
+|{{dts|abbr=on|2021|1|3}}
+|Retired to run successfully for the [[2020 United States Senate election in New Mexico|U.S. Senate from New Mexico]]
+|- style="background:#e0e0e0"
+|[[File:John_Garamendi_official photo.jpg|100px|Rep. Garamendi]]
+|'''{{sortname|John|Garamendi}}'''<br/>{{small|(born 1945)}}
+|Spanish{{#tag:ref|Congressman Garamendi's paternal grandparents were [[Basque people|Basque]] immigrants from Spain, and the House Press Gallery recognizes Garamendi as Hispanic. That being said, many Basques do not consider themselves to be ethnically Spanish, and Garamendi has stated that he does not consider himself to be "Hispanic."|group="note"}}<br />
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[California]]
+|{{dts|abbr=on|2009|11|5}}
+|Incumbent
+|
+|-
+|[[File:Quico Canseco, official portrait, 112th Congress.jpg|100px|Rep. Canseco]]
+|'''{{sortname|Quico|Canseco}}'''<br />{{small|(born 1949)}}
+|Mexican
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[Texas]]
+|{{dts|abbr=on|2011|1|3}}
+|{{dts|abbr=on|2013|1|3}}
+|Lost re-election
+|-
+|[[File:Bill Flores, Official Portrait, 112th Congress.jpg|100px|Rep. Flores]]
+|'''{{sortname|Bill|Flores}}'''<br />{{small|(born 1954)}}
+|Spanish
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[Texas]]
+|{{dts|abbr=on|2011|1|3}}
+|{{dts|abbr=on|2021|1|3}}
+|Retired
+|- 
+|[[File:Jaime Herrera Beutler, official portrait, 112th Congress.jpg|100px|Rep. Herrera Beutler]]
+|'''{{sortname|Jaime|Herrera Beutler|Jaime Herrera Beutler}}'''<br />{{small|(born 1978)}}
+|Mexican
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[Washington (state)|Washington]]
+|{{dts|abbr=on|2011|1|3}}
+|{{dts|abbr=on|2023|1|03}}
+|Lost renomination
+|-
+|[[File:Raul Labrador 115th.jpg|100px|Rep. Labrador]]
+|'''{{sortname|Raúl|Labrador}}'''<br />{{small|(born 1967)}}
+|{{nowrap|Puerto Rican}}
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[Idaho]]
+|{{dts|abbr=on|2011|1|3}}
+|{{dts|abbr=on|2019|1|3}}
+|Retired to run unsuccessfully for the Republican nomination for [[2018 Idaho gubernatorial election|Governor of Idaho]]
+|-
+|[[File:David Rivera, Official Portrait, 112th Congress.jpg|100px|Rep. Rivera]]
+|'''{{sortname|David|Rivera}}'''<br />{{small|(born 1965)}}
+|Cuban
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[Florida]]
+|{{dts|abbr=on|2011|1|3}}
+|{{dts|abbr=on|2013|1|3}}
+|Lost re-election
+|-
+|[[File:Tony Cárdenas 114th Congress.jpg|100px|Rep. Cárdenas]]
+|'''{{sortname|Tony|Cárdenas}}'''<br />{{small|(born 1963)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[California]]
+|{{dts|abbr=on|2013|1|3}}
+|{{dts|abbr=on|2025|1|3}}
+|Retired
+|- style="background:#e0e0e0"
+|[[File:Joaquin Castro, official portrait, 118th Congress.jpg|100px|Rep. Castro]]
+|'''{{sortname|Joaquin|Castro}}'''<br />{{small|(born 1974)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Texas]]
+|{{dts|abbr=on|2013|1|3}}
+|Incumbent
+|
+|-
+|[[File:Pete Gallego official portrait.jpg|100px|Rep. Gallego]]
+|'''{{sortname|Pete|Gallego}}'''<br />{{Small|(born 1961)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Texas]]
+|{{dts|abbr=on|2013|1|3}}
+|{{dts|abbr=on|2015|1|3}}
+|Lost re-election
+|-
+|[[File:Joe Garcia Off Port 113Cong.jpg|100px|Rep. Garcia]]
+|'''{{sortname|Joe|Garcia}}'''<br />{{small|(born 1963)}}
+|Cuban
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Florida]]
+|{{dts|abbr=on|2013|1|3}}
+|{{dts|abbr=on|2015|1|3}}
+|Lost re-election
+|-
+|[[File:Michelle Lujan Grisham official photo.jpg|100px|Rep. Lujan-Grisham]]
+|'''{{nowrap|{{sortname|Michelle|Lujan Grisham|Michelle Lujan Grisham}}}}'''<br />{{small|(born 1959)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[New Mexico]]
+|{{dts|abbr=on|2013|1|3}}
+|{{dts|abbr=on|2018|12|31}}
+|Resigned to become [[Governor of New Mexico]]
+|-
+|[[File:Glora Negrete Mcleod.jpg|100px|Rep. Negrete McLeod]]
+|'''{{sortname|Gloria|Negrete McLeod|Gloria Negrete McLeod}}'''<br />{{small|(born 1941)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[California]]
+|{{dts|abbr=on|2013|1|3}}
+|{{dts|abbr=on|2015|1|3}}
+|Retired to run unsuccessfully for the Board of Supervisors of [[San Bernardino County, California]]
+|-
+|- style="background:#e0e0e0"
+|[[File:Rep. Scott Perry, official portrait, 118th Congress.jpg|100px|Rep. Perry]]
+|'''{{sortname|Scott|Perry}}'''<br />{{small|(born 1962)}}
+|Colombian<ref>{{Cite news |title=Long before embracing Trump's false election claims, Rep. Scott Perry promoted groundless theories |language=en-US |newspaper=Washington Post |url=https://www.washingtonpost.com/politics/jan-6-committee-trump-perry-conspiracy-theories/2021/12/22/031acd5a-626a-11ec-bf70-58003351c627_story.html |access-date=2023-02-15 |issn=0190-8286}}</ref>
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[Pennsylvania]]
+|{{dts|abbr=on|2013|1|3}}
+|Incumbent
+|
+|- style="background:#e0e0e0"
+|[[File:Raul Ruiz (D-CA) 118th Congress 1.jpg|100px|Rep. Ruiz]]
+|'''{{sortname|Raul|Ruiz|Raul Ruiz (politician)}}'''<br />{{small|(born 1972)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[California]]
+|{{dts|abbr=on|2013|1|3}}
+|Incumbent
+|
+|- style="background:#e0e0e0"
+|[[File:Juan Vargas official photo.jpg|100px|Rep. Vargas]]
+|'''{{sortname|Juan|Vargas}}'''<br />{{small|(born 1961)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[California]]
+|{{dts|abbr=on|2013|1|3}}
+|Incumbent
+|
+|-
+|[[File:Filemon Vela, Official Portrait, 113th Congress.jpg|100px|Rep. Vela]]
+|'''{{sortname|Filemón|Vela|Filemon Vela Jr.}}'''<br />{{small|(born 1963)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Texas]]
+|{{dts|abbr=on|2013|1|3}}
+||{{dts|abbr=on|2022|3|31}}
+|Resigned
+|- style="background:#e0e0e0"
+|[[File:Pete Aguilar 117th congress.jpeg|100px|Rep. Aguilar]]
+|'''{{sortname|Pete|Aguilar}}'''<br />{{small|(born 1979)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[California]]
+|{{dts|abbr=on|2015|1|3}}
+|Incumbent
+|
+|-
+|[[File:Carlos Curbelo official photo.jpg|100px|Rep. Curbelo]]
+|'''{{sortname|Carlos|Curbelo}}'''<br />{{small|(born 1980)}}
+|Cuban
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[Florida]]
+|{{dts|abbr=on|2015|1|3}}
+|{{dts|abbr=on|2019|1|3}}
+|Lost re-election
+|-
+|[[File:Ruben Gallego official portrait.jpg|100px|Rep. Gallego]]
+|'''{{sortname|Ruben|Gallego}}'''<br />{{small|(born 1979)}}
+|Colombian, <br />Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Arizona]]
+|{{dts|abbr=on|2015|1|3}}
+|{{dts|abbr=on|2025|1|3}}
+|Retired to run successfully for the [[2024 United States Senate election in Arizona|U.S. Senate from Arizona]]
+|-
+|[[File:Alex Mooney official photo (cropped).jpg|100px|Rep. Mooney]]
+|'''{{sortname|Alex|Mooney}}'''<br />{{small|(born 1971)}}
+|Cuban
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[West Virginia]]
+|{{dts|abbr=on|2015|1|3}}
+|{{dts|abbr=on|2025|1|3}}
+|Retired to run unsuccessfully for the Republican nomination for [[2024 United States Senate election in West Virginia|U.S. Senate from West Virginia]]
+|- style="background:#e0e0e0"
+|[[File:Norma Torres 118th congress.jpeg|100px|Rep. Torres]]
+|'''{{sortname|Norma|Torres}}'''<br />{{small|(born 1965)}}
+|Guatemalan
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[California]]
+|{{dts|abbr=on|2015|1|3}}
+|Incumbent
+|
+|- style="background:#e0e0e0"
+|[[File:Nanette Barragan official portrait.jpg|100px|Rep. Barragán]]
+|'''{{sortname|Nanette|Barragán}}'''<br />{{small|(born 1976)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[California]]
+|{{dts|abbr=on|2017|1|3}}
+|Incumbent
+|
+|- style="background:#e0e0e0"
+|[[File:Salud Carbajal - 117th Congress.jpg|100px|Rep. Carbajal]]
+|'''{{sortname|Salud|Carbajal}}'''<br />{{small|(born 1964)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[California]]
+|{{dts|abbr=on|2017|1|3}}
+|Incumbent
+|
+|- style="background:#e0e0e0"
+|[[File:Lou Correa 118th Congress (mid-cropped).jpg |100px|Rep. Correa]]
+|'''{{sortname|Lou|Correa}}'''<br />{{small|(born 1958)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[California]]
+|{{dts|abbr=on|2017|1|3}}
+|Incumbent
+|
+|- style="background:#e0e0e0"
+|[[File:Rep. Adriano Espaillat 117th Official Photo.jpg|100px|Rep. Espaillat]]
+|'''{{sortname|Adriano|Espaillat}}'''<br />{{small|(born 1954)}}
+|Dominican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[New York (state)|New York]]
+|{{dts|abbr=on|2017|1|3}}
+|Incumbent
+|<i>Was defeated for renomination in 2026</i>
+|- style="background:#e0e0e0"
+|[[File:Rep. Vicente Gonzalez, 118th Congress.jpg|100px|Rep. Gonzalez]]
+|'''{{sortname|Vicente|Gonzalez|Vicente Gonzalez (American politician)}}'''<br />{{small|(born 1967)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Texas]]
+|{{dts|abbr=on|2017|1|3}}
+|Incumbent
+|
+|-
+|[[File:Rep. Ruben Kihuen.jpg|100px|Rep. Kihuen]]
+|'''{{sortname|Rubén|Kihuen|Ruben Kihuen}}'''<br />{{small|(born 1980)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Nevada]]
+|{{dts|abbr=on|2017|1|3}}
+|{{dts|abbr=on|2019|1|3}}
+|Retired
+|-
+|- style="background:#e0e0e0"
+||[[File:Brian Mast official 115th Congress photo (cropped).jpg |100px|Rep. Mast]]
+|'''{{sortname|Brian|Mast}}'''<br />{{small|(born 1980)}}
+|Mexican
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[Florida]]
+|{{dts|abbr=on|2017|1|3}}
+|Incumbent
+|
+|- style="background:#e0e0e0"
+|[[File:Darren Soto 115th Congress photo.jpg|100px|Rep. Soto]]
+|'''{{sortname|Darren|Soto}}'''<br />{{small|(born 1978)}}
+|{{nowrap|Puerto Rican}}
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Florida]]
+|{{dts|abbr=on|2017|1|3}}
+|Incumbent
+|
+|- style="background:#e0e0e0"
+|[[File:Jimmy Gomez official portrait.jpg|100px|Rep. Gomez]]
+|'''{{sortname|Jimmy|Gomez}}'''<br />{{small|(born 1974)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[California]]
+|{{dts|abbr=off|2017|7|11}}
+|Incumbent
+|
+|- 
+|rowspan="2" style="background-color:#e0e0e0;" |[[File:Cisneros Gil 119th Congress 2.jpg|100px|Rep. Cisneros]]
+|rowspan="2" style="background-color:#e0e0e0;" |'''{{sortname|Gil|Cisneros|Gil Cisneros}}'''<br />{{small|(born 1971)}}
+|rowspan="2" style="background-color:#e0e0e0;" |Mexican
+|rowspan="2" {{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|rowspan="2" style="background-color:#e0e0e0;" |[[California]]
+|{{dts|abbr=on|2019|1|3}}
+|{{dts|abbr=on|2021|1|3}}
+|Lost<br>re-election
+|- style="background:#e0e0e0"
+|{{dts|abbr=on|2025|1|3}}
+|Incumbent
+|
+|-
+|[[File:Antonio Delgado, official portrait, 116th Congress.jpg|frameless|150x150px|Rep. Delgado]]
+|'''{{sortname|Antonio|Delgado}}'''<br />{{small|(born 1977)}}
+|Colombian,<br>Mexican,<br>Venezuelan<ref>{{Cite news |date=2022-05-21 |title=Hochul’s Lt. Governor Pick Says He Is Afro-Latino. Some Latinos Object. (Published 2022) |url=https://www.nytimes.com/2022/05/21/nyregion/antonio-delgado-afro-latino.html |access-date=2025-09-21 |language=en}}</ref>
+| {{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[New York (state)|New York]]
+|Jan 3, 2019
+|May 25, 2022
+|Resigned to become [[Lieutenant Governor of New York]]
+|- style="background:#e0e0e0"
+|[[File:Veronica Escobar official portrait, 116th Congress.jpg|100px|Rep. Escobar]]
+|'''{{sortname|Veronica|Escobar}}'''<br />{{small|(born 1969)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Texas]]
+|{{dts|abbr=on|2019|1|3}}
+|Incumbent
+|
+|- style="background:#e0e0e0"
+|[[File:Chuy Garcia official portrait.jpg|100px|Rep. García]]
+|'''{{sortname|Chuy|García|Jesús "Chuy" García}}'''<br />{{small|(born 1956)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Illinois]]
+|{{dts|abbr=on|2019|1|3}}
+|Incumbent
+|<i>Did not seek re-election in 2026</i>
+|- style="background:#e0e0e0"
+|[[File:Sylvia Garcia, official portrait, 116th Congress.jpg|100px|Rep. Garcia]]
+|'''{{sortname|Sylvia|Garcia}}'''<br />{{small|(born 1950)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Texas]]
+|{{dts|abbr=on|2019|1|3}}
+|Incumbent
+|
+|- 
+|[[File:Anthony Gonzalez, official portrait, 116th Congress 2.jpg|100px|Rep. Gonzalez]]
+|'''{{sortname|Anthony|Gonzalez|dab=politician}}'''<br />{{small|(born 1984)}}
+|Cuban
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[Ohio]]
+|{{dts|abbr=on|2019|1|3}}
+|{{dts|abbr=on|2023|1|03}}
+|Retired
+|- style="background:#e0e0e0"
+|[[File:Rep. Mike Levin official photo.jpg|100px|Rep. Levin]]
+|'''{{sortname|Mike|Levin}}'''<br />{{small|(born 1978)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[California]]
+|{{dts|abbr=on|2019|1|3}}
+|Incumbent
+|
+|- 
+|[[File:Debbie Mucarsel-Powell, official portrait, 116h Congress.jpg|100px|Rep. Mucarsel-Powell]]
+|'''{{sortname|Debbie|Mucarsel-Powell}}'''<br />{{small|(born 1971)}}
+|Ecuadorian
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Florida]]
+|{{dts|abbr=on|2019|1|3}}
+|{{dts|abbr=on|2021|1|3}}
+|Lost re-election
+|- style="background:#e0e0e0"
+|[[File:Alexandria Ocasio-Cortez Official Portrait.jpg|100px|Rep. Ocasio-Cortez]]
+|'''{{sortname|Alexandria|Ocasio-Cortez}}'''<br />{{small|(born 1989)}}
+|{{nowrap|Puerto Rican}}
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[New York (state)|New York]]
+|{{dts|abbr=on|2019|1|3}}
+|Incumbent
+|
+|-
+|[[File:Xochitl Torres Small, official portrait, 116th Congress.jpg|100px|Rep. Torres Small]]
+|'''{{sortname|Xochitl|Torres Small}}'''<br />{{small|(born 1984)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[New Mexico]]
+|{{dts|abbr=on|2019|1|3}}
+|{{dts|abbr=on|2021|1|3}}
+|Lost re-election
+|- 
+|[[File:Mike Garcia, official portrait, 116th Congress.jpg|100px|Rep. Garcia]]
+|'''{{sortname|Mike|Garcia|Mike Garcia (politician)}}'''<br />{{small|(born 1976)}}
+|Mexican
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[California]]
+|{{dts|abbr=off|2020|5|19}}
+|{{dts|abbr=off|2025|1|03}}
+|Lost re-election
+|- style="background:#e0e0e0"
+|[[File:Rep. Byron Donalds official photo, 117th Congress.jpg|100px|Rep. Donalds]]
+|'''{{sortname|Byron|Donalds|Byron Donalds}}'''<br>{{small|(born 1978)}}
+|Panamanian<ref>{{cite news |last1=McLeod |first1=Sheri |title=Jamaican-American Rep. Byron Donalds announces bid for Florida governor |url=https://www.caribbeannationalweekly.com/community-news/jamaican-american-rep-byron-donalds-announces-bid-for-florida-governor/ |access-date=2025-08-15 |work=Caribbean National Weekly |date=2025-03-10}} ("U.S. Rep. Byron Donalds, a Brooklyn-born politician of Jamaican and Panamanian heritage, announced his intention to run for governor of Florida in 2026, backed by an early endorsement from U.S. President Donald Trump.")</ref>
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[Florida]]
+|{{dts|abbr=on|2021|1|3}}
+|Incumbent
+|<i>Did not seek re-election in 2026 in order to run for [[2026 Florida gubernatorial election|Governor of Florida]]</i>
+|- style="background:#e0e0e0"
+|[[File:Rep. Carlos Gimenez official photo (cropped).jpg|100px|Rep. Giménez]]
+|'''{{sortname|Carlos|Giménez|Carlos A. Giménez}}'''<br>{{small|(born 1954)}}
+|Cuban
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[Florida]]
+|{{dts|abbr=on|2021|1|3}}
+|Incumbent
+|
+|-
+|[[File:Tony-Gonzales-Congress.jpg|100px|Rep. Gonzales]]
+|'''{{sortname|Tony|Gonzales}}'''<br>{{small|(born 1980)}}
+|Mexican
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[Texas]]
+|{{dts|abbr=on|2021|1|3}}
+|{{dts|abbr=on|2026|4|14}}
+|Resigned
+|- style="background:#e0e0e0"
+|[[File:Teresa Leger Fernandez 117th Congress portrait 2.jpg|100px|Rep. Leger Fernandez]]
+|'''{{sortname|Teresa|Leger Fernandez}}'''<br>{{small|(born 1959)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[New Mexico]]
+|{{dts|abbr=on|2021|1|3}}
+|Incumbent
+|
+|- style="background:#e0e0e0"
+|[[File:Congresswoman Nicole Malliotakis.jpg|100px|Rep. Malliotakis]]
+|'''{{sortname|Nicole|Malliotakis}}'''<br>{{small|(born 1980)}}
+|Cuban
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[New York (state)|New York]]
+|{{dts|abbr=on|2021|1|3}}
+|Incumbent
+|
+|- style="background:#e0e0e0"
+|[[File:Congresswoman Maria Elvira Salazar.jpg |100px|Rep. Salazar]]
+|'''{{sortname|María Elvira|Salazar}}'''<br>{{small|(born 1961)}}
+|Cuban
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[Florida]]
+|{{dts|abbr=on|2021|1|3}}
+|Incumbent
+|
+|- style="background:#e0e0e0"
+|[[File:Ritchie Torres 117th U.S Congress.jpg|100px|Rep. Torres]]
+|'''{{sortname|Ritchie|Torres}}'''<br>{{small|(born 1988)}}
+|{{nowrap|Puerto Rican}}
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[New York (state)|New York]]
+|{{dts|abbr=on|2021|1|3}}
+|Incumbent
+|
+|- 
+|[[File:Mayra Flores.jpg|100px|Rep. Flores]]
+|'''{{sortname|Mayra|Flores}}'''<br>{{small|(born 1986)}}
+|Mexican
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[Texas (state)|Texas]]
+|{{dts|abbr=on|2022|6|21}}
+|{{dts|abbr=on|2023|1|03}}
+|Lost re-election
+|- 
+|[[File:Rep. Yadira Caraveo - 118th Congress.jpg|100px|Rep. Caraveo]]
+|'''{{sortname|Yadira|Caraveo}}'''<br>{{small|(born 1980)}}
+|Mexican 
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Colorado]]
+|{{dts|abbr=on|2023|1|03}}
+|{{dts|abbr=on|2025|1|03}}
+|Lost re-election
+|- style="background:#e0e0e0"
+|[[File:Rep. Greg Casar - 118th Congress.jpg|100px|Rep. Casar]]
+|'''{{sortname|Greg|Casar}}'''<br>{{small|(born 1989)}}
+|Mexican 
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Texas]]
+|{{dts|abbr=on|2023|1|03}}
+|Incumbent
+|
+|-
+|[[File:Rep. Lori Chavez-DeRemer official photo.jpg|100px|Rep. Chavez-DeRemer]]
+|'''{{sortname|Lori|Chavez-DeRemer|Lori Chavez-DeRemer}}'''<br>{{small|(born 1968)}}
+|Mexican
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[Oregon (state)|Oregon]]
+|{{dts|abbr=on|2023|1|03}}
+|{{dts|abbr=on|2025|1|03}}
+|Lost re-election{{#tag:ref|Chavez-DeRemer later served as [[United States Secretary of Labor]].|group="note"}}
+|- style="background:#e0e0e0"
+|[[File:Rep. Juan Ciscomani official photo, 118th Congress.jpg|100px|Rep. Ciscomani]]
+|'''{{sortname|Juan|Ciscomani|Juan Ciscomani}}'''<br>{{small|(born 1982)}}
+|Mexican
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[Arizona (state)|Arizona]]
+|{{dts|abbr=on|2023|1|03}}
+|Incumbent
+|
+|- style="background:#e0e0e0"
+|[[File:MDLC Official Portrait 2025.jpg|100px|Rep. De La Cruz]]
+|'''{{sortname|Mónica|De La Cruz|Monica De La Cruz}}'''<br>{{small|(born 1975)}}
+|Mexican
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[Texas (state)|Texas]]
+|{{dts|abbr=on|2023|1|03}}
+|Incumbent
+|
+|-
+| [[File:Adesposito.jpg|100px|Rep. D'Esposito]]
+|'''{{sortname|Anthony|D'Esposito}}'''<br>{{small|(born 1982)}}
+|Puerto Rican 
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[New York (state)|New York]]
+|{{dts|abbr=on|2023|1|03}}
+|{{dts|abbr=on|2025|1|03}}
+|Lost re-election
+|- style="background:#e0e0e0"
+|[[File:Rep. Maxwell Frost - 118th Congress.jpg|100px|Rep. Frost]]
+|'''{{sortname|Maxwell Alejandro|Frost}}'''<br>{{small|(born 1997)}}
+|Cuban{{#tag:ref|Frost was adopted at birth, and raised from birth, by a Cuban-American family. Reliable sources invariably describe Frost, and he describes himself, as Cuban. See, ''e.g.'', {{cite news |last1=Lai |first1=Stephanie |title=Maxwell Frost, First Gen Z Congressman, Gets His Bearings on Capitol Hill |url=https://www.nytimes.com/2022/12/06/us/politics/maxwell-frost-gen-z-congress-florida.html |access-date=January 22, 2024 |work=The New York Times |date=December 6, 2022}} ("Representative-elect Maxwell Frost, a 25-year-old Afro-Cuban progressive activist from Orlando ...."); {{cite web |title=Maxwell Frost: el primer congresista de Estados Unidos de la generación Z y negro de origen cubano |url=https://cnnespanol.cnn.com/2022/11/09/maxwell-frost-el-primer-congresista-de-estados-unidos-de-la-generacion-z-y-negro-de-origen-cubano/ |website=CNN en Español |access-date=January 22, 2024 |date=November 9, 2022}} ("También es el primer negro de origen cubano elegido para el Congreso."); {{cite magazine |url= https://www.vogue.com/article/maxwell-alejandro-frost-gen-z-congressman-elect-interview |title= Maxwell Alejandro Frost, Gen Z’s First Congressman, Is Living His Abuela’s ‘Wildest Dream’ |last=Ruiz |first=Michelle |date=November 11, 2022 |magazine=Vogue |access-date=January 22, 2024}} ("On Tuesday night, 25-year-old Maxwell Alejandro Frost made history as the first member of Gen Z—and the first Afro-Cuban—elected to the U.S. House of Representatives."); and {{Cite web |title=Meet Maxwell |url=https://www.frostforcongress.com/meet-maxwell |access-date=January 22, 2024 |website=Frost for Congress}} ("My family’s story begins in Cuba, with my grandmother Yeya. She and my mother came to Florida from Cuba during the Freedom Flights in the early 1960s with only a suitcase and no money."). Frost's biological parents invariably have been described by reliable sources as a Haitian man and a woman of Lebanese ancestry whose origin sometimes is given as Puerto Rican and other times as Argentine. See, ''e.g.'', {{cite web |last1=Bernal |first1=Rafael |title=Who is Maxwell Alejandro Frost, the 25-year-old Democratic House nominee? |url=https://thehill.com/homenews/campaign/3614214-who-is-maxwell-alejandro-frost-the-25-year-old-democratic-house-nominee/ |website=The Hill |access-date=18 January 2024}} ("His birth parents were a Lebanese Puerto Rican woman and a Haitian man."); and {{cite web |last1=Dorsey |first1=Xander |title=Empowering Generation Z to Take Action |url=https://kpcnotebook.scholastic.com/post/empowering-generation-z-take-action/ |website=Scholastic Kids Press |access-date=January 22, 2024 |date= July 18, 2023}} ("Frost was born to a mother of Lebanese and Argentine descent and a Haitian father.")|group="note"}}
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Florida]]
+|{{dts|abbr=on|2023|1|03}}
+|Incumbent
+|
+|- style="background:#e0e0e0"
+|[[File:Rep. Robert Garcia - 118th Congress.jpg|100px|Rep. Garcia]]
+|'''{{sortname|Robert|Garcia|Robert Garcia (California politician)}}'''<br>{{small|(born 1977)}}
+|Peruvian
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[California]]
+|{{dts|abbr=on|2023|1|03}}
+|Incumbent
+|
+|- style="background:#e0e0e0"
+|[[File:Rep. Marie Gluesenkamp Perez - 118th Congress.jpg|100px|Rep. Gluesenkamp Perez]]
+|'''{{sortname|Marie|Gluesenkamp Perez}}'''<br>{{small|(born 1988)}}
+|Mexican 
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Washington (state)|Washington]]
+|{{dts|abbr=on|2023|1|03}}
+|Incumbent
+|
+|- style="background:#e0e0e0"
+|[[File:Anna Paulina Luna.jpg|100px|Rep. Luna]]
+|'''{{sortname|Anna Paulina|Luna}}'''<br>{{small|(born 1989)}}
+|Mexican
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[Florida (state)|Florida]]
+|{{dts|abbr=on|2023|1|03}}
+|Incumbent
+|
+|- style="background:#e0e0e0"
+|[[File:Rep. Rob Menendez Jr. - 118th Congress.jpg|100px|Rep. Menendez]]
+|'''{{sortname|Rob|Menendez}}'''<br>{{small|(born 1985)}}
+|Cuban
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[New Jersey]]
+|{{dts|abbr=on|2023|1|03}}
+|Incumbent
+|
+|- style="background:#e0e0e0"
+|[[File:Delia Ramirez, official portrait 2025.jpg |100px|Rep. Ramirez]]
+|'''{{sortname|Delia|Ramirez}}'''<br>{{small|(born 1983)}}
+|Guatemalan
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Illinois]]
+|{{dts|abbr=on|2023|1|03}}
+|Incumbent
+|
+|- style="background:#e0e0e0"
+|[[File:Andrea Salinas, Official Portrait, 118th Congress.jpg |100px|Rep. Salinas]]
+|'''{{sortname|Andrea|Salinas}}'''<br>{{small|(born 1969)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Oregon]]
+|{{dts|abbr=on|2023|1|03}}
+|Incumbent
+|
+|-
+|[[File:Rep. George Santos Official Portrait.jpg |100px|Rep. Santos]]
+|'''{{sortname|George|Santos}}'''<br>{{small|(born 1988)}}
+|Brazilian
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[New York (State)|New York]]
+|{{dts|abbr=on|2023|1|03}}
+|{{dts|abbr=on|2023|12|01}}
+|Expelled by the House of Representatives<br>{{#tag:ref|Santos later pleaded guilty to identity theft and wire fraud.|group="note"}}
+|- style="background:#e0e0e0"
+|[[File:Rep Gabriel Vasquez Official Portrait.jpg|100px|Rep. Vasquez]]
+|'''{{sortname|Gabe|Vasquez}}'''<br>{{small|(born 1984)}}
+|Mexican 
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[New Mexico]]
+|{{dts|abbr=on|2023|1|03}}
+|Incumbent
+|
+|-
+|[[File:Greg Lopez in 2024.jpg|100px|Rep. Lopez]]
+|'''{{sortname|Greg|Lopez}}'''<br>{{small|(born 1964)}}
+|Mexican 
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[Colorado]]
+|{{dts|abbr=on|2024|07|08}}
+|{{dts|abbr=on|2025|1|03}}
+|Retired
+|- style="background:#e0e0e0"
+|[[File:Rep. Gabe Evans official photo, 119th Congress.jpg|100px|Rep. Evans]]
+|'''{{sortname|Gabe|Evans}}'''<br>{{small|(born 1986)}}
+|Mexican
+| {{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[Colorado]]
+|{{dts|abbr=on|2025|1|3}}
+|Incumbent
+|
+|- style="background:#e0e0e0"
+|[[File:Liccardo Sam 119th Congress (cropped).jpg|100px|Rep. Liccardo]]
+|'''{{sortname|Sam|Liccardo}}'''<br>{{small|(born 1970)}}
+|Mexican
+| {{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[California]]
+|{{dts|abbr=on|2025|1|3}}
+|Incumbent
+|
+|- style="background:#e0e0e0"
+|[[File:Representative Nellie Pou Official Portrait.jpg|100px|Rep. Pou]]
+|'''{{sortname|Nellie|Pou}}'''<br>{{small|(born 1956)}}
+|Puerto Rican
+| {{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[New Jersey]]
+|{{dts|abbr=on|2025|1|3}}
+|Incumbent
+|
+|- style="background:#e0e0e0"
+|[[File:Randall Emily 119th Congress.jpg|100px|Rep. Randall]]
+|'''{{sortname|Emily|Randall}}'''<br>{{small|(born 1985)}}
+|Mexican
+| {{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Washington (state)|Washington]]
+|{{dts|abbr=on|2025|1|3}}
+|Incumbent
+|
+|- style="background:#e0e0e0"
+|[[File:Rivas Luz, 119th Congress.jpg|100px|Rep. Rivas]]
+|'''{{sortname|Luz|Rivas}}'''<br>{{small|(born 1976)}}
+|Mexican
+| {{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[California]]
+|{{dts|abbr=on|2025|1|3}}
+|Incumbent
+|
+|- style="background:#e0e0e0"
+|[[File:Rep. Adelita Grijalva Official Portrait.jpg|frameless|100px|Rep. Grijalva]]
+|'''{{sortname|Adelita|Grijalva}}'''<br>{{small|(born 1970)}}
+|Mexican
+| {{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Arizona]]
+|{{dts|abbr=on|2025|11|12}}
+|Incumbent
+|
+
+|- style="background:#e0e0e0"
+|[[File:Analilia Mejia, official portrait (119th Congress).jpg|frameless|100px|Rep. Mejia]]
+|'''{{sortname|Analilia|Mejia}}'''<br>{{small|(born 1977)}}
+|Colombian,<br>Dominican
+| {{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[New Jersey]]
+|{{dts|abbr=on|2026|04|20}}
+|Incumbent
+|
+|}
+
+===Representatives-elect===
+{|class="wikitable sortable plainrowheaders" style="text-align: center;"
+|- bgcolor="#CCCCCC"
+!colspan=2 class=unsortable |[[United States House of Representatives|Representative]]
+!rowspan=2 |Hispanic or Latino ethnicity
+!rowspan=2 |Party
+!rowspan=2 |State
+!rowspan=2 |Assuming office
+!rowspan=2 |Notes
+|-
+!Portrait
+!Name<br>{{small|(lifespan)}}
+|-
+|[[File:Michael Alfonso 2025.jpg|75px]] <!--replace with House portrait when available-->
+|'''{{sortname|Michael|Alfonso|Michael Alfonso (politician)}}'''<br>{{small|(born 1999–2000)}}
+|[[Cuban Americans|Cuban]]
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[Wisconsin]]
+|{{dts|format=mdy|2027|1|3}}
+|
+|-
+|[[File:Darializa Avila Chevalier during interview on Secretos CEO.jpg|75px]] <!--replace with House portrait when available-->
+|'''{{sortname|Darializa|Avila Chevalier}}'''<br>{{small|(born 1993–94)}}
+|[[Dominican Americans|Dominican]]
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[New York (state)|New York]]
+|{{dts|format=mdy|2027|1|3}}
+|
+|-
+| <!--replace with House portrait when available-->
+|'''{{sortname|Teresa|Benitez-Thompson}}'''<br>{{small|(born 1978)}}
+|[[Mexican Americans|Mexican]]
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Nevada]]
+|{{dts|format=mdy|2027|1|3}}
+|
+|-
+| <!--replace with House portrait when available-->
+|'''{{sortname|Johnny|Garcia|Johnny Garcia (politician)}}'''<br>{{small|(born 1987-88)}}
+|[[Mexican Americans|Mexican]]
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Texas]]
+|{{dts|format=mdy|2027|1|3}}
+|
+|-
+|[[File:Patty Garcia with Alderman Andre Vasquez at Fundraiser Cropped.jpg|75px]] <!--replace with House portrait when available-->
+|'''{{sortname|Patty|García}}'''<br>{{small|(born 1984–85)}}
+|[[Mexican Americans|Mexican]]
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Illinois]]
+|{{dts|format=mdy|2027|1|3}}
+|
+|-
+| <!--replace with House portrait when available-->
+|'''{{sortname|Angela|Gonzales-Torres}}'''<br>{{small|(born 1994)}}
+|[[Mexican Americans|Mexican]]
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[California]]
+|{{dts|format=mdy|2027|1|3}}
+|
+|-
+| <!--replace with House portrait when available-->
+|'''{{sortname|Leticia|Gutierrez}}'''<br>{{small|(born 1972-73)}}
+|[[Mexican Americans|Mexican]]
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Texas]]
+|{{dts|format=mdy|2027|1|3}}
+|
+|-
+|[[File:JoAnna Mendoza, 2013.jpg|75px]] <!--replace with House portrait when available-->
+|'''{{sortname|JoAnna|Mendoza}}'''<br>{{small|(born 1965)}}
+|[[Mexican Americans|Mexican]]
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Arizona]]
+|{{dts|format=mdy|2027|1|3}}
+|
+|-
+|[[File:Richard Ojeda shirt.jpg|75px]] <!--replace with House portrait when available-->
+|'''{{sortname|Richard|Ojeda}}'''<br>{{small|(born 1970)}}
+|[[Mexican Americans|Mexican]]
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[North Carolina]]
+|{{dts|format=mdy|2027|1|3}}
+|
+|-
+|[[File:Katy Padilla Stout Cropped.jpg|75px]] <!--replace with House portrait when available-->
+|'''{{sortname|Katy|Padilla Stout}}'''<br>{{small|(born 1985-86)}}
+|[[Mexican Americans|Mexican]]
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Texas]]
+|{{dts|format=mdy|2027|1|3}}
+|
+|-
+|[[File:Bobby23 (cropped).jpg|75px]] <!--replace with House portrait when available-->
+|'''{{sortname|Bobby|Pulido}}'''<br>{{small|(born 1973)}}
+|[[Mexican Americans|Mexican]]
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Texas]]
+|{{dts|format=mdy|2027|1|3}}
+|
+|-
+|[[File:Manny Rutinel at 2024 YIMBY Denver Legislative Kickoff (cropped).jpg|75px]] <!--replace with House portrait when available-->
+|'''{{sortname|Manny|Rutinel}}'''<br>{{small|(born 1994)}}
+|[[Dominican Americans|Dominican]]
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Colorado]]
+|{{dts|format=mdy|2027|1|3}}
+|
+|-
+|[[File:Queens Bus Network Redesign Claire Valdez (cropped).jpg|75px]] <!--replace with House portrait when available-->
+|'''{{sortname|Claire|Valdez}}'''<br>{{small|(born 1989)}}
+|[[Mexican Americans|Mexican]]
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[New York (state)|New York]]
+|{{dts|format=mdy|2027|1|3}}
+|
+|-
+|[[File:Randy Villegas at Vota Palooza in 2024 (cropped).jpg|75px]] <!--replace with House portrait when available-->
+|'''{{sortname|Randy|Villegas}}'''<br>{{small|(born 194)}}
+|[[Mexican Americans|Mexican]]
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[California]]
+|{{dts|format=mdy|2027|1|3}}
+|
+|}
+
+===Elected to the House of Representatives, but not seated===
+{|class="wikitable sortable" style="text-align:center"
+|-
+!Picture
+!Representative-elect
+!Hispanic or Latino ancestry
+!Party
+!State
+!Year elected
+!Notes
+|-
+|data-sort-value="Yulee, David Levy" |[[File:David Levy Yulee - Brady-Handy.jpg|90px|Rep.-elect Yulee]]
+|'''{{sortname|David Levy|Yulee|David Levy Yulee}}'''<br />{{small|(1810–1886)}}
+|Spanish
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Florida (state)|Florida]]
+|1845
+|"Did not take his seat in the House" when elected to the U.S. Senate<ref>{{cite web |title=May 26, 1845: Florida holds first statewide election |url=http://www.floridahistorynetwork.com/may-26-1845---florida-holds-first-statewide-election.html |website=Florida History Network}}</ref>
+|}
+
+=== House delegates (non-voting members) ===
+''(Note: Delegates are organized first in chronological order according to their first term in office, then second in alphabetical order according to their surname.)''
+
+{|class="sortable wikitable"
+!Picture
+!Delegate{{#tag:ref|Delegates from Puerto Rico (since 1901) and from the Philippines (from 1907 to 1946) officially are known as Resident Commissioners.|group="note"}}<br />{{small|(lifespan)}}
+!Hispanic or Latino ancestry
+!Party
+!Territory
+!Term start
+!Term end
+!Notes
+|-
+|[[File:Joseph Marion Hernandez.jpg|100px|Del. Hernández]]
+|'''{{sortname|Joseph Marion|Hernández|Joseph Marion Hernández}}'''<br />{{small|(1788–1857)}}
+|Spanish
+|{{Party shading/Democratic-Republican}}|[[Democratic-Republican Party|Democratic-Republican]]
+|[[Florida Territory|Florida]]
+|{{dts|abbr=on|1822|9|30}}
+|{{dts|abbr=off|1823|3|4}}
+|Retired
+|-
+|[[File:David_Levy_Yulee_-_Brady-Handy.jpg|100px|Del. Yulee]]
+|'''{{sortname|David Levy|Yulee|David Levy Yulee}}'''<br />{{small|(1810–1886)}}
+|Spanish
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[Florida Territory|Florida]]
+|{{dts|abbr=off|1841|3|4}}
+|{{dts|abbr=off|1845|3|3}}
+|Office eliminated when Territory of Florida [[Florida Territory|was admitted to the Union as the State of Florida]]{{#tag:ref|Yulee later was elected as [[United States Senator]] from [[State of Florida|Florida]].|group="note"}}
+|-
+|rowspan=2 |[[File:José Manuel Gallegos.jpg|100px|Del. Gallegos]]
+|rowspan=2 |'''{{sortname|José Manuel|Gallegos|José Manuel Gallegos}}'''<br />{{small|(1815–1875)}}
+| rowspan="2" |Mexican
+|rowspan=2 {{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|rowspan=2 |[[New Mexico Territory|New Mexico]]
+|{{dts|abbr=off|1853|3|4}}
+|{{dts|abbr=off|1856|7|23}}
+|Lost election contestation
+|-
+|{{dts|abbr=off|1871|3|4}}
+|{{dts|abbr=off|1873|3|4}}
+|Lost re-election
+|-
+|[[File:Miguel Antonio Otero (1829-1882).jpg|100px|Del. Otero]]
+|'''{{sortname|Miguel Antonio|Otero|Miguel Antonio Otero (born 1829)}}'''<br />{{small|(1829–1882)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[New Mexico Territory|New Mexico]]
+|{{dts|abbr=off|1856|7|23}}
+|{{dts|abbr=off|1861|3|4}}
+|Retired
+|-
+|[[File:Francisco Perea.jpg|100px|Del. Perea]]
+|'''{{sortname|Francisco|Perea}}'''<br />{{small|(1830–1913)}}
+|Mexican
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[New Mexico Territory|New Mexico]]
+|{{dts|abbr=off|1863|3|4}}
+|{{dts|abbr=off|1865|3|4}}
+|Lost re-election
+|-
+|rowspan=2 |[[File:JosFChaves.jpg|100px|Del. Chaves]]
+|rowspan=2 |'''{{sortname|José Francisco|Chaves|José Francisco Chaves}}'''<br />{{small|(1833–1904)}}
+| rowspan="2" |Mexican
+|rowspan=2 {{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|rowspan=2 |[[New Mexico Territory|New Mexico]]
+|{{dts|abbr=off|1865|3|4}}
+|{{dts|abbr=off|1867|3|4}}
+|Lost re-election
+|-
+|{{dts|abbr=on|1869|2|20}}
+|{{dts|abbr=off|1871|3|4}}
+|Lost re-election
+|-
+|[[File:Trinidad Romero.jpg|100px|Del. Romero]]
+|'''{{sortname|Trinidad|Romero}}'''<br />{{small|(1835–1918)}}
+|Mexican
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[New Mexico Territory|New Mexico]]
+|{{dts|abbr=off|1877|3|4}}
+|{{dts|abbr=off|1879|3|4}}
+|Retired
+|-
+|[[File:Mariano S Otero.jpg|100px|Del. Otero]]
+|'''{{sortname|Mariano S.|Otero|Mariano S. Otero}}'''<br />{{small|(1844–1904)}}
+|Mexican
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[New Mexico Territory|New Mexico]]
+|{{dts|abbr=off|1879|3|4}}
+|{{dts|abbr=off|1881|3|4}}
+|Retired
+|-
+|[[File:Tranquilino Luna.jpg|100px|Del. Luna]]
+|'''{{sortname|Tranquilino|Luna}}'''<br />{{small|(1849–1892)}}
+|Mexican
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[New Mexico Territory|New Mexico]]
+|{{dts|abbr=off|1881|3|4}}
+|{{dts|abbr=off|1884|3|5}}
+|Lost election contestation
+|-
+|[[File:Francisco Antonio Manzanares.jpg|100px|Del. Manzanares]]
+|'''{{sortname|Francisco Antonio|Manzanares|Francisco Antonio Manzanares}}'''<br />{{small|(1843–1904)}}
+|Mexican
+|{{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|[[New Mexico Territory|New Mexico]]
+|{{dts|abbr=off|1884|3|5}}
+|{{dts|abbr=off|1885|3|4}}
+|Retired
+|-
+|[[File:Pedro Perea.jpg|100px|Del. Perea]]
+|'''{{sortname|Pedro|Perea}}'''<br />{{small|(1852–1906)}}
+|Mexican
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[New Mexico Territory|New Mexico]]
+|{{dts|abbr=off|1899|3|4}}
+|{{dts|abbr=off|1901|3|4}}
+|Retired
+|-
+|[[File:Federico Degetau y González.JPG|100px|Res. Comm. Degetau]]
+|'''{{sortname|Federico|Degetau}}'''<br />{{small|(1862–1914)}}
+|{{nowrap|Puerto Rican}}
+|{{Party shading/Republican}} |[[Republican Party (United States)|Republican]]
+|[[Puerto Rico]]
+|{{dts|abbr=off|1901|3|4}}
+|{{dts|abbr=off|1905|3|4}}
+|Retired
+|-
+|[[File:Tulio Larrinaga.jpg|100px|Res. Comm. Larrínaga]]
+|'''{{sortname|Tulio|Larrínaga}}'''<br />{{small|(1847–1917)}}
+|{{nowrap|Puerto Rican}} 
+|{{Party shading/Unionist}} |[[Union of Puerto Rico|Unionist]]
+|[[Puerto Rico]]
+|{{dts|abbr=off|1905|3|4}}
+|{{dts|abbr=off|1911|3|4}}
+|Lost re-election
+|-
+|[[File:Benito Legarda cph.3b13853.jpg|100px|Res. Comm. Legarda]]
+|'''{{sortname|Benito|Legarda}}'''<br />{{small|(1853–1915)}}
+|Spanish
+|{{party shading/Republican}} |[[Federalist Party (Philippines)|Federalist]]<br />([[Republican Party (United States)|Republican]])
+|[[Insular Government of the Philippine Islands|Philippine Islands]]
+|{{dts|abbr=on|1907|11|22}}
+|{{dts|abbr=off|1912|3|4}}
+|Retired
+|-
+|[[File:MANUELQUEZON (cropped).jpg|100px|Res. Comm. Quezón]]
+|'''{{sortname|Manuel L.|Quezón|Manuel L. Quezon}}'''<br />{{small|(1878–1944)}}
+|Spanish
+|bgcolor={{party color|Nacionalista Party}} |[[Nacionalista Party|Nacionalista]]
+|[[Insular Government of the Philippine Islands|Philippine Islands]]
+|{{dts|abbr=on|1909|11|23}}
+|{{dts|abbr=on|1916|10|15}}
+|Retired{{#tag:ref|Quezón later served as [[List of presidents of the Philippines|President of the Commonwealth of the Philippines]].|group="note"}}
+|-
+|[[File:Luis Munoz Rivera.jpg|100px|Res. Comm. Muñoz-Rivera]]
+|'''{{sortname|Luis|Muñoz-Rivera|Luis Muñoz Rivera}}'''<br />{{small|(1859–1916)}}
+|{{nowrap|Puerto Rican}}
+|{{Party shading/Unionist}} |[[Union of Puerto Rico|Unionist]]
+|[[Puerto Rico]]
+|{{dts|abbr=off|1911|3|4}}
+|{{dts|abbr=on|1916|11|15}}
+|Died in office
+|-
+|[[File:Félix Córdova Dávila.jpg|100px|Res. Comm. Córdova-Dávila]]
+|'''{{sortname|Félix|Córdova-Dávila|Félix Córdova Dávila}}'''<br />{{small|(1878–1938)}}
+|{{nowrap|Puerto Rican}}
+|{{Party shading/Unionist}} |[[Union of Puerto Rico|Unionist]]
+|[[Puerto Rico]]
+|{{dts|abbr=off|1917|8|7}}
+|{{dts|abbr=off|1932|4|11}}
+|Resigned to accept appointment as Associate Justice of the [[Supreme Court of Puerto Rico]]
+|-
+|[[File:IsauroGabaldon.jpg|100px|Res. Comm. Gabaldón]]
+|'''{{sortname|Isauro|Gabaldón|Isauro Gabaldon}}'''<br />{{small|(1875–1942)}}
+|Spanish
+|bgcolor={{party color|Nacionalista Party}} |[[Nacionalista Party|Nacionalista]]
+|[[Insular Government of the Philippine Islands|Philippine Islands]]
+|{{dts|abbr=off|1920|3|4}}
+|{{dts|abbr=off|1928|7|16}}
+|Resigned
+|-
+|[[File:José Lorenzo Pesquera.jpg|100px|Res. Comm. Pesquera]]
+|'''{{sortname|José Lorenzo|Pesquera|José Lorenzo Pesquera}}'''<br />{{small|(1882–1950)}}
+|{{nowrap|Puerto Rican}}
+|{{Party shading/Independent}} |[[Independent politician|Independent]]
+|[[Puerto Rico]]
+|{{dts|abbr=off|1932|4|15}}
+|{{dts|abbr=off|1933|3|4}}
+|Retired
+|-
+|[[File:Santiago Iglesias.jpg|100px|Res. Comm. Iglesias]]
+|'''{{sortname|Santiago|Iglesias}}'''<br />{{small|(1872–1939)}}
+|Spanish
+|{{Party shading/Jacksonian}} |[[Coalition (Puerto Rico)|Coalitionist]]
+|[[Puerto Rico]]
+|{{dts|abbr=off|1933|3|4}}
+|{{dts|abbr=on|1939|12|5}}
+|Died in office
+|-
+|[[File:Joaquin_Miguel_Elizalde.png|100px|Res. Comm. Elizalde]]
+|'''{{sortname|Joaquín Miguel|Elizalde}}'''<br />{{small|(1896–1965)}}
+|Spanish
+|{{party shading/Nonpartisan}} |[[Nonpartisanism|Nonpartisan]]
+|[[Commonwealth of the Philippines|Philippines]]
+|{{dts|abbr=on|1938|9|29}}
+|{{dts|abbr=off|1944|8|9}}
+|Resigned
+|-
+|[[File:Bolívar Pagán.jpg|100px|Res. Comm. Pagán]]
+|'''{{sortname|Bolívar|Pagán}}'''<br />{{small|(1897–1961)}}
+|{{nowrap|Puerto Rican}}
+|{{Party shading/Jacksonian}} |[[Coalition (Puerto Rico)|Coalitionist]]
+|[[Puerto Rico]]
+|{{dts|abbr=on|1939|12|26}}
+|{{dts|abbr=on|1945|1|3}}
+|Lost re-election
+|-
+|[[File:Jesus T. Piñero.jpg|100px|Res. Comm. Piñero]]
+|'''{{sortname|Jesús T.|Piñero|Jesús T. Piñero}}'''<br />{{small|(1897–1952)}}
+|{{nowrap|Puerto Rican}}
+|{{Party shading/Popular Democratic Party (Puerto Rico)}} |{{nowrap|[[Popular Democratic Party (Puerto Rico)|Popular<br>Democratic]]}}
+|[[Puerto Rico]]
+|{{dts|abbr=on|1945|1|3}}
+|{{dts|abbr=on|1946|9|2}}
+|Resigned to accept appointment as [[Governor of Puerto Rico]]
+|-
+|[[File:Antonio Fernos-Isern.jpg|100px|Res. Comm. Fernós-Isern]]
+|'''{{sortname|Antonio|Fernós-Isern}}'''<br />{{small|(1895–1974)}}
+|{{nowrap|Puerto Rican}}
+|{{Party shading/Popular Democratic Party (Puerto Rico)}} |[[Popular Democratic Party (Puerto Rico)|Popular<br>Democratic]]
+|[[Puerto Rico]]
+|{{dts|abbr=on|1946|9|11}}
+|{{dts|abbr=on|1965|1|3}}
+|Retired to run successfully for the [[Senate of Puerto Rico|Puerto Rico Senate]]
+|-
+|[[File:Santiago Polanco Abreu.jpg|100px|Res. Comm. Polanco-Abreu]]
+|'''{{sortname|Santiago|Polanco-Abreu}}'''<br />{{small|(1920–1988)}}
+|{{nowrap|Puerto Rican}}
+|{{Party shading/Popular Democratic Party (Puerto Rico)}} |[[Popular Democratic Party (Puerto Rico)|Popular<br>Democratic]]
+|[[Puerto Rico]]
+|{{dts|abbr=on|1965|1|3}}
+|{{dts|abbr=on|1969|1|3}}
+|Lost re-election
+|-
+|[[File:Jorge Luis Córdova Díaz.jpg|100px|Res. Comm. Córdova]]
+|'''{{sortname|Jorge Luis|Córdova|Jorge Luis Córdova}}'''<br />{{small|(1907–1994)}}
+|{{nowrap|Puerto Rican}}
+|{{Party shading/New Progressive Party of Puerto Rico}} |[[New Progressive Party of Puerto Rico|New Progressive]]
+|[[Puerto Rico]]
+|{{dts|abbr=on|1969|1|3}}
+|{{dts|abbr=on|1973|1|3}}
+|Lost re-election
+|-
+|[[File:Jaime Benítez.jpg|100px|Res. Comm. Benítez]]
+|'''{{sortname|Jaime|Benítez|Jaime Benítez Rexach}}'''<br />{{small|(1908–2001)}}
+|{{nowrap|Puerto Rican}}
+|{{Party shading/Popular Democratic Party (Puerto Rico)}} |[[Popular Democratic Party (Puerto Rico)|Popular<br>Democratic]]
+|[[Puerto Rico]]
+|{{dts|abbr=on|1973|1|3}}
+|{{dts|abbr=on|1977|1|3}}
+|Lost re-election
+|-
+|rowspan=2 |[[File:Ron de Lugo.jpg|100px|Del. de Lugo]]
+|rowspan=2 |'''{{sortname|Ron|de Lugo}}'''<br />{{small|(1930–2020)}}
+|rowspan="2" |{{nowrap|Puerto Rican}}
+|rowspan=2 {{Party shading/Democratic}} |[[Democratic Party (United States)|Democratic]]
+|rowspan=2 |[[United States Virgin Islands|Virgin Islands]]
+|{{dts|abbr=on|1973|1|3}}
+|{{dts|abbr=on|1979|1|3}}
+|Retired to run unsuccessfully for [[Governor of the United States Virgin Islands|Governor of the Virgin Islands]]
+|-
+|{{dts|abbr=on|1981|1|3}}
+|{{dts|abbr=on|1995|1|3}}
+|Retired
+|-
+|[[File:Corrada.jpg|100px|Res. Comm. Corrada del Río]]
+|'''{{nowrap|{{sortname|Baltasar|Corrada del Río}}}}'''<br />{{small|(1935–2018)}}
+|{{nowrap|Puerto Rican}}
+|{{Party shading/New Progressive Party of Puerto Rico}} |[[New Progressive Party of Puerto Rico|New Progressive]]
+|[[Puerto Rico]]
+|{{dts|abbr=on|1977|1|3}}
+|{{dts|abbr=on|1985|1|3}}
+|Retired to run successfully for Mayor of [[San Juan, Puerto Rico]]
+|-
+|[[File:Fuster.jpg|100px|Res. Comm. Fuster]]
+|'''{{sortname|Jaime|Fuster}}'''<br />{{small|(1941–2007)}}
+|{{nowrap|Puerto Rican}}
+|{{Party shading/Popular Democratic Party (Puerto Rico)}} |[[Popular Democratic Party (Puerto Rico)|Popular<br>Democratic]]
+|[[Puerto Rico]]
+|{{dts|abbr=on|1985|1|3}}
+|{{dts|abbr=off|1992|3|4}}
+|Resigned to accept appointment as Associate Justice of the [[Supreme Court of Puerto Rico]]
+|-
+|[[File:Antonio Colorado.jpg|100px|Res. Comm. Colorado]]
+|'''{{sortname|Antonio|Colorado}}'''<br />{{small|(born 1939)}}
+|{{nowrap|Puerto Rican}}
+|{{Party shading/Popular Democratic Party (Puerto Rico)}} |[[Popular Democratic Party (Puerto Rico)|Popular<br>Democratic]]
+|[[Puerto Rico]]
+|{{dts|abbr=off|1992|3|4}}
+|{{dts|abbr=on|1993|1|3}}
+|Lost re-election
+|-
+|[[File:Carlos Antonio Romero-Barceló.jpg|100px|Res. Comm. Romero-Barceló]]
+|'''{{sortname|Carlos|Romero-Barceló|Carlos Romero Barceló}}'''{{#tag:ref|Romero-Barceló previously served as [[Governor of Puerto Rico]].|group="note"}}<br />{{small|(1932–2021)}}
+|{{nowrap|Puerto Rican}}
+|{{Party shading/New Progressive Party of Puerto Rico}} |[[New Progressive Party of Puerto Rico|New Progressive]]
+|[[Puerto Rico]]
+|{{dts|abbr=on|1993|1|3}}
+|{{dts|abbr=on|2001|1|3}}
+|Lost re-election
+|-
+|[[File: Anibal Acevedo Vila.jpg|100px|Res. Comm. Acevedo-Vilá]]
+|'''{{sortname|Aníbal|Acevedo-Vilá|Aníbal Acevedo Vilá}}'''<br />{{small|(born 1962)}}
+|{{nowrap|Puerto Rican}}
+|{{Party shading/Popular Democratic Party (Puerto Rico)}} |[[Popular Democratic Party (Puerto Rico)|Popular<br>Democratic]]
+|[[Puerto Rico]]
+|{{dts|abbr=on|2001|1|3}}
+|{{dts|abbr=on|2005|1|2}}
+|Resigned to become [[Governor of Puerto Rico]]
+|-
+|[[File:Luis Fortuño official congressional photo 3.jpg|100px|Res. Comm. Fortuño]]
+|'''{{sortname|Luis G.|Fortuño}}'''<br />{{small|(born 1960)}}
+|{{nowrap|Puerto Rican}}
+|{{Party shading/New Progressive Party of Puerto Rico}} |[[New Progressive Party of Puerto Rico|New Progressive]]
+|[[Puerto Rico]]
+|{{dts|abbr=on|2005|1|3}}
+|{{dts|abbr=on|2009|1|2}}
+|Resigned to become [[Governor of Puerto Rico]]
+|-
+|[[File:Pedro Pierluisi.jpg|100px|Res. Comm. Pierluisi]]
+|'''{{sortname|Pedro|Pierluisi}}'''<br />{{small|(born 1959)}}
+|{{nowrap|Puerto Rican}}
+|{{Party shading/New Progressive Party of Puerto Rico}} |[[New Progressive Party of Puerto Rico|New Progressive]]
+|[[Puerto Rico]]
+|{{dts|abbr=on|2009|1|3}}
+|{{dts|abbr=on|2017|1|3}}
+|Retired to run unsuccessfully for the nomination for [[Puerto Rico gubernatorial election, 2016|Governor of Puerto Rico]]{{#tag:ref|Pierluisi later served as [[Governor of Puerto Rico]].|group="note"}}
+|-
+|[[File:Jenniffer Gonzalez (cropped).jpg|100px|Res. Comm. González]]
+|'''{{sortname|Jenniffer|González}}'''<br />{{small|(born 1976)}}
+|{{nowrap|Puerto Rican}}
+|{{Party shading/New Progressive Party of Puerto Rico}} |[[New Progressive Party of Puerto Rico|New Progressive]]
+|[[Puerto Rico]]
+|{{dts|abbr=on|2017|1|3}}
+|{{dts|abbr=on|2025|1|2}}
+|Resigned to become [[Governor of Puerto Rico]]
+|-  style="background:#e0e0e0"
+|[[File:Hernández Rivera Pablo 119th Congress.jpg|100px|Res. Comm. Hernández Rivera]]
+|'''{{sortname|Pablo|Hernández Rivera}}'''<br />{{small|(born 1991)}}
+|Puerto Rican
+|{{Party shading/Popular Democratic Party (Puerto Rico)}} |[[Popular Democratic Party (Puerto Rico)|Popular Democratic]]
+|[[Puerto Rico]]
+|{{dts|abbr=on|2025|1|3}}
+|Incumbent
+|
+|}
+
+== See also ==
+{{Portal|United States|Politics|Latino and Hispanic American}}
+* [[Congressional Hispanic Caucus]]
+* [[Congressional Hispanic Conference]]
+
+==Notes==
+{{reflist|group="note"}}
+
+== References ==
+{{reflist}}
+
+{{USCongress}}
+
+[[Category:Hispanic and Latino American members of the United States Congress| ]]
+[[Category:Lists of members of the United States Congress|Hispanic and Latino Americans]]

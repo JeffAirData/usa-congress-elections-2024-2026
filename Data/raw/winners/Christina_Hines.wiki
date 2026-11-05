@@ -1,0 +1,55 @@
+{{Short description|American politician, prosecutor (born 1989)}}
+{{Infobox officeholder
+|name = Christina Hines
+|state = [[Michigan]]
+|district = {{ushr|MI|10|10th}}
+|term_start = January 3, 2027
+|term_end = 
+|succeeding = [[John James (Michigan politician)|John James]]
+|predecessor = [[John James (Michigan politician)|John James]]
+|successor = 
+|birth_date = {{birth date and age|1989|12|11}}
+|birth_place = [[Detroit, Michigan]], U.S.
+|death_date = 
+|death_place = 
+|party = [[Democratic Party (United States)|Democratic]]
+|education = [[University of Michigan]] ([[Bachelor of Arts|BA]])<br>[[Wayne State University]] ([[Juris Doctor|JD]])
+}}
+'''Christina Bertrand Hines'''<ref>https://www.mlive.com/news/detroit/2026/11/hines-claims-victory-in-michigans-10th-congressional-district-race.html</ref> (born December 11, 1989) is an American prosecutor and politician.
+
+Hines was born on December 11, 1989, in [[Detroit]], Michigan,<ref>{{Cite web|url=https://ballotpedia.org/Christina_Hines_(Macomb_County_Prosecuting_Attorney,_Michigan,_candidate_2024)|title=Christina Hines (Macomb County Prosecuting Attorney, Michigan, candidate 2024)|website=Ballotpedia}}</ref> and grew up in [[Macomb County, Michigan|Macomb County]].<ref name=metro>{{Cite web|url=https://www.metrotimes.com/news/warren-democrat-aims-to-unseat-scandal-plagued-macomb-county-prosecutor-lucido-36484220/|title=Warren Democrat aims to unseat scandal-plagued Macomb County Prosecutor Lucido|first=Steve|last=Neavling|date=June 7, 2024}}</ref> She graduated from [[Wayne State University Law School]] and afterwards worked as a prosecutor, first working for the [[Wayne County, Michigan|Wayne County]] Prosecutor's General Trials Unit and later for the [[Washtenaw County, Michigan|Washtenaw County]] Prosecutor's Office as chief of the [[special victims unit]] division.<ref name=metro/>
+
+Hines ran for Macomb County Prosecutor as a member of the [[Democratic Party (United States)|Democratic Party]] in 2024. She was defeated by incumbent [[Peter Lucido]] in the general election, receiving 43% of the vote.<ref>{{Cite web|url=https://www.detroitnews.com/story/news/politics/elections/2024/11/05/wickersham-and-lucido-lead-in-macomb-co-sheriff-and-prosecutor-races/76046684007/|title=Incumbents Lucido and Wickersham win Macomb Co. prosecutor and sheriff's races|first=Anne|last=Snabes|website=The Detroit News}}</ref>
+
+In April 2025, Hines launched her campaign for the [[United States House of Representatives]] for [[Michigan's 10th congressional district]], an open seat after [[John James (Michigan politician)|John James]] decided to run for governor.<ref>{{Cite web|url=https://www.politico.com/news/2025/04/07/christina-hines-launch-congressional-bid-john-james-030931|title=Democrat Christina Hines launches congressional bid in Detroit suburbs|website=POLITICO}}</ref> She won the primary over Eric Chung and [[Tim Greimel]] and faced [[Republican Party (United States)|Republican]] candidate [[Michael Bouchard Jr.]] in the general election,<ref>{{Cite web|url=https://www.detroitnews.com/story/news/politics/elections/2026/08/04/michigan-10th-congressional-district-election-results/91149898007/|title=Christina Hines wins Democratic congressional primary in Macomb County|first=Grant|last=Schwab|website=The Detroit News}}</ref> which she won.<ref>{{Cite web |last=Fortinsky |first=Sarah |date=2026-11-04 |title=Democrat Christina Hines flips House seat in Michigan |url=https://thehill.com/homenews/campaign/6190447-hines-wins-michigan-house-race/ |access-date=2026-11-04 |website=The Hill |language=en-US}}</ref>
+
+Hines is married and has three children.<ref>{{Cite web|url=https://www.freep.com/story/news/politics/2025/04/07/christina-hines-starts-10th-congressional-district-campaign/82866546007/|title=Christina Hines enters race to represent Macomb County's 10th Congressional District|first=Clara|last=Hendrickson|website=Detroit Free Press}}</ref>
+
+==References==
+{{Reflist}}
+
+{{s-start}}
+{{s-par|us-hs}}
+{{s-bef|before=[[John James (Michigan politician)|John James]]}}
+{{s-ttl|title=Member of the [[List of United States representatives from Michigan|U.S. House of Representatives]]<br>from [[Michigan's 10th congressional district]]|years=Taking office 2027<!-- –present -->}}
+{{s-non|reason=Elect}}<!-- {{s-inc}} -->
+{{s-end}}
+
+<!-- {{MI-FedRep}}
+{{Current U.S. representatives}}
+{{USCongRep-start |congresses=120th–present [[United States Congress]] |state=[[Michigan's congressional delegations|Michigan]]}}
+{{USCongRep/MI/120}}
+{{USCongRep-end}} -->
+
+{{DEFAULTSORT:Hines, Christina}}
+[[Category:1989 births]]
+[[Category:21st-century Michigan politicians]]
+[[Category:21st-century United States representatives]]
+[[Category:American women in politics]]
+[[Category:Democratic Party United States representatives from Michigan]]
+[[Category:Female United States representatives]]
+[[Category:Living people]]
+[[Category:Michigan Democrats]]
+[[Category:University of Michigan alumni]]
+[[Category:Wayne State University Law School alumni]]
+[[Category:Women in Michigan politics]]

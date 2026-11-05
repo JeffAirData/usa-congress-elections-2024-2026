@@ -1,0 +1,147 @@
+{{Short description|American politician (born 1965)}}
+{{Use American English|date=July 2026}}
+{{Infobox officeholder
+|name                = Richard Pan
+|image               = Richard Pan 2010.jpg
+|caption             = Pan in 2010
+|state               = [[California]]
+|district            = {{ushr|CA|6|6th}}
+|term_start          = January 3, 2027
+|term_end            = 
+|succeeding          = [[Kevin Kiley (politician)|Kevin Kiley]]
+|predecessor         = [[Kevin Kiley (politician)|Kevin Kiley]]
+|successor           = 
+|state_senate1       = California State
+|district1           = [[California's 6th senatorial district|6th]]
+|term_start1         = December 1, 2014
+|term_end1           = December 5, 2022
+|predecessor1        = [[Darrell Steinberg]]
+|successor1          = [[Roger Niello]]
+|state_assembly2     = California
+|district2           = [[California's 9th State Assembly district|9th]]
+|term_start2         = December 3, 2012
+|term_end2           = November 30, 2014
+|predecessor2        = [[Roger Dickinson]] (redistricted)
+|successor2          = [[Jim Cooper (California politician)|Jim Cooper]]
+|state_assembly3     = California
+|district3           = [[California's 5th State Assembly district|5th]]
+|term_start3         = December 6, 2010
+|term_end3           = November 30, 2012
+|predecessor3        = [[Roger Niello]]
+|successor3          = [[Frank Bigelow]] (redistricted)
+|birth_name          = Richard Juien-Dah Pan
+|birth_place         = [[Yonkers, New York]], U.S.
+|birth_date          = {{birth date and age|1965|10|28}}
+|death_date          = 
+|death_place         = 
+|party               = [[Democratic Party (United States)|Democratic]]
+|spouse              = Wen Li-Wang
+|children            = 2
+|education           = {{ubl |[[Johns Hopkins University]] ([[Bachelor of Science|BS]]) |{{nowrap|[[University of Pittsburgh]] ([[Doctor of Medicine|MD]])}} |[[Harvard University]] ([[Master of Public Health|MPH]])}}
+|website             = {{url|drrichardpan.com|Campaign website}}
+|module = {{Infobox Chinese
+|child  = yes
+|order  = ts
+|hide   = no
+|t      = {{linktext|潘|君|達}}
+|s      = {{linktext|潘|君|达}}
+|p      = Pān Jūndá}}
+}}
+'''Richard Juien-Dah Pan''' (born October 28, 1965)<ref>{{Cite web|url=https://www.legistorm.com/person/bio/189564/Richard_Juien_Dah_Pan.html|title=Richard Pan - D California, 6th, Candidate - University of California, Davis School of Medicine (Nov. 2023-), Senior Lecturer - Biography &#124; LegiStorm|website=www.legistorm.com}}</ref> is an American [[Democratic Party (United States)|Democratic]] politician and physician who served in the [[California State Senate]] from 2014 to 2022, representing [[California's 6th State Senate district|the 6th Senate district]], which encompassed parts of [[Sacramento County, California|Sacramento]] and [[Yolo County, California|Yolo]] counties. He is a practicing [[pediatrician]] and professor at the University of California, Davis.  He is the [[United States House of Representatives|U.S. representative]]-elect for [[California's 6th congressional district]], having defeated incumbent [[Kevin Kiley (politician)|Kevin Kiley]] in the [[2026 United States House of Representatives elections in California#District 6|2026 election]].<ref>{{cite news |url=https://apnews.com/article/751c2924b981483ba506a689534c61a7 |title=Democrat Richard Pan wins election to U.S. House in California's 6th Congressional District |work=[[Associated Press]] |date=November 4, 2026 |access-date=November 4, 2026}}</ref><ref name=":0">{{Cite news |last=Medina |first=Jennifer |date=2026-06-10 |title=Rep. Kevin Kiley, Independent, to Face Richard Pan in California House Race |url=https://www.nytimes.com/2026/06/09/us/politics/pan-ho-kiley-california-primary.html |access-date=2026-06-10 |work=The New York Times |language=en-US |issn=0362-4331}}</ref>
+
+==Early life and education==
+Pan was born to a [[Taiwanese American]] immigrant family in [[Yonkers, New York]]. He was raised in the [[Pittsburgh]], [[Pennsylvania]] suburb of [[Mt. Lebanon, Pennsylvania|Mt. Lebanon]].<ref>{{Cite web|url=https://www.mercurynews.com/2015/07/04/californias-new-vaccine-law-freshman-senator-wins-plaudits-from-colleagues/|title=California's new vaccine law: Freshman senator wins plaudits from colleagues|website=Mercurynews.com|date=July 4, 2015}}</ref> After graduating from [[Mt. Lebanon High School]],<ref>[https://www.mtlebanonlibrary.org/ArchiveCenter/ViewFile/Item/118 Mt. Lebanon High School], Mt. Lebanon, Pennsylvania, Volume 53 (1983).</ref> he earned a [[bachelor's degree]] from [[Johns Hopkins University]], a [[Doctor of Medicine]] from the [[University of Pittsburgh]], and a [[Master of Public Health]] from [[Harvard University]].<ref>{{cite web | url=https://www.kcra.com/article/dr-richard-pan-says-hes-running-for-sacramento-mayor/44175461 | title=Dr. Richard Pan says he's running for Sacramento mayor | date=12 June 2023 }}</ref> He completed his pediatric residency at [[Massachusetts General Hospital]] also serving as Chief Resident and a fellowship at [[Boston Children's Hospital|Children's Hospital Boston]] in child advocacy and primary care research.<ref>{{Cite web |publisher=United States Census Bureau |title=Richard Pan |url=https://www.census.gov/newsroom/bios/richard-pan.html |access-date=2023-12-31 |website=Census.gov}}</ref>
+
+Pan was a professor at the [[UC Davis School of Medicine|University of California, Davis]] where he led the pediatric residency program and founded Communities and Physicians Together, a service learning curriculum that placed physicians-in-training with community settings to learn about social determinants of health.<ref>{{Cite web |title=Humanitarian Award For UC Davis Pediatrician - UC Davis Medical Center - UC Davis Health System |url=https://health.ucdavis.edu/medicalcenter/stories/pan_humanitarian022510.html |access-date=2023-12-31 |website=health.ucdavis.edu}}</ref><ref>{{Cite news |last=Anderson |first=Cathie |date=December 19, 2022 |title=He's leaving California politics as a 'vaccine hero'. One choice set him on that path |work=[[Sacramento Bee]] |url=https://www.sacbee.com/news/politics-government/capitol-alert/article269059937.html |access-date=December 31, 2023}}</ref>
+
+==Political career==
+Prior to being elected to the State Senate in 2014, he was a member of the [[California State Assembly]] representing the [[California's 5th State Assembly district|5th Assembly District]], and after the 2010 [[redistricting]], the [[California's 9th State Assembly district|9th Assembly District]]. Pan was Chair of the California Asian American & Pacific Islander Legislative Caucus from 2020-2022.
+
+Following [[Disneyland measles outbreak|a measles outbreak that began in California]]<ref>{{cite journal |url=https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6414a1.htm |pmid=25879894|last1=Clemmons |first1=N. S. |last2=Gastanaduy |first2=P. A. |last3=Fiebelkorn |first3=A. P. |last4=Redd |first4=S. B. |last5=Wallace |first5=G. S. |publisher=Centers for Disease Control Prevention (CDC) |title=Measles - United States, January 4-April 2, 2015 |journal=MMWR. Morbidity and Mortality Weekly Report |year=2015 |volume=64 |issue=14 |pages=373–376 |pmc=5779542 }}</ref><ref>{{cite web |url=https://www.cdph.ca.gov/Programs/CID/DCDC/CDPH%20Document%20Library/Immunization/IMM-MeaslesUpdate2015-04-17.pdf |title=California Measles Surveillance Update |date=April 17, 2015 |work=[[California Department of Public Health]] |access-date=November 11, 2022 }}</ref> and infected 131 people, Pan and Senator [[Ben Allen (California politician)|Ben Allen]] introduced [[California Senate Bill 277]] in 2015, which eliminated philosophical and religious beliefs exemptions to vaccine requirements for California school children. The bill passed and was signed into law by [[Governor of California|Governor]] [[Jerry Brown]]. Pan authored laws to expand [[newborn screening]] for [[severe combined immunodeficiency syndrome]] (AB395 in 2011), [[adrenoleukodystrophy]] (AB1559 in 2014) and all conditions recommended by the federal DHHS Recommended Universal Screening Panel (SB1095 in 2016). Pan authored legislation to extend the [[California Children's Services]] Program managed care carve-out (AB301 in 2011) and to establish the [[Medi-Cal]] Children's Health Advisory Board to guide Medi-Cal policy affecting children (AB357 in 2014). In 2021 he authored a law (SB 742) that makes illegal to "harass, intimidate, injure or obstruct" people who are on their way to get a vaccination; the law was inspired by an incident in January when protesters targeted and briefly shut down a mass vaccination site in Los Angeles.<ref>{{cite news|url=https://californiahealthline.org/news/article/california-law-bans-harassment-at-vaccination-sites-free-speech-concerns/ |title=New Law Bans Harassment at Vaccination Sites, but Free Speech Concerns Persist |last=Bluth |first=Rachel |date=October 8, 2021 |work=California Healthline |access-date=13 October 2021}}</ref>
+
+In 2022, together with Senator [[Scott Wiener]], Pan introduced Senate Bill 866,<ref>{{cite web |url=https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB866 |title=Bill Text - SB-866 Minors: Vaccine consent |website=leginfo.legislature.ca.gov |access-date=19 September 2024 }}</ref> which would have allowed minors aged 15 and older to give consent to receive FDA-approved vaccinations for themselves.<ref>{{cite web |url=https://www.latimes.com/opinion/story/2022-08-19/vaccines-teenagers-consent-vaccination-sb866 |title=Editorial: Vaccines are safe. So why shouldn't teens be able to get them on their own? |work=[[Los Angeles Times]] |date=19 August 2022 |access-date=28 August 2022 |author=L.A. Times Editorial Board |archive-date=27 August 2022 |archive-url=https://web.archive.org/web/20220827221911/https://www.latimes.com/opinion/story/2022-08-19/vaccines-teenagers-consent-vaccination-sb866 |url-status=live }}</ref> The bill did not become law.<ref>{{cite news |url=https://calmatters.org/health/2022/09/vaccines-for-teens/ |title=Vaccines for teens without parental consent? Not this year, as bill is pulled |newspaper=Calmatters |date=September 2022 |last1=Aguilera |first1=Elizabeth |access-date=19 September 2024 }}</ref>
+
+Pan announced that he would run for [[2024 Sacramento mayoral election|mayor of Sacramento]] in June 2023.<ref>{{cite web |last1=Macht |first1=Daniel |title=Dr. Richard Pan says he's running for Sacramento mayor |url=https://www.kcra.com/article/dr-richard-pan-says-hes-running-for-sacramento-mayor/44175461 |publisher=[[KCRA]] |date=12 June 2023}}</ref> He dropped out of the race after coming in third in the March 5, 2024 primary.<ref>{{cite news |work=[[CBS News]] |access-date=March 26, 2024 |url=https://www.cbsnews.com/sacramento/news/cofer-mccarty-headed-to-general-election-for-sacramento-mayor-after-pan-drops-out/ |author=Downs, Brandon |title=Cofer, McCarty headed to general election for Sacramento mayor after Pan drops out |date=March 25, 2024}}</ref>
+
+On October 14, 2025, Pan announced his intention to run for Congress.<ref>{{cite news |work=[[KCRA-TV]] |access-date=October 15, 2025 |url=https://www.kcra.com/article/richard-pan-to-challenge-kevin-kiley-house-district-3/69022471/ |author=Zavala, AshleyBrandon |title=Former state senator behind California vaccine laws to challenge Rep. Kevin Kiley for House District 3 |date=October 14, 2025}}</ref> Following the passage of [[2025 California Proposition 50|Proposition 50]], Pan announced his candidacy for the [[2026 United States House of Representatives elections in California#District 6|2026 election]] in the [[California's 6th congressional district|6th district]] on November 5.<ref>{{cite web|url=https://www.abc10.com/article/news/local/california/richard-pan-california-6th-district-campaign-race/103-553c927c-0171-46a6-ba89-62c2825ca3ff|title=Richard Pan announces campaign for California's redrawn 6th Congressional District|date=November 4, 2025|first=Jeremiah|last=Martinez|work=[[KXTV-TV]]}}</ref> He advanced to the general election after placing second in the primary on June 9, 2026.<ref name=":0" /> Pan defeated incumbent [[Kevin Kiley (politician)|Kevin Kiley]], who ran as an independent, in the November 3, 2026 general election.<ref>{{cite news |url=https://apnews.com/article/751c2924b981483ba506a689534c61a7 |title=Democrat Richard Pan wins election to U.S. House in California's 6th Congressional District |work=[[Associated Press]] |date=November 4, 2026 |access-date=November 4, 2026}}</ref>
+
+==Personal life==
+Pan is married to Wen Li-Wang, who is a dentist.<ref>[https://archive.senate.ca.gov/member-archives/2021-22/richard-pan-d-district-6 "Richard Pan (D) - District 6"]; profile at California State Senate Archive</ref> They live in [[Sacramento, California]], and have two children.<ref>{{cite web | url=https://www.eastbaytimes.com/2015/07/04/californias-new-vaccine-law-freshman-senator-wins-plaudits-from-colleagues/ | title=California's new vaccine law: Freshman senator wins plaudits from colleagues|website=Eastbaytimes.com | date=4 July 2015 }}</ref>
+
+== Electoral history ==
+{| class="wikitable" style="font-size:90%; text-align:center"
+|+ {{sronly|Electoral history of Richard Pan}}
+! rowspan=2 | Year
+! colspan=2 rowspan=2 | Office
+! colspan=2 rowspan=2 | Party
+! colspan=3 | Primary
+! colspan=3 | General
+! rowspan=2 | Result
+! colspan=2 rowspan=2 | [[Swing (politics)|Swing]]
+! rowspan=2 | {{Abbr|Ref|Reference}}.
+|-
+! Total
+! %
+! {{Abbr|P|Position}}.
+! Total
+! %
+! {{Abbr|P|Position}}.
+|-
+| style="background-color:#EAECF0;" | [[2026 United States House of Representatives elections in California#District 6|2026]]
+| [[U.S. House]]
+| [[California's 6th congressional district|6th]]
+| style="background-color:{{party color|Democratic Party (United States)}};" rowspan=1 |
+| [[Democratic Party (United States)|Democratic]]
+|45,008
+|23.17
+|2nd
+| colspan=3 | ''Counting ongoing''
+| style="background-color:#DDF;" | '''Won'''
+| colspan=2 | —
+|<ref>Primary election:
+* {{Cite web |title=Statement of Vote |url=https://elections.cdn.sos.ca.gov/sov/2026-primary/sov/complete-sov.pdf#page=10%22%3E |website=sos.ca.gov |publication-place=Sacramento |publisher=[[Secretary of State of California]] |year=2026 |page=10}}</ref>
+|-
+| colspan=15 style="background-color:#EAECF0" | '''Source:''' [[Secretary of State of California]] {{!}} [https://www.sos.ca.gov/elections/prior-elections/statewide-election-results Statewide Election Results]
+|}
+
+==References==
+{{reflist}}
+
+{{s-start}}
+{{s-par|us-hs}}
+{{s-bef|before=[[Kevin Kiley (politician)|Kevin Kiley]]}}
+{{s-ttl|title=Member-elect of the [[List of United States representatives from California|U.S. House of Representatives]]<br>from [[California's 6th congressional district]]|years=Taking office 2027<!-- –present -->}}
+{{s-non|reason=Elect}}<!-- {{s-inc}} -->
+{{s-end}}
+
+<!-- {{CA-FedRep}}
+{{Current U.S. representatives}}
+{{USCongRep-start |congresses=120th–present [[United States Congress]] |state=[[California's congressional delegations|California]]}}
+{{USCongRep/CA/120}}
+{{USCongRep-end}} -->
+{{Authority control}}
+
+{{DEFAULTSORT:Pan, Richard}}
+[[Category:1965 births]]
+[[Category:21st-century American medical doctors]]
+[[Category:21st-century members of the California State Legislature]]
+[[Category:21st-century United States representatives]]
+[[Category:American medical academics]]
+[[Category:American pediatricians]]
+[[Category:American politicians of Taiwanese descent]]
+[[Category:California politicians of Chinese descent]]
+[[Category:Candidates in the 2024 United States elections]]
+[[Category:Candidates in the 2026 United States elections]]
+[[Category:Democratic Party members of the California State Assembly]]
+[[Category:Democratic Party United States representatives from California]]
+[[Category:Harvard T.H. Chan School of Public Health alumni]]
+[[Category:Johns Hopkins University alumni]]
+[[Category:Living people]]
+[[Category:Medical doctors from Sacramento, California]]
+[[Category:Members of the United States Congress of Chinese descent]]
+[[Category:Mt. Lebanon High School alumni]]
+[[Category:People from Mt. Lebanon, Pennsylvania]]
+[[Category:People from Yonkers, New York]]
+[[Category:Politicians from Sacramento, California]]
+[[Category:University of California, Davis faculty]]
+[[Category:University of Pittsburgh School of Medicine alumni]]

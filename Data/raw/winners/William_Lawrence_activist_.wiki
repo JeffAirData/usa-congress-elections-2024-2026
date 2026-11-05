@@ -1,0 +1,128 @@
+{{Short description|American politician and activist (born 1990)}}
+{{Use American English|date=August 2026}}{{Use mdy dates|date=February 2026}}
+{{Infobox politician
+| name               = William Lawrence
+| image              = William Lawrence 2026.jpg
+| caption            = Lawrence in 2026
+| state              = [[Michigan]]
+| district           = {{ushr|MI|7|7th}}
+| term_start         = January 3, 2027
+| term_end           = 
+| succeeding         = [[Tom Barrett (Michigan politician)|Tom Barrett]]
+| predecessor        = [[Tom Barrett (Michigan politician)|Tom Barrett]]
+| successor          = 
+| birth_date         = {{birth year and age|1990}}
+| birth_place        = [[Madison, Wisconsin]], U.S.
+| death_date         = 
+| death_place        = 
+| party              = [[Democratic Party (United States)|Democratic]]
+| other_party        = [[Working Families Party]]<br>[[Democratic Socialists of America]] (until July 2026){{efn|The Democratic Socialists of America (DSA) are not a registered political party. Instead, they are a political organization for those with [[democratic socialist]] ideologies.}}
+| spouse             = Dinah
+| education          = [[Swarthmore College]] ([[Bachelor of Arts|BA]])
+| website            = {{url|wewill2026.com|Campaign website}}
+}}
+'''William Lawrence''' (born 1990) is an American politician and activist who co-founded the [[Sunrise Movement]], a [[political action on climate change|climate action]] organization. He was the [[Democratic Party (United States)|Democratic Party]] nominee and is the current representative-elect for the [[United States House of Representatives|U.S. House of Representatives]] in [[Michigan's 7th congressional district]] in [[2026 United States House of Representatives elections in Michigan#District 7|2026]].   
+
+Lawrence graduated from [[Swarthmore College]] with a bachelor's degree in [[sociology]] and [[anthropology]]. In 2015, he co-founded the Sunrise Movement to help elect politicians focused on [[climate policy]], protest on behalf of the [[environmental movement]], and support the [[Green New Deal]]. 
+
+In August 2025, Lawrence announced his candidacy for Michigan's 7th congressional district, winning the Democratic primary in August 2026. He challenged incumbent Republican [[Tom Barrett (Michigan politician)|Tom Barrett]] in the general election. In November 2026, he won his election against Barrett. He is described as a [[Democratic Party (United States)#Progressives|progressive Democrat]].
+
+==Early life==
+William Lawrence was born in [[Madison, Wisconsin]], in 1990 and moved to [[East Lansing, Michigan]], at age five when his parents became law professors at [[Michigan State University]]. He graduated from [[East Lansing High School]] in 2008. After attending [[Whitman College]] in Washington for one year, he transferred to [[Swarthmore College]], where he earned a degree in sociology and anthropology.<ref>{{cite web |title=William Lawrence for US Congress |url=https://wewill2026.com/ |access-date=2 May 2026}}</ref> He remained in the Philadelphia area for several years before returning to Lansing around 2016.<ref>{{cite news |last1=Nann Burke |first1=Melissa |title=Climate, housing activist launches bid for Congress in mid-Michigan, targeting Barrett |url=https://detroitnews.com/story/news/politics/2025/08/26/progressive-climate-housing-activist-william-lawrence-sunrise-movement-michigan-congress-tom-barrett/85833342007/ |access-date=4 May 2026 |publisher=[[The Detroit News]] |date=26 August 2025}}</ref><ref name="wh" /> 
+
+At Swarthmore, Lawrence was involved in campaigns to convince the college to [[divest]] from [[fossil fuels]], echoing student activity during the [[anti-Apartheid movement in the United States]].<ref name="ny" /> After graduation, he founded a nonprofit, the Fossil Fuel Divestment Student Network, and invited [[Varshini Prakash]] to join. The rest of the group of activists who would later found the Sunrise Movement met at a 2015 march to the [[White House]]. In the summer of 2016, Lawrence and about a dozen others trained at Momentum, an organization that teaches community organizing.<ref name="ny" /><ref>{{cite news |last1=Adler-Bell |first1=Sam |title=The Story Behind the Green New Deal's Meteoric Rise |url=https://newrepublic.com/article/153037/story-behind-green-new-deals-meteoric-rise |access-date=February 23, 2019 |publisher=The New Republic |date=February 6, 2019}}</ref>
+
+In July 2013, at age 22, Lawrence was one of 11 protesters arrested at an [[Enbridge]] pipeline work site near [[Stockbridge, Michigan|Stockbridge]] in [[Ingham County, Michigan|Ingham County]], where the company was expanding the capacity of its Line 6B pipeline, which had ruptured in the 2010 [[Kalamazoo River oil spill]]. As an act of [[civil disobedience]], he locked himself to construction equipment and declined to release himself when warned by a sheriff's sergeant that he could be charged; deputies cut the protesters free. Lawrence was charged with resisting and obstructing a police officer, a [[felony]] under Michigan law, and with misdemeanor trespassing. He pleaded guilty to the felony, the trespassing charge was dismissed, and he was sentenced to fines and probation. The conviction was later [[expungement in the United States|expunged]].<ref name="mirs">{{cite news |title=Lawrence Not Hiding From 13-Year-Old Felony Case |url=https://home.mirs.news/post/lawrence-not-hiding-from-13-year-old-felony-case |access-date=September 18, 2026 |publisher=MIRS News |date=August 11, 2026}}</ref><ref name="wwmt">{{cite news |last1=Hernandez |first1=Remington |title='I'm proud': Michigan Congressional candidate defends conviction after pipeline protest |url=https://wwmt.com/news/state/michigan-congressional-candidate-william-lawrence-defends-conviction-pipeline-protest-enbridge-progressive-democrat |access-date=September 18, 2026 |publisher=[[WWMT]] |date=August 24, 2026}}</ref>
+
+==Early career==
+===Sunrise Movement===
+Lawrence co-founded the Sunrise Movement in 2015 alongside [[Sara Blazevic]], Victoria Fernandez, [[Guido Girgenti]], and [[Varshini Prakash]].<ref name="vogue">{{cite news |last1=Malle |first1=Chloe |title=Inside the Sunrise Movement: Six Weeks With the Young Activists Defining the Climate Debate |url=https://www.vogue.com/article/inside-sunrise-movement-youth-activists-climate-debate |access-date=3 May 2026 |publisher=[[Vogue (magazine)|Vogue]] |date=20 September 2019}}</ref> When officially launched in 2017, the movement's goal was to be a more confrontational environmental movement and utilize [[civil disobedience]] and [[protest]], similar to [[ACT UP]] and the [[anti-nuclear movement]].<ref name="ny" /> The group also organized to elect politicians who would be strong supporters of [[renewable energy]] in the [[2018 United States elections|2018 midterm elections]], both in the [[Democratic Party (United States)|Democratic]] primaries and the general election. Their goals on climate policy developed into the environmental program known as the [[Green New Deal]].<ref>{{cite news |last1=Engler |first1=Mark |last2=Engler |first2=Paul |title=Can You Plan a Realignment? |url=https://dissentmagazine.org/online_articles/can-you-plan-a-realignment/ |access-date=2 May 2026 |publisher=[[Dissent (American magazine)|Dissent]] |date=2 April 2021}}</ref><ref>{{cite news |last1=Allison-Natale |first1=Sam |title=Keeping the Faith: Socialism in the Waiting Place |url=https://www.currentaffairs.org/news/2022/06/keeping-the-faith-socialism-in-the-waiting-place |access-date=2 May 2026 |publisher=[[Current Affairs (magazine)|Current Affairs]] |date=20 June 2022}}</ref><ref name="ny">{{cite magazine |last1=Marantz |first1=Andrew |title=The Youth Movement Trying to Revolutionize Climate Politics |url=https://www.newyorker.com/magazine/2022/03/07/the-youth-movement-trying-to-revolutionize-climate-politics |access-date=2 May 2026 |magazine=[[The New Yorker]] |date=28 February 2022}}</ref> Lawrence originally acted as the organization's Development Director, but in 2020 he was the director of strategic partnerships.<ref name="ip" />
+
+In 2018, together with [[Justice Democrats]] and [[Alexandria Ocasio-Cortez]], Lawrence and a group of other Sunrise members organized a sit-in in the office of [[Speaker of the United States House of Representatives|Speaker of the House]] [[Nancy Pelosi]].<ref name="ip">{{cite news |last1=Williams |first1=Tate |title=Sunrise Movement is Shaking Up the Climate Debate. Will More Funders Pay Attention? |url=https://www.insidephilanthropy.com/home/2019-1-7-sunrise-movement-is-shaking-up-the-climate-debate-will-more-funders-pay-attention |access-date=2 May 2026 |publisher=[[Inside Philanthropy]] |date=19 July 2019}}</ref> Sunrise organized a similar event in February 2019, bringing a group of young people to confront Senator [[Dianne Feinstein]] in her office.
+
+By November 2019, Lawrence told ''[[Inside Philanthropy]]'' that the group had grown to 1,140 monthly donors, and had 90 volunteer hubs pop up in six weeks, across 33 states.<ref name="ip" />
+
+{{blockquote
+| text   = "We believe at our core that the only successful social movements in American history are powered by the unpaid effort of tens of thousands of people, and we've always strived to build an organization that wasn't asking how many staff can we hire, but how many people can we engage as volunteers."
+| author = William Lawrence, in 2019<ref name="ip" />
+}}
+
+[[File:Chicago Sunrise Movement Rallies for a Green New Deal Chicago Illinois 2-27-19 6308 (33360192358).jpg|thumb|Members of the Sunrise Movement hold a banner that says "We have 12 years, what is your plan?" (2019)]]
+
+Lawrence left the Sunrise Movement in 2020.<ref name="mp" /><ref name="wh" />
+
+===Housing advocacy===
+In 2020, Lawrence founded the Mid-Michigan Tenant Resource Center and became focused on housing advocacy in Michigan as a coordinator for the Michigan Rent Is Too Damn High coalition, a [[tenant union]].<ref name="mp" /><ref name="ma">{{cite news |last1=Díaz Veliz |first1=Erick |title=Lansing activist joins the Democratic fray for Michigan's 7th Congressional District |url=https://michiganadvance.com/2025/08/27/lansing-activist-joins-the-democratic-fray-for-michigans-7th-congressional-district/ |access-date=3 May 2026 |publisher=[[Michigan Advance]] |date=27 August 2025}}</ref> Despite his prominent role as a cofounder of a large national organization, the ''[[Lansing City Pulse]]'' said that locally, he is best known for his housing advocacy and tenant organizing.<ref name="lcp">{{cite news |last1=Kaplan |first1=Leo |title=Local tenants' activist announces Democratic congressional bid for MI-7 |url=https://www.lansingcitypulse.com/stories/local-tenants-activist-announces-democratic-congressional-bid-for-mi,151808 |access-date=3 May 2026 |publisher=[[Lansing City Pulse]] |date=27 August 2025}}</ref>
+
+==Political career==
+
+===2026 congressional campaign===
+{{see also|2026 United States House of Representatives elections in Michigan#District 7}}
+Lawrence announced his candidacy for the [[Democratic Party (United States)|Democratic Party]] nomination for [[U.S. Representative]] in [[Michigan's 7th congressional district]] on August 26, 2025. The seat was held by [[Tom Barrett (Michigan politician)|Tom Barrett]], a [[Republican Party (United States)|Republican]].<ref name="mp">{{cite news |last1=Busse |first1=Anna |title=Progressive activist William Lawrence the latest to launch campaign to run in 7th Congressional District race |url=https://www.michiganpublic.org/politics-government/2025-08-26/progressive-activist-william-lawrence-the-latest-to-launch-campaign-to-run-in-7th-congressional-district-race |access-date=3 May 2026 |publisher=[[Michigan Public]] |date=26 August 2025}}</ref>
+
+A [[progressivism in the United States|progressive]], Lawrence has been endorsed by the [[Working Families Party]] and [[National Nurses United]].<ref name="wh" /><ref name="wfp">{{cite web |title=WFP Endorses Donavan McKinney, William Lawrence, Rep. Rashida Tlaib in Michigan |date=February 27, 2026 |url=https://workingfamilies.org/2026/02/wfp-endorses-donavan-mckinney-william-lawrence-rep-rashida-tlaib-in-michigan/ |access-date=28 February 2026}}</ref><ref>{{Cite web|date=January 21, 2026 |title=National Nurses United endorses Will Lawrence for Michigan's 7th District|url=https://www.nationalnursesunited.org/press/national-nurses-united-endorses-will-lawrence-for-michigans-7th-district|access-date=January 21, 2026 |website=[[National Nurses United]] |language=en-US}}</ref> He has also been endorsed by the [[Michigan Democratic Party]] Progressive Caucus,<ref name="WMPB24">{{Cite web |last=King |first=Jon |date=March 20, 2026 |title=Your Weekly Michigan Political Brief |url=https://michiganadvance.com/2026/03/20/your-weekly-michigan-political-brief-24/ |access-date=March 20, 2026 |website=[[Michigan Advance]] |language=en-US}}</ref> [[Showing Up for Racial Justice]],<ref>{{Cite web |title=Standing Up to the Billionaire Agenda: A conversation with Graham Platner|url=https://surj.org/why-were-endorsing-graham-platner-join-us-for-a-conversation-on-4-7/|date=March 24, 2026 |website=Showing Up for Racial Justice |language=en-US}}</ref> [[Sunrise Movement]],<ref>{{Cite web |last=King |first=Jon |date=November 21, 2025 |title=Your Weekly Michigan Political Brief |url=https://michiganadvance.com/2025/11/21/your-weekly-michigan-political-brief-8/ |access-date=November 21, 2025 |website=[[Michigan Advance]] |language=en-US}}</ref> [[Track AIPAC]],<ref>{{cite web |title=Our Endorsements |url=https://www.trackaipac.com/endorsements |website=Track AIPAC |access-date=8 December 2025}}</ref> and [[Bernie Sanders]].<ref name="sanders">{{cite news |last1=Noor |first1=Dharna |title=Bernie Sanders backs climate activist in close Michigan congressional primary |url=https://www.theguardian.com/us-news/2026/may/21/bernie-sanders-backs-climate-activist-michigan-race |access-date=21 May 2026 |work=The Guardian |date=21 May 2026}}</ref>
+
+During the [[2025 government shutdown]], Lawrence organized a 36-hour [[sit-in]] outside incumbent Rep. Barrett's Lansing district office to protest a lapse in [[Supplemental Nutrition Assistance Program]] (SNAP) federal food assistance benefits. Lawrence slept on the sidewalk in several winter coats as it rained while he collected nearly $1,600 plus "boxes and boxes" of food for the [[food banks]]. In total, his campaign has collected more than 5,000 meals for families in the district through the Greater Lansing Food Bank. Barrett's staff called the police on him.<ref name="wh" /><ref>{{cite news |last1=Melinn |first1=Kyle |title=How will Lawrence win a congressional seat? |url=https://www.lansingcitypulse.com/stories/how-will-lawrence-win-a-congressional-seat,165218 |access-date=3 May 2026 |publisher=[[Lansing City Pulse]] |date=12 November 2025}}</ref><ref>{{cite news |last1=Dailey |first1=Katherine |title=Congressional candidate hosts food drive and vigil outside Rep. Tom Barrett's Lansing office |url=https://michiganadvance.com/2025/10/31/congressional-candidate-hosts-food-drive-and-vigil-outside-rep-tom-barretts-lansing-office/ |access-date=3 May 2026 |publisher=[[Michigan Advance]] |date=31 October 2025}}</ref>
+
+Lawrence held a fundraiser for [[medical debt]] relief that canceled $100,000 in outstanding medical debt for local residents.<ref name="wh" />
+
+At a [[March 2026 No Kings protests|March 2026 No Kings protest]], Lawrence addressed the crowd and stated that because [[President Trump]] was never held accountable for his role in the [[January 6 attacks]], he was more emboldened during his second term. He advocated that Trump should be impeached, prosecuted, and barred from public office.<ref>{{cite news |last1=Roth |first1=Andrew |title=Democratic House candidate Will Lawrence calls for Trump to be 'put on trial' |url=https://www.wkar.org/wkar-news/2026-03-29/democratic-house-candidate-will-lawrence-calls-for-trump-to-be-put-on-trial |access-date=3 May 2026 |publisher=[[WKAR-FM|WKAR]] |date=29 March 2026}}</ref>
+
+In July 2026, comments from a 2024 podcast in which Lawrence described "the older generation of Black political leadership" as "a pillar, frankly, for establishment, capitalist, imperialist American power" and said that their role "really defangs the white left," received criticism.<ref name="TheHillPodcast">{{cite web |last1=Davis |first1=Sarah |title=Progressive House candidate responds to criticism over past comments about Black Dems |url=https://thehill.com/homenews/campaign/5964228-progressive-house-candidate-responds-to-criticism-over-past-comments-about-black-dems/ |website=The Hill}}</ref><ref>{{cite web |last1=Robillard |first1=Kevin |last2=Bendery |first2=Jennifer |title=Surging Progressive Once Said Black Democratic Leaders 'Defang The White Left' |url=https://www.yahoo.com/news/politics/articles/surging-progressive-once-said-black-100017999.html?guccounter=1 |website=The Huffington Post |date=11 July 2026}}</ref><ref>{{cite web |last1=Solis |first1=Ben |title=AOC addresses apparent Will Lawrence snub at Lansing rally for Abdul El-Sayed |url=https://michiganadvance.com/2026/07/20/aoc-addresses-apparent-will-lawrence-snub-at-lansing-rally-for-abdul-el-sayed/ |website=Michigan Advance |date=20 July 2026}}</ref> Lawrence said his remarks were "taken out of context," and added, "The way I made this point was clumsy, and I regret my choice of words."<ref name="TheHillPodcast" />
+
+On August 4, 2026, Lawrence won the Democratic primary election, defeating Ambassador [[Bridget Brink]] and former [[Navy SEAL]] Matt Maasdam.<ref>{{Cite news |last=Vakil |first=Caroline |date=August 4, 2026 |title=Progressives clinch win with Lawrence’s victory in House primary to face Barrett in Michigan |url=https://thehill.com/homenews/campaign/6006681-lawrence-wins-michigan-house-primary/ |newspaper=[[The Hill (newspaper)|The Hill]] |access-date=August 4, 2026}}</ref>
+
+Lawrence's expunged 2013 conviction became an issue in the general election campaign. He had discussed the arrest publicly in an Instagram video, in which he said of the protest, "Was it righteous? Absolutely. Was it wise? Perhaps not," acknowledged that the protesters had failed to stop the pipeline, and said he would not advise others to do what he did. His campaign described the guilty plea as a practical decision to resolve the case.<ref name="mirs" /> In August 2026, Barrett criticized Lawrence over the protest, and the [[National Republican Congressional Committee]] labeled him a felon. Lawrence responded, "I stand by the righteousness of that action," adding that he was proud to have taken part while conceding that the action may not have been the wisest course. He said he had acted to prevent another spill like the one in 2010 and accused Barrett and his allies of trying to distract from the conduct of the [[Second presidency of Donald Trump|Trump administration]].<ref name="wwmt" />
+
+On November 4, 2026, Lawrence defeated Barrett with 51 percent to Barrett's 48 percent. While Lawrence carried only two of the district's seven counties, he swamped Barrett in [[Ingham County]], home to Lansing, by 48,700 votes, far more than his overall margin of 13,100 votes.<ref>{{Cite web |date=2026-11-04 |title=Michigan House District 7 Midterm Election 2026: Live Results |url=https://www.nbcnews.com/politics/2026-elections/michigan-us-house-district-7-results |access-date=2026-11-04 |website=www.nbcnews.com |language=en}}</ref>
+
+==Political positions==
+Lawrence said the [[2003 Iraq war]], which started when he was 13, was a "formative political experience of my life."<ref>{{cite news |last1=Shelton |first1=Shajaka |title=New candidate launches campaign for Michigan's 7th congressional district |url=https://www.wlns.com/capital-rundown/new-candidate-launches-campaign-for-michigans-7th-congressional-district/ |access-date=3 May 2026 |publisher=[[WLNS]] |date=26 August 2025}}</ref>
+
+Lawrence has said he would invest in affordable housing, quality health care, elder care, and child care.<ref name="mp" /><ref name="ma" /> He has also sharply criticized the United States' involvement in the [[2026 Iran war]], [[United States support for Israel in the Gaza war|support for Israel in the Gaza war]] and the [[Gaza genocide]].<ref name="ma" /><ref name="lcp" /><ref>{{cite news |last1=Davidson |first1=Kyle |title=Iran attack prompts war powers debate in Michigan’s 7th Congressional District race |url=https://michiganadvance.com/2026/03/02/iran-attack-prompts-war-powers-debate-in-michigans-7th-congressional-district-race/ |access-date=4 May 2026 |publisher=[[Michigan Advance]] |date=2 March 2026}}</ref><ref name="wh">{{cite news |last1=Hutchison |first1=Matthew |title=Democratic Congressional Candidate William Lawrence Criticizes Iran Strikes, Calls for Shift in U.S. Priorities |url=https://www.whmi.com/news/article/democratic-congressional-candidate-william-lawrence-criticizes-iran-strikes-calls-for-shift-in-us-priorities |access-date=3 May 2026 |publisher=[[WHMI]] |date=4 March 2026}}</ref> He is an advocate for [[Medicare for All]] and a [[Green New Deal]], as well as creating more [[public housing]]. He has spoken out against the construction of a new [[ICE]] detention processing center in [[Romulus, Michigan]], and ICE administrative offices in [[Southfield, Michigan]].<ref name="wh" />
+
+Lawrence has criticized the growing push to bring large [[data centers]] to Michigan.<ref name="wh" />
+
+In September 2026, CNN's [[Andrew Kaczynski|KFile]] reported that Lawrence had deleted hundreds of posts made under a previous Twitter account, largely between 2020 and 2022. In the posts, he expressed support for police and prison abolition and "free and open migration", called for nationalizing fossil-fuel companies to wind down production, and advocated abolishing the U.S. Senate and a "fundamental overhaul" of the Constitution. In 2022 he described the nuclear-family home as an "isolating, individualistic, violent way of organizing society". In December 2021, in song lyrics he posted about Senator [[Joe Manchin]]'s opposition to Democrats' climate agenda, he wrote, "Our generation says fuck you for everything. Hurry up and die so that we can get started." Other posts attacked moderate Democrats: he called then-Rep. [[Abigail Spanberger]]'s criticism of "defund the police" a "tantrum", wrote that it was "time for the Dem civil war to rage", said it was "better to be a minority party that stands for something than a majority party that can't govern", and in 2020 wrote that he was "ashamed to be represented" by then-Rep. [[Elissa Slotkin]]. Lawrence responded that he had "done my fair share of thinking out loud on the internet", that he disagreed with some of his earlier posts, that he did not support defunding the police or open borders, and that he regretted his comment about Slotkin.<ref>{{cite news |last=Kaczynski |first=Andrew |author-link=Andrew Kaczynski |title=‘F**k you…hurry up and die’: Swing-seat Democratic House candidate’s deleted tweets show far-left record |url=https://www.cnn.com/2026/09/04/politics/william-lawrence-michigan-midterms-kfile |work=[[CNN]] |date=September 4, 2026 |access-date=September 7, 2026}}</ref>
+
+==Personal life==
+Lawrence lives in [[Lansing]] with his wife Dinah.<ref name="mp" /> He is a member of the [[Working Families Party]].<ref name="wfp"/> Lawrence was a member of the [[Democratic Socialists of America]] until July 2026.<ref>{{Cite news |date=August 5, 2026 |title=Can a Michigan progressive who left the Democratic Socialists of America just last month win in a purple district? |url=https://www.cnn.com/2026/08/05/politics/video/inside-politics-michigan-seventh-district-democrat-william-lawrence |work=[[CNN]] |access-date=August 5, 2026}}</ref>
+
+==Notes==
+{{notelist}}
+
+==See also==
+* [[Progressivism in the United States]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://wewill2026.com/ Campaign website]
+
+{{s-start}}
+{{s-par|us-hs}}
+{{s-bef|before=[[Tom Barrett (Michigan politician)|Tom Barrett]]}}
+{{s-ttl|title=Member of the [[List of United States representatives from Michigan|U.S. House of Representatives]]<br>from [[Michigan's 7th congressional district]]|years=Taking office 2027<!-- –present -->}}
+{{s-non|reason=Elect}}<!-- {{s-inc}} -->
+{{s-end}}
+
+<!-- {{MI-FedRep}}
+{{Current U.S. representatives}}
+{{USCongRep-start |congresses=120th–present [[United States Congress]] |state=[[Michigan's congressional delegations|Michigan]]}}
+{{USCongRep/MI/120}}
+{{USCongRep-end}} -->
+
+{{DEFAULTSORT:Lawrence, William}}
+[[Category:1990 births]]
+[[Category:21st-century United States representatives]]
+[[Category:Activists from Michigan]]
+[[Category:American climate activists]]
+[[Category:American founders]]
+[[Category:Democratic Party United States representatives from Michigan]]
+[[Category:Living people]]
+[[Category:Members of the Democratic Socialists of America from Michigan]]
+[[Category:People from East Lansing, Michigan]]
+[[Category:Swarthmore College alumni]]
+[[Category:Working Families Party politicians]]
+[[Category:Youth climate activists]]

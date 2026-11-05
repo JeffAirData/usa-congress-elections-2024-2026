@@ -1,0 +1,55 @@
+{{Short description|American politician (born 1966)}}
+{{Infobox officeholder
+|name = Chris McGowan
+|state = [[Iowa]]
+|district = {{ushr|IA|4|4th}}
+|term_start = January 3, 2027
+|term_end = 
+|succeeding = [[Randy Feenstra]]
+|predecessor = [[Randy Feenstra]]
+|successor = 
+|birth_date = {{birth year and age|1966|12}}
+|birth_place = [[Sioux City, Iowa]], U.S.
+|death_date = 
+|death_place = 
+|party = [[Republican Party (United States)|Republican]]
+|education = [[College of Saint Benedict and Saint John's University|St. John's University]] ([[Bachelor of Science|BS]])<br>[[Ave Maria School of Law]] ([[Juris Doctor|JD]])
+|website = {{url|mcgowanforiowa.com|Campaign website}}
+}}
+'''Chris John McGowan''' (born December 1966) is an American political candidate and businessman who has served as the president of the [[Siouxland]] Chamber of Commerce since 2011. He is the member-elect for [[Iowa's 4th congressional district]] in the [[United States House of Representatives]].
+
+==Early life==
+McGowan was born in December 1966 in [[Sioux City, Iowa]].<ref>https://www.thegazette.com/news/elections/sioux-city-s-chris-mcgowan-touts-trump-endorsement-in-4th-congressional-district-race/article_ad8399df-99cd-5c0c-9bfa-f1ec1aaefb7b.html</ref><ref>https://www.legistorm.com/person/bio/556262/Christopher_John_McGowan.html</ref>
+
+==Biography==
+McGowan has served as President of the Siouxland Chamber of Commerce since 2011.
+
+In 2025, he announced his campaign for [[Iowa's 4th congressional district]] in the 2026 cycle. He gained endorsements from [[Jim Jordan]], [[Steve Scalise]], [[Tom Emmer]], and [[Donald Trump]], and outpaced the primary field in fundraising.<ref>{{Cite web |last=Hayworth |first=Bret |title=McGowan of Sioux City leads all Iowa 4th congressional district candidates in fundraising |url=https://www.kwit.org/podcast/spm-news/2026-02-03/mcgowan-of-sioux-city-leads-all-iowa-4th-congressional-district-candidates-in-fundraising |access-date=2026-06-20 |website=Siouxland Public Media |language=en}}</ref><ref>{{Cite web |last=McNett |first=Jared |date=2026-02-05 |title=Sioux City’s Chris McGowan touts Trump endorsement in 4th Congressional District race |url=https://www.thegazette.com/news/elections/sioux-city-s-chris-mcgowan-touts-trump-endorsement-in-4th-congressional-district-race/article_ad8399df-99cd-5c0c-9bfa-f1ec1aaefb7b.html |access-date=2026-06-20 |website=The Gazette |language=en}}</ref> He was set to [[Matt Windschitl]] and other candidates in the primary<ref>{{Cite web |last=McNett |first=Jared |date=2025-06-25 |title=Siouxland Chamber of Commerce President Chris McGowan running for Congress |url=https://www.thegazette.com/news/elections/siouxland-chamber-of-commerce-president-chris-mcgowan-running-for-congress/article_a1065a97-28d6-5974-be49-0f91be2f550e.html |access-date=2026-06-20 |website=The Gazette |language=en}}</ref>, but ultimately had no opponents.<ref>{{Cite web |last=Wyckoff |first=Sophie |date=2026-06-04 |title=Dave Dawson outlines next steps after primary win |url=https://www.ktiv.com/2026/06/04/dave-dawson-outlines-next-steps-after-primary-win/ |access-date=2026-06-20 |website=KTIV |language=en}}</ref>
+
+His biography was published in [[The Almanac of American Politics]] as part of the first-ever publication series of candidates who won their party's nomination in seats safe for their party.<ref>{{Cite web |last=Politics |first=Almanac of American |date=2026-06-09 |title=Expected Rep. Chris McGowan (R), Iowa's 4th District |url=https://almanacofamericanpolitics.substack.com/p/expected-rep-chris-mcgowan-r-iowas |access-date=2026-06-20 |website=Almanac of American Politics with Louis Jacobson}}</ref>
+
+==References==
+{{reflist}}
+
+{{s-start}}
+{{s-par|us-hs}}
+{{s-bef|before=[[Randy Feenstra]]}}
+{{s-ttl|title=Member of the [[List of United States representatives from Iowa|U.S. House of Representatives]]<br>from [[Iowa's 4th congressional district]]|years=Taking office 2027<!-- –present -->}}
+{{s-non|reason=Elect}}<!-- {{s-inc}} -->
+{{s-end}}
+
+<!-- {{IA-FedRep}}
+{{Current U.S. representatives}}
+{{USCongRep-start |congresses=120th–present [[United States Congress]] |state=[[Iowa's congressional delegations|Iowa]]}}
+{{USCongRep/IA/120}}
+{{USCongRep-end}} -->
+
+{{DEFAULTSORT:McGowan, Chris}}
+[[Category:1966 births]]
+[[Category:21st-century Iowa politicians]]
+[[Category:21st-century United States representatives]]
+[[Category:Ave Maria School of Law alumni]]
+[[Category:College of Saint Benedict and Saint John's University alumni]]
+[[Category:Iowa Republicans]]
+[[Category:Living people]]
+[[Category:Republican Party United States representatives from Iowa]]

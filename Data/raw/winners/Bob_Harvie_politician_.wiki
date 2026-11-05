@@ -1,0 +1,63 @@
+{{Short description|American politician}}
+{{Use mdy dates|date=November 2026}}
+{{Infobox politician
+|name = Bob Harvie
+|state = [[Pennsylvania]]
+|district = {{ushr|PA|1|1st}}
+|term_start = January 3, 2027
+|term_end = 
+|succeeding = [[Brian Fitzpatrick (American politician)|Brian Fitzpatrick]]
+|predecessor = [[Brian Fitzpatrick (American politician)|Brian Fitzpatrick]]
+|successor = 
+|birth_name = Robert Harvie Jr.
+|birth_date = {{birth based on age as of date|54|2026|3|29}}
+|birth_place = [[Bristol, Pennsylvania]], U.S.
+|death_date = 
+|death_place = 
+|party = [[Democratic Party (United States)|Democratic]]
+|education = [[George Washington University]] ([[Bachelor of Arts|BA]])<br>[[Holy Family University]] ([[Master of Education|MEd]])
+}}
+'''Robert J. Harvie Jr.''' (born 1970/1971)<ref>{{cite news |last1=Roth |first1=Fallon |title=Meet Bob Harvie, Democrats’ best chance at defeating Brian Fitzpatrick and helping win back the House |url=https://www.inquirer.com/politics/nation/bob-harvie-democrat-bucks-county-commissioner-brian-fitzpatrick-20260329.html |access-date=4 November 2026 |work=[[Philadelphia Inquirer]] |date=29 March 2026 |language=en}}</ref> is an American politician and former teacher serving on the [[Bucks County Board of Commissioners]]. He is running for the [[United States House of Representatives|U.S. House of Representatives]] in [[Pennsylvania's 1st congressional district]].
+
+Harvie was elected to the Board of Bucks County Commissioners in November 2019 and is currently serving as Vice-Chair in 2026.<ref name="BucksBio">{{cite web|url=https://www.buckscounty.gov/192/Board-Vice-Chair|title=Board Vice-Chair, Bucks County, PA|access-date=June 17, 2026}}</ref>
+
+==Education and career==
+Harvie attended [[George Washington University]], graduating magna cum laude with a bachelor's degree in history. He also has a master's degree in education from [[Holy Family University]].<ref name="BucksBio"/>
+
+Harvie has had a 20 year career as a social studies teacher and chairman of the Social Studies Department at [[Bucks County Technical High School]].<ref name="BucksBio"/><ref>{{cite web | url=https://whyy.org/articles/election-2026-pennsylvania-bucks-county-1st-congressional-district-harvie-simonelli/ | title=PA election 2026: 1st Congressional District primary voter guide | access-date=June 17, 2026 | date=April 15, 2026| publisher=WHYY | author=Emily Neil }} </ref>
+
+==Congressional campaign==
+On April 3, 2025, Harvie announced he was running for [[Pennsylvania's 1st congressional district]] in the [[2026 United States House of Representatives elections in Pennsylvania]].<ref>{{cite tweet |author=Bob Harvie| user=Bobharvie_PA01 | title=Today I'm excited to announce that I’m running for Congress. I’m running because I love this country, and I love this community - hardworking, patriotic, middle class Americans.  But Washington isn't working for us anymore.| number=1907795153437229088 |date=April 3, 2025|access-date=June 17, 2026 |link=https://x.com/Bobharvie_PA01/status/1907795153437229088}}</ref>
+<ref>{{cite web | url=https://whyy.org/articles/bob-harvie-congress-brian-fitzpatrick | title=Bucks Commissioner Bob Harvie to run for Congress 2026 | access-date=June 17, 2026 | date=April 3, 2025 | publisher=WHYY | author=Emily Neil }} </ref>
+
+On May 20, 2026, Harvie defeated Lucia Simonelli to win the Democratic primary.<ref>{{cite web | url=https://whyy.org/articles/election-2026-pennsylvania-primary-first-district-bucks-county-winner | title=PA election 2026: Bob Harvie wins 1st District primary | access-date=June 17, 2026 | date=May 20, 2026 | publisher=WHYY | author=Emily Neil,Kenny Cooper }} </ref>
+
+On November 3, 2026, Harvie defeated [[Brian Fitzpatrick (American politician)|Brian Fitzpatrick]]. He will be the first Democrat to represent [[Bucks County, Pennsylvania|Bucks County]] since [[Patrick Murphy (Pennsylvania politician)|Patrick Murphy]] served as Congressman in the [[111th United States Congress]].<ref>{{cite news |last1=Roth |first1=Fallon |title=Bob Harvie ousts Brian Fitzpatrick in Bucks County, flipping a House seat Republicans have held for over a decade |url=https://www.inquirer.com/politics/election/fitzpatrick-harvie-race-winner-results-pennsylvania-1st-district-20261104.html |access-date=4 November 2026 |work=[[Philadelphia Inquirer]] |date=4 November 2026 |language=en}}</ref><ref>{{cite news |last1=Roth |first1=Fallon |title=Bucks County is ready to be the center of the political universe (again) |url=https://www.inquirer.com/politics/nation/bucks-county-2026-midterms-competitive-races-20260521.html |access-date=4 November 2026 |work=[[Philadelphia Inquirer]] |date=21 May 2026 |language=en}}</ref>
+
+== References ==
+{{reflist}}
+
+{{s-start}}
+{{s-par|us-hs}}
+{{s-bef|before=[[Brian Fitzpatrick (American politician)|Brian Fitzpatrick]]}}
+{{s-ttl|title=Member of the [[List of United States representatives from Pennsylvania|U.S. House of Representatives]]<br>from [[Pennsylvania's 1st congressional district]]|years=Taking office 2027<!-- –present -->}}
+{{s-non|reason=Elect}}<!-- {{s-inc}} -->
+{{s-end}}
+
+<!-- {{PA-FedRep}}
+{{Current U.S. representatives}}
+{{USCongRep-start |congresses=120th–present [[United States Congress]] |state=[[Pennsylvania's congressional delegations|Pennsylvania]]}}
+{{USCongRep/PA/120}}
+{{USCongRep-end}} -->
+
+
+{{DEFAULTSORT:Harvie, Bob}}
+
+[[Category:1970s births]]
+[[Category:21st-century Pennsylvania politicians]]
+[[Category:21st-century United States representatives]]
+[[Category:Democratic Party United States representatives from Pennsylvania]]
+[[Category:George Washington University alumni]]
+[[Category:Living people]]
+[[Category:Pennsylvania Democrats]]
+[[Category:People from Bristol, Pennsylvania]]

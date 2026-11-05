@@ -1,0 +1,59 @@
+{{Short description|American politician}}
+{{draft article}}
+{{Infobox officeholder
+|name = Sydney Gruters
+|state = [[Florida]]
+|district = {{ushr|FL|16|16th}}
+|term_start = January 3, 2027
+|term_end = 
+|succeeding = [[Vern Buchanan]]
+|predecessor = [[Vern Buchanan]]
+|successor = 
+|birth_name = Sydney Spence
+|birth_date = {{birth based on age as of date|44|2026|8|18}}
+|birth_place = 
+|death_date = 
+|death_place = 
+|party = [[Republican Party (United States)|Republican]]
+|spouse = [[Joe Gruters]]
+|education = [[University of Florida]] ([[Bachelor of Arts|BA]])
+}}
+'''Sydney B. Spence Gruters'''<ref>{{Cite web |title=Incoming Rep. Sydney Gruters - R Florida, 16th, Member-elect - Biography {{!}} LegiStorm |url=https://www.legistorm.com/person/bio/45894/Sydney_Spence_Gruters.html |access-date=2026-11-04 |website=www.legistorm.com |language=en}}</ref> (born 1981/1982)<ref>{{Cite news |last=Bearak |first=Max |date=2026-08-18 |title=Sydney Gruters, Wife of R.N.C. Chair, Wins House Primary in Florida With Trump’s Backing |url=https://www.nytimes.com/2026/08/18/us/politics/trump-gruters-florida-republican-primary.html |access-date=2026-11-04 |work=The New York Times |language=en-US |issn=0362-4331}}</ref> is an American politician who is the U.S. representative-elect for [[Florida's 16th congressional district]].<ref>{{Cite web |last=Washington |first=Associated Press |last2=D.C. |title=Republican Sydney Gruters wins election to U.S. House in Florida's 16th Congressional District |url=https://baynews9.com/fl/tampa/ap-online/2026/11/04/republican-sydney-gruters-wins-election-to-us-house-in-floridas-16th-congressional-district |access-date=2026-11-04 |website=baynews9.com |language=en}}</ref>
+
+== Early life and career ==
+Born in 1981, she is a graduate of the [[University of Florida]].<ref>{{Cite web |last=Vecerina |first=Michelle |date=2026-03-27 |title=EXCLUSIVE: Sydney Gruters on ‘surprise’ Trump endorsement and her 20-year path to a potential congressional run |url=https://flvoicenews.com/exclusive-sydney-gruters-on-surprise-trump-endorsement-and-her-20-year-path-to-a-potential-congressional-run/ |access-date=2026-11-04 |website=Florida’s Voice |language=en-US}}</ref> 
+
+Gruters served as the Operations Director for U.S. representative [[Vern Buchanan]] for ten years and additionally served as District Director for U.S. representative [[Greg Steube]].<ref>{{Cite web |title=Sydney Gruters |url=https://tpaction.com/bio/sydneygruters |access-date=2026-11-04 |website=Turning Point Action}}</ref> In 2017, Gruters was appointed by U.S. President [[Donald Trump]] to serve as state director in the [[United States Department of Agriculture]] for [[Florida]] and the [[United States Virgin Islands|U.S. Virgin Islands]]. Gruters served as an executive director for the [[New College of Florida]] foundation.<ref>{{Cite web |date=2023-03-23 |title=Prominent political aide named director of New College Foundation |url=https://www.businessobserverfl.com/news/2023/mar/23/prominent-political-aide-named-director-of-new-college-foundation/ |access-date=2026-11-04 |website=Business Observer |language=en}}</ref>
+
+== Personal life ==
+Gruters is married to [[List of chairs of the Republican National Committee|Chair of the Republican National Committee]] and [[Florida Senate|Florida State Senator]] [[Joe Gruters]].<ref>{{Cite web |last=Manjarres |first=Javier |date=2026-03-11 |title=Sydney Gruters, Wife of RNC Chairman Joe Gruters, to Run for Congress |url=https://floridianpress.com/2026/03/sydney-gruters-wife-of-rnc-chairman-joe-gruters-to-run-for-congress/ |access-date=2026-11-04 |website=The Floridian |language=en-US}}</ref> She has three children.<ref>{{Cite web |title=Sydney Gruters For Congress |url=https://grutersforcongress.com/ |access-date=2026-11-04 |website=Sydney Gruters For Congress |language=en}}</ref>
+
+== References ==
+{{reflist}}
+
+{{s-start}}
+{{s-par|us-hs}}
+{{s-bef|before=[[Vern Buchanan]]}}
+{{s-ttl|title=Member of the [[List of United States representatives from Florida|U.S. House of Representatives]]<br>from [[Florida's 16th congressional district]]|years=Taking office 2027<!-- –present -->}}
+{{s-non|reason=Elect}}<!-- {{s-inc}} -->
+{{s-end}}
+
+<!-- {{FL-FedRep}}
+{{Current U.S. representatives}}
+{{USCongRep-start |congresses=120th–present [[United States Congress]] |state=[[Florida's congressional delegations|Florida]]}}
+{{USCongRep/FL/120}}
+{{USCongRep-end}} -->
+
+{{DEFAULTSORT:Gruters, Sydney}}
+[[Category:1980s births]]
+[[Category:21st-century Florida politicians]]
+[[Category:21st-century United States representatives]]
+[[Category:American women in politics]]
+[[Category:Female United States representatives]]
+[[Category:Florida Republicans]]
+[[Category:Living people]]
+[[Category:Place of birth missing (living people)]]
+[[Category:Republican Party United States representatives from Florida]]
+[[Category:University of Florida alumni]]
+[[Category:Women in Florida politics]]
+[[Category:Year of birth missing (living people)]]

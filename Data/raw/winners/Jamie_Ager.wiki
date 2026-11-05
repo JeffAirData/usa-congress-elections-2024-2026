@@ -1,0 +1,128 @@
+{{Short description|American farmer and politician (born 1977)}}
+{{Use mdy dates|date=October 2026}}
+{{Infobox officeholder
+| name               = Jamie Ager
+| state              = [[North Carolina]]
+| district           = {{ushr|NC|11|11th}}
+| term_start         = January 3, 2027
+| term_end           = 
+| succeeding         = [[Chuck Edwards]]
+| predecessor        = [[Chuck Edwards]]
+| successor          = 
+| birth_date         = {{birth date and age|1977|11|18}}
+| birth_place        = [[Fairview, Buncombe County, North Carolina|Fairview, North Carolina]], U.S.
+| death_date         = 
+| death_place        = 
+| party              = [[Democratic Party (United States)|Democratic]]
+| spouse             = Amy Ager
+| children           = 3
+| parents            = [[John Ager]] (father)
+| relatives          = {{ubl |[[Eric Ager]] (brother) |[[James McClure Clarke]] (grandfather)}}
+| education          = [[Warren Wilson College]] ([[Bachelor of Arts|BA]])
+}}
+'''Jamie Ager''' (born November 18, 1977)<ref name="hng-birthday" /><ref name="citizen-times" /> is an American farmer, businessman, and politician who is the member-elect of the [[United States House of Representatives]] from [[North Carolina's 11th congressional district]]. A member of the [[Democratic Party (United States)|Democratic Party]], Ager is the co-founder and chief executive of Hickory Nut Gap, a regenerative farm and locally sourced meat distributor based on his family's farm in [[Fairview, Buncombe County, North Carolina|Fairview, North Carolina]]. Ager is the [[Democratic Party (United States)|Democratic]] nominee for [[North Carolina's 11th congressional district]] in the [[2026 United States House of Representatives elections in North Carolina|2026 election]].<ref name="newsline-primary" /><ref name="citizen-times" />
+
+== Early life and education ==
+Ager grew up on Hickory Nut Gap Farm in Fairview, North Carolina, in [[Buncombe County, North Carolina|Buncombe County]].<ref name="wlos-primary" /> The farm was established in 1916 by Jim and Elizabeth McClure, founders of the Farmers Federation agricultural cooperative, and passed through the Clarke family to the Agers.<ref name="provisioner" /><ref name="citizen-times-mcclure" /> His grandfather, [[James McClure Clarke]], represented North Carolina's 11th congressional district from 1983 to 1985 and from 1987 to 1991.<ref name="newsline-primary" /><ref name="citizen-times" /> His father, [[John Ager]], represented the 115th district in the [[North Carolina House of Representatives]] from 2015 to 2023, and his brother, [[Eric Ager]], has represented the 114th district since 2023.<ref name="citizen-times" /><!-- Add a source for the district numbers, e.g. the NC General Assembly member pages. -->
+
+Ager graduated from [[A.C. Reynolds High School]] in [[Asheville, North Carolina|Asheville]] and earned degrees in environmental studies and history from [[Warren Wilson College]] in [[Swannanoa, North Carolina|Swannanoa]], with a focus on sustainable agriculture.<ref name="wlos-primary" /><ref name="provisioner" />
+
+== Farming and business career ==
+After college, Ager visited the farmer and author [[Joel Salatin]] to study pasture-based livestock production.<ref name="provisioner" /> Ager and his wife, Amy, married in 2001 and founded Hickory Nut Gap Meats, a business that direct-markets grass-fed beef and pastured poultry, sourcing meat from its own farm as well as from other local producers. The company began with a single restaurant customer in [[Asheville, North Carolina|Asheville]] and later expanded to source from a network of partner farms across the region.<ref name="provisioner" /> As of 2025, the company employed about 25 people.<ref name="announcement" /><!-- Campaign source; acceptable for uncontroversial self-description under WP:ABOUTSELF. Replace with an independent source if one is found. -->
+
+Hickory Nut Gap Farm was badly damaged by [[Hurricane Helene]] in September 2024, which struck during the farm's harvest season, when it typically earns more than half of its annual revenue.<ref name="marketplace" /> Afterward, Ager hosted community cookouts for neighbors affected by the storm,<ref name="wsoc" /> and the farm store reopened by mid-October 2024.<ref name="marketplace" /> In March 2025, the company lost its contract to supply beef to Buncombe County schools after the [[United States Department of Agriculture]] ended the pandemic-era Local Food for Schools program, which had funded purchases from local farms.<ref name="wlos-usda" /><ref name="wsoc" />
+
+== 2026 congressional campaign ==
+Ager announced his candidacy for North Carolina's 11th congressional district on July 31, 2025, his first run for elected office.<ref name="announcement" /><ref name="citizen-times" /> In the March 3, 2026, Democratic primary, he won 64.7 percent of the vote against four opponents.<ref name="newsline-primary" /><ref name="nbc-results" /> The [[Democratic Congressional Campaign Committee]] added him to its "Red to Blue" program for competitive Republican-held seats.<ref name="newsline-primary" />
+
+Ager describes himself as a "Mountain Democrat." He has said he does not accept corporate [[political action committee]] money, and he signed the centrist "Promise to America" pledge, which drew criticism from some on the party's left.<ref name="bpr-july" /> His campaign has emphasized Hurricane Helene recovery funding, cost of living, health care, immigration reform, and anti-corruption measures.<ref name="wlos-primary" /><ref name="bpr-july" /> On energy and the environment, he has said he supports the cheapest available energy sources including solar, and opposes cuts to the [[National Oceanic and Atmospheric Administration]].<ref name="mountainx-env" /> He has said he supports a short-term moratorium on new data center construction in Western North Carolina.<ref name="sace" /> He was endorsed by the [[Blue Dog Coalition|Blue Dog PAC]].<ref>https://bluedogdems.com/johnny-garcia/</ref> Between July 2025 and February 2026, Ager raised more than $940,000, outpacing incumbent Republican [[Chuck Edwards]].<ref name="citizen-times" />
+
+Ager was originally set to face Edwards in the general election. In August 2026, Edwards withdrew from the race after the [[United States House Committee on Ethics|House Ethics Committee]] recommended he be censured over allegations of inappropriate conduct toward two female aides.<ref name="wlos-edwards" /> On August 10, 2026, the district's Republican executive committee selected state representative [[Jennifer Balkcom]] as the replacement nominee.<ref name="newsline-balkcom" /> [[Sabato's Crystal Ball]] moved the race to "Toss-up" in late July 2026,<ref name="newsline-balkcom" /> while the [[Cook Political Report]] rated it "Lean Republican" as of September 2026.<ref name="cook" /> The general election is scheduled for November 3, 2026.
+
+=== Electoral history ===
+{{Election box begin no change
+| title = 2026 Democratic primary, North Carolina's 11th congressional district<ref name="ballotpedia" /><!-- Replace with the certified NC State Board of Elections results page. -->
+}}
+{{Election box winning candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = Jamie Ager
+| votes = 49,077
+| percentage = 64.7
+}}
+{{Election box candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = Richard Hudspeth
+| votes = 12,027
+| percentage = 15.9
+}}
+{{Election box candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = Zelda Briarwood
+| votes = 9,852
+| percentage = 13.0
+}}
+{{Election box candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = Paul Maddox
+| votes = 3,842
+| percentage = 5.1
+}}
+{{Election box candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = Lee Whipple
+| votes = 1,071
+| percentage = 1.4
+}}
+{{Election box total no change
+| votes = 75,869
+| percentage = 100.0
+}}
+{{Election box end}}
+
+== Personal life ==
+Ager lives in Fairview with his wife, Amy, with whom he has three sons.<ref name="announcement" /> The couple hosts monthly barn dances at their farm.<ref name="newsline-ads" />
+
+== References ==
+{{Reflist|refs=
+<ref name="newsline-primary">{{cite news |last=Zhu |first=Christine |title=Ager wraps up Dem nomination in NC-11, Buckhout takes NC-01 Republican primary |url=https://ncnewsline.com/2026/03/03/ager-wraps-up-dem-nomination-in-nc-11-buckhout-takes-nc-01-republican-primary/ |work=NC Newsline |date=March 3, 2026 |access-date=October 3, 2026}}</ref>
+<ref name="citizen-times">{{cite news |title=Western NC farmer Jamie Ager is running for Congress |url=https://cardinalpine.com/2026/03/16/western-nc-farmer-jamie-ager-congress/ |work=USA Today Network (via Cardinal & Pine) |date=March 16, 2026 |access-date=October 3, 2026}}</ref>
+<ref name="wlos-primary">{{cite news |last=Hensley |first=Dean |title=Jamie Ager is projected to win Democratic nomination for N.C. House 11 |url=https://wlos.com/news/local/democratic-nomination-north-carolina-11-congressional-district-primary-election-jamie-ager |work=[[WLOS]] |date=March 3, 2026 |access-date=October 3, 2026}}</ref>
+<ref name="provisioner">{{cite magazine |last=Gazdziak |first=Sam |title=Hickory Nut Gap Meats grows a business and a movement |url=https://www.provisioneronline.com/articles/111605-hickory-nut-gap-meats-grows-a-business-and-a-movement |magazine=The National Provisioner |date=October 18, 2021 |access-date=October 3, 2026}}</ref>
+<ref name="wsoc">{{cite news |title=Farmer's congressional bid highlights rural issues, community resilience |url=https://www.wsoctv.com/news/local/farmers-congressional-bid-highlights-rural-issues-community-resilience/ZW54LRIORZCOFIPSDPQ7S6LYPQ |work=[[WSOC-TV]] |date=August 18, 2025 |access-date=October 3, 2026}}</ref>
+<ref name="announcement">{{cite press release |title=Fairview Farmer Jamie Ager Announces Campaign for Congress in North Carolina's 11th Congressional District |url=https://agerforcongress.com/release/fairview-farmer-jamie-ager-announces-campaign-for-congress-in-north-carolinas-11th-congressional-district |publisher=Ager for Congress |date=July 31, 2025 |access-date=October 3, 2026}}</ref>
+<ref name="bpr-july">{{cite news |last=Sonmez |first=Felicia |title=Edwards vs. Ager 11th District contest could be toss-up by November, experts say |url=https://www.bpr.org/politics-government/2026-07-02/edwards-vs-ager-11th-district-contest-could-be-toss-up-by-november-experts-say |work=[[Blue Ridge Public Radio]] |date=July 2, 2026 |access-date=October 3, 2026}}</ref>
+<ref name="mountainx-env">{{cite news |last=Calder |first=Thomas |title=Jamie Ager shares his environmental stances and how they inform his campaign for U.S. 11 |url=https://mountainx.com/news/politics-elections/jamie-ager-shares-his-environmental-stances-and-how-they-inform-his-campaign-for-u-s-11/ |work=[[Mountain Xpress]] |date=April 16, 2026 |access-date=October 3, 2026}}</ref>
+<ref name="wlos-edwards">{{cite news |last=Liverman |first=Marc |title=Jamie Ager discusses Edwards' exit, what's next for the NC-11 race |url=https://wlos.com/news/local/jamie-ager-reacts-chuck-edwards-withdrawal-exit-nc-11-congressional-race-house-committee-ethics-report |work=[[WLOS]] |date=August 5, 2026 |access-date=October 3, 2026}}</ref>
+<ref name="newsline-balkcom">{{cite news |last=Zhu |first=Christine |title=NCGOP selects Balkcom as NC-11 candidate after US Rep. Edwards' withdrawal |url=https://ncnewsline.com/2026/08/10/ncgop-to-select-new-nc-11-candidate-after-us-rep-edwards-withdrawal/ |work=NC Newsline |date=August 10, 2026 |access-date=October 3, 2026}}</ref>
+<ref name="cook">{{cite web |title=NC-11 race rating |url=https://www.cookpolitical.com/house/race/483756 |website=[[The Cook Political Report]] |date=September 25, 2026 |access-date=October 3, 2026}}</ref>
+<ref name="newsline-ads">{{cite news |last=Zhu |first=Christine |title=NC-11 candidates offer competing 'mountain values' in unique ads |url=https://ncnewsline.com/2026/09/30/nc-11-candidates-offer-competing-mountain-values-in-unique-ads |work=NC Newsline |date=September 30, 2026 |access-date=October 3, 2026}}</ref>
+<ref name="citizen-times-mcclure">{{cite news |title=Visiting Our Past: Hickory Nut Gap's McClure was ardent about beauty |url=https://www.citizen-times.com/story/news/local/2023/04/22/visiting-our-past-hickory-nut-gaps-mcclure-was-ardent-about-beauty/70121922007/ |work=[[Asheville Citizen-Times]] |date=April 22, 2023 |access-date=October 3, 2026}}</ref>
+<ref name="marketplace">{{cite news |last=Wilder |first=Alice |title=How one North Carolina farm is coping post-Helene |url=https://www.marketplace.org/story/2024/10/18/north-carolina-hickory-nut-gap-farm-hurricane-helene |work=[[Marketplace (radio program)|Marketplace]] |date=October 18, 2024 |access-date=October 3, 2026}}</ref>
+<ref name="wlos-usda">{{cite news |last1=DiOrio |first1=Ed |last2=Annas |first2=Ruby |title=Local farm has beef with USDA cuts, loses funding to provide food to schools |url=https://wlos.com/news/local/usda-cuts-threatens-school-meals-financial-loss-local-farms-beef-buncombe-county-schools |work=[[WLOS]] |date=March 19, 2025 |access-date=October 3, 2026}}</ref>
+<ref name="nbc-results">{{cite web |title=North Carolina House District 11 Primary Results 2026 |url=https://www.nbcnews.com/politics/2026-primary-elections/north-carolina-us-house-district-11-results |publisher=[[NBC News]] |access-date=October 3, 2026}}</ref>
+<ref name="sace">{{cite web |last=Carnevale |first=Chris |title=Jamie Ager on Climate & Energy: Where the Candidates Stand |url=https://cleanenergy.org/news/jamie-ager-on-climate-energy-where-the-candidates-stand/ |publisher=[[Southern Alliance for Clean Energy]] |date=September 4, 2026 |access-date=October 3, 2026}}</ref>
+<ref name="hng-birthday">{{cite web |title=Today is a very special day – it's Jamie Ager's birthday!! |url=https://www.facebook.com/hickorynutgapmeats/photos/today-is-a-very-special-day-its-jamie-agers-birthday-happy-birthday-jamie-from-y/10160489902749276/ |website=Facebook |publisher=Hickory Nut Gap |date=November 18, 2021 |access-date=October 3, 2026}}</ref>
+<ref name="ballotpedia">{{cite web |title=Jamie Ager |url=https://ballotpedia.org/Jamie_Ager |website=[[Ballotpedia]] |access-date=October 3, 2026}}</ref>
+}}
+
+== External links ==
+* [https://agerforcongress.com/ Campaign website]
+* {{Ballotpedia|Jamie Ager}}
+
+{{s-start}}
+{{s-par|us-hs}}
+{{s-bef|before=[[Chuck Edwards]]}}
+{{s-ttl|title=Member of the [[List of United States representatives from North Carolina|U.S. House of Representatives]]<br />from [[North Carolina's 11th congressional district]]|years=Taking office 2027<!-- –present -->}}
+{{s-non|reason=Elect<!-- inc -->}}
+{{s-end}}
+
+{{DEFAULTSORT:Ager, Jamie}}
+[[Category:1977 births]]
+[[Category:21st-century United States representatives]]
+[[Category:Democratic Party United States representatives from North Carolina]]
+[[Category:Businesspeople from North Carolina]]
+[[Category:Candidates in the 2026 United States House of Representatives elections]]
+[[Category:Farmers from North Carolina]]
+[[Category:Living people]]
+[[Category:North Carolina Democrats]]
+[[Category:Warren Wilson College alumni]]

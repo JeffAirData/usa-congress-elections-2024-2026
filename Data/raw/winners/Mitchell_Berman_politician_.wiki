@@ -1,0 +1,49 @@
+{{Short description|American politician (born 1986)}}
+{{Infobox officeholder
+|name = Mitchell Berman
+|state = [[Wisconsin]]
+|district = {{ushr|WI|1|1st}}
+|term_start = January 3, 2027
+|term_end = 
+|succeeding = [[Bryan Steil]]
+|predecessor = [[Bryan Steil]]
+|successor = 
+|birth_name = Mitchell Alan Berman
+|birth_date = {{birth date and age|1986|2|7}}
+|birth_place = [[Peshtigo, Wisconsin]], U.S.
+|death_date = 
+|death_place = 
+|party = [[Democratic Party (United States)|Democratic]]
+|education = [[Marian University (Wisconsin)|Marian University]] ([[Bachelor of Science|BS]])
+}}
+'''Mitchell Alan Berman''' (born February 7, 1986) is an American politician and [[registered nurse]] from [[Racine County, Wisconsin]]. A member of the [[Democratic Party (United States)|Democratic Party]], he is the member-elect to the [[United States House of Representatives]] for {{ushr|WI|1}}.
+
+== Early life and career ==
+Mitchell was born and raised in [[Peshtigo, Wisconsin]].<ref>{{Cite web |last=Casey |first=Evan |date=2026-10-22 |title=Republicans have held Wisconsin's 1st Congressional District for decades. Could this be the year it flips? |url=https://www.wpr.org/news/1st-house-district-bryan-steil-mitchell-berman-2026 |access-date=2026-11-04 |website=WPR |language=en-US}}</ref> He earned a Bachelor of Science degree in nursing from [[Marian University (Wisconsin)|Marian University]].<ref>{{Cite web |date=2026-09-30 |title=Wisconsin's 1st Congressional District 2026: Steil vs. Berman {{!}} Racine County Eye |url=https://racinecountyeye.com/racine-county-voter-guide-2026/us-house-wisconsin-1st-district-2026/ |access-date=2026-11-04 |language=en-US}}</ref> Berman worked with Teamsters Local 344 while in college. He also served for 10 years as a nurse in a [[United States Department of Veterans Affairs]] clinic in Wisconsin and has been employed by [[National Nurses United]].<ref>{{Cite web |date=2026-10-20 |title=Berman campaign: Mitchell Berman named “Unrig Washington” candidate by End Citizens United, calls on Steil to support real stock trading ban |url=https://www.wispolitics.com/2026/berman-campaign-mitchell-berman-named-unrig-washington-candidate-by-end-citizens-united-calls-on-steil-to-support-real-stock-trading-ban/ |access-date=2026-11-04 |website=WisPolitics |language=en-US}}</ref>
+
+== U.S. House of Representatives==
+In August 2025, Berman announced his candidacy for the [[United States House of Representatives]] in {{ushr|WI|1}} in the 2026 elections as a member of the [[Democratic Party (United States)|Democratic Party]].<ref>{{Cite web |date=August 12, 2025 |title=Berman campaign: Democrat launches campaign for Wisconsin's First Congressional District |url=https://www.wispolitics.com/2025/berman-campaign-democrat-launches-campaign-for-wisconsins-first-congressional-district/ |access-date=August 12, 2025 |website=[[WisPolitics]]}}</ref> Endorsed by the [[Blue Dog Coalition|Blue Dog PAC]]<ref>https://bluedogdems.com/mitchell-berman/</ref>, he defeated incumbent [[Bryan Steil]].<ref>{{Cite web |last=Yurk |first=Ricardo Torres and Valerie |title=Mitchell Berman defeats Bryan Steil in Wisconsin's 1st District |url=https://www.jsonline.com/story/news/politics/elections/2026/11/03/mitchell-berman-defeats-bryan-steil-in-wisconsins-1st-district/92415764007/ |access-date=2026-11-04 |website=Journal Sentinel |language=en-US}}</ref>
+
+==References==
+{{reflist}}
+
+{{s-start}}
+{{s-par|us-hs}}
+{{s-bef|before=[[Bryan Steil]]}}
+{{s-ttl|title=Member of the [[List of United States representatives from Wisconsin|U.S. House of Representatives]]<br>from [[Wisconsin's 1st congressional district]]|years=Taking office 2027<!-- –present -->}}
+{{s-non|reason=Elect}}<!-- {{s-inc}} -->
+{{s-end}}
+<!-- {{WI-FedRep}}
+{{Current U.S. representatives}}
+{{USCongRep-start |congresses=120th–present [[United States Congress]] |state=[[Wisconsin's congressional delegations|Wisconsin]]}}
+{{USCongRep/WI/120}}
+{{USCongRep-end}} -->
+
+{{DEFAULTSORT:Berman, Mitchell}}
+[[Category:1986 births]]
+<!--[[Category:21st-century United States representatives]]-->
+[[Category:21st-century Wisconsin politicians]]
+<!--[[Category:Democratic Party United States representatives from Wisconsin]]-->
+[[Category:Living people]]
+[[Category:Marian University (Wisconsin) alumni]]
+[[Category:Wisconsin Democrats]]

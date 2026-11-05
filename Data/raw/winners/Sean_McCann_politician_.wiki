@@ -1,0 +1,95 @@
+{{Short description|American politician (born 1971)}}
+{{Use American English|date=July 2026}}
+{{Infobox officeholder
+| name          = Sean McCann
+| state         = [[Michigan]]
+| district      = {{ushr|MI|4|4th}}
+| term_start    = January 3, 2027
+| term_end      = 
+| succeeding    = [[Bill Huizenga]]
+| predecessor   = [[Bill Huizenga]]
+| successor     = 
+| office1       = Member of the [[Michigan Senate]]
+| term_start1   = January 1, 2019
+| term_end1     = <!-- January 3, 2027 -->
+| predecessor1  = [[Margaret O'Brien (politician)|Margaret O'Brien]]
+| successor1    = <!-- ''Vacant'' -->
+| constituency1 = [[Michigan's 20th Senate district|20th district]] (2019–2023)<br>[[Michigan's 19th Senate district|19th district]] (2023–present)
+| state_house2  = Michigan
+| district2     = [[Michigan's 60th House of Representatives district|60th]]
+| term_start2   = January 1, 2011
+| term_end2     = December 31, 2014
+| predecessor2  = [[Robert Jones (Michigan politician)|Robert Jones]]
+| successor2    = [[Jon Hoadley]]
+| birth_name    = Sean Andrew McCann
+| birth_date    = {{birth date and age|1971|9|21}}
+| birth_place   = [[Detroit]], [[Michigan]], U.S.
+| death_date    = 
+| death_place   = 
+| citizenship   = American<br>[[Citizen Potawatomi Nation]]
+| party         = [[Democratic Party (United States)|Democratic]]
+| spouse        = Priscilla
+| children      = 2
+| education     = [[Western Michigan University]] ([[Bachelor of Arts|BA]])
+| website       = {{url|senatedems.com/mccann|State Senate website}}
+}}
+'''Sean Andrew McCann'''<ref name="committee_mccann">{{cite web |url=https://cfrsearch.nictusa.com/committees/518311 |title=Michigan Committee Statement of Organization |publisher=[[Michigan Secretary of State]] |accessdate=November 23, 2019}}</ref> (born September 21, 1971) is the senator for the [[Michigan Senate]]'s [[Michigan's 19th Senate district|19th district]].<ref name="MLive.com">{{cite news|url=https://www.mlive.com/news/kalamazoo/index.ssf/2018/11/michigans_20th_senate_district.html|title=Democrat Sean McCann beats GOP state Sen. Margaret O'Brien|work=MLive.com}}</ref> He formerly represented the [[Michigan's 20th Senate district|20th senate district]].<ref>{{cite web |url=https://mdoe.state.mi.us/legislators/Legislator/LegislatorDetail/5196|title=Legislator Details - Sean McCann|publisher=[[Library of Michigan]] |access-date=February 12, 2023}}</ref> He is a former member of the [[Michigan House of Representatives]], who represented the [[Michigan's 60th House of Representatives district|60th district]]. A member of the [[Democratic Party (United States)|Democratic Party]], McCann is the member-elect of the [[United States House of Representatives]] for {{ushr|MI|4}} after defeating [[Republican Party (United States)|Republican]] incumbent [[Bill Huizenga]] in the [[2026 United States House of Representatives elections in Michigan#District 4|2026 election]].<ref>{{cite web |title=Sean McCann |url=https://ballotpedia.org/Sean_McCann |website=Ballotpedia |access-date=10 September 2026 |language=en}}</ref><ref name=Flip>{{cite news|url= https://www.fox17online.com/news/national-politics/america-votes/sean-mccann-wins-election-in-4th-congressional-district-ap-projects-unseating-bill-huizenga|title=Sean McCann wins election in 4th Congressional District, AP projects, unseating Bill Huizenga|publisher=[[WXMI]]|date=November 4, 2026}}</ref> The district serves much of southwestern Michigan, including McCann's hometown of [[Kalamazoo]] as well as [[Holland, Michigan|Holland]], [[Battle Creek]], and [[Benton Harbor]].
+
+==Personal life and education==
+McCann graduated from [[Western Michigan University]] in 1993 with a degree in political science.<ref name="House bio">{{cite web|title=Rep Sean McCann's Biography|url=http://060.housedems.com/biography|publisher=Michigan House Democrats|accessdate=September 8, 2013|url-status=dead|archiveurl=https://web.archive.org/web/20121028184900/http://060.housedems.com/biography|archivedate=October 28, 2012}}<!--outdated--></ref> He is a member of the [[Citizen Potawatomi Nation]].<ref>{{Cite web|url=https://ictnews.org/politics/election-2026/two-potawatomi-candidates-facing-off-in-michigan-primary/|title=Two Potawatomi candidates facing off in Michigan primary|first=Amelia|last=Schafer|date=July 31, 2026}}</ref><ref>{{cite news |last1=Bennett-Begaye |first1=Jourdan |title=8 Native candidates battle for the U.S. House |url=https://ictnews.org/politics/election-2026/seven-native-candidates-battle-for-the-u-s-house/ |access-date=4 November 2026 |work=ICT |date=4 November 2026}}</ref>
+
+==Career==
+===Local and state politics===
+Following McCann's graduation, he became executive director of the Vine Neighborhood Association.<ref name="House bio"/> While working with Vine, McCann was elected to the [[Kalamazoo, Michigan]], city commission in 1999. McCann served on the commission for ten years. He was elected to the Michigan House in 2010, defeating Republican Jeff Fernandez.<ref name="House bio"/>
+
+In 2013, he proposed the creation of an independent commission to draw legislative districts in the state, in order to help prevent [[gerrymandering]].<ref name=Gerrymandering>{{cite news|last=Zipp|first=Yvonne|title=State Rep. Sean McCann proposes independent commission to draw state's legislative districts|url=http://www.mlive.com/news/kalamazoo/index.ssf/2013/06/state_rep_sean_mccann_proposes.html|accessdate=September 8, 2013|newspaper=Kalamazoo Gazette|date=June 6, 2013}}</ref> He also worked for the Kalamazoo [[Red Cross]].<ref name="House bio"/>
+
+In 2014, he ran against [[Republican Party (United States)|Republican Party]] nominee [[Margaret O'Brien (politician)|Margaret O'Brien]] and [[Libertarian Party (United States)|Libertarian Party]] nominee [[Lorence Wenke]] for the 20th district seat in the [[Michigan Senate]].<ref>{{cite news|url=http://www.mlive.com/news/kalamazoo/index.ssf/2014/11/absentee_ballots_likely_to_dec.html|title=Close 20th District state Senate race has candidates waiting on absentee-ballot count|work=MLive.com|accessdate=2014-12-31}}</ref> He lost to O'Brien after a recount widened her margin of victory from 59 votes to 61 votes.<ref name="wood1214">{{Cite news|title=In 20th District recount, O'Brien keeps win|work=WOODTV.com|date=December 10, 2014|accessdate=2014-12-31|url=http://woodtv.com/2014/12/10/in-recount-rep-obrien-retains-win}}</ref>
+
+In 2018, in a rematch, McCann defeated O'Brien with 60,523 votes to O'Brien's 48,197 votes.<ref name="MLive.com"/>
+
+===Congress===
+McCann was the Democratic nominee in the 4th district against Republican [[Bill Huizenga]], who was seeking his third term in the district after six terms in the neighboring 2nd district. 
+
+On election night, McCann led Huizenga, 50 percent to 48 percent.<ref name=Totals>[MI-04 totals from NBC News]</ref> He declared victory early Wednesday morning, with the AP and most news outlets following suit later that day.<ref name=Flip/> Ultimately, McCann won by running up a 34,500-vote margin in his native [[Kalamazoo County]], almost six times his overall margin of 6,700 votes.<ref name=Totals/> His win gave the Democrats two of the three seats anchored in traditionally Republican [[West Michigan]], with [[Hillary Scholten]] winning reelection in the neighboring [[Grand Rapids]]-based {{ushr|MI|3|3rd district}}.
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://senatedems.com/McCann/ State senate profile]
+*[https://seanmccannforcongress.com/ Campaign website]
+*[http://votesmart.org/candidate/biography/76066/sean-mccann#.UiznXsbrxP0 Vote Smart page]
+
+{{s-start}}
+{{s-par|us-hs}}
+{{s-bef|before=[[Bill Huizenga]]}}
+{{s-ttl|title=Member of the [[List of United States representatives from Michigan|U.S. House of Representatives]]<br>from [[Michigan's 4th congressional district]]|years=Taking office 2027<!-- –present -->}}
+{{s-non|reason=Elect}}<!-- {{s-inc}} -->
+{{s-end}}
+
+<!-- {{MI-FedRep}}
+{{Current U.S. representatives}}
+{{USCongRep-start |congresses=120th–present [[United States Congress]] |state=[[Michigan's congressional delegations|Michigan]]}}
+{{USCongRep/MI/120}}
+{{USCongRep-end}} -->
+{{Michigan State Senators}}
+
+{{DEFAULTSORT:Mccann, Sean Andrew}}
+[[Category:1971 births]]
+[[Category:20th-century Michigan politicians]]
+[[Category:21st-century members of the Michigan Legislature]]
+[[Category:21st-century Native American politicians]]
+[[Category:21st-century United States representatives]]
+[[Category:American people of Potawatomi descent]]
+[[Category:Citizen Potawatomi Nation politicians]]
+[[Category:Candidates in the 2026 United States House of Representatives elections]]
+[[Category:Democratic Party members of the Michigan House of Representatives]]
+[[Category:Democratic Party Michigan state senators]]
+[[Category:Democratic Party United States representatives from Michigan]]
+[[Category:Living people]]
+[[Category:Michigan city council members]]
+[[Category:Native American members of the United States Congress]]
+[[Category:Politicians from Detroit]]
+[[Category:Politicians from Kalamazoo, Michigan]]
+[[Category:Western Michigan University alumni]]

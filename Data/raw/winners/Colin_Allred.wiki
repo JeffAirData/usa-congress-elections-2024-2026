@@ -1,0 +1,551 @@
+{{Short description|American politician, lawyer (born 1983)}}
+{{Use mdy dates|date=October 2024}}
+{{Use American English|date=April 2024}}
+{{Infobox officeholder
+| name                = Colin Allred
+| image               = Colin Allred, official portrait, 117th Congress.jpg
+| caption             = Official portrait, 2022
+| state               = [[Texas]]
+| term_start          = January 3, 2027
+| term_end            = 
+| succeeding          = [[Julie Johnson (politician)|Julie Johnson]] (redistricted)
+| predecessor         = [[Julie Johnson (politician)|Julie Johnson]] (redistricted)
+| successor           = 
+| constituency        = {{ushr|TX|33|C}} 
+| term_start1         = January 3, 2019
+| term_end1           = January 3, 2025
+| predecessor1        = [[Pete Sessions]]
+| successor1          = [[Julie Johnson (politician)|Julie Johnson]]
+| constituency1       = {{ushr|TX|32|C}} 
+| birth_name          = Colin Zachary Allred
+| birth_date          = {{birth date and age|1983|4|15}}
+| birth_place         = [[Dallas, Texas]], U.S.
+| death_date          = 
+| death_place         = 
+| party               = [[Democratic Party (United States)|Democratic]]
+| spouse              = {{marriage|Alexandra Eber|2017}}
+| children            = 2
+| education           = [[Baylor University]] ([[Bachelor of Arts|BA]])<br />[[University of California, Berkeley]] ([[Juris Doctor|JD]])
+| module        = {{Infobox NFL biography
+| embed         = yes
+| number        = 56
+| position      = [[Linebacker]]
+| height_ft     = 6
+| height_in     = 1
+| weight_lb     = 242
+| high_school   = [[Hillcrest High School (Dallas)|Hillcrest]] (Dallas, Texas)
+| college       = [[Baylor Bears football|Baylor]]
+| undrafted_year = 2006
+| past_teams    = * [[Tennessee Titans]] ({{NFL Year|2006}}–{{NFL Year|2010}})
+| stat_label1   = [[Tackle (football move)|Total tackles]]
+| stat_value1   = 46
+| pfr           = AllrCo99
+|module2     = {{Listen
+|pos         = center
+|embed       = yes
+|filename    = Rep. Colin Allred on the 2023 Mass Shooting in Allen, Texas.ogg
+|title       = Allred's voice
+|type        = speech
+|description = Allred on the [[2023 Allen, Texas mall shooting]].<br />Recorded May 9, 2023}}}}
+}}
+'''Colin Zachary Allred''' (born April 15, 1983) is an American politician, [[Civil and political rights|civil rights]] lawyer, and former professional [[American football|football]] player who served as the [[United States House of Representatives|U.S. representative]] for {{ushr|TX|32}} from 2019 to 2025. The district included the northeastern corner of [[Dallas]] as well as many of its northeastern suburbs. He is a member of the [[Democratic Party (United States)|Democratic Party]], and is its nominee for the [[2026 United States House of Representatives elections in Texas#District 33|33rd congressional district]] in 2026.
+
+Before entering politics, Allred was a [[linebacker]] who played for the [[Tennessee Titans]] of the [[National Football League]] (NFL) for four seasons. After being released, he left football to pursue a degree in law. Allred received his [[Juris doctorate|J.D.]] from the [[University of California, Berkeley]]. He then held multiple positions in the [[Presidency of Barack Obama|Obama administration]], first at the [[United States Department of Housing and Urban Development|Department of Housing and Urban Development]] and later at the [[Executive Office for United States Attorneys]]. 
+
+Allred was first elected to Congress in [[2018 United States House of Representatives elections in Texas#District 32|2018]], defeating Republican incumbent [[Pete Sessions]]. He was re-elected in [[2020 United States House of Representatives elections in Texas#District 32|2020]] and [[2022 United States House of Representatives elections in Texas#District 32|2022]]. In [[2024 United States Senate election in Texas|2024]], Allred opted to run for Senate instead of re-election to the House, where he was succeeded by [[Julie Johnson (politician)|Julie Johnson]]. He won the Democratic nomination but lost to Republican incumbent [[Ted Cruz]] in the general election. He ran for Senate again in [[2026 United States Senate election in Texas|2026]], but later dropped out to run for his old congressional seat, [[2026 United States House of Representatives elections in Texas#District 33|challenging Johnson in the Democratic primary]]. He won the nomination in a runoff and is heavily favored to win the general election.<ref>{{Cite web |title=TX-33 2026 |url=https://www.cookpolitical.com/house/race/485381 |access-date=2026-09-05 |website=Cook Political Report |language=en}}</ref>  {{TOC limit|3}}
+
+== Early life and education  ==
+Allred was born in [[Dallas]], Texas. He was raised by his mother, Judith Allred,<ref>{{Cite web|url=https://www.dallasnews.com/news/politics/2024/11/05/10-things-to-know-about-colin-allred-democratic-candidate-for-us-senate-race/|title=10 things to know about Colin Allred, Democratic candidate for U.S. Senate|first1=Joseph|last1=Morton|date=November 6, 2024|website=Dallas News}}</ref> a single mother who was a [[State school#United States|public school]] teacher.<ref name=":2">{{Cite web|last=Roeloffs|first=Mary Whitfill|title=Who Is Colin Allred? Titans Linebacker-Turned-Congressman Challenging Texas Sen. Ted Cruz|url=https://www.forbes.com/sites/maryroeloffs/2024/03/06/who-is-colin-allred-titans-linebacker-turned-congressman-challenging-texas-sen-ted-cruz/|access-date=September 16, 2024|website=Forbes|language=en|archive-date=March 17, 2024|archive-url=https://web.archive.org/web/20240317114257/https://www.forbes.com/sites/maryroeloffs/2024/03/06/who-is-colin-allred-titans-linebacker-turned-congressman-challenging-texas-sen-ted-cruz/|url-status=live}}</ref> As of 2024, Allred had never met his father.<ref name="wermund" /> A fourth-generation Texan,<ref name=":6">{{Cite web|last=Nickas|first=Katie|title=Democrat Colin Allred brings campaign for U.S. Senate to Corpus Christi|url=https://www.caller.com/story/news/local/2024/08/05/colin-allred-brings-campaign-for-u-s-senate-to-corpus-christi/74645397007/|access-date=September 23, 2024|website=Corpus Christi Caller-Times|language=en-US|archive-date=September 23, 2024|archive-url=https://web.archive.org/web/20240923164423/https://www.caller.com/story/news/local/2024/08/05/colin-allred-brings-campaign-for-u-s-senate-to-corpus-christi/74645397007/|url-status=live}}</ref> Allred is related to former [[Governor of Texas|Texas governor]] [[James V. Allred]].<ref>{{cite tweet|number=1778899425705734587|user=ColinAllredTX|title=When I toured President Lyndon B. Johnson's boyhood home with his daughter Luci, it wasn't the first time an Allred and a Johnson got together to talk about the future of our state. Here is my relative, former Governor of Texas James V. Allred with LBJ and President Franklin Roosevelt.|access-date=April 12, 2024}}</ref><ref name="wermund">{{Cite web|last=Wermund|first=Benjamin|date=October 10, 2024|title=Colin Allred's no-frills approach helped win football games. He's hoping it will oust Ted Cruz|url=https://www.houstonchronicle.com/politics/election/2024/article/colin-allred-texas-senate-race-19771191.php|website=Houston Chronicle}}</ref> Allred is biracial; his father is black and his mother is white.<ref>{{Cite web|url=https://www.dallasnews.com/news/politics/2023/05/03/heres-what-to-know-about-senate-candidate-colin-allred/|title=What to know about Dallas' Colin Allred, who's challenging Ted Cruz for U.S. Senate|first=Gromer|last=Jeffers Jr|date=October 15, 2024|website=Dallas News}}</ref> Allred attended [[Hillcrest High School (Dallas)|Hillcrest High School]] in Dallas, where he played baseball, basketball and football, and served as [[class president]].<ref name=":2" /> He earned a scholarship to play [[college football]] at [[Baylor University]].<ref name="rollcall">{{cite news|last1=Gonzales|first1=Nathan L.|title=For Colin Allred, Major League dreams are close to coming true|url=https://www.rollcall.com/2019/06/21/for-colin-allred-major-league-dreams-are-close-to-coming-true/|access-date=January 9, 2021|work=[[Roll Call]]|date=June 21, 2019|language=en|archive-date=November 17, 2020|archive-url=https://web.archive.org/web/20201117195309/https://www.rollcall.com/2019/06/21/for-colin-allred-major-league-dreams-are-close-to-coming-true/|url-status=live}}</ref><ref>{{Cite web|last=Kennedy|first=Brigid|date=May 8, 2023|title=Rep. Colin Allred: A deeper look at the man hoping to unseat Ted Cruz|url=https://theweek.com/2024-primaries/1023250/rep-colin-allred-a-deeper-look-at-the-man-hoping-to-unseat-ted-cruz|access-date=September 23, 2024|website=theweek|language=en|archive-date=September 23, 2024|archive-url=https://web.archive.org/web/20240923164320/https://theweek.com/2024-primaries/1023250/rep-colin-allred-a-deeper-look-at-the-man-hoping-to-unseat-ted-cruz|url-status=live}}</ref>
+
+In 2001, Allred began to play for the [[Baylor Bears football|Baylor Bears]] as a [[linebacker]]<ref>{{Cite web|url=http://baylorbears.cstv.com/sports/m-footbl/mtt/allred_colin00.html|title=Colin Allred|archive-url=https://web.archive.org/web/20060829100017/http://baylorbears.cstv.com/sports/m-footbl/mtt/allred_colin00.html|website=Baylor Bears|archive-date=August 29, 2006}}</ref> under head coach [[Guy Morriss]].<ref>{{Cite web|last=Solomon|first=Dan|date=May 2, 2023|title=Who Is Colin Allred, the U.S. Rep Planning to Take on Ted Cruz?|url=https://www.texasmonthly.com/news-politics/who-is-colin-allred-ted-cruz-senate-race/|access-date=September 25, 2024|website=Texas Monthly|language=en|archive-date=September 13, 2023|archive-url=https://web.archive.org/web/20230913020937/https://www.texasmonthly.com/news-politics/who-is-colin-allred-ted-cruz-senate-race/|url-status=live}}</ref> In 2005, he was selected as the [[Captain (sports)|team captain]] and defensive [[Most valuable player|MVP]].<ref>{{Cite magazine|last=Thomas|first=Louisa|date=October 13, 2024|title=Colin Allred's Political Playbook|url=https://www.newyorker.com/sports/sporting-scene/colin-allreds-political-playbook|access-date=October 17, 2024|magazine=The New Yorker|language=en-US}}</ref><ref name=":7">{{Cite web|last=Hardin|first=Tammy|date=October 30, 2020|title='B' Association to Honor Baylor Legend Colin Allred|url=https://blogs.baylor.edu/buletterwinners/2020/10/30/b-association-to-honor-baylor-legend-colin-allred/|access-date=October 17, 2024|website=Baylor "B" Association|language=en-US|archive-date=July 19, 2024|archive-url=https://web.archive.org/web/20240719192821/https://blogs.baylor.edu/buletterwinners/2020/10/30/b-association-to-honor-baylor-legend-colin-allred/|url-status=live}}</ref> In December 2005, Allred graduated from Baylor with a Bachelor of Arts in history.<ref name="Titans">{{Cite web|url=http://www.titansonline.com/team/roster/colin-allred/df455429-b7cc-49f4-8c41-2db02df09902/|title=Colin Allred|archive-url=https://web.archive.org/web/20110106043815/http://www.titansonline.com/team/roster/colin-allred/df455429-b7cc-49f4-8c41-2db02df09902/|archive-date=January 6, 2011|website=Tennessee Titans|access-date=June 23, 2019|url-status=dead}}</ref><ref name="bioguide">{{Cite web|url=https://bioguideretro.congress.gov/Home/MemberDetails?memIndex=A000376|title=Biographical Directory of the U.S. Congress - Retro Member details|website=bioguideretro.congress.gov}}</ref> As a senior, he received [[Big 12 Conference|All-Big 12]] honorable mention from the [[Associated Press]].<ref>{{cite news|title=2005 SBC All-Big 12 Conference Football Awards Announced|url=https://big12sports.com/news/2005/11/29/1520925.aspx|access-date=January 9, 2021|website=[[Big 12]]|date=November 29, 2005|language=en|archive-date=April 21, 2022|archive-url=https://web.archive.org/web/20220421193753/https://big12sports.com/news/2005/11/29/1520925.aspx|url-status=live}}</ref> He was also selected as a first-team Academic All-Big 12 in 2004 and 2005.<ref name="Titans" /><ref name=":7" />
+
+==Professional career ==
+===Football===
+{{NFL predraft
+|    height ft = 6
+|    height in = 1 1/8
+|       weight = 237
+|         dash = 4.85
+|      shuttle = 4.37
+|   cone drill = 7.33
+|     vertical = 34.0
+|     broad ft = 9
+|     broad in = 7
+|        bench = 17
+|    wonderlic =
+|         note = All values from Pro Day<ref>{{Cite web|url=https://draftscout.com/dsprofile.php?PlayerId=11879&DraftYear=2006|title=Colin Allred, Baylor, OLB, 2006 NFL Draft Scout, NCAA College Football|website=DraftScout.com|access-date=January 6, 2022}}</ref>
+}}
+
+[[file:Colin Allred on defense during Titans training camp, 2008.jpg|thumb|left|Allred (#56) on a defensive play during Tennessee Titans training camp in 2008]]
+
+Allred was signed by the [[Tennessee Titans]] as an [[undrafted free agent]] following the [[2006 NFL draft]] on May 4, 2006. He was waived on August 29 but re-signed on January 26, 2007. Allred was waived again on September 1 during final cuts and signed to the [[practice squad]] on September 2.
+
+He was promoted to the active roster as [[linebacker]]<ref name=":2" /> on December 15 and made his NFL regular season debut on December 16, 2007.<ref>{{cite web|url=https://www.pro-football-reference.com/players/A/AllrCo99/gamelog/|title=Colin Allred career game logs|website=Pro-Football-Reference.com|access-date=March 3, 2023|archive-date=May 4, 2023|archive-url=https://web.archive.org/web/20230504015940/https://www.pro-football-reference.com/players/A/AllrCo99/gamelog/|url-status=live}}</ref> In four seasons for the Titans between 2007 and 2010, Allred appeared in 32 games and recorded 46 tackles.<ref>{{Cite web|title=Colin Allred Career Stats - NFL|url=https://www.espn.com/nfl/player/stats/_/id/9847/colin-allred|access-date=September 16, 2024|website=ESPN|language=en|archive-date=May 9, 2024|archive-url=https://web.archive.org/web/20240509140054/https://www.espn.com/nfl/player/stats/_/id/9847/colin-allred|url-status=live}}</ref>
+
+On October 10, 2010,<ref>{{Cite web|date=October 13, 2010|title=Winborn returns to Titans; fellow LB Allred out for season|url=https://www.nfl.com/news/winborn-returns-to-titans-fellow-lb-allred-out-for-season-09000d5d81b4e52b|access-date=November 2, 2024|website=NFL.com|language=en-US}}</ref> during a Titans game with the [[Dallas Cowboys]], he was severely injured in the neck during a game when he collided with Cowboys player [[Martellus Bennett]].<ref name="texastribune">{{Cite news|last=Scherer|first=Jasper|date=October 19, 2024|title=How a career-ending injury as an NFL linebacker paved the way for Colin Allred's underdog Senate bid|url=https://www.texastribune.org/2024/10/19/colin-allred-texas-senate-football-nfl-titans-baylor/|access-date=November 2, 2024|work=[[The Texas Tribune]]|language=en}}</ref> He subsequently decided to retire from football and go to law school,<ref name="texastribune"/> and he became a free agent before the 2011 season without signing with another team.<ref>[https://sportsforecaster.com/nfl/p/39117/Colin_Allred Coin Allred Transactions and injuries] {{Webarchive|url=https://web.archive.org/web/20230503214018/https://sportsforecaster.com/nfl/p/39117/Colin_Allred |date=May 3, 2023}}, ''[https://sportsforecaster.com/nfl/ Sports Forecaster] {{Webarchive|url=https://web.archive.org/web/20230605041714/https://sportsforecaster.com/nfl/ |date=June 5, 2023}}'', July 25, 2011. Retrieved May 3, 2023.</ref>
+
+===Law===
+[[File:20161007-SOHUD-Appointees-Swearing-In-0643 (31762301605).jpg|thumb|Allred with Secretary Castro in 2016]]
+In 2011, Allred enrolled at the [[UC Berkeley School of Law]]. He worked as a [[research assistant]] for professor and author [[Ian Haney López]] and graduated in 2014 with a [[Juris Doctor]] degree.<ref>{{Cite web|last=Rubino|first=Kathryn|date=November 7, 2018|title=5 Biglaw Attorneys Riding The Blue Wave To Congress|url=https://abovethelaw.com/2018/11/riding-the-blue-wave-from-biglaw-to-congress/|access-date=September 19, 2024|website=Above the Law|language=en-US}}</ref><ref name="bioguide" />
+
+After graduating from law school, Allred worked for [[Battleground Texas]] as its [[Dallas–Fort Worth metroplex|Dallas-Fort Worth]] Regional Director of Voter Protection, overseeing the state's first coordinated voter protection program. His responsibilities included overseeing the [[Voter registration in the United States|voter registration]] efforts of volunteers and managing a [[poll watcher]] program. In 2016, he worked as a special assistant in the [[United States Department of Housing and Urban Development|Department of Housing and Urban Development]]'s Office of General Counsel alongside then-Secretary [[Julian Castro]] in the Obama administration.<ref name="Chung">{{cite web|url=https://abovethelaw.com/2018/02/berkeley-law-alum-and-former-nfl-player-colin-allred-on-following-obama-the-american-dream-and-his-path-back-to-dallas/|title=Berkeley Law Alum And Former NFL Player Colin Allred On Following Obama, The American Dream, And His Path Back To Dallas|first=Renwei|last=Chung|website=[[Above the Law (website)|Above the Law]]|date=February 9, 2018}}</ref>
+
+Subsequently, Allred worked as a civil rights attorney<ref name=":2" /> at the law firm [[Perkins Coie]], where he was a [[Suffrage|voting rights]] litigator and counsel to clients including national and state political candidates and advocacy organizations.<ref name="Chung" /><ref>{{cite web|url=https://issuu.com/perkinscoie/docs/2015_perkinscoie_diversity_yir/28|title=2015 Perkins Coie Diversity Year In Review|date=January 29, 2017|website=[[Issuu]]|publisher=[[Perkins Coie]]|access-date=May 27, 2018|archive-date=June 5, 2023|archive-url=https://web.archive.org/web/20230605041712/https://issuu.com/perkinscoie/docs/2015_perkinscoie_diversity_yir/28|url-status=live}}</ref>
+
+==United States Representative==
+===Elections===
+
+==== 2018 ====
+{{see also|2018 United States House of Representatives elections in Texas#District 32}}
+[[File:Texas_32nd_2018.svg|thumb|2018 election results|upright]]
+On April 21, 2017, Allred announced his campaign to challenge incumbent [[Republican Party (United States)|Republican]] [[Pete Sessions]] in 2018.<ref>{{cite news|url=https://www.dallasnews.com/news/local-politics/2017/04/19/former-nfl-player-colin-allred-launches-campaign-unseat-pete-sessions|title=Former NFL player Colin Allred launches campaign to unseat Pete Sessions|date=April 19, 2017|work=[[The Dallas Morning News]]|access-date=January 15, 2018|first=Gromer|last=Jeffers Jr.|archive-date=January 29, 2018|archive-url=https://web.archive.org/web/20180129092700/https://www.dallasnews.com/news/local-politics/2017/04/19/former-nfl-player-colin-allred-launches-campaign-unseat-pete-sessions|url-status=live}}</ref> In a crowded Democratic primary that included two other [[Obama]] administration alums, Allred finished first, by 20 points, but did not get 50% of the vote.<ref>{{cite web|url=https://www.dallasnews.com/news/2018-elections/2018/05/22/colin-allred-beats-lillian-salerno-chance-unseat-incumbent-republican-pete-sessions|title=Colin Allred beats Lillian Salerno for chance to unseat incumbent Republican Pete Sessions {{!}} 2018 Elections|work=[[The Dallas Morning News]]|date=May 22, 2018|access-date=May 24, 2018|first=Gromer|last=Jeffers Jr.|archive-date=May 24, 2018|archive-url=https://web.archive.org/web/20180524152024/https://www.dallasnews.com/news/2018-elections/2018/05/22/colin-allred-beats-lillian-salerno-chance-unseat-incumbent-republican-pete-sessions|url-status=live}}</ref> Thus, in the May 22 [[runoff election]] (the final stage of the Democratic primary), Allred defeated [[Lewisville, Texas|Lewisville]] businesswoman [[Lillian Salerno]], receiving 69.5% of the vote.<ref>{{cite news|url=https://www.nytimes.com/interactive/2018/05/22/us/elections/results-texas-primary-runoff-elections.html|title=Texas Primary Runoff Election Results|work=[[The New York Times]]|date=May 29, 2018|access-date=May 24, 2018|archive-date=May 23, 2018|archive-url=https://web.archive.org/web/20180523001204/https://www.nytimes.com/interactive/2018/05/22/us/elections/results-texas-primary-runoff-elections.html|url-status=live}}</ref>
+
+Allred then faced Sessions in the general election. As of November 2016, this was considered a [[Swing (politics)|swing]] district because Democratic presidential candidate [[Hillary Clinton]] received marginally more votes than [[Donald Trump]] even as Sessions was reelected with no major-party opposition.<ref>{{cite news|first=Abby|last=Livingston|url=https://www.texastribune.org/2018/05/22/texas-congressional-democratic-runoff-results-laura-moser-gina-ortiz-jones-colin-alred/|title=Texas congressional Democratic runoff results: Lizzie Pannill Fletcher and Gina Ortiz Jones win|work=[[The Texas Tribune]]|date=May 22, 2018|access-date=May 24, 2018|archive-date=May 24, 2018|archive-url=https://web.archive.org/web/20180524024827/https://www.texastribune.org/2018/05/22/texas-congressional-democratic-runoff-results-laura-moser-gina-ortiz-jones-colin-alred/|url-status=live}}</ref> Allred described himself as a moderate Democrat.<ref name=":1">{{Cite news|url=https://www.politico.com/story/2018/11/24/congress-freshmen-house-democrats-to-watch-1012444|title=It's not just Ocasio-Cortez: Here are 7 freshman Democrats to watch|last=Caygle|first=Heather|work=[[Politico]]|language=en|access-date=December 9, 2018|date=November 24, 2018|archive-date=December 9, 2018|archive-url=https://web.archive.org/web/20181209212524/https://www.politico.com/story/2018/11/24/congress-freshmen-house-democrats-to-watch-1012444|url-status=live}}</ref> U.S. representative [[John Lewis]] rallied in support of Allred in October.<ref>{{Cite web|last=Livingston|first=Abby|date=October 30, 2018|title=For both parties, the race between U.S. Rep. Pete Sessions and Colin Allred is bigger than one seat|url=https://www.texastribune.org/2018/10/30/colin-allred-pete-sessions-north-texas/|access-date=September 16, 2024|website=The Texas Tribune|language=en|archive-date=March 2, 2024|archive-url=https://web.archive.org/web/20240302162941/https://www.texastribune.org/2018/10/30/colin-allred-pete-sessions-north-texas/|url-status=live}}</ref>
+
+On November 6, 2018, Allred was elected to the House of Representatives for the [[Texas's 32nd congressional district|32nd district of Texas]].<ref>{{Cite news|url=https://www.cnbc.com/2018/11/06/democrat-colin-allred-is-projected-to-beat-longtime-gop-rep-pete-sessions-in-texas-nbc-news.html|title=Democrat and ex-NFL player Colin Allred projected to beat longtime GOP Rep. Pete Sessions in Texas|last=Schwartz|first=Brian|date=November 6, 2018|work=[[CNBC]]|access-date=November 8, 2018|archive-date=November 7, 2018|archive-url=https://web.archive.org/web/20181107054420/https://www.cnbc.com/2018/11/06/democrat-colin-allred-is-projected-to-beat-longtime-gop-rep-pete-sessions-in-texas-nbc-news.html|url-status=live}}</ref> His victory was considered an upset because Sessions had been in Congress since 1997 and represented the 32nd district since its creation in 2003.<ref>{{Cite news|url=http://www.keranews.org/post/texas-midterm-election-results-abbott-cruz-win-re-election-allred-beats-sessions|title=Texas Midterm Election Results: Abbott, Cruz Win Re-Election; Allred Beats Sessions|last=Evans|first=Molly|access-date=November 7, 2018|date=November 7, 2018|work=[[KERA-TV]]|language=en|archive-date=November 7, 2018|archive-url=https://web.archive.org/web/20181107085904/http://www.keranews.org/post/texas-midterm-election-results-abbott-cruz-win-re-election-allred-beats-sessions|url-status=live}}</ref> Allred became the second person to represent this district and the first Democrat. Sessions had represented the neighboring [[Texas's 5th congressional district|5th district]], and transferred to the 32nd after the 5th was seemingly made less Republican in redistricting. As a measure of how Republican this area had been, much of what is now the 32nd had not been represented by a Democrat since 1968, when it was part of the neighboring [[Texas's 3rd congressional district|3rd district]]. 
+
+Allred was one of two former NFL players to win a seat in Congress that year, along with [[Anthony Gonzalez (politician)|Anthony Gonzalez]].
+
+====2020====
+{{see also|2020 United States House of Representatives elections in Texas#District 32}}
+Allred was reelected in 2020, defeating Republican Genevieve Collins by 20,675 votes. [https://ballotpedia.org/Texas%27_32nd_Congressional_District_election,_2020]
+
+====2022====
+{{see also|2022 United States House of Representatives elections in Texas#District 32}}
+[[File:Senator Collin Allred Chamber of Commerce.jpg|thumb|Allred meeting with the [[Dallas Chamber of Commerce]] to discuss the [[Inflation Reduction Act|Inflation Reduction]] bill in 2022]]
+Allred was reelected in 2022, defeating Republican Antonio Swad by 54,511 votes. [https://ballotpedia.org/Texas%27_32nd_Congressional_District_election,_2022]
+
+The [[United States Chamber of Commerce]], which often backs Republican candidates, endorsed Allred, a Democrat, in the 2022 House election.<ref name=":2" />
+
+====2026====
+{{see also|2026 United States House of Representatives elections in Texas#District 33}}
+Allred originally ran for Texas's other senate seat in 2026, but dropped out in December 2025, and announced he would seek the Democratic nomination for [[Texas's 33rd congressional district]]. He won the Democratic nomination after a May runoff, defeating his successor in the [[Texas's 32nd congressional district|32nd District]], [[Julie Johnson (politician)|Julie Johnson]].<ref>{{Cite web|last=Birenbaum|first=Gabby|date=December 8, 2025|title=Democrat Colin Allred drops out of Senate race, announces run for 33rd Congressional District|url=https://www.texastribune.org/2025/12/08/colin-allred-drops-out-senate-democratic-primary-congress-33rd-district-dallas/|access-date=December 8, 2025|website=The Texas Tribune|language=en-US}}</ref><ref>{{cite news|url=https://www.pbs.org/newshour/politics/colin-allred-wins-texas-primary-to-get-his-old-house-seat-back|title=Colin Allred wins Texas primary to get his old House seat back|publisher=[[PBS News Hour]]|agency=[[Associated Press]]|date=May 27, 2026|access-date=June 29, 2026}}</ref>
+
+=== Tenure ===
+[[File:Representative Collin Allred Foreign Affairs Committee.jpg|thumb|Allred while on the [[United States House Committee on Foreign Affairs|Committee of Foreign Affairs]] asks questions at a hearing on the [[Yemeni civil war (2014–present)|humanitarian crisis in Yemen]] in 2022.]]
+
+Allred was elected co-president of the Democratic freshmen of the [[116th United States Congress|116th Congress (2019–2021)]], alongside fellow Obama administration alumna [[Haley Stevens]]<ref>{{cite news|first=Todd J.|last=Gillman|url=https://www.dallasnews.com/news/politics/2018/11/28/colin-allred-elected-freshman-class-co-president-new-democrats-congress|title=Colin Allred elected freshman class co-president by new Democrats in Congress|date=November 28, 2018|work=[[The Dallas Morning News]]|access-date=November 30, 2018|language=en|archive-date=November 29, 2018|archive-url=https://web.archive.org/web/20181129040249/https://www.dallasnews.com/news/politics/2018/11/28/colin-allred-elected-freshman-class-co-president-new-democrats-congress|url-status=live}}</ref> (whom he later endorsed in 2022 in her competitive primary against [[Andy Levin]]).<ref>{{Cite web|last=Burke|first=Melissa Nann|title=Stevens rolls out endorsements by 12 other Democratic U.S. reps in primary race|url=https://www.detroitnews.com/story/news/politics/2022/02/25/stevens-rolls-out-endorsements-12-other-democratic-u-s-reps/6919195001/|access-date=April 12, 2025|website=The Detroit News|language=en-US}}</ref>
+
+He endorsed his former boss and fellow Texan, former [[United States Secretary of Housing and Urban Development|housing and urban development secretary]] [[Julian Castro]], in the [[2020 Democratic Party presidential primaries|2020 Democratic presidential primaries]].<ref>{{cite news|last=Montellaro|first=Zach|title=Sanders sprints out of the gate in his presidential bid|url=https://www.politico.com/newsletters/morning-score/2019/02/20/sanders-sprints-out-of-the-gate-in-his-presidential-bid-518038|access-date=February 22, 2019|work=[[Politico]]|date=February 20, 2019|archive-date=February 20, 2019|archive-url=https://web.archive.org/web/20190220205848/https://www.politico.com/newsletters/morning-score/2019/02/20/sanders-sprints-out-of-the-gate-in-his-presidential-bid-518038|url-status=live}}</ref> After Castro withdrew from the race, Allred endorsed [[Joe Biden 2020 presidential campaign|Joe Biden]].<ref>{{cite web|url=https://thehill.com/homenews/campaign/477935-tenth-congressional-black-caucus-member-backs-biden|title=Tenth Congressional Black Caucus member backs Biden|work=[[The Hill (newspaper)|The Hill]]|date=January 13, 2020|access-date=January 13, 2020|last=Klar|first=Rebecca|archive-date=January 13, 2020|archive-url=https://web.archive.org/web/20200113155236/https://thehill.com/homenews/campaign/477935-tenth-congressional-black-caucus-member-backs-biden|url-status=live}}</ref>
+
+Allred voted for the two [[First impeachment of Donald Trump|articles of impeachment against President Donald J. Trump]] in his first impeachment in 2019.<ref>{{Cite web|url=https://www.businessinsider.com/trump-impeachment-vote-results-house-2019-12|title=WHIP COUNT: Here's which members of the House voted for and against impeaching Trump|first=Grace|last=Panetta|website=Business Insider|access-date=January 23, 2020|archive-date=January 31, 2021|archive-url=https://web.archive.org/web/20210131002423/https://www.businessinsider.com/trump-impeachment-vote-results-house-2019-12|url-status=live}}</ref> He also voted to impeach Trump during his [[second impeachment of Donald Trump|second impeachment]] in 2021, following the [[January 6 Capitol attack]].<ref>{{Cite web|url=https://www.politico.com/interactives/2021/trump-second-impeachment-vote-count-house-results-list/|title=Here's how the House voted on Trump's second impeachment|website=Politico.com|access-date=March 2, 2021|archive-date=January 14, 2021|archive-url=https://web.archive.org/web/20210114044933/https://www.politico.com/interactives/2021/trump-second-impeachment-vote-count-house-results-list/|url-status=live}}</ref>
+
+Allred worked with Senator [[John Cornyn]] on the [[Bipartisan Safer Communities Act]].<ref name=":3">{{Cite web|date=November 22, 2023|title=Contrasting styles emerge in Democratic primary to face Sen. Ted Cruz|url=https://www.dallasnews.com/news/politics/2023/11/22/contrasting-styles-emerge-in-democratic-primary-to-face-sen-ted-cruz/|url-status=live|archive-url=https://web.archive.org/web/20240226083240/https://www.dallasnews.com/news/politics/2023/11/22/contrasting-styles-emerge-in-democratic-primary-to-face-sen-ted-cruz/|archive-date=February 26, 2024|access-date=September 16, 2024|website=Dallas Morning News|language=en}}</ref> He also initiated efforts to establish the [[Garland, Texas|Garland]] [[VA Medical Center]],<ref>{{Cite web|last=Kalthoff|first=Ken|date=December 18, 2021|title=Veterans Affairs Secretary Visits North Texas|url=https://www.nbcdfw.com/news/local/veterans-affairs-secretary-visits-north-texas/2841512/|url-status=live|archive-url=https://web.archive.org/web/20240916200703/https://www.nbcdfw.com/news/local/veterans-affairs-secretary-visits-north-texas/2841512/|archive-date=September 16, 2024|access-date=September 16, 2024|website=NBC 5 Dallas-Fort Worth|language=en-US}}</ref> and supported passage of legislation for new veterans' facilities, including a [[VA clinic]] in [[El Paso, Texas|El Paso]] and a spinal cord injury center in [[Dallas]] in 2022.<ref>{{Cite web|last=Erickson|first=Allison P.|date=October 11, 2022|title=Dallas, El Paso veterans' facilities will get $442 million in upgrades|url=https://www.texastribune.org/2022/10/11/texas-el-paso-dallas-veterans-biden/|url-status=live|archive-url=https://web.archive.org/web/20240523224638/https://www.texastribune.org/2022/10/11/texas-el-paso-dallas-veterans-biden/|archive-date=May 23, 2024|access-date=September 16, 2024|website=The Texas Tribune|language=en}}</ref> Additionally, he supported the [[Consolidated Appropriations Act, 2023|Consolidated Appropriations Act of 2023]], which secured funds for infrastructure upgrades at the [[Corpus Christi, Texas|Corpus Christi]] Port Ship Channel.<ref name=":6" /> He also sought $241 million in [[Earmark (politics)|earmarks]] for his district, for projects largely at [[Dallas Fort Worth International Airport]] in 2021.<ref>{{cite news|last1=Shutt|first1=Jennifer|date=May 26, 2021|title=Vulnerable Democrats bet earmark stigma has worn off|url=https://www.rollcall.com/2021/05/26/vulnerable-democrats-bet-earmarks-stigma-has-worn-off/|url-status=live|archive-url=https://web.archive.org/web/20240923164322/https://rollcall.com/2021/05/26/vulnerable-democrats-bet-earmarks-stigma-has-worn-off/|archive-date=September 23, 2024|access-date=June 16, 2021|work=Roll Call|language=en}}</ref>
+
+=== Committee assignments ===
+* [[United States House Committee on Foreign Affairs|Committee on Foreign Affairs]]
+** [[United States House Foreign Affairs Subcommittee on the Middle East, North Africa and International Terrorism|Subcommittee on the Middle East, North Africa and International Terrorism]]
+* [[United States House Committee on Transportation and Infrastructure|Committee on Transportation and Infrastructure]]
+** [[United States House Transportation Subcommittee on Aviation|Subcommittee on Aviation]]
+** [[United States House Transportation Subcommittee on Highways and Transit|Subcommittee on Highways and Transit]]
+** [[United States House Transportation Subcommittee on Railroads, Pipelines, and Hazardous Materials|Subcommittee on Railroads, Pipelines, and Hazardous Materials]]
+* [[United States House Committee on Veterans' Affairs|Committee on Veterans' Affairs]]
+** [[United States House Veterans' Affairs Subcommittee on Disability Assistance and Memorial Affairs|Subcommittee on Disability Assistance and Memorial Affairs]]
+
+=== Caucus memberships ===
+
+* [[Congressional Equality Caucus]]<ref>{{cite web|title=About the CEC|date=April 4, 2025|url=https://equality.house.gov/about-cec/membership|publisher=CEC|access-date=August 27, 2025}}</ref>
+* [[Congressional Black Caucus]]
+* [[New Democrat Coalition]]<ref>{{Cite web|title=Leadership|url=https://newdemocratcoalition.house.gov/members|access-date=March 29, 2021|website=[[New Democrat Coalition]]|language=en|archive-date=February 8, 2018|archive-url=https://web.archive.org/web/20180208100356/https://newdemocratcoalition-himes.house.gov/members|url-status=live}}</ref>
+* Bipartisan Paid Leave Working Group<ref name=":4">{{Cite web|date=December 13, 2012|title=Committees and Caucuses {{!}} Representative Colin Allred|url=https://allred.house.gov/about/committees-and-caucuses|access-date=September 23, 2024|website=allred.house.gov|language=en|archive-date=December 17, 2023|archive-url=https://web.archive.org/web/20231217213954/https://allred.house.gov/about/committees-and-caucuses|url-status=live}}</ref><ref name=":5">{{Cite web|last=McCue|first=Dan|date=May 3, 2023|title=Allred Makes It Official: He's Challenging Cruz for Senate|url=https://www.thewellnews.com/2024-elections/allred-makes-it-official-hes-challenging-cruz-for-senate/|website=TheWell News}}</ref>
+* Supply Chain Caucus; Co-chair<ref name=":4" /><ref name=":5" />
+* Future Forum; Co-chair of Communications<ref name=":4" /><ref name=":5" />
+
+==U.S. Senate campaigns==
+===2024===
+{{main|2024 United States Senate election in Texas}}
+
+On May 3, 2023, Allred announced his candidacy for the [[United States Senate]] in [[2024 United States Senate election in Texas|2024]], challenging Republican incumbent [[Ted Cruz]].<ref name="cbs senate announcement">{{Cite news|last=Fink|first=Jack|date=May 3, 2023|title=Rep. Colin Allred launches campaign to unseat Sen. Ted Cruz|language=en-US|work=[[CBS News]]|url=https://www.cbsnews.com/texas/news/colin-allred-launches-campaign-2024-senate-ted-cruz/|access-date=May 3, 2023|archive-date=May 3, 2023|archive-url=https://web.archive.org/web/20230503121441/https://www.cbsnews.com/texas/news/colin-allred-launches-campaign-2024-senate-ted-cruz/|url-status=live}}</ref> In March 2024, he won the primary nomination for the Democratic Party.<ref>{{cite news|last1=Goodman|first1=J. David|title=Colin Allred Wins Democratic Contest to Take On Senator Ted Cruz in Texas|url=https://www.nytimes.com/2024/03/05/us/politics/colin-allred-democrat-texas-senate.html|access-date=March 7, 2024|work=The New York Times|date=March 6, 2024|archive-date=March 7, 2024|archive-url=https://web.archive.org/web/20240307003409/https://www.nytimes.com/2024/03/05/us/politics/colin-allred-democrat-texas-senate.html|url-status=live}}</ref>
+
+On November 5, 2024, Allred lost the general election to Cruz by 8.5%.<ref name="NYTresults"/> Allred overperformed [[Kamala Harris]] in the [[2024 United States presidential election in Texas|concurrent presidential election]] by 5.5%, receiving nearly 200,000 votes more than Harris did and receiving greater support in the largely Hispanic [[Rio Grande Valley]].<ref>{{Cite web|last=Guo|first=By Kayla|date=July 1, 2025|title=Texas Democrat Colin Allred launches 2026 U.S. Senate campaign|url=https://www.texastribune.org/2025/07/01/colin-allred-texas-us-senate-democrat-2026-cornyn-paxton/|access-date=July 1, 2025|website=The Texas Tribune|language=en}}</ref><ref>{{Cite news|last=Epstein|first=Reid J.|date=July 1, 2025|title=Colin Allred Will Run Again for Senate in Texas|url=https://www.nytimes.com/2025/07/01/us/politics/colin-allred-texas-senate.html|access-date=July 1, 2025|work=The New York Times|language=en-US|issn=0362-4331}}</ref>
+
+===2026===
+On July 1, 2025, Allred announced that he would run for the U.S. Senate again in [[2026 United States Senate election in Texas|2026]], intending to challenge incumbent Republican senator [[John Cornyn]].<ref name=2026run>{{Cite web|url=https://www.politico.com/news/2025/07/01/allred-tx-00434667|title=Colin Allred enters U.S. Senate Race in Texas|date=July 1, 2025|access-date=July 1, 2025|website=Politico|author=Elena Schneider|language=en-US}}</ref> On December 8, 2025 Allred announced he was ending his campaign, to instead run in [[Texas's 33rd congressional district]], following Representative [[Jasmine Crockett]]'s entry into the Democratic race.<ref>{{Cite web|last=Crampton|first=Liz|date=December 8, 2025|title=Colin Allred drops out of Texas Senate race|url=https://www.politico.com/news/2025/12/08/allred-drops-out-of-texas-senate-race-00680502|access-date=December 8, 2025|website=Politico|language=en-US}}</ref> After his withdrawal, former rival candidate [[James Talarico]] faced controversy after a social media influencer alleged he had referred to Allred as a "mediocre Black man" in comparison to Crockett in a private conversation; Talarico disputed the claim as a mischaracterization. Allred subsequently endorsed Crockett and criticized Talarico.<ref>{{Cite web|last=Bowman|first=Bridget|date=February 5, 2026|title=Viral dispute over 'mediocre' comment exposes racial divides in Democrats' Texas Senate primary|url=https://www.nbcnews.com/politics/2026-election/viral-dispute-mediocre-comment-exposes-racial-divides-democrats-texas-rcna257284|access-date=February 5, 2026|website=NBC News|language=en}}</ref> Crockett eventually lost the Democratic primary to Talarico, with Crockett later endorsing Allred during his House campaign.
+
+==Political positions==
+[[File:Senator Collin Allred Chip Factory.jpg|thumb|Allred visits a [[Semiconductor device fabrication|chip factory]] in [[Texas]] and pushes for the bipartisan [[CHIPS and Science Act#Follow-up environmental bill|Building Chips in America]] bill in 2023.]]
+Allred is a [[moderate Democrat]].<ref>{{Cite web|last=Choi|first=Matthew|date=May 11, 2023|title=Clash of styles as Colin Allred prepares to challenge Ted Cruz in 2024 race|url=https://www.texastribune.org/2023/05/11/colin-allred-ted-cruz-election/|access-date=July 1, 2025|website=The Texas Tribune|language=en}}</ref> Over 70% of the bills he has cosponsored have had [[Bipartisanship|bipartisan]] support.<ref>{{Cite web|last1=Choi|first1=Matthew|last2=Martinez|first2=Alejandra|date=March 5, 2024|title=U.S. Rep. Colin Allred wins Democratic primary to face Sen. Ted Cruz in November|url=https://www.texastribune.org/2024/03/05/colin-allred-roland-gutierrez-ted-cruz-primary/|access-date=|website=The Texas Tribune|language=en|archive-date=September 23, 2024|archive-url=https://web.archive.org/web/20240923164322/https://www.texastribune.org/2024/03/05/colin-allred-roland-gutierrez-ted-cruz-primary/|url-status=live}}</ref> In 2023, the Common Ground Committee named Allred the most bipartisan member of Congress from Texas.<ref name=":3" /> 
+
+=== Abortion rights ===
+Allred is [[Pro-choice movement in the United States|pro-choice]]. He opposes the [[Abortion in Texas|state abortion ban in Texas]]. He supports legislating to restore the legal situation that existed under the Supreme Court's 1973 abortion decision, ''[[Roe v. Wade]]''.<ref>{{cite news|url=https://www.star-telegram.com/news/politics-government/state-politics/article291506230.html|title=In Texas Senate race, Cruz and Allred trade charges of extreme positions on abortion|website=star-telegram.com|last=Dearman|first=Eleanor|date=September 5, 2024}}</ref>
+
+===COVID-19===
+In 2021, Allred emphasized the importance of [[Deployment of COVID-19 vaccines|vaccination against COVID-19]]<ref name=":0">{{Cite news|last=McCardel|first=Michael|date=January 17, 2021|orig-date=January 16, 2021|title=Inside Texas Politics: Rep. Allred says vaccination, not spending, will get U.S. out of pandemic|work=[[WFAA]]|url=https://www.wfaa.com/article/news/politics/inside-politics/texas-politics/inside-texas-politics-rep-colin-allred-lt-gov-dan-patrick-houston-police-chief-art-acevedo/287-7bc51084-6a3a-45fe-8a43-dd8b9008c0cd|access-date=May 6, 2023|archive-date=September 16, 2024|archive-url=https://web.archive.org/web/20240916200739/https://www.wfaa.com/article/news/politics/inside-politics/texas-politics/inside-texas-politics-rep-colin-allred-lt-gov-dan-patrick-houston-police-chief-art-acevedo/287-7bc51084-6a3a-45fe-8a43-dd8b9008c0cd|url-status=live}}</ref> and criticized others for spreading [[COVID-19 vaccine misinformation and hesitancy]].<ref>{{Cite news|last=Caldwell|first=Emily|date=January 10, 2023|title=Colin Allred calls now-deleted tweet from Ted Cruz 'a new low' after Damar Hamlin collapse|work=[[The Dallas Morning News]]|url=https://www.dallasnews.com/news/politics/2023/01/10/colin-allred-calls-now-deleted-tweet-from-ted-cruz-a-new-low-after-damar-hamlin-collapse/|url-status=live|access-date=May 6, 2023|archive-url=https://web.archive.org/web/20230129023413/https://www.dallasnews.com/news/politics/2023/01/10/colin-allred-calls-now-deleted-tweet-from-ted-cruz-a-new-low-after-damar-hamlin-collapse/|archive-date=January 29, 2023}}</ref> In 2021, he stated that, while supportive of the economic stimulus proposed at the time, vaccination was the most important step people could take, noting that "[n]o amount of aid of any kind is going to allow us to outspend this virus."<ref name=":0" /> He has also opposed overriding the [[Medicare (United States)|Medicare]] and [[Medicaid]] rules requiring health care workers to be vaccinated.<ref>{{cite web|url=https://www.washingtonexaminer.com/news/house/seven-democrats-join-house-gop-lift-vaccine-mandate-healthcare-work|title=Seven Democrats join Republicans in vote to lift vaccine mandate for healthcare workers|date=January 31, 2023|access-date=May 3, 2023|archive-date=March 19, 2023|archive-url=https://web.archive.org/web/20230319035011/https://www.washingtonexaminer.com/news/house/seven-democrats-join-house-gop-lift-vaccine-mandate-healthcare-work|url-status=live}}</ref>
+
+===Foreign policy===
+[[File:7A4003028F7357B1D1667F9B73531CAB video dashinit.webm|thumbtime=23|thumb|Allred speaks during a House Foreign Affairs Committee hearing concerning the return of [[List of American people imprisoned abroad|Americans detained abroad]] (2023).]]
+
+Allred voted in December 2023 to provide Israel with support following the [[October 7 attacks]].<ref>{{Cite news|last=Demirjian|first=Karoun|date=October 25, 2023|title=House Declares Solidarity With Israel in First Legislation Under New Speaker|language=en-US|work=The New York Times|url=https://www.nytimes.com/2023/10/25/us/politics/house-israel-vote.html|access-date=October 30, 2023|issn=0362-4331|archive-date=October 30, 2023|archive-url=https://web.archive.org/web/20231030064517/https://www.nytimes.com/2023/10/25/us/politics/house-israel-vote.html|url-status=live}}</ref>
+
+Allred voted in 2023 against a resolution directing President [[Joe Biden]] to remove U.S. troops from [[Syria]] within 180 days.<ref>{{cite news|title=House Votes Down Bill Directing Removal of Troops From Syria|website=US News & World Report|date=March 8, 2023|url=https://www.usnews.com/news/politics/articles/2023-03-08/house-votes-down-bill-directing-removal-of-troops-from-syria|access-date=April 6, 2023|archive-date=April 4, 2023|archive-url=https://web.archive.org/web/20230404204512/https://www.usnews.com/news/politics/articles/2023-03-08/house-votes-down-bill-directing-removal-of-troops-from-syria|url-status=live}}</ref>
+
+Allred criticized Trump's initial strikes in the [[2026 Iran war]]. He stated, "Donald Trump promised he would end wars, not start them. Yet again, he has broken that promise, launching military strikes on Iran without Congressional authorization and without articulating a clear path forward to the American people."<ref>{{Cite news|last=Russ|first=Julianna|date=February 28, 2026|title=Texas leaders react to US, Israel attack on Iran|url=https://www.kxan.com/news/texas/texas-leaders-react-to-us-israel-attack-on-iran/|access-date=July 31, 2026|work=[[KXAN]]}}</ref>
+
+===Gun laws===
+
+In 2022, after the [[Robb Elementary School shooting|mass shooting in Uvalde, Texas]], he voted for the [[Bipartisan Safer Communities Act]] which incentivized states to pass [[Red flag law|red-flag laws]] and significantly narrowed the so-called [[boyfriend loophole]], which had allowed [[Domestic violence|abusive]] partners to obtain guns so long as they were not married to the survivor of the abuse. He has also supported a [[Federal Assault Weapons Ban|federal assault weapons ban]].<ref>{{Cite web|last1=Diaz|first1=Daniella|last2=Grayer|first2=Annie|last3=McKend|first3=Eva|date=July 29, 2022|title=House passes assault-style weapons ban|url=https://www.cnn.com/2022/07/29/politics/house-vote-assault-weapons-ban/index.html|website=CNN|access-date=May 3, 2023|archive-date=October 2, 2022|archive-url=https://web.archive.org/web/20221002171412/https://www.cnn.com/2022/07/29/politics/house-vote-assault-weapons-ban/index.html|url-status=live}}</ref>
+
+===Immigration===
+[[File:Collin Allred Border Security Task Force.jpg|thumb|Allred at an event addressing the issue of [[Mexico–United States border|border security]] in 2024.]]
+In January 2024, Allred was one of 14 Democrats who voted for a resolution to "denounce the Biden administration's open-borders policies".<ref>{{Cite web|last=Choi|first=Matthew|date=January 18, 2024|title=U.S. Rep. Colin Allred joins Republicans to condemn Biden's handling of border|url=https://www.texastribune.org/2024/01/18/colin-allred-biden-border-roland-gutierrez/|access-date=March 22, 2024|website=The Texas Tribune|language=en|archive-date=March 22, 2024|archive-url=https://web.archive.org/web/20240322104536/https://www.texastribune.org/2024/01/18/colin-allred-biden-border-roland-gutierrez/|url-status=live}}</ref>
+
+=== Voting rights ===
+Allred led a group of House Democrats in 2021 in sending a letter to their Senate colleagues urging them to pass the [[Freedom to Vote Act]].<ref>{{Cite web|last=Diaz|first=Daniella|date=October 18, 2021|title=House Democrats urge Senate colleagues to pass voting rights bill this week|url=https://www.cnn.com/2021/10/18/politics/house-democrats-voting-rights-bill-senate/index.html|access-date=October 17, 2024|website=CNN|language=en}}</ref> A year later, he was a lead cosponsor for the Sustaining Our Democracy Act which sought to upgrade voting equipment, improve [[Computer security|cybersecurity]], expand early voting, and hire and train poll workers.<ref>{{Cite web|last=Fowler|first=Stephen|date=June 8, 2022|title=Rep. Nikema Williams introduces $20B bill to boost local election administration|url=https://www.gpb.org/news/2022/06/08/rep-nikema-williams-introduces-20b-bill-boost-local-election-administration|access-date=October 17, 2024|website=Georgia Public Broadcasting|language=en|archive-date=April 19, 2024|archive-url=https://web.archive.org/web/20240419131138/https://www.gpb.org/news/2022/06/08/rep-nikema-williams-introduces-20b-bill-boost-local-election-administration|url-status=live}}</ref>
+
+==Personal life==
+
+Allred married Alexandra Eber on March 25, 2017.<ref>{{cite web|url=http://www.legacy.com/celebration/dallasmorningnews/celebrations-announcement.aspx?n=colin-allred&aid=185249803|title=Colin Allred & Alexandra Eber Engagement Announcement|website=[[The Dallas Morning News]]|access-date=January 15, 2018|date=April 30, 2017|archive-date=August 28, 2017|archive-url=https://web.archive.org/web/20170828223713/http://www.legacy.com/celebration/dallasmorningnews/celebrations-announcement.aspx?n=colin-allred&aid=185249803}}</ref> As of 2021, they had two sons.<ref>{{cite news|last1=Dunaway-Seale|first1=Jaime|title=US Rep. Colin Allred welcomes newest member of the family|url=https://lakewood.advocatemag.com/2021/03/30/colin-allred-baby/|access-date=April 16, 2021|archive-date=April 14, 2021|archive-url=https://web.archive.org/web/20210414160531/https://lakewood.advocatemag.com/2021/03/30/colin-allred-baby/|url-status=dead}}</ref>
+
+==NFL statistics==
+{{NFL predraft
+|    height ft = 6
+|    height in = 1
+|       weight = 237
+|         dash = 4.85
+|    ten split =
+| twenty split =
+|      shuttle = 4.37
+|   cone drill = 7.33
+|     vertical = 34.0
+|     broad ft = 9
+|     broad in = 7
+|        bench = 17
+|     arm span =
+|    hand span =
+|    wonderlic =
+|         note = All values from pro day<ref>{{Cite web|url=https://draftscout.com/dsprofile.php?PlayerId=11879&DraftYear=2006|title=Colin Allred, OLB, Baylor|website=Draft Scout|access-date=January 6, 2022|archive-date=January 6, 2022|archive-url=https://web.archive.org/web/20220106202353/https://draftscout.com/dsprofile.php?PlayerId=11879&DraftYear=2006|url-status=live}}</ref>
+}}
+
+==Electoral history==
+{{Election box begin no change
+| title = Democratic primary results, 2018<ref name=Primaryresults>{{cite web|url=https://enrpages.sos.state.tx.us/|title=2018 Primary Election Official Results|website=Texas Secretary of State|access-date=March 8, 2018|archive-url=https://web.archive.org/web/20180307111046/https://enrpages.sos.state.tx.us/|archive-date=March 7, 2018|url-status=dead}}</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate  = Colin Allred
+| party      = Democratic Party (United States)
+| votes      = 15,442
+| percentage = 38.5
+}}
+{{Election box winning candidate with party link no change
+| candidate  = Lillian Salerno
+| party      = Democratic Party (United States)
+| votes      = 7,343
+| percentage = 18.3
+}}
+{{Election box candidate with party link no change
+| candidate  = Brett Shipp
+| party      = Democratic Party (United States)
+| votes      = 6,550
+| percentage = 16.4
+}}
+{{Election box candidate with party link no change
+| candidate  = Ed Meier
+| party      = Democratic Party (United States)
+| votes      = 5,474
+| percentage = 13.7
+}}
+{{Election box candidate with party link no change
+| candidate  = George Rodriguez
+| party      = Democratic Party (United States)
+| votes      = 3,029
+| percentage = 7.5
+}}
+{{Election box candidate with party link no change
+| candidate  = Ron Marshall
+| party      = Democratic Party (United States)
+| votes      = 1,301
+| percentage = 3.2
+}}
+{{Election box candidate with party link no change
+| candidate  = Todd Maternowski
+| party      = Democratic Party (United States)
+| votes      = 945
+| percentage = 2.4
+}}
+{{Election box total no change
+| votes      = 40,084
+| percentage = 100.0
+}}
+{{End}}
+
+{{Election box begin no change
+| title = Democratic primary runoff results, 2018{{citation needed|date=November 2024|reason=Election results must be verifiable}}
+}}
+{{Election box winning candidate with party link no change
+| candidate  = Colin Allred
+| party      = Democratic Party (United States)
+| votes      = 15,658
+| percentage = 69.5
+}}
+{{Election box candidate with party link no change
+| candidate  = Lillian Salerno
+| party      = Democratic Party (United States)
+| votes      = 6,874	
+| percentage = 30.5
+}}
+{{Election box total no change
+| votes      = 22,532
+| percentage = 100
+}}
+{{End}}
+
+{{Election box begin no change
+| title = Texas's 32nd congressional district, 2018<ref name=txsos>{{cite web|url=https://elections.sos.state.tx.us/elchist331_state.htm|title=Texas Election Results|work=Texas Secretary of State|access-date=December 5, 2018|archive-date=April 28, 2021|archive-url=https://web.archive.org/web/20210428081554/https://elections.sos.state.tx.us/elchist331_state.htm|url-status=live}}</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate  = Colin Allred
+| party      = Democratic Party (United States)
+| votes      = 144,067
+| percentage = 52.3
+}}
+{{Election box candidate with party link no change
+| candidate  = [[Pete Sessions]] (incumbent)
+| party      = Republican Party (United States)
+| votes      = 126,101
+| percentage = 45.7
+}}
+{{Election box candidate with party link no change
+| candidate  = Melina Baker
+| party      = Libertarian Party (United States)
+| votes      = 5,452
+| percentage = 2.0
+}}
+{{Election box total no change
+| votes      = 275,620
+| percentage = 100.0
+}}
+{{Election box gain with party link no change
+| winner = Democratic Party (United States)
+| loser = Republican Party (United States)
+}}
+{{End}}
+
+{{Election box begin no change
+| title = Texas's 32nd congressional district, 2020<ref name="TXgenr">{{cite web|title=Texas Election Results - Official Results|url=https://results.texas-election.com/races|website=Texas Secretary of State|access-date=November 26, 2020|archive-date=November 8, 2019|archive-url=https://web.archive.org/web/20191108031140/https://results.texas-election.com/races|url-status=live}}</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate  = Colin Allred (incumbent)
+| party      = Democratic Party (United States)
+| votes      = 178,542
+| percentage = 52.0
+}}
+{{Election box candidate with party link no change
+| candidate  = Genevieve Collins
+| party      = Republican Party (United States)
+| votes      = 157,867
+| percentage = 45.9
+}}
+{{Election box candidate with party link no change
+| candidate  = Christy Mowrey Peterson
+| party      = Libertarian Party (United States)
+| votes      = 4,946
+| percentage = 1.4
+}}
+{{Election box candidate with party link no change
+| candidate  = Jason Sigmon
+| party      = Independent (United States)
+| votes      = 2,332
+| percentage = 0.7
+}}
+{{Election box total no change
+| votes      = 343,687
+| percentage = 100.0
+}}
+{{Election box hold with party link no change
+| winner = Democratic Party (United States)
+}}
+{{End}}
+
+{{Election box begin no change
+| title = Texas's 32nd congressional district, 2022<ref>{{cite web|title=Texas Election Results - Official Results|url=https://results.texas-election.com/races|website=Texas Secretary of State|access-date=January 12, 2025}}</ref>
+}}
+{{Election box winning candidate with party link no change
+| candidate = Colin Allred (incumbent)
+| party = Democratic Party (United States)
+| votes = 116,005
+| percentage = 65.3
+}}
+{{Election box candidate with party link no change
+| candidate = Antonio Swad
+| party = Republican Party (United States)
+| votes = 61,494
+| percentage = 34.6
+}}
+{{Election box total no change
+| votes = 177,499
+| percentage = 100.0
+}}
+{{Election box hold with party link no change
+| winner = Democratic Party (United States)
+}}
+{{End}}
+
+{{Election box begin no change|title=United States Senate Democratic primary results, 2024<ref>{{cite web|title=Texas Election Results|url=https://results.texas-election.com/races|website=Texas Secretary of State|access-date=March 12, 2024|archive-date=November 8, 2019|archive-url=https://web.archive.org/web/20191108031140/https://results.texas-election.com/races|url-status=live}}</ref>}}
+{{Election box winning candidate with party link no change|party=Texas Democratic Party|candidate=Colin Allred|votes=569,585|percentage=58.9}}
+{{Election box candidate with party link no change|party=Texas Democratic Party|candidate=[[Roland Gutierrez (politician)|Roland Gutierrez]]|votes=160,978|percentage=16.7}}
+{{Election box candidate with party link no change|party=Texas Democratic Party|candidate=Mark Gonzalez|votes=85,228|percentage=8.8}}
+{{Election box candidate with party link no change|party=Texas Democratic Party|candidate=Meri Gomez|votes=44,166|percentage=4.6}}
+{{Election box candidate with party link no change|party=Texas Democratic Party|candidate=[[Carl O. Sherman|Carl Sherman]]|votes=31,694|percentage=3.3}}
+{{Election box candidate with party link no change|party=Texas Democratic Party|candidate=Robert Hassan|votes=21,855|percentage=2.3}}
+{{Election box candidate with party link no change|party=Texas Democratic Party|candidate=Steven Keough|votes=21,801|percentage=2.3}}
+{{Election box candidate with party link no change|party=Texas Democratic Party|candidate=Heli Rodriguez-Prilliman|votes=18,801|percentage=1.9}}
+{{Election box candidate with party link no change|party=Texas Democratic Party|candidate=Thierry Tchenko|votes=13,395|percentage=1.4}}
+{{Election box total no change|votes=967,503|percentage=100.00}}
+{{End}}
+{{Election box begin no change|title=[[2024 United States Senate election in Texas |United States Senate election in Texas, 2024]]<ref name=NYTresults>{{cite news|title=Texas U.S. Senate Election Results|work=[[The New York Times]]|date=November 5, 2024|access-date=December 29, 2024|url=https://www.nytimes.com/interactive/2024/11/05/us/elections/results-texas-us-senate.html}}</ref>}}
+{{Election box winning candidate with party link no change
+ |party      = Republican Party (United States)
+ |candidate  = [[Ted Cruz]] (incumbent)
+ |votes      = 5,990,741
+ |percentage = 53.07
+}}{{Election box candidate with party link no change
+ |party      = Democratic Party (United States)
+ |candidate  = Colin Allred
+ |votes      = 5,031,249
+ |percentage = 44.57
+}}{{Election box candidate with party link no change
+ |party      = Libertarian Party (United States)
+ |candidate  = Ted Brown
+ |votes      = 267,039
+ |percentage = 2.37
+}}{{Election box total no change
+ |votes      = 11,289,029
+ |percentage = 100
+}}{{Election box hold with party link no swing
+ |winner     = Republican Party (United States)
+}}{{Election box end}}
+
+{{Election box begin no change
+| title = Democratic primary results, 2026
+}}
+{{Election box winning candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = [[Colin Allred]]
+| votes = 31,482
+| percentage = 44.0
+}}
+{{Election box winning candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = [[Julie Johnson (politician)|Julie Johnson]] (incumbent)
+| votes = 23,770
+| percentage = 33.2
+}}
+{{Election box candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = Carlos Quintanilla
+| votes = 10,276
+| percentage = 14.3
+}}
+{{Election box candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = Zeeshan Hafeez
+| votes = 6,083
+| percentage = 8.5
+}}
+{{Election box total no change
+| votes = 71,611
+| percentage = 100.0
+}}
+{{Election box end}}
+
+{{Election box begin no change
+| title = Democratic primary runoff results, 2026
+}}
+{{Election box winning candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = [[Colin Allred]]
+| votes = 11,354
+| percentage = 54.0
+}}
+{{Election box candidate with party link no change
+| party = Democratic Party (United States)
+| candidate = [[Julie Johnson (politician)|Julie Johnson]] (incumbent)
+| votes = 9,677
+| percentage = 46.0
+}}
+{{Election box total no change
+| votes = 21,031
+| percentage = 100.0
+}}
+{{Election box end}}
+
+==See also==
+* [[List of African-American United States representatives]]
+* [[List of American sportsperson-politicians]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+{{wikisource|works=or}} 
+* [https://www.colinallred.com Colin Allred for Senate] campaign website 
+{{CongLinks|fec=H8TX32098|votesmart=177357|congbio=A000376|congress=colin-allred/A000376}}
+*{{C-SPAN|117092}}
+
+{{s-start}}
+{{s-par|us-hs}}
+{{s-bef|before=[[Pete Sessions]]}}
+{{s-ttl|title=Member of the [[List of United States representatives from Texas|U.S. House of Representatives]]<br />from [[Texas's 32nd congressional district]]|years=2019–2025}}
+{{s-aft|after=[[Julie Johnson (politician)|Julie Johnson]]}}
+|-
+{{s-bef|before=[[Julie Johnson (politician)|Julie Johnson]]<br>Redistricted}}
+{{s-ttl|title=Member of the [[List of United States representatives from Texas|U.S. House of Representatives]]<br />from [[Texas's 33rd congressional district]]|years=Taking office 2027<!-- –present -->}}
+{{s-non|reason=Elect<!-- inc -->}}
+|-
+{{s-ppo}}
+{{s-bef|before=[[Elizabeth Warren]]}}
+{{s-ttl|title=[[List of keynote speakers at United States presidential nominating conventions|Keynote Speaker]] of the [[Democratic National Convention]]|years=[[2020 Democratic National Convention|2020]]|alongside=[[Stacey Abrams]], [[Raumesh Akbari]], [[Brendan Boyle]], [[Yvanna Cancela]], [[Kathleen Clyde]], [[Nikki Fried]], [[Robert Garcia (California politician)|Robert Garcia]], [[Malcolm Kenyatta]], [[Marlon Kimpson]], [[Conor Lamb]], [[Mari Manoogian]], [[Victoria Neave]], [[Jonathan Nez]], [[Sam Park]], [[Denny Ruprecht]], [[Randall Woodfin]]}}
+{{s-aft|after=[[Angela Alsobrooks]]}}
+|-
+{{s-bef|before=[[Beto O'Rourke]]}}
+{{s-ttl|title={{nowrap|[[Democratic Party (United States)|Democratic]] nominee for [[United States Senator|U.S. Senator]] from [[Texas]]}}<br />([[Classes of United States senators|Class 1]])|years=[[2024 United States Senate election in Texas|2024]]}}
+{{s-inc|recent}}
+|-
+{{s-prec|usa}}
+{{s-bef|before=[[Will Hurd]]|as=Former U.S. Representative}}
+{{s-ttl|title=[[United States order of precedence|Order of precedence of the United States]]<br />''{{small|as Former U.S. Representative}}''|years=}}
+{{s-aft|after=[[David R. Nagle]]|as=Former U.S. Representative}}
+{{s-end}}
+
+{{USCongRep-start |congresses=116th–118th<!-- and 120th–present --> [[United States Congress]] |state=[[Texas's congressional delegations|Texas]]}}
+{{USCongRep/TX/116}}
+{{USCongRep/TX/117}}
+{{USCongRep/TX/118}}
+<!-- {{USCongRep/TX/120}} -->
+{{USCongRep-end}}
+{{Authority control}}
+
+{{DEFAULTSORT:Allred, Colin}}
+[[Category:1983 births]]
+[[Category:20th-century African-American people]]
+[[Category:21st-century African-American lawyers]]
+[[Category:21st-century African-American politicians]]
+[[Category:21st-century American lawyers]]
+[[Category:People associated with Perkins Coie]]
+[[Category:21st-century American sportsmen]]
+[[Category:21st-century United States representatives]]
+[[Category:21st-century Texas politicians]]
+[[Category:African-American candidates for the United States Senate]]
+[[Category:African-American United States representatives]]
+[[Category:African-American people in Texas politics]]
+[[Category:American athlete-politicians]]
+[[Category:American civil rights lawyers]]
+[[Category:American football linebackers]]
+[[Category:American justices of the peace]]
+[[Category:Baylor Bears football players]]
+[[Category:Baylor University alumni]]
+[[Category:Candidates in the 2024 United States Senate elections]]
+[[Category:Candidates in the 2026 United States House of Representatives elections]]
+[[Category:Candidates in the 2026 United States Senate elections]]
+[[Category:Democratic Party United States representatives from Texas]]
+[[Category:Hillcrest High School (Dallas) alumni]]
+[[Category:Living people]]
+[[Category:Obama administration personnel]]
+[[Category:Players of American football from Houston]]
+[[Category:Players of American football from Dallas]]
+[[Category:Politicians from Houston]]
+[[Category:Tennessee Titans players]]
+[[Category:Texas lawyers]]
+[[Category:UC Berkeley School of Law alumni]]
+[[Category:United States Department of Housing and Urban Development officials]]

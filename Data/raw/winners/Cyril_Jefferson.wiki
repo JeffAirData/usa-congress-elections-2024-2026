@@ -1,0 +1,55 @@
+{{Short description|American politician}}
+{{Infobox officeholder
+|name = Cyril Jefferson
+|state = [[North Carolina]]
+|district = {{ushr|NC|6|6th}}
+|term_start = January 3, 2027
+|term_end = 
+|succeeding = [[Addison McDowell]]
+|predecessor = [[Addison McDowell]]
+|successor = 
+|birth_date = {{birth based on age as of date|34|2026|10|6}}
+|birth_place = [[Utica, New York]], U.S.
+|death_date = 
+|death_place = 
+|party = [[Democratic Party (United States)|Democratic]]
+|education = [[Howard University]] (attended)<br>[[North Carolina A&T State University]] ([[Bachelor of Arts|BA]])
+}}
+'''Cyril Jefferson''' (born 1991/1992) is an American politician who is a member-elect of the [[United States House of Representatives]] for [[North Carolina's 6th congressional district]]. He has served as mayor of [[High Point, North Carolina]] since 2023.
+
+==Early life==
+Jefferson is from [[Utica, New York]].<ref name="Blue Ridge">{{Cite web|url=https://www.theblueridgetimes.com/news/meet-cyril-jefferson-the-biden-campaign-surrogate-challenging-congressman-addison-mcdowellnbspnbsp|title=Meet Cyril Jefferson the Biden Campaign Surrogate Challenging Congressman Addison McDowell|date=August 6, 2025|website=The Blue Ridge Times}}</ref><ref>{{Cite web|url=https://ballotpedia.org/Cyril_Jefferson|website=[[Ballotpedia]]|title=Cyril Jefferson|access-date=November 3, 2026}}</ref> At age 14, he moved to [[High Point, North Carolina]], where he attended [[T. Wingate Andrews High School]].<ref name="auto1">{{Cite web|url=https://highpointdiscovered.org/stories/high-points-first-couple-the-jeffersons/|website=High Point Discovered|access-date=November 4, 2026|title=High Point’s First Couple: The Jeffersons |date=February 6, 2025|author=Ray, Hannah}}</ref> In high school, Jefferson was a member of the marching band.<ref name="auto1"/> He received a full [[scholarship]] to [[Howard University]] in [[Washington, D.C.]].<ref name="auto1"/> Jefferson later transferred to [[North Carolina A&T State University]] and earned a [[Bachelor of Arts]] in liberal studies in 2018.<ref name="Blue Ridge"/><ref>{{Cite web|url=https://www.ncat.edu/news/2025/07/jefferson-flame-keeper.php|publisher=[[North Carolina A&T State University]]|title=High Point Mayor Jefferson '18 to Receive 2025 Keeper of the Flame Award|author=Huggins, Deja|date=July 17, 2025}}</ref> 
+
+Jefferson has worked as a music teacher and established a consultancy firm known as "Change Often".<ref name="Blue Ridge"/><ref name="auto">{{Cite web|url=https://www.wfae.org/2026-10-06/u-s-house-of-representatives-nc-6|publisher=[[WFAE]]|title=U.S. House of Representatives (NC-6)|date=October 6, 2026}}</ref> He and his wife, Raven, whom he met in high school, have two children.<ref name="auto1"/>
+
+==Political career==
+In 2019, Jefferson won election to the High Point City Council representing ward 1.<ref name="auto"/> Four years later, he was elected as mayor of High Point with about 2,900 votes, approximately 900 more than his opponent, Victor Jones.<ref>{{Cite web|url=https://myfox8.com/news/politics/your-local-election-hq/cyril-jefferson-wins-high-point-mayoral-race-see-the-new-high-point-city-council/|publisher=[[WGHP]]|title=Cyril Jefferson wins High Point mayoral race; see the new High Point City Council |author=Mikkelson, Emily|date=November 7, 2023}}</ref> He became the first African-American man to hold the position and the youngest mayor in city history.<ref name="auto1"/> In August 2025, Jefferson launched a campaign for the [[United States House of Representatives]] for [[North Carolina's 6th congressional district]] as a member of the [[Democratic Party (United States)|Democratic Party]].<ref>{{Cite web|url=https://www.wunc.org/2025-08-06/high-point-mayor-cyril-jefferson-announces-bid-for-congress|publisher=[[WUNC (FM)|WUNC]]|title=High Point Mayor Cyril Jefferson announces bid for Congress |date=August 6, 2025}}</ref> He won the Democratic primary with 39% of the vote against Alysa Kassay.<ref>{{Cite news|url=https://www.hpenews.com/news/jefferson-wins-6th-district-primary/article_774e0d68-7ce5-53db-83f0-fd7abf764920.html|newspaper=[[The High Point Enterprise]]|title=Jefferson wins 6th District primary|date=March 4, 2026|author=Johnson, Paul B.}}</ref>
+
+In the general election, Jefferson faced off against incumbent [[Republican Party (United States)|Republican]] [[Addison McDowell]].<ref name="Blue Ridge"/> The congressional district is considered strongly Republican-leaning and was rated by many websites as "solid" or "safe" Republican.<ref name="Blue Ridge"/><ref>{{Cite web|url=https://www.cookpolitical.com/ratings/house-race-ratings|website=The Cook Political Report|title=2026 CPR House Race ratings|access-date=November 4, 2026}}</ref> ''The Blue Ridge Times'' stated that despite Jefferson "putting forward a platform that can be perceived as more moderate", it would be "nearly impossible" for him to pull off victory, and McDowell remarked that Jefferson had a better chance of winning the lottery than defeating him.<ref name="Blue Ridge"/> Nevertheless, on election day, Jefferson defeated McDowell with 51.1% of the vote in a major [[Upset (competition)|upset]].<ref>{{Cite news|url=https://www.hpenews.com/news/jefferson-pulls-off-us-house-upset/article_0bb21ca6-665b-5196-97cc-372434e5196f.html|newspaper=[[The High Point Enterprise]]|title=Jefferson pulls off US House upset|author=Johnson, Paul B.|date=November 4, 2026}}</ref>
+
+==References==
+{{reflist}}
+
+{{s-start}}
+{{s-par|us-hs}}
+{{s-bef|before=[[Addison McDowell]]}}
+{{s-ttl|title=Member of the [[List of United States representatives from North Carolina|U.S. House of Representatives]]<br>from [[North Carolina's 6th congressional district]]|years=Taking office 2027<!-- –present -->}}
+{{s-non|reason=Elect<!-- inc -->}}
+{{s-end}}
+
+<!-- {{NC-FedRep}}
+{{Current U.S. representatives}}
+{{USCongRep-start |congresses=120th–present [[United States Congress]] |state=[[North Carolina's congressional delegations|North Carolina]]}}
+{{USCongRep/NC/120}}
+{{USCongRep-end}} -->
+
+{{DEFAULTSORT:Jefferson, Cyril}}
+[[Category:1990s births]]
+[[Category:21st-century United States representatives]]
+[[Category:African-American United States representatives]]
+[[Category:Democratic Party United States representatives from North Carolina]]
+[[Category:Candidates in the 2026 United States House of Representatives elections]]
+[[Category:Howard University alumni]]
+[[Category:Living people]]
+[[Category:North Carolina Democrats]]
+[[Category:North Carolina A&T State University alumni]]

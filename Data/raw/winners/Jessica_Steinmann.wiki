@@ -1,0 +1,57 @@
+{{Short description|American politician (born 1984)}}
+{{Draft article}}
+
+{{Use mdy dates|date=March 2026}}
+{{Infobox officeholder
+| name               = Jessica Steinmann
+| image              = Jessica Hart Steinmann.png
+| state              = [[Texas]]
+| district           = {{ushr|TX|8|8th}}
+| term_start         = January 3, 2027
+| term_end           = 
+| succeeding         = [[Morgan Luttrell]]
+| predecessor        = [[Morgan Luttrell]]
+| successor          = 
+| birth_date         = {{birth date and age|1984|2|5}}
+| birth_place        = 
+| death_date         = 
+| death_place        = 
+| party              = [[Republican Party (United States)|Republican]]
+| education          = [[University of Texas, Austin]] ([[Bachelor of Business Administration|BBA]])<br>[[Baylor University]] ([[Juris Doctor|JD]])
+| website            = {{url|jessicasteinmann.com|Campaign website}}
+}}
+'''Jessica Hart Steinmann''' (born February 5, 1984)<ref>{{Cite web|url=https://www.legistorm.com/person/bio/233604/Jessica_Hart_Steinmann.html|title=Incoming Rep. Jessica Steinmann - R Texas, 8th, Member-elect - America First Policy Institute (Jan. 2025-), Executive General Counsel/Litigation Vice Chair - Biography &#124; LegiStorm|website=www.legistorm.com}}</ref> is an American politician from [[Texas]]. A [[Republican Party (United States)|Republican]], she is the member-elect for {{ushr|TX|8}} in the [[United States House of Representatives]].
+
+Steinmann is the general counsel for the [[America First Policy Institute]].<ref>{{Cite web|url=https://punchbowl.news/article/campaigns/maga-lawyer-luttrell/|title=MAGA lawyer eyes Luttrell seat|first1=-Ally|last1=Mutnick|first2=Jake|last2=Sherman}}</ref> She defeated Laura Jones in the [[2026 US House of Representatives elections]] to succeed [[Morgan Luttrell]] as the member-elect to the [[United States House of Representatives]] for {{ushr|TX|8}}.<ref>{{Cite web|url=https://thehill.com/homenews/campaign/6172661-jessica-steinmann-wins-texas-district/|title=Jessica Steinmann to succeed Morgan Luttrell in Texas House district|first=Max|last=Rego|date=November 4, 2026}}</ref>
+
+==References==
+{{reflist}}
+
+{{s-start}}
+{{s-par|us-hs}}
+{{s-bef|before=[[Morgan Luttrell]]}}
+{{s-ttl|title=Member of the [[List of United States representatives from Texas|U.S. House of Representatives]]<br>from [[Texas's 8th congressional district]]|years=Taking office 2027<!-- –present -->}}
+{{s-non|reason=Elect}}<!-- {{s-inc}} -->
+{{s-end}}
+
+<!-- {{TX-FedRep}}
+{{Current U.S. representatives}}
+{{USCongRep-start |congresses=120th–present [[United States Congress]] |state=[[Texas's congressional delegations|Texas]]}}
+{{USCongRep/TX/120}}
+{{USCongRep-end}} -->
+
+{{DEFAULTSORT:Steinmann, Jessica}}
+{{Draft categories |
+[[Category:1984 births]]
+[[Category:21st-century Texas politicians]]
+[[Category:21st-century United States representatives]]
+[[Category:21st-century American women politicians]]
+[[Category:Baylor Law School alumni]]
+[[Category:Female United States representatives]]
+[[Category:Living people]]
+[[Category:Republican Party United States representatives from Texas]]
+[[Category:Texas Republicans]]
+[[Category:University of Texas at Austin alumni]]
+[[Category:Women in Texas politics]]
+}}
+[[Category:Draft articles about American politicians]]

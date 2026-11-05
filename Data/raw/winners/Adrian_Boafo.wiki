@@ -1,0 +1,262 @@
+{{short description|American politician (born 1994)}}
+{{Use American English|date=July 2026}}
+{{Use mdy dates|date=August 2025}}
+{{Infobox officeholder
+| name                = Adrian Boafo
+| image               = Adrian Boafo Feb2023.jpg
+| caption             = Boafo in 2023
+| state               = [[Maryland]]
+| district            = {{ushr|MD|5|5th}}
+| term_start          = January 3, 2027
+| term_end            = 
+| succeeding          = [[Steny Hoyer]] 
+| predecessor         = [[Steny Hoyer]]
+| successor           = 
+| state_delegate1     = Maryland
+| district1           = [[Maryland Legislative District 23|23rd]]
+| alongside1          = [[Marvin E. Holmes Jr.]], [[Kym Taylor]]
+| term_start1         = January 11, 2023
+| term_end1           = <!-- January 3, 2027 -->
+| predecessor1        = [[Geraldine Valentino-Smith]]
+| successor1          = <!-- ''Vacant'' -->
+| order2              = Mayor pro tempore of [[Bowie, Maryland|Bowie]]
+| term_start2         = November 18, 2019
+| term_end2           = January 11, 2023
+| predecessor2        = Henri Gardner
+| successor2          = Roxy Ndebumadu
+| birth_name          = Adrian Asiedu Boafo
+| birth_date          = {{birth date and age|1994|5|10}}
+| birth_place         = [[Arlington, Virginia]], U.S.
+| party               = [[Democratic Party (United States)|Democratic]]
+| spouse              = 
+| children            = 
+| education           = [[University of Baltimore]] ([[Bachelor of Arts|BA]])<br>[[American University]] ([[Master of Business Administration|MBA]])
+| website             = {{url|adrianboafo.com|Campaign website}}
+}}
+'''Adrian Asiedu Boafo''' (born May 10, 1994) is an American politician who is the member-elect of the [[U.S. House of Representatives]] from [[Maryland's 5th congressional district]]. A member of the [[Democratic Party (United States)|Democratic Party]], he has served as a member of the [[Maryland House of Delegates]] from the 23rd district in [[Prince George's County, Maryland]], since 2023.
+
+Born in Virginia and raised in Maryland, Boafo graduated from the [[University of Baltimore]] and [[American University]]. He began his political career as a press staffer for U.S. representatives [[Xavier Becerra]] and [[Ruben Kihuen]] before becoming House Majority Leader [[Steny Hoyer]]'s campaign manager. He was elected to the [[Bowie, Maryland|Bowie]] city council in 2019 and the Maryland House of Delegates in [[2022 Maryland House of Delegates election#District 23|2022]].
+
+{{TOCLIMIT|3}}
+
+== Early life and career ==
+Boafo was born in [[Arlington, Virginia]], on May 10, 1994.<ref name="msa">{{cite web |title=Adrian A. Boafo, Maryland State Delegate |url=https://msa.maryland.gov/msa/mdmanual/06hse/html/msa18393.html |website=Maryland Manual On-Line |publisher=Maryland State Archives |access-date=January 24, 2026}}</ref> His parents were immigrants from [[Ghana]] who migrated to the United States in the 1980s after the country's democratic political systems collapsed.<ref name="GenBlue" /><ref name="Oracle">{{cite news |last1=Abamu |first1=Jenny |title=A Prince George's lobbyist and lawmaker wants to reverse the revolving door and go to Congress |url=https://wamu.org/story/26/05/05/lobbyist-public-servant-prince-georges-county-fifth-district-hoyer-congressional-race/ |access-date=May 5, 2026 |work=[[WAMU]] |date=May 5, 2026 |language=en}}</ref>
+
+Boafo graduated from [[DeMatha Catholic High School]] in 2012. He later attended the [[University of Baltimore]], where he served as the president of the university's student government and received a [[Bachelor of Arts]] degree in government and public policy in 2016. Boafo was also appointed to serve as the vice president of undergraduate affairs on the [[University System of Maryland]]'s student council. He also graduated from [[American University]], receiving a [[Master of Business Administration]] degree in 2019. 
+
+After graduating, Boafo worked as a press intern for U.S. Representative [[Xavier Becerra]] and as a national press assistant for U.S. Representative [[Ruben Kihuen]]. He served as the campaign manager for [[House Majority leader]] [[Steny Hoyer]] from 2018 to 2021 and later worked as a federal lobbyist for [[Oracle Corporation|Oracle]].<ref name="msa" /><ref name="Oracle" /><ref>{{cite news |last1=Pacella |first1=Rachael |title=Economic development, tech will be focus for incoming Bowie council |url=https://www.capitalgazette.com/maryland/bowie/ac-cn-bowie-tech-development-20191114-liok2dwnufggtnytuzjn6trlca-story.html |access-date=August 3, 2022 |work=[[The Capital]] |date=November 14, 2019}}</ref><ref>{{cite news |last1=Pacella |first1=Rachael |title=Candidates in the City of Bowie's election answer questions |url=https://www.proquest.com/docview/2292994062 |access-date=April 7, 2026 |work=The Bowie Blade-News |date=September 19, 2019 |id={{ProQuest|2292994062}} |via=[[ProQuest]]}}</ref>
+
+== Political career ==
+=== Bowie mayor pro-tempore ===
+Boafo filed to run for District 3 of the Bowie city council on May 8, 2019, challenging incumbent council member Darian Senn-Carter.<ref>{{cite news |last1=Pacella |first1=Rachael |title=First candidates file for election in Bowie |url=https://www.capitalgazette.com/maryland/bowie/ac-cn-bowie-election-0508-story.html |access-date=August 3, 2022 |work=[[The Capital]] |date=May 8, 2019}}</ref> Boafo won election to the Bowie city council on November 6, 2019, with 34.8 percent of the vote.<ref>{{cite news |last1=Pacella |first1=Rachael |title=Bowie to have new leadership in first black mayor, women return to the council |url=https://www.capitalgazette.com/maryland/bowie/ac-cn-bowie-election-follow-20191106-pumn3fakmneufawntyxwyb5vdy-story.html |access-date=August 3, 2022 |work=[[The Capital]] |date=November 6, 2019}}</ref> Soon after, the council selected him to serve as the city's youngest mayor pro tempore, succeeding at-large council member Henri Gardner.<ref>{{cite news |last1=Alfaro |first1=Carlos |title=Bowie swears in first African American mayor |url=https://www.thesentinel.com/communities/prince_george/news/local/bowie-swears-in-first-african-american-mayor/article_f3acca49-2a6d-5180-91ab-3d9d15266bcf.html |access-date=August 3, 2022 |work=Prince George's Sentinel |date=November 22, 2019}}</ref>
+
+====Development initiatives====
+In May 2020, Boafo voted to stop construction and cancel the city's contract to build a new ice rink, instead opting to build an indoor courts facility.<ref>{{cite news |last1=Pacella |first1=Rachael |title=Bowie City Council cancels new ice arena to instead build indoor basketball courts |url=https://www.capitalgazette.com/maryland/bowie/ac-cn-bowie-ice-project-0519-20200519-fpo6slgxrnexxhecqjrs4ipdd4-story.html |access-date=August 3, 2022 |work=[[The Capital]] |date=May 20, 2020}}</ref> In July 2020, Boafo voted against cancelling public-private partnership proposals to repair and operate Bowie's city-operated ice rink. After the city council voted to reject the proposals, it created a task force for the amenity.<ref>{{cite news |last1=Pacella |first1=Rachael |title=Bowie council rejects public-private proposals, creates ice rink task force |url=https://www.capitalgazette.com/maryland/bowie/ac-cn-bowie-ice-0708-20200708-oa3ffie4vrh5vmxqwzlimoh3u4-story.html |access-date=August 3, 2022 |work=[[The Capital]] |date=July 8, 2020}}</ref> The task force unveiled its recommendations on January 19, 2021.<ref>{{cite news |last1=Conaway |first1=Donovan |title=Bowie Ice Arena Task Force unveils Ice Arena recommendations, includes HVAC renovation and a second sheet of ice |url=https://www.capitalgazette.com/maryland/bowie/ac-cn-bowie-city-council-19012021-20210120-sswysjcunzd5pdi6geovhhkwrq-story.html |access-date=August 3, 2022 |work=[[The Capital]] |date=January 19, 2021}}</ref>
+
+In January 2021, Boafo voted against a bill to support a preliminary plan for the Bowie's Mill Branch Crossing development.<ref>{{cite news |last1=Conaway |first1=Donovan |title=After hours of discussion, Bowie council doesn't support or reject preliminary plan for hotel, multifamily development off U.S. 301 |url=https://www.capitalgazette.com/maryland/bowie/ac-cn-bowie-city-council-142021-20210105-qgg2l67orff7zcq33pq4zhyv7e-story.html |access-date=August 3, 2022 |work=[[The Capital]] |date=January 5, 2021}}</ref>
+
+In June 2021, Boafo introduced a bill to provide city residents with a rebate of up to $50 to install a new water filtration system. The City Council unanimously voted to pass the initiative.<ref>{{cite news |last1=Conaway |first1=Donovan |title=Bowie council passes water rebate initiative; city offers $100 city employee COVID vaccine incentive |url=https://www.capitalgazette.com/maryland/bowie/ac-cn-bowie-city-council-20210609-pt2jceyu4rduxllh3zpvcoidia-story.html |access-date=August 3, 2022 |work=[[The Capital]] |date=June 9, 2021}}</ref> Later that month, the [[United States House Committee on Appropriations]]' Interior, Environment, and Related Agencies Subcommittee approved a $2 million request from the city to replace one mile of a tuberculated cast iron water main.<ref>{{cite news |last1=Conaway |first1=Donovan |title=Bowie's $2 million request to replace corroded cast iron water main approved by House subcommittee |url=https://www.capitalgazette.com/maryland/bowie/ac-cn-bowie-replace-cast-iron-water-main-20210630-cbzntwd43rdoropypp7syyimju-story.html |access-date=August 3, 2022 |work=[[The Capital]] |date=June 30, 2021}}</ref>
+
+====Policing====
+In 2019, Boafo included a budget line item in the city's budget to reimburse Bowie residents for installing outdoor cameras. In November 2020, Boafo and the Bowie Police Department launched a program to provide rebates up to $50 for residents who purchase and install a home security camera.<ref>{{cite news |last1=Conaway |first1=Donovan |title=Bowie police announce security camera rebate program |url=https://www.capitalgazette.com/maryland/bowie/ac-cn-rebate-camera-ring-20201126-lb7nkobzjneivdm2gycsfvblsu-story.html |access-date=August 3, 2022 |work=[[The Capital]] |date=November 25, 2020}}</ref>
+
+In June 2020, Boafo attended a vigil to honor [[George Floyd]], [[Ahmaud Arbery]], and [[Breonna Taylor]] at Allen Pond Park in Bowie.<ref>{{cite news |last1=Pacella |first1=Rachael |title=Bowie holds vigil for George Floyd, Breonna Taylor, Ahmaud Arbery |url=https://www.capitalgazette.com/maryland/bowie/ac-cn-bowie-vigil-0606-20200607-3gbowhdy7vdubdngobhrfpu2ly-story.html |access-date=August 3, 2022 |work=[[The Capital]] |date=June 6, 2020}}</ref>
+
+=== Maryland House of Delegates ===
+[[File:Bill Hearing HB577 - 2 12 2025 (54324085430) (cropped).jpg|thumb|Boafo in the House Economic Matters Committee, 2025]]
+Boafo announced he would run for the Maryland House of Delegates in District 23 on February 25, 2022. His campaign was endorsed by House Majority Leader Steny Hoyer.<ref name="Boafo2022">{{cite news |last1=Gaines |first1=Danielle |last2=Kurtz |first2=Josh |title=Political Notes: Delegate Seeks Apology, Drama in District 23, a New Hoyer Foe, Harden's National Security Play, and More |url=https://www.marylandmatters.org/2022/02/25/political-notes-delegate-seeks-apology-drama-in-district-23-a-new-hoyer-foe-hardens-national-security-play-and-more/ |access-date=August 3, 2022 |work=[[Maryland Matters]] |date=February 25, 2022}}</ref> He won the Democratic primary on July 19, 2022, placing second with 14.4 percent of the vote.<ref name="2022p" />
+
+Boafo was sworn into the Maryland House of Delegates on January 11, 2023. He was a member of the Economic Matters Committee.<ref name="msa" /> He was a delegate to the [[2024 Democratic National Convention]], pledged to [[Kamala Harris]].<ref>{{cite news |last1=Kurtz |first1=Josh |title=Meet the Maryland delegates to the Democratic National Convention |url=https://marylandmatters.org/2024/07/22/meet-the-maryland-delegates-to-the-democratic-national-convention/ |access-date=July 22, 2024 |work=[[Maryland Matters]] |date=July 22, 2024}}</ref>
+
+In September 2024, Boafo established his own federal [[political action committee]], GenBlue PAC, to endorse liberal candidates running for Congress.<ref name="GenBlue">{{cite news |last1=Ford |first1=William J. |last2=Kurtz |first2=Josh |title=Muñoz quits House, Huntley steps up to council, Boafo launches federal PAC, more moves |url=https://marylandmatters.org/2024/09/05/munoz-quits-house-huntley-steps-up-to-council-boafo-launches-federal-pac-more-moves/ |access-date=September 5, 2024 |work=Maryland Matters |date=September 5, 2024}}</ref>
+
+=== 2026 congressional campaign ===
+{{main|2026 United States House of Representatives elections in Maryland#District 5}}
+On January 12, 2026, Boafo announced that he would run for the [[U.S. House of Representatives]] in [[Maryland's 5th congressional district]], seeking to succeed [[Steny Hoyer]], who is retiring.<ref>{{cite news |last1=Pusatory |first1=Matt |title=Prince George's County Del. Adrian Boafo is running for Congress |url=https://www.wusa9.com/article/news/politics/adrian-boafo-announces-run-to-succeed-steny-hoyer/65-094eb810-8dcd-414b-aeae-4e8eb4dd0323 |access-date=January 12, 2026 |work=[[WUSA (TV)]] |date=January 12, 2026}}</ref> 
+
+He was endorsed in the primary by Hoyer,<ref name=":0">{{cite news |last2=Vazquez |first2=Maegan |last1=Dent |first1=Alec |title=Hoyer endorses former campaign manager in race to succeed him in Congress |url=https://www.washingtonpost.com/politics/2026/01/23/steny-hoyer-house-seat-maryland/ |access-date=January 23, 2026 |newspaper=[[The Washington Post]] |date=January 23, 2026}}</ref> Governor [[Wes Moore]], and U.S. senator [[Angela Alsobrooks]].<ref>{{cite news |last1=Ford |first1=William J. |last2=Sears |first2=Bryan P. |title=Moore issues scores of endorsements, but some incumbent Democrats miss the cut |url=https://marylandmatters.org/2026/05/08/moore-issues-scores-of-endorsements-but-some-incumbent-democrats-miss-the-cut/ |access-date=May 8, 2026 |work=[[Maryland Matters]] |date=May 8, 2026}}</ref> During the campaign, Boafo supported proposals to raise the [[Minimum wage in the United States|federal minimum wage]] and to increase support for small businesses.<ref>{{cite news |last1=Tichy |first1=Brenna |title=Meet the 4 Prince George's County officials running for Maryland's 5th District |url=https://dbknews.com/2026/03/08/maryland-district-5-seat-prince-georges-county/ |access-date=March 10, 2026 |work=[[The Diamondback]] |date=March 8, 2026}}</ref>
+
+Boafo won the Democratic primary with 32.7 percent of the vote against over 20 opponents on June 23, 2026, and faces [[perennial candidate]] Chris Chaffee in the general election.<ref>{{cite news |last1=Ford |first1=William J. |title=Early endorsement, late funding rush boost Boafo in 5th District |url=https://marylandmatters.org/2026/06/23/early-endorsement-late-funding-rush-boost-boafo-in-5th-district/ |access-date=June 24, 2026 |work=[[Maryland Matters]] |date=June 23, 2026}}</ref>
+
+==Political positions==
+===Education===
+During the 2026 legislative session, Boafo introduced the Maryland Phone-Free Schools Act, which would restrict students' use of personal electronic devices and ban social media use during school hours.<ref>{{cite news |last1=Ibrahim |first1=Mennatalla |title=Maryland House passes 'bell-to-bell' student cellphone ban |url=https://www.baltimoresun.com/2026/03/23/maryland-cell-phone-ban/ |access-date=March 25, 2026 |work=[[The Baltimore Sun]] |date=March 23, 2026}}</ref>
+
+===Electoral reform===
+During his 2026 congressional campaign, Boafo supported repealing the [[U.S. Supreme Court]]'s 2010 decision in ''[[Citizens United v. FEC]]''.<ref>{{cite news |last1=Kurtz |first1=Josh |title=The Apprentice: Boafo fills coffers with support from Hoyer's political network |url=https://marylandmatters.org/2026/05/12/the-apprentice-boafo-fills-coffers-with-support-from-hoyers-political-network/ |access-date=May 13, 2026 |work=[[Maryland Matters]] |date=May 12, 2026}}</ref>
+
+===Energy===
+During the 2026 legislative session, Boafo supported the RENEW Act, which would have studied the [[environmental impact of fossil fuels|environmental damage caused by fossil fuel companies]]. During his 2026 congressional campaign, he supported setting federal standards on data centers, including what kinds of [[battery energy storage system]]s and [[clean energy]] sources are involved and increased transparency in the permitting process.<ref name="Oracle"/>
+
+===Healthcare===
+During his 2026 congressional campaign, Boafo supported [[Medicare for All]] with a private option, as well as [[universal childcare]].<ref>{{cite news |title=U.S. House, 5th District Democrats {{!}} Voter Guide: 2026 Primary election • Maryland |url=https://marylandmatters.org/voter-guides/contests/5th-district-democratic-primary/#issue-affordability |access-date=June 10, 2026 |work=[[Maryland Matters]] |date=June 10, 2026}}</ref>
+
+===Immigration===
+During the 2026 legislative session, Boafo introduced a bill that would prohibit [[United States Immigration and Customs Enforcement]] (ICE) officers hired during the [[second Trump administration]] from applying to become Maryland law enforcement officers in the future.<ref>{{cite news |last1=Dickstein |first1=Ryan |title=Delegate proposes barring Trump hired ICE agents from ever becoming Maryland police officers |url=https://www.wmar2news.com/local/delegate-proposes-barring-trump-hired-ice-agents-from-ever-becoming-maryland-police-officers |access-date=January 7, 2026 |work=[[WMAR-TV]] |date=January 7, 2026 |language=en}}</ref>
+
+===Israel===
+Boafo supports [[Israel–United States relations]], but is critical of Israeli Prime Minister [[Benjamin Netanyahu]].<ref name="CryptoIsrael">{{cite news |last1=Cox |first1=Erin |title=This Democrat is benefiting from $11 million in pro-Israel, crypto money |url=https://www.washingtonpost.com/politics/2026/06/21/adrian-boafo-boosted-by-aipac-crypto-maryland-house-democratic-primary/ |access-date=June 21, 2026 |newspaper=[[The Washington Post]] |date=June 21, 2026}}</ref>
+
+In October 2024, on the one-year anniversary of the [[October 7 attacks]], Boafo wrote an op-ed in ''[[The Washington Post]]'' in which he expressed support for the Jewish community and the [[African American–Jewish relations|Black-Jewish alliance]]. During the 2025 legislative session, Boafo introduced legislation to ban "masked intimidation", citing the use of [[face covering]]s among [[Gaza war protests in the United States|anti-Israel protesters]] to obscure their identity and cause disturbances.<ref>{{cite news |last1=Deutch |first1=Gabby |title=Black and Jewish legislators team up on anti-masking legislation in Maryland |url=https://jewishinsider.com/2025/02/black-and-jewish-legislators-team-up-on-anti-masking-legislation-in-maryland/ |access-date=February 16, 2025 |work=[[Jewish Insider]] |date=February 16, 2025}}</ref>
+
+During his 2026 congressional campaign, Boafo supported strengthening Israel–United States relations and ensuring the country "has the security assistance it needs to defend itself".<ref>{{cite news |last1=Kassel |first1=Matthew |title=AIPAC betting big on pro-Israel Democrat and party favorite in Maryland |url=https://jewishinsider.com/2026/06/aipac-betting-big-on-pro-israel-democrat-and-party-favorite-in-maryland/ |access-date=June 3, 2026 |work=[[Jewish Insider]] |date=June 3, 2026}}</ref> He also supported increasing humanitarian aid to Palestinian civilians.<ref>{{cite news |last1=Resnicow |first1=Mia |title=Maryland Primary: Who Will Replace Rep. Steny Hoyer? |url=https://www.jewishtimes.com/maryland-primary-who-will-replace-rep-steny-hoyer/ |access-date=May 15, 2026 |work=[[Baltimore Jewish Times]] |date=May 15, 2026}}</ref>
+
+===Minimum wage===
+During the 2026 legislative session, Boafo introduced a bill to raise the [[Minimum wage in the United States|minimum wage of Maryland]] from $15 to $25 an hour and eliminate all subminimum wages.<ref>{{cite news |last1=Pencek |first1=Matthew |title=Maryland Democrats to unveil $25 minimum wage bill at Annapolis rally |url=https://www.coasttv.com/news/maryland-democrats-to-unveil-25-minimum-wage-bill-at-annapolis-rally/article_2a0148fc-24fe-422f-9313-e5dae272ac0e.html |access-date=January 19, 2026 |work=[[WRDE-LD]] |date=January 19, 2026 |language=en}}</ref>
+
+===National politics===
+In October 2026, Boafo supported launching federal investigations into [[Elon Musk]] and the [[Department of Government Efficiency]] if elected to Congress. He also described supporting federal workers and increasing federal jobs "the most important issue in my district, without a question".<ref>{{cite news |last1=Evans |first1=Rhiannon |title=If elected, Adrian Boafo wants to launch federal investigation into Elon Musk, DOGE |url=https://cnsmaryland.org/2026/10/22/if-elected-adrian-boafo-wants-to-launch-federal-investigation-into-elon-musk-doge/ |access-date=October 27, 2026 |work=[[Capital News Service (Maryland)|Capital News Service]] |date=October 22, 2026}}</ref>
+
+===Redistricting===
+In August 2025, amid [[2025 Texas redistricting|Republican efforts to redraw Texas's congressional districts]] to gain five congressional seats in the [[2026 United States House of Representatives elections]], Boafo supported redrawing [[Maryland's congressional districts]] to make [[Maryland's 1st congressional district]] more favorable to Democrats.<ref>{{cite news |last1=Janesch |first1=Sam |title=Maryland Democrats ready for gerrymandering fight, may target GOP Rep. Andy Harris' district |url=https://www.baltimoresun.com/2025/08/05/maryland-redistricting-after-texas-map/ |access-date=August 5, 2025 |work=The Baltimore Sun |date=August 5, 2025}}</ref>
+
+== Personal life ==
+[[File:Commanders vs Bears (53238270002).jpg|thumb|Boafo at a [[Washington Commanders]] football game with Governor [[Wes Moore]], Lieutenant Governor [[Aruna Miller]], and state delegate [[Kevin Harris (politician)|Kevin Harris]].]]
+Boafo is a [[Catholic Church|Catholic]].<ref>{{Cite Instagram |last=Boafo |first=Adrian |user=adrianboafo |postid=CqdVUGQrHsV |date=March 31, 2023 |title=I'm a devout Catholic... |language=en |access-date=June 29, 2025}}</ref>
+
+== Electoral history ==
+{{Election box begin no party no change |title=Bowie City Council District 3 election, 2019<ref>{{cite web |title=City of Bowie Unofficial Election Results 2019 |url=https://www.cityofbowie.org/DocumentCenter/View/9032/Detailed-2019-Election-Results-not-certified |website=cityofbowie.org |publisher=[[Bowie, Maryland]] |access-date=August 3, 2022 |date=November 6, 2019}}</ref>
+}}
+{{Election box winning candidate no party no change
+  |candidate  = Adrian Boafo
+  |votes      = 713
+  |percentage = 34.8
+}}{{Election box candidate no party no change
+  |candidate  = Mike Byrd
+  |votes      = 660
+  |percentage = 32.2
+}}{{Election box candidate no party no change
+  |candidate  = David Grogan
+  |votes      = 331
+  |percentage = 16.2
+}}{{Election box candidate no party no change
+  |candidate  = Darian Senn-Carter (incumbent)
+  |votes      = 193
+  |percentage = 9.4
+}}{{Election box candidate no party no change
+  |candidate  = Kevin Motley
+  |votes      = 148
+  |percentage = 7.2
+}}{{Election box write-in no party no change
+  |votes      = 2
+  |percentage = 0.1
+}}{{Election box end}}
+{{Election box begin no change |title=Maryland House of Delegates District 23 Democratic primary election, 2022<ref name="2022p">{{cite web |title=2022 Gubernatorial Primary Election Results for House of Delegates |url=https://elections.maryland.gov/elections/archive/2022/primary_results/gen_results_2022_7_30.html |website=elections.maryland.gov |publisher=Maryland State Board of Elections |access-date=August 3, 2022 |date=July 19, 2022}}</ref>
+}}
+{{Election box winning candidate with party link no change
+  |party      = Maryland Democratic Party
+  |candidate  = [[Marvin E. Holmes, Jr.]] (incumbent)
+  |votes      = 10,382
+  |percentage = 16.2
+}}{{Election box winning candidate with party link no change
+  |party      = Maryland Democratic Party
+  |candidate  = Adrian Boafo
+  |votes      = 9,237
+  |percentage = 14.4
+}}{{Election box winning candidate with party link no change
+  |party      = Maryland Democratic Party
+  |candidate  = [[Kym Taylor]]
+  |votes      = 8,957
+  |percentage = 14.0
+}}{{Election box candidate with party link no change
+  |party      = Maryland Democratic Party
+  |candidate  = Jocelyn Irene Collins
+  |votes      = 8,938
+  |percentage = 13.9
+}}{{Election box candidate with party link no change
+  |party      = Maryland Democratic Party
+  |candidate  = Monica Roebuck
+  |votes      = 7,609
+  |percentage = 11.9
+}}{{Election box candidate with party link no change
+  |party      = Maryland Democratic Party
+  |candidate  = Keenon James
+  |votes      = 6,104
+  |percentage = 9.5
+}}{{Election box candidate with party link no change
+  |party      = Maryland Democratic Party
+  |candidate  = Remi Duyile
+  |votes      = 3,888
+  |percentage = 6.1
+}}{{Election box candidate with party link no change
+  |party      = Maryland Democratic Party
+  |candidate  = Januari McKay
+  |votes      = 3,784
+  |percentage = 5.9
+}}{{Election box candidate with party link no change
+  |party      = Maryland Democratic Party
+  |candidate  = Valeria Tomlin
+  |votes      = 2,630
+  |percentage = 4.1
+}}{{Election box candidate with party link no change
+  |party      = Maryland Democratic Party
+  |candidate  = Jacqui Steele-McCall
+  |votes      = 2,575
+  |percentage = 4.0
+}}{{Election box end}}
+{{Election box begin no change |title=Maryland House of Delegates District 23 election, 2022<ref>{{cite web |title=2022 Gubernatorial General Election Results for House of Delegates |url=https://elections.maryland.gov/elections/2022/general_results/gen_results_2022_7_30.html |website=elections.maryland.gov |publisher=Maryland State Board of Elections |access-date=August 6, 2023 |date=December 7, 2022}}</ref>
+}}
+{{Election box winning candidate with party link no change
+  |party      = Maryland Democratic Party
+  |candidate  = Marvin E. Holmes Jr.
+  |votes      = 36,506
+  |percentage = 33.89
+}}{{Election box winning candidate with party link no change
+  |party      = Maryland Democratic Party
+  |candidate  = Kym Taylor
+  |votes      = 36,399
+  |percentage = 33.80
+}}{{Election box winning candidate with party link no change
+  |party      = Maryland Democratic Party
+  |candidate  = Adrian Boafo
+  |votes      = 33,843
+  |percentage = 31.42
+}}{{Election box write-in with party link no change
+  |votes      = 957
+  |percentage = 0.89
+}}{{Election box end}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+* [https://www.adrianboafo.com/ Campaign website]
+* {{cite web |title=Members – Delegate Adrian Boafo |url=https://mgaleg.maryland.gov/mgawebsite/Members/Details/boafo01 |website=[[Maryland General Assembly]] |access-date=January 11, 2023 |date=January 11, 2023}}
+
+{{s-start}}
+{{s-par|us-hs}}
+{{s-bef|before=[[Steny Hoyer]]}}
+{{s-ttl|title=Member of the [[List of United States representatives from Maryland|U.S. House of Representatives]]<br>from [[Maryland's 5th congressional district]]|years=Taking office 2027<!-- –present -->}}
+{{s-non|reason=Elect}}<!-- {{s-inc}} -->
+{{s-end}}
+
+<!-- {{MD-FedRep}}
+{{Current U.S. representatives}}
+{{USCongRep-start |congresses=120th–present [[United States Congress]] |state=[[Maryland's congressional delegations|Maryland]]}}
+{{USCongRep/MD/120}}
+{{USCongRep-end}} -->
+{{Current members of the MD House of Delegates}}
+{{authority control}}
+
+{{DEFAULTSORT:Boafo, Adrian}}
+[[Category:1994 births]]
+[[Category:21st-century African-American politicians]]
+[[Category:21st-century members of the Maryland General Assembly]]
+[[Category:21st-century United States representatives]]
+[[Category:African-American Catholics]]
+[[Category:African-American city council members in Maryland]]
+[[Category:African-American state legislators in Maryland]]
+[[Category:American campaign managers]]
+[[Category:American people of Ghanaian descent]]
+[[Category:American University alumni]]
+[[Category:Candidates in the 2026 United States House of Representatives elections]]
+[[Category:Democratic Party members of the Maryland House of Delegates]]
+[[Category:Democratic Party United States representatives from Maryland]]
+[[Category:Living people]]
+[[Category:Maryland city council members]]
+[[Category:Oracle employees]]
+[[Category:People from Bowie, Maryland]]
+[[Category:Politicians from Prince George's County, Maryland]]
+[[Category:United States congressional aides]]
+[[Category:University of Baltimore alumni]]

@@ -1,0 +1,54 @@
+{{Infobox officeholder
+| name = Jon Bonck
+| state = [[Texas]]
+| district = {{ushr|TX|38|38th}}
+| term_start = January 3, 2027
+| term_end = 
+| succeeding = [[Wesley Hunt]]
+| predecessor = [[Wesley Hunt]]
+| successor = 
+| birth_name = Jonathan Carl Bonck
+| birth_date = {{birth date and age|1987|4|28}}
+| birth_place = [[Louisiana]], U.S.
+| death_date = 
+| death_place = 
+| party = [[Republican Party (United States)|Republican]]
+| education = [[Louisiana State University]] ([[Bachelor of Science|BS]])
+| website = {{url|jonbonck.com|Campaign website}}
+}}
+'''Jonathan Carl Bonck''' (born April 28, 1987) is an American politician and [[mortgage broker]]. He is the [[Republican Party (United States)|Republican]] nominee for [[Texas's 38th congressional district]] in the [[2026 United States House of Representatives elections in Texas|2026 election]].
+
+==Personal life==
+Bonck was born on April 28, 1987, in [[Louisiana]], and lived with his grandparents on a farm in [[Eunice, Louisiana|Eunice]] growing up.<ref>{{Cite web|url=https://www.legistorm.com/person/bio/554086/Jonathan_Carl_Bonck.html|publisher=[[LegiStorm]]|access-date=November 3, 2026|title=Jon Bonck}}</ref><ref>{{Cite web|url=https://www.clubforgrowth.org/candidates/jon-bonck/|publisher=[[Club for Growth]]|access-date=November 3, 2026|title=Jon Bonck}}</ref><ref name="auto">{{Cite web|url=https://www.texasyouthsummit.com/speaker-jon-bonck|publisher=Texas Youth Summit|title=Jon Bonck|access-date=November 3, 2026}}</ref> He attended [[Louisiana State University]], where he earned a [[bachelor's degree]] in biochemistry, and then was employed in the biochemical and petroleum industries.<ref name="auto3">{{Cite web|url=https://ballotpedia.org/Jon_Bonck|website=[[Ballotpedia]]|access-date=November 3, 2026|title=Jon Bonck}}</ref> In 2015, Bonck began working with specialty chemical company [[Nalco Champion]] in marketing.<ref name="auto3"/> Four years later, he entered the mortgage industry, becoming a sales manager at Bonck and Baker Mortgage Group, a division of Network Funding.<ref name="auto2">{{Cite web|url=https://www.mpamag.com/us/news/general/jonathan-bonck-on-the-importance-of-working-with-the-right-partner/230498|website=MPA Magazine|title=Jonathan Bonck on the importance of working with the right partner|author=Vecina, Ephraim|date=August 12, 2020}}</ref> He still worked as a [[mortgage broker]] for this group by 2026.<ref name="auto3"/> Bonck also runs a [[realty]] business with his wife.<ref name="auto"/>
+
+Bonck is a deacon at Second Baptist Church.<ref>{{Cite web|url=https://www.fox26houston.com/election/live-election-results-republican-runoff-texas-38th-congressional-district|publisher=[[KRIV (TV)|KRIV]]|title=Election results: Jon Bonck wins Republican runoff in Texas' 38th Congressional District|date=May 26, 2026}}</ref> He and his wife, Laura, have two children.<ref name="auto"/> His wife is a real estate agent.<ref name="auto2"/> Bonck lives in [[Houston]].<ref name="auto"/>
+
+== U.S. House of Representatives ==
+=== Elections ===
+==== 2026 ====
+Bonck launched a campaign as a [[Republican Party (United States)|Republican]] for [[Texas's 38th congressional district]] as part of the [[2026 United States House of Representatives elections in Texas]], seeking to succeed [[Wesley Hunt]] (who ran for Senate), after initially running for the [[Texas's 2nd congressional district|2nd congressional district]].<ref name="auto3"/> He was endorsed by President [[Donald Trump]] and Senator [[Ted Cruz]].<ref>{{Cite web|url=https://www.houstonpublicmedia.org/articles/news/politics/election-2026/2026/05/26/552743/election-results-tx-38-republican-primary-runoff-harris-county/|website=Houston Public Media|date=May 26, 2026|title=Jon Bonck declares victory after early voting in GOP runoff for 38th Congressional District|author=Zuvanich, Adam}}</ref> In the primary, he received 47% of the vote, ahead of [[West Houston Airport]] president Shelly deZevallos, who received 19%.<ref>{{Cite web|url=https://www.houstonpublicmedia.org/articles/news/politics/election-2026/2026/03/04/545244/republican-primary-election-runoff-tx-38-bonck-dezevallos/|website=Houston Public Media|title=Trump-backed Jon Bonck and Shelly deZevallos headed to runoff in GOP primary for TX-38|author=Zuvanich, Adam|date=March 4, 2026}}</ref> Bonck and deZevallos advanced to the runoff, where Bonck won with 64.8% of the vote.<ref name="auto1">{{Cite web|url=https://www.texastribune.org/2026/05/26/texas-19th-38th-congressional-district-republican-primary-runoff/|website=[[The Texas Tribune]]|title=Tom Sell, Jon Bonck win open GOP primary runoffs for solidly red congressional seats|date=May 26, 2026|author=Runnels, Ayden}}</ref> In the general election, he is running against [[Democratic Party (United States)|Democratic Party]] candidate Melissa McDonough.<ref name="auto1"/>
+
+==References==
+{{reflist}}
+
+{{s-start}}
+{{s-par|us-hs}}
+{{s-bef|before=[[Wesley Hunt]]}}
+{{s-ttl|title=Member of the [[List of United States representatives from Texas|U.S. House of Representatives]]<br>from [[Texas's 38th congressional district]]|years=Taking office 2027<!-- –present -->}}
+{{s-non|reason=Elect}}<!-- {{s-inc}} -->
+{{s-end}}
+
+<!-- {{TX-FedRep}}
+{{Current U.S. representatives}}
+{{USCongRep-start |congresses=120th–present [[United States Congress]] |state=[[Texas's congressional delegations|Texas]]}}
+{{USCongRep/TX/120}}
+{{USCongRep-end}} -->
+
+{{DEFAULTSORT:Bonck, Jon}}
+[[Category:1987 births]]
+[[Category:21st-century Texas politicians]]
+[[Category:21st-century United States representatives]]
+[[Category:Living people]]
+[[Category:Louisiana State University alumni]]
+[[Category:Republican Party United States representatives from Texas]]
+[[Category:Texas Republicans]]

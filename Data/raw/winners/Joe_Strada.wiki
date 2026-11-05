@@ -1,0 +1,52 @@
+{{Short description|American politician}}
+{{Infobox officeholder
+|name = Joe Strada
+|state = [[Florida]]
+|district = {{ushr|FL|11|11th}}
+|term_start = January 3, 2027
+|term_end = 
+|succeeding = [[Daniel Webster (Florida politician)|Daniel Webster]]
+|predecessor = [[Daniel Webster (Florida politician)|Daniel Webster]]
+|successor = 
+|birth_date = 
+|birth_place = [[Chicago, Illinois]], U.S.
+|death_date = 
+|death_place = 
+|party = [[Republican Party (United States)|Republican]]
+|website = {{URL|votestrada.com|Campaign website}}
+}}
+'''Joseph Horatio Strada Jr.''' (born January 8, 1963) is an American politician and businessman. He is the [[Republican Party (United States)|Republican]] nominee for [[Florida's 11th congressional district]] in the [[2026 United States House of Representatives elections in Florida|2026 election]].
+
+==Early life==
+Strada was born on January 8, 1963, in [[Chicago]], Illinois.<ref>{{Cite web|url=https://www.legistorm.com/person/bio/597500/Joseph_Horatio_Strada_Jr_.html|publisher=[[LegiStorm]]|title=Joe Strada|access-date=November 3, 2026}}</ref> One of six children, he grew up in Chicago before his family moved to [[Longwood, Florida]], when he was 12.<ref>{{Cite web|url=https://www.forbes.com/sites/brandonkochkodin/2026/09/28/meet-joe-strada-florida-hvac-mogul-set-to-become-the-richest-member-of-congress/|website=[[Forbes]]|title=Meet Joe Strada, Florida HVAC Mogul Set To Become The Richest Member Of Congress|author=Kochkodin, Brandon|date=September 28, 2026}}</ref> He graduated from [[Lyman High School (Florida)|Lyman High School]] in Florida.<ref>{{Cite web|url=https://ballotpedia.org/Joe_Strada|website=[[Ballotpedia]]|title=Joe Strada|access-date=November 3, 2026}}</ref> While in high school, he helped run a bowling alley.<ref>{{Cite web|url=https://www.forbes.com/sites/brandonkochkodin/2026/09/28/meet-joe-strada-florida-hvac-mogul-set-to-become-the-richest-member-of-congress/|website=[[Forbes]]|title=Meet Joe Strada, Florida HVAC Mogul Set To Become The Richest Member Of Congress|author=Kochkodin, Brandon|date=September 28, 2026}}</ref> Strada did not attend college.<ref>{{Cite web|url=https://www.forbes.com/sites/brandonkochkodin/2026/09/28/meet-joe-strada-florida-hvac-mogul-set-to-become-the-richest-member-of-congress/|website=[[Forbes]]|title=Meet Joe Strada, Florida HVAC Mogul Set To Become The Richest Member Of Congress|author=Kochkodin, Brandon|date=September 28, 2026}}</ref> He bought a donut shop at age 19, later worked as a salesman for a [[HVAC]] company in Florida.<ref>{{Cite news|url=https://www.orlandosentinel.com/2026/10/05/d-c-politico-and-wealthy-businessman-vie-for-central-florida-congress-seat/|newspaper=[[Orlando Sentinel]]|title=D.C. politico and wealthy businessman vie for Central Florida Congress seat |author=Martin, Annie|date=October 5, 2026}}</ref> In 2003, Strada established Strada Services, which has become "the largest privately held and family-owned air conditioning, electric, security and plumbing company in the country".<ref>{{Cite news|url=https://www.orlandosentinel.com/2026/10/05/d-c-politico-and-wealthy-businessman-vie-for-central-florida-congress-seat/|newspaper=[[Orlando Sentinel]]|title=D.C. politico and wealthy businessman vie for Central Florida Congress seat |author=Martin, Annie|date=October 5, 2026}}</ref><ref>{{Cite web|url=https://floridapolitics.com/archives/801031-someone-who-understands-joe-strada-launches-campaign-to-succeed-dan-webster-in-cd-11/|website=[[Florida Politics]]|title='Someone who understands': Joe Strada launches campaign to succeed Dan Webster in CD 11|date=June 10, 2026|author=Ogles, Jacob}}</ref> According to ''[[Forbes]]'', his business had revenue of $534 million in 2025, while Strada's net worth is estimated at $800 million.<ref>{{Cite web|url=https://www.forbes.com/sites/brandonkochkodin/2026/09/28/meet-joe-strada-florida-hvac-mogul-set-to-become-the-richest-member-of-congress/|website=[[Forbes]]|title=Meet Joe Strada, Florida HVAC Mogul Set To Become The Richest Member Of Congress|author=Kochkodin, Brandon|date=September 28, 2026}}</ref>
+
+== U.S. House of Representatives ==
+=== Elections ===
+==== 2026 ====
+In June 2026, Strada launched his campaign for [[Florida's 11th congressional district]] as a member of the [[Republican Party (United States)|Republican Party]], seeking to succeed the retiring [[Daniel Webster (Florida politician)|Daniel Webster]].<ref>{{Cite web|url=https://floridapolitics.com/archives/801031-someone-who-understands-joe-strada-launches-campaign-to-succeed-dan-webster-in-cd-11/|website=[[Florida Politics]]|title='Someone who understands': Joe Strada launches campaign to succeed Dan Webster in CD 11|date=June 10, 2026|author=Ogles, Jacob}}</ref> He won the Republican primary and faced [[Democratic Party (United States)|Democratic]] candidate James Pericola in the general election.<ref>{{Cite news|url=https://www.orlandosentinel.com/2026/10/05/d-c-politico-and-wealthy-businessman-vie-for-central-florida-congress-seat/|newspaper=[[Orlando Sentinel]]|title=D.C. politico and wealthy businessman vie for Central Florida Congress seat |author=Martin, Annie|date=October 5, 2026}}</ref> He won in the general election.<ref>https://thehill.com/homenews/campaign/6163101-joe-strada-republican-florida-11th-congressional-district/</ref>
+
+==References==
+{{reflist}}
+
+{{s-start}}
+{{s-par|us-hs}}
+{{s-bef|before=[[Daniel Webster (Florida politician)|Daniel Webster]]}}
+{{s-ttl|title=Member of the [[List of United States representatives from Florida|U.S. House of Representatives]]<br>from [[Florida's 11th congressional district]]|years=Taking office 2027<!-- –present -->}}
+{{s-non|reason=Elect}}<!-- {{s-inc}} -->
+{{s-end}}
+
+<!-- {{FL-FedRep}}
+{{Current U.S. representatives}}
+{{USCongRep-start |congresses=120th–present [[United States Congress]] |state=[[Florida's congressional delegations|Florida]]}}
+{{USCongRep/FL/120}}
+{{USCongRep-end}} -->
+
+{{DEFAULTSORT:Strada, Joe}}
+[[Category:1963 births]]
+[[Category:Living people]]
+[[Category:21st-century Florida politicians]]
+[[Category:21st-century United States representatives]]
+[[Category:Florida Republicans]]
+[[Category:Republican Party United States representatives from Florida]]
+
+{{Florida-politician-stub}}

@@ -1,0 +1,73 @@
+{{Short description|American politician (born 1974)}}
+{{Infobox officeholder
+| name               = Stefany Shaheen
+| image              = Stefany Shaheen, 2015 (cropped).jpg
+| caption            = Shaheen in 2015
+| state              = [[New Hampshire]]
+| district           = {{ushr|NH|1|1st}}
+| term_start         = January 3, 2027
+| term_end           = 
+| succeeding         = [[Chris Pappas (American politician)|Chris Pappas]]
+| predecessor        = [[Chris Pappas (American politician)|Chris Pappas]]
+| successor          = 
+| birth_date         = {{birth year and age|1974}}
+| birth_place        = [[Portsmouth, New Hampshire]], U.S.
+| death_date         = 
+| death_place        = 
+| party              = [[Democratic Party (United States)|Democratic]]
+| spouse             = 
+| children           = 4
+| mother             = [[Jeanne Shaheen]]
+| education          = [[Fairfield University]] ([[Bachelor of Arts|BA]])<br>[[Harvard University]] ([[Master of Public Administration|MPA]])<br>[[Massachusetts Institute of Technology]] ([[Master of Business Administration|MBA]])
+}}
+'''Stefany Shaheen''' (born 1974) is an American politician from [[New Hampshire]]. A member of the [[Democratic Party (United States)|Democratic Party]], she is the member-elect to the [[United States House of Representatives]] for {{ushr|NH|1}}.
+
+==Early life and career==
+Shaheen was born in [[Portsmouth, New Hampshire]], in 1974.<ref>{{Cite web|url=https://patch.com/new-hampshire/portsmouth-nh/stefany-shaheen-running-for-portsmouth-city-council_9bc8a53e|title=Stefany Shaheen Running for City Council|first1=Jason|last1=Claffey|date=September 9, 2013|website=Portsmouth, NH Patch}}</ref> She attended [[Oyster River High School]] in [[Durham, New Hampshire]]. She earned a scholarship to play volleyball at [[Fairfield University]]. She became the head coach of the volleyball team at [[Portsmouth High School (New Hampshire)|Portsmouth High School]] in 2017.<ref>{{Cite web|url=https://www.fosters.com/story/sports/high-school/2017/08/15/former-city-councilor-stefany-shaheen-grateful-to-join-clippers/19672673007/|title=Portsmouth's new regime|website=Foster's Daily Democrat}}</ref> She stepped down at the conclusion of her two-year agreement.<ref>{{Cite web|url=https://www.fosters.com/story/sports/high-school/2018/12/05/stefany-shaheen-steps-down-as-phs-volleyball-coach/7109739007/|title=Stefany Shaheen steps down as PHS volleyball coach|website=Foster's Daily Democrat}}</ref>
+
+==Political career==
+In 2014, Shaheen was elected to the Portsmouth City Council. She considered running for [[Governor of New Hampshire|governor]] in the [[2016 New Hampshire gubernatorial election|2016 election]],<ref>{{Cite web|url=https://www.nhpr.org/politics/2015-09-21/on-the-political-front-stefany-shaheen-could-complicate-n-h-dems-political-plans|title=On The Political Front: Stefany Shaheen Could Complicate N.H. Dems' Political Plans|first=Josh|last=Rogers|date=September 21, 2015|website=New Hampshire Public Radio}}</ref> but opted not to.<ref>{{Cite web|url=https://www.seacoastonline.com/story/news/local/portsmouth-herald/2016/03/14/stefany-shaheen-opts-not-to/32382190007/|title=Stefany Shaheen opts not to run for governor|first=Jeff|last=McMenemy|website=Portsmouth Herald}}</ref>
+
+In 2023, President [[Joe Biden]] appointed Shaheen to the [[President's Council on Sports, Fitness, and Nutrition]].<ref>{{Cite web|url=https://www.seacoastonline.com/story/news/local/2023/03/27/stefany-shaheen-biden-president-sports-fitness-and-nutrition-council/70052366007/|title=Stefany Shaheen of Portsmouth named to President's Council on Sports, Fitness and Nutrition|first=Ian|last=Lenahan|website=Portsmouth Herald}}</ref>
+
+In May 2025, Shaheen announced her candidacy for the [[United States House of Representatives]] in {{ushr|NH|1}} in the 2026 elections.<ref>{{Cite web|url=https://www.unionleader.com/news/politics/voters/stefany-shaheen-kicks-off-1st-congressional-district-democratic-primary-bid/article_b1beda5a-2111-4340-be1b-a2a9b49636b4.html|title=Stefany Shaheen kicks off 1st Congressional District Democratic primary bid|first=Kevin Landrigan Union Leader|last=Staff|date=May 28, 2025|website=UnionLeader.com}}</ref> She won the Democratic Party primary election on September 8, 2026,<ref>{{cite web|last=Kashinsky|first=Lisa|title=Stefany Shaheen, daughter of Sen. Jeanne Shaheen, wins New Hampshire House primary|publisher=Politico|date=September 9, 2026|url=https://www.politico.com/news/2026/09/09/stefany-shaheen-wins-new-hampshire-house-primary-01068480|access-date=September 9, 2026}}</ref> and won the general election on November 3.<ref>https://wgme.com/news/local/democrat-stefany-shaheen-wins-election-to-us-house-in-new-hampshire-1st-district-election-night-voting</ref>
+
+==Personal life==
+Shaheen is the daughter of William and [[Jeanne Shaheen]]. She and her husband have four children. Shaheen wrote a book, ''Elle & Coach'', about the bond between her daughter, who has [[type 1 diabetes]], and her [[service dog]], which was published in 2015.<ref>{{Cite web|url=https://abcnews.go.com/US/diabetic-girl-yellow-lab-bond-works-alive/story?id=33267374|title=Diabetic Girl and Yellow Lab Bond While He Works to Keep Her Alive|website=ABC News}}</ref>
+
+==Bibliography==
+*{{cite book|title=Elle & Coach: Diabetes, the Fight for My Daughter's Life, and the Dog Who Changed Everything|first1=Stefany|last1=Shaheen|first2=Mark|last2=Dagostino|year=2015|publisher=Hachette Books|isbn=978-0316258753}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.nhhomemagazine.com/traditional-with-a-twist/ Traditional with a Twist]
+
+{{s-start}}
+{{s-par|us-hs}}
+{{s-bef|before=[[Chris Pappas (American politician)|Chris Pappas]]}}
+{{s-ttl|title=Member of the [[List of United States representatives from New Hampshire|U.S. House of Representatives]]<br>from [[New Hampshire's 1st congressional district]]|years=Taking office 2027<!-- –present -->}}
+{{s-non|reason=Elect}}<!-- {{s-inc}} -->
+{{s-end}}
+
+<!-- {{NH-FedRep}}
+{{Current U.S. representatives}}
+{{USCongRep-start |congresses=120th–present [[United States Congress]] |state=[[New Hampshire's congressional delegations|New Hampshire]]}}
+{{USCongRep/NH/120}}
+{{USCongRep-end}} -->
+
+{{DEFAULTSORT:Shaheen, Stefany}}
+[[Category:1974 births]]
+[[Category:21st-century American women politicians]]
+[[Category:21st-century New Hampshire politicians]]
+[[Category:21st-century United States representatives]]
+[[Category:American politicians of Lebanese descent]]
+[[Category:Democratic Party United States representatives from New Hampshire]]
+[[Category:Fairfield University alumni]]
+[[Category:Female United States representatives]]
+[[Category:Harvard Kennedy School alumni]]
+[[Category:Living people]]
+[[Category:MIT Sloan School of Management alumni]]
+[[Category:New Hampshire Democrats]]
+[[Category:Women in New Hampshire politics]]

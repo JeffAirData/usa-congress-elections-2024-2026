@@ -1,0 +1,74 @@
+{{Short description|American attorney and politician}}
+{{Infobox politician
+| name = Katy Padilla Stout
+| image = Katy Padilla Stout Cropped.jpg
+| caption = Padilla Stout in 2026
+| state = [[Texas]]
+| district = {{ushr|TX|23|23rd}}
+| term_start = January 3, 2027
+| term_end = 
+| succeeding = [[Tony Gonzales]]
+| predecessor = [[Tony Gonzales]]
+| successor = 
+| birth_date = {{birth based on age as of date|40|2026|1|8}}
+| birth_place = [[San Antonio]], [[Texas]], U.S.
+| death_date = 
+| death_place = 
+| party = [[Democratic Party (United States)|Democratic]]
+| spouse = 
+| children = 4
+| education = [[University of Texas, Austin]] ([[Bachelor of Science|BS]])<br>[[South Texas College of Law]] ([[Juris Doctor|JD]])
+}}
+'''Katy Padilla Stout''' (born 1985/1986)<ref>{{cite web |url=https://sanantonioreport.org/profile/katy-padilla-stout-2026-candidate-for-texas-23rd-congressional-district/ |title=Katy Padilla Stout &#124; 2026 candidate for Texas' 23rd Congressional District |work=San Antonio Report |date=January 8, 2026 |first=Andrea |last=Drusch}}</ref> is an American attorney and politician who is the member-elect for [[Texas's 23rd congressional district]] in the [[2026 United States House of Representatives elections in Texas|2026 election]].<ref name="TPR"/> She is a member of the [[Democratic Party (United States)|Democratic Party]].
+
+== Early life and education ==
+Padilla Stout was born and raised in [[San Antonio, Texas]].<ref name="SAR">{{cite web |title=Katy Padilla Stout profile |url=https://sanantonioreport.org/profile/katy-padilla-stout-2026-candidate-for-texas-23rd-congressional-district/ |website=San Antonio Report |access-date=April 5, 2026}}</ref> She attended [[North East Independent School District]] schools and graduated from [[Legacy of Educational Excellence High School|Lee High School]] in 2003.<ref name="SAR" /> She earned a [[Bachelor of Science]] in education from the [[University of Texas at Austin]].<ref name="SAR" /> She later obtained a [[Juris Doctor]] from [[South Texas College of Law]].<ref name="SAR" />
+
+== Career ==
+Padilla Stout began her career as an elementary school teacher in [[Northside Independent School District]].<ref name="SAR" /> As a teacher, she worked in English as a Second Language (ESL), special education, and gifted and talented programs.<ref name="SAR" /> Her experience working with refugee students influenced her decision to pursue a legal career.<ref>{{cite web |title=Katy Padilla Stout sees opening in Texas 23rd Congressional District |url=https://sanantonioreport.org/katy-padilla-stout-texas-23rd-congressional-district-democrat-nominee/ |website=San Antonio Report |access-date=April 5, 2026}}</ref>
+After earning her law degree, she became an attorney representing children in the foster care system.<ref name="SAR" /> She has served on the Bexar County Child Welfare Board.<ref name="SAR" />
+
+== Political career ==
+Padilla Stout ran for the United States House of Representatives in Texas's 23rd congressional district in 2026 as a Democrat.<ref name="TPR">{{cite web |title=Katy Padilla Stout on The Source |url=https://www.tpr.org/podcast/the-source/2026-03-16/katy-padilla-stout-on-the-source |website=Texas Public Radio |access-date=April 5, 2026}}</ref> She won a multi-candidate Democratic primary to become her party's nominee.<ref name="TPR" /> Her campaign has emphasized issues affecting working families, rural communities, and border regions.<ref name="TPR" /> She defeated Republican nominee [[Brandon Herrera]] in the general election.<ref>https://www.texastribune.org/2026/11/04/texas-brandon-herrera-katy-padilla-stout-congress-district-23-elections-2026/</ref>
+
+== Personal life ==
+Padilla Stout lives in the [[Greater San Antonio]] area.<ref name="SAR" /> She is married and has four children.<ref name="SAR" />
+
+== References ==
+{{reflist}}
+
+== External links ==
+*{{Official website|https://www.katyforcongress.com/|Campaign website}}
+
+{{s-start}}
+{{s-par|us-hs}}
+{{s-bef|before=[[Tony Gonzales]]}}
+{{s-ttl|title=Member of the [[List of United States representatives from Texas|U.S. House of Representatives]]<br>from [[Texas's 23rd congressional district]]|years=Taking office 2027<!-- –present -->}}
+{{s-non|reason=Elect}}<!-- {{s-inc}} -->
+{{s-end}}
+
+<!-- {{TX-FedRep}}
+{{Current U.S. representatives}}
+{{USCongRep-start |congresses=120th–present [[United States Congress]] |state=[[Texas's congressional delegations|Texas]]}}
+{{USCongRep/TX/120}}
+{{USCongRep-end}} -->
+
+{{Draft categories|
+[[Category:1980s births]]
+[[Category:21st-century American women politicians]]
+[[Category:21st-century United States representatives]]
+[[Category:American politicians of Mexican descent]]
+[[Category:Candidates in the 2026 United States House of Representatives elections]]
+[[Category:Democratic Party United States representatives from Texas]]
+[[Category:Female United States representatives]]
+[[Category:Hispanic and Latino American members of the United States Congress]]
+[[Category:Hispanic and Latino American people in Texas politics]]
+[[Category:Hispanic and Latino American women in politics]]
+[[Category:Living people]]
+[[Category:Politicians from San Antonio]]
+[[Category:South Texas College of Law alumni]]
+[[Category:Texas Democrats]]
+[[Category:Texas lawyers]]
+[[Category:University of Texas at Austin alumni]]
+[[Category:Women in Texas politics]]
+}}

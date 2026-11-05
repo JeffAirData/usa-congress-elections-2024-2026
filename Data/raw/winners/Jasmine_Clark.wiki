@@ -1,0 +1,84 @@
+{{Short description|American scientist and politician (born 1982)}}
+{{Use American English|date=November 2025}}
+{{Use mdy dates|date=April 2025}}
+{{Infobox officeholder
+| name                = Jasmine Clark
+| image               = Member of the Georgia House of Representatives Jasmine Michelle Clark.jpg
+| caption             = Official portrait, 2019
+| state               = [[Georgia (U.S. state)|Georgia]]
+| district            = {{ushr|GA|13|13th}}
+| term_start          = January 3, 2027
+| term_end            = 
+| succeeding          = [[Everton Blair]]
+| predecessor         = [[Everton Blair]]
+| successor           = 
+| state_house1        = Georgia
+| district1           = [[Georgia's 108th House district|108th]]
+| term_start1         = January 14, 2019
+| term_end1           = <!-- January 3, 2027 -->
+| predecessor1        = [[Clay Cox]]
+| successor1          = <!-- ''Vacant'' -->
+| birth_date          = {{birth date and age|1982|12|26}}
+| birth_place         = [[Atlanta, Georgia]], U.S.
+| death_date          = 
+| death_place         = 
+| party               = [[Democratic Party (United States)|Democratic]]
+| education           = [[University of Tennessee]] ([[Bachelor of Science|BS]])<br>[[Emory University]] ([[Master of Science|MS]], [[Doctor of Philosophy|PhD]])
+}}
+'''Jasmine Michelle Clark''' (born December 26, 1982) is an American politician and scientist. She is a member of the [[Georgia House of Representatives]] from the [[Georgia's 108th House of Representatives district|108th district]], serving since January 14, 2019.<ref>{{cite web|title=Jasmine Clark|url=https://ballotpedia.org/Jasmine_Clark|website=Ballotpedia|access-date=November 10, 2018|archive-date=November 9, 2018|archive-url=https://web.archive.org/web/20181109060528/https://ballotpedia.org/Jasmine_Clark|url-status=live}}</ref> A member of the [[Democratic Party (United States)|Democratic Party]], she is the party's nominee for [[Georgia's 13th congressional district]] in the [[2026 United States House of Representatives elections in Georgia|2026 election]].
+
+==Early life==
+Clark was born on December 26, 1982, in [[Atlanta]], Georgia. She received a [[Bachelor of Science]] degree at the [[University of Tennessee]] and a [[Doctor of Philosophy]] in [[microbiology]] from [[Emory University]].<ref>{{cite web|url=https://news.emory.edu/stories/2018/11/emory_nursing_instructor_wins_district/index.html|title=Emory nursing instructor wins District 108|publisher=Emory News Center|date=November 14, 2018|access-date=May 19, 2020|archive-date=December 29, 2019|archive-url=https://web.archive.org/web/20191229150916/http://news.emory.edu/stories/2018/11/emory_nursing_instructor_wins_district/index.html|url-status=live}}</ref>
+
+==Medical career==
+Clark is a senior lecturer at the [[Nell Hodgson Woodruff School of Nursing]]. As part of her science communication, she organized the 2019 [[March for Science]] in [[Atlanta]], Georgia.<ref>{{cite news |last1=DeFazio |first1=Jacob |title=Clark: A Legislator With a Lab Coat |url=https://emorywheel.com/clarke-a-legislator-with-a-lab-coat|access-date=9 June 2020 |work=The Emory Wheel |date=Feb 13, 2019 |archive-date=10 June 2020 |archive-url=https://web.archive.org/web/20200610012719/https://emorywheel.com/clarke-a-legislator-with-a-lab-coat|url-status=live}}</ref>
+
+In May 2020, Clark received media attention after accusing public health officials in Georgia of "malfeasance" in how they reported [[COVID-19]] statistics from the state. The office of [[Brian Kemp]], the [[governor of Georgia]], denied that there was any attempt to deceive the public.<ref>{{cite web|url=https://apnews.com/6dbd9ad370add2ba299c7da46c25004f|title=States accused of fudging or bungling COVID-19 testing data|last1=Smith|first1=Michelle R.|last2=Long|first2=Colleen|last3=Amy|first3=Jeff|publisher=[[Associated Press]]|date=May 19, 2020|access-date=May 19, 2020}}</ref>
+
+==Political career==
+
+===U.S. congressional campaign===
+In June 2025, Clark announced her candidacy for Congress, vying to unseat Democratic representative [[David Scott (Georgia politician)|David Scott]] of [[Georgia's 13th congressional district]].<ref>{{cite web|last=Bluestein|first=Greg|url=https://www.ajc.com/politics/2025/06/jasmine-clark-jumps-into-race-against-us-rep-david-scott/|title=Jasmine Clark jumps into race against U.S. Rep. David Scott|work=[[The Atlanta Journal-Constitution]]|date=June 2, 2025|access-date=June 2, 2025}}</ref> In November 2025, an open records request filed by Clark revealed Scott had not voted in the past six straight elections.<ref>{{cite web|last=Rashid|first=Hafiz|title=80-Year-Old Swing State Democrat Didn't Vote in Past Six Elections|url=https://newrepublic.com/post/202831/80-year-old-swing-state-democrat-didnt-vote-elections-david-scott|website=[[The New Republic]]|date=November 6, 2025}}</ref> Clark ran in the primary for the 13th again in 2026 following Scott's death in April, and won the Democratic nomination for the seat that May.<ref>{{Cite web |last=Barnhart |first=Max |date=June 11, 2026 |title=Meet Jasmine Clark, the self-described ‘mad scientist’ running for the US House |url=https://cen.acs.org/people/profiles/jasmine-clark-phd-congress/104/web/2026/06 |access-date=2026-07-13 |website=Chemical & Engineering News |language=en}}</ref><ref>{{Cite web |last= |date=19 May 2026 |title=Jasmine Clark wins Democratic nomination for U.S. House in Georgia's 13th Congressional District |url=https://www.kare11.com/article/syndication/associatedpress/jasmine-clark-wins-democratic-nomination-for-us-house-in-georgias-13th-congressional-district/616-2667734c-a097-4d86-b3d7-11b551abfe9f |access-date=2026-07-12 |website=[[Kare11]] |language=en|agency=[[Associated Press]]}}</ref>
+
+==References==
+{{reflist}}
+
+== External links ==
+{{commonscat}}
+{{congLinks|votesmart=178958}}
+
+{{s-start}}
+{{s-par|us-hs}}
+{{s-bef|before=[[Everton Blair]]}}
+{{s-ttl|title=Member of the [[List of United States representatives from Georgia|U.S. House of Representatives]]<br>from [[Georgia's 13th congressional district]]|years=Taking office 2027<!-- –present -->}}
+{{s-non|reason=Elect}}<!-- {{s-inc}} -->
+{{s-end}}
+
+<!-- {{GA-FedRep}}
+{{Current U.S. representatives}}
+{{USCongRep-start |congresses=120th–present [[United States Congress]] |state=[[Georgia's congressional delegations|Georgia]]}}
+{{USCongRep/GA/120}}
+{{USCongRep-end}} -->
+{{Georgia House of Representatives}}
+{{Authority control}}
+
+{{DEFAULTSORT:Clark, Jasmine}}
+[[Category:1982 births]]
+[[Category:21st-century African-American women politicians]]
+[[Category:21st-century African-American politicians]]
+[[Category:21st-century American women politicians]]
+[[Category:21st-century members of the Georgia General Assembly]]
+[[Category:21st-century United States representatives]]
+[[Category:African-American state legislators in Georgia (U.S. state)]]
+[[Category:American women microbiologists]]
+[[Category:Democratic Party members of the Georgia House of Representatives]]
+[[Category:Democratic Party United States representatives from Georgia (U.S. state)]]
+[[Category:Emory University alumni]]
+[[Category:Emory University faculty]]
+[[Category:Female United States representatives]]
+[[Category:Living people]]
+[[Category:Politicians from Atlanta]]
+[[Category:University of Tennessee alumni]]
+[[Category:Women state legislators in Georgia (U.S. state)]]
+
+{{GeorgiaUS-GARepresentative-stub}}

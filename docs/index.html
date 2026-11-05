@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Eleições nos EUA: Congresso e governadores, 2024 x 2026</title>
+<style>
+  :root { color-scheme: light; --page:#f9f9f7; --surface:#fcfcfb; --ink:#0b0b0b; --ink-2:#52514e; --muted:#898781;
+          --line:#e1e0d9; --dem:#2a78d6; --rep:#e34948; --open:#c3c2b7; --warn:#fbf3df; }
+  * { box-sizing: border-box; }
+  body { font-family: Inter, "Segoe UI", system-ui, -apple-system, sans-serif; background: var(--page); color: var(--ink); margin: 0; }
+  main { max-width: 920px; margin: 0 auto; padding: 16px 16px 48px; }
+  .top { display: flex; justify-content: flex-end; margin-bottom: 8px; }
+  .switch { display: inline-block; padding: 8px 14px; border: 2px solid var(--dem); border-radius: 999px; color: var(--dem);
+            font-weight: 700; text-decoration: none; }
+  .switch:hover { background: var(--dem); color: #fff; }
+  h1 { font-size: 1.9rem; line-height: 1.2; margin: 0 0 8px; }
+  h2 { font-size: 1.4rem; margin: 40px 0 8px; }
+  p, li { color: var(--ink-2); line-height: 1.55; }
+  .lead { font-size: 1.15rem; color: var(--ink); }
+  .warn { background: var(--warn); border-left: 4px solid #d99a1e; padding: 12px 14px; border-radius: 6px; color: var(--ink); }
+  img { width: 100%; height: auto; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); margin: 12px 0; }
+  .legend { display: flex; gap: 16px; flex-wrap: wrap; color: var(--ink-2); font-size: .95rem; margin: 6px 0 10px; }
+  .sw { display: inline-block; width: 12px; height: 12px; border-radius: 3px; margin-right: 6px; vertical-align: -1px; }
+  section.box { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 16px; margin: 16px 0; }
+  select { width: 100%; font: inherit; font-size: 1.05rem; padding: 10px 12px; border: 2px solid var(--dem); border-radius: 8px; background: #fff; }
+  table { width: 100%; border-collapse: collapse; margin-top: 12px; font-variant-numeric: tabular-nums; }
+  th, td { text-align: left; padding: 6px 4px; border-bottom: 1px solid var(--line); font-size: .95rem; vertical-align: top; }
+  .D { color: var(--dem); font-weight: 700; } .R { color: var(--rep); font-weight: 700; } .O { color: var(--muted); }
+  .flip { background: var(--warn); }
+  .totals { display: flex; gap: 18px; flex-wrap: wrap; margin-top: 10px; }
+  footer { margin-top: 40px; font-size: .9rem; color: var(--muted); }
+  footer a, main a { color: var(--dem); }
+</style>
+</head>
+<body>
+<main>
+<div class="top"><a href="en/" class="switch" hreflang="en">English version</a></div>
+<h1>Eleições nos EUA: Congresso e governadores, 2024 x 2026</h1>
+<p class="warn"><strong>Resultados parciais.</strong> Retrato de 5 de novembro de 2026, dois dias depois da eleição: 43 cadeiras da Câmara, 3 do Senado e 4 governos ainda sem vencedor. Os números servem para comparar, não são definitivos.</p>
+<p class="lead">Os Democratas passaram de 215 para pelo menos 246 cadeiras na Câmara, de 47 para 53 no Senado e de 24 para 27 governos estaduais. Comparei com a eleição de 2024 e com a série histórica desde 1913.</p>
+<div class="legend"><span><span class="sw" style="background:var(--dem)"></span>Democratas</span>
+<span><span class="sw" style="background:var(--rep)"></span>Republicanos</span>
+<span><span class="sw" style="background:var(--open)"></span>em aberto</span></div>
+
+<h2 id="parte-1">1. Câmara, Senado e governadores</h2>
+<ul><li><strong>Câmara:</strong> 215 D x 220 R em 2024; agora 246 D x 146 R, com 43 em aberto. A maioria é 218: os Democratas já a têm.</li><li><strong>Senado:</strong> 47 D x 53 R antes da eleição (os dois independentes votam com os Democratas); agora 53 D x 44 R. Passaram para os Democratas: Iowa, Kansas, Maine, Carolina do Norte, Ohio (eleição especial), Carolina do Sul e Texas. Em aberto: Alasca, Michigan e Mississippi.</li><li><strong>Governadores:</strong> 24 D x 26 R antes; agora 27 D x 19 R. Viraram para os Democratas: Geórgia, Iowa, Nevada, Ohio e Texas. Em aberto: Alasca, Califórnia, Kansas e Oklahoma.</li></ul>
+<img src="img/01_nacional.png" alt="Barras de Câmara, Senado e governadores antes e depois da eleição">
+
+<h2 id="parte-2">2. Estado por estado</h2>
+<p>44 cadeiras passaram para os Democratas e 2 para os Republicanos. Vários estados redesenharam os distritos entre 2025 e 2026, por isso a comparação é pela bancada de cada estado e pelo partido que ganhou cada cadeira.</p>
+<img src="img/02_estados.png" alt="Cadeiras que mudaram de partido, por estado">
+<section class="box">
+  <label for="st"><strong>Escolha um estado</strong></label>
+  <select id="st"></select>
+  <div class="totals" id="tot"></div>
+  <table><thead><tr><th>Distrito</th><th>2024</th><th>2026</th></tr></thead><tbody id="rows"></tbody></table>
+</section>
+
+<h2 id="parte-3">3. A série histórica</h2>
+<p>De 1946 a 2022, o partido do presidente perdeu cadeiras na Câmara em 18 de 20 eleições de meio de mandato. A maior perda foi a de 2010: 64 cadeiras. Em 2026, os Republicanos perdem entre 31 e 74, dependendo das 43 cadeiras em aberto. Se a perda passar de 64, será a maior desde 1946.</p>
+<img src="img/03_midterms.png" alt="Cadeiras ganhas ou perdidas pelo partido do presidente em cada eleição de meio de mandato desde 1946">
+<img src="img/04_camara_historico.png" alt="Cadeiras de cada partido na Câmara desde 1913">
+
+<h2 id="parte-4">4. Mulheres, negros, hispânicos, indígenas e LGBTQ+</h2>
+<ul><li><strong>Mulheres:</strong> 125 eleitas para a Câmara em 2024 e pelo menos 124 em 2026, com 43 cadeiras em aberto. A mudança está nos partidos: as democratas passaram de 94 para 109; as republicanas, de 31 para 15. As 26 novatas já confirmadas são todas democratas.</li><li><strong>Hispânicos:</strong> 49 em 2024 e pelo menos 50 em 2026, com 14 novatos.</li><li><strong>Indígenas:</strong> 3 na Câmara em 2024 e 4 em 2026, com Claire Valdez (Nova York). No Senado, Peggy Flanagan (Minnesota) será a primeira mulher indígena eleita senadora.</li><li><strong>LGBTQ+:</strong> 12 na Câmara no início de 2025 e pelo menos 13 em 2026. No Senado, Chris Pappas (New Hampshire) é o primeiro homem abertamente gay eleito senador e se junta a Tammy Baldwin.</li><li><strong>Negros:</strong> 61 eleitos em 2024; 46 foram reeleitos. Ainda não há lista dos novatos. A imprensa destaca Melat Kiros, primeira congressista negra do Colorado, e Juliana Stratton, eleita senadora por Illinois.</li></ul>
+<img src="img/05_diversidade_serie.png" alt="Membros de cada grupo na Câmara por legislatura desde 1945">
+<img src="img/06_grupos_2024_2026.png" alt="Eleitos de cada grupo em 2024 e o que se sabe de 2026">
+<img src="img/07_mulheres_partido.png" alt="Mulheres eleitas para a Câmara por partido, 2024 e 2026">
+
+<h2>Como ler os números</h2>
+<ul><li>Azul é sempre Democrata e vermelho, sempre Republicano. Outros partidos e disputas sem resultado ficam em cinza.</li><li>Uma disputa só conta como decidida quando a fonte marca o vencedor. Nenhum resultado é estimado.</li><li>2024 bate com o resultado oficial da Câmara: 220 Republicanos e 215 Democratas.</li><li>A série histórica da Câmara é a tabela oficial <em>Party Divisions</em> do Historiador da Câmara.</li><li>Mulheres, negros e hispânicos por legislatura vêm das listas oficiais do Historiador da Câmara; indígenas e LGBTQ+, das listas da Wikipedia. A linha conta quem passou pela Câmara em cada legislatura, inclusive substitutos; os pontos contam só os eleitos em novembro.</li><li>Mulheres eleitas em 2026: para quem já está na Câmara, o tratamento oficial do Clerk (Mr./Ms.); para as novatas, os pronomes do artigo da Wikipedia de cada uma. Quem não tem fonte fica de fora; nada é deduzido pelo primeiro nome.</li><li>Novatos dos outros grupos só entram quando uma fonte os nomeia. Por isso 2026 é um mínimo, não um total.</li><li>Novato quer dizer quem não está na Câmara atual; alguns, como Elaine Luria, já foram deputados antes.</li></ul>
+<footer><p>Fontes: Wikipedia (artigos das eleições de 2024 e 2026 para Câmara, Senado e governadores, que citam AP, DDHQ e as secretarias estaduais), House Clerk (MemberData.xml), House Historian (Party Divisions e listas de mulheres, negros e hispânicos), unitedstates/congress-legislators e a imprensa citada no texto.</p><p>Código e dados: <a href="https://github.com/JeffAirData/eua-eleicoes-congresso-2024-2026">github.com/JeffAirData/eua-eleicoes-congresso-2024-2026</a></p></footer>
+</main>
+<script>
+const L = {"seats": "cadeiras", "d": "Distrito", "open": "em aberto", "gain": "mudou de partido", "nameKey": "pt", "al": "único"};
+const sel = document.getElementById("st"), rows = document.getElementById("rows"), tot = document.getElementById("tot");
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[c]));
+const cell = (w, p) => w ? `<span class="${p === "D" || p === "R" ? p : "O"}">${esc(w)} (${esc(p)})</span>` : `<span class="O">${L.open}</span>`;
+fetch("data.json").then(r => r.json()).then(d => {
+  const st = Object.entries(d.states).sort((a, b) => a[1][L.nameKey].localeCompare(b[1][L.nameKey]));
+  sel.innerHTML = st.map(([k, v]) => `<option value="${k}">${esc(v[L.nameKey])} (${v.seats} ${L.seats})</option>`).join("");
+  const show = k => {
+    const v = d.states[k];
+    tot.innerHTML = `<span>2024: <span class="D">${v.D_2024} D</span> · <span class="R">${v.R_2024} R</span></span>` +
+      `<span>2026: <span class="D">${v.D_2026} D</span> · <span class="R">${v.R_2026} R</span>` + (v.open ? ` · <span class="O">${v.open} ${L.open}</span>` : "") + `</span>`;
+    rows.innerHTML = v.districts.map(x => `<tr class="${x.label && x.label.endsWith("gain") ? "flip" : ""}"><td>${x.d === "AL" ? L.al : x.d}` +
+      `${x.label && x.label.endsWith("gain") ? `<br><small>${L.gain}</small>` : ""}</td><td>${cell(x.w24, x.p24)}</td><td>${cell(x.w26, x.p26)}</td></tr>`).join("");
+  };
+  sel.value = "NC"; show("NC");
+  sel.addEventListener("change", e => show(e.target.value));
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,57 @@
+{{Short description|American politician, attorney (born 1973)}}
+{{Infobox officeholder
+| name = Tom Sell 
+| state = [[Texas]]
+| district = {{ushr|TX|19|19th}}
+| term_start = January 3, 2027
+| term_end = 
+| succeeding = [[Jodey Arrington]]
+| predecessor = [[Jodey Arrington]]
+| successor = 
+| birth_date = {{birth date and age|1973|1|5}}
+| birth_place = [[Lubbock, Texas]], U.S.
+| death_date = 
+| death_place = 
+| party = [[Republican Party (United States)|Republican]]
+| education = [[Texas Tech University]] ([[Bachelor of Science|BS]], [[Juris Doctor|JD]])
+}}
+'''Tom Douglas Sell''' (born January 5, 1973) is an American politician, businessman, and attorney from Texas. A [[Republican Party (United States)|Republican]], he is the member-elect for {{ushr|TX|19}} in the [[United States House of Representatives]].
+
+==Early life and career==
+Born in [[Lubbock, Texas]] on January 5, 1973,<ref>{{cite web|title=Tom Sell|url=https://www.legistorm.com/person/bio/48111/Tom_Douglas_Sell.html|publisher=Legistorm|access-date=November 4, 2026}}</ref> Sell is a fifth-generation West Texan whose family came to the Lubbock area as [[sharecropper]]s in 1906, before the city was incorporated.<ref>https://www.kcbd.com/2026/05/22/tom-sell-makes-final-push-congressional-district-19-race/</ref><ref name=":0" /> He earned a Bachelor of Science in [[agribusiness]] from [[Texas Tech University]] in 1995 and later received a [[Juris Doctor]] from the Texas Tech University School of Law.<ref name="auto1">{{cite web |last1=Texas |first1=State of |last2=University |first2=Texas Tech |title=Tom Sell Distinguished Alumni Award |website=Texas Tech University |date=May 7, 2026 |url=https://www.depts.ttu.edu/agriculturalsciences/Alumni/distinguished-alumni/awardees/sell-tom.php |access-date=June 30, 2026}}</ref><ref name=":0" />
+
+After graduating from college, Sell joined the staff of U.S. Representative [[Larry Combest]], eventually serving as deputy staff director of the [[United States House Committee on Agriculture]] while Combest chaired the committee.<ref name="auto1"/><ref name="auto">{{cite news |last=Borgula |first=Olivia |title=Farmers or Trump? Texas congressional candidates split on promises |work=The Texas Tribune |date=February 26, 2026 |url=https://www.texastribune.org/2026/02/26/texas-congressional-19-tom-sell-abraham-enriquez-lubbock-election-2026/ |access-date=June 30, 2026}}</ref> During his tenure, he worked on major agricultural legislation, including the Crop Insurance Reform Act of 2000 and the [[Farm Security and Rural Investment Act of 2002|2002 Farm Bill]].<ref name="auto1"/><ref name=":0" />
+
+Following his service in Washington, Sell returned to Lubbock, where he and Combest co-founded Combest, Sell & Associates, a government affairs and consulting firm.<ref name="auto1"/><ref name=":0" /> The firm represents agricultural producers, rural communities, businesses, and other organizations throughout West Texas and across the United States.<ref name=":0" /> Sell has also been involved in agricultural business ventures, including Estacado Cattle Co.<ref name="auto1"/><ref name=":0" />
+
+==U.S. House of Representatives==
+In November 2025, Sell announced his candidacy for Texas's 19th congressional district following Representative [[Jodey Arrington]]'s decision not to seek re-election.<ref>{{cite news |last=Young |first=Adam D. |title=Lubbock businessman, ag policy expert Tom Sell enters GOP primary race for Texas' U.S. 19 |work=Lubbock Avalanche-Journal |url=https://www.lubbockonline.com/story/news/politics/2025/11/13/former-congressional-staffer-lubbock-businessman-tom-sell-in-u-s-19-race/87254897007/ |access-date=June 30, 2026}}</ref><ref name="auto"/> His campaign emphasized agriculture, border security, energy production, and conservative social policies.<ref name="auto"/><ref name=":0" />
+
+Sell advanced to the Republican primary runoff against Abraham Enriquez after finishing first in the initial primary election.<ref>{{cite news |last=Rosiles |first=Mateo |title=Sell, Enriquez certified as Texas U.S. 19 GOP primary runoff candidates |work=Lubbock Avalanche-Journal |url=https://www.lubbockonline.com/story/news/politics/elections/2026/03/20/sell-enriquez-to-face-off-during-tx-19-gop-republican-primary-may-2026-runoff-election/89175116007/ |access-date=June 30, 2026}}</ref> He defeated Enriquez in the runoff to secure the Republican nomination for the seat.<ref name="auto2">{{cite news |last=Hartin |first=Christy |title=Tom Sell wins District 19 Republican primary runoff |work=KCBD |date=May 27, 2026 |url=https://www.kcbd.com/2026/05/27/sell-wins-district-19-republican-primary-runoff/ |access-date=June 30, 2026}}</ref> He won the general election in November.<ref>https://thehill.com/homenews/campaign/6163886-texas-house-seat-tom-sell/</ref>
+
+==Personal life==
+Sell lives in Lubbock with his wife, Kyla, whom he met while attending Texas Tech University.<ref name=":0" /> They have four children, and the family remains active in their church and the Texas Tech community, where they mentor students in the Davis College of Agricultural Sciences & Natural Resources.<ref name=":0">{{cite web |title=About Tom Sell |url=https://www.selltexastrue.com/about |website=Sell for Congress |access-date=June 30, 2026}}</ref>
+
+==References==
+{{reflist}}
+
+{{s-start}}
+{{s-par|us-hs}}
+{{s-bef|before=[[Jodey Arrington]]}}
+{{s-ttl|title=Member of the [[List of United States representatives from Texas|U.S. House of Representatives]]<br>from [[Texas's 19th congressional district]]|years=Taking office 2027<!-- –present -->}}
+{{s-non|reason=Elect}}<!-- {{s-inc}} -->
+{{s-end}}
+<!-- {{TX-FedRep}}
+{{Current U.S. representatives}}
+{{USCongRep-start |congresses=120th–present [[United States Congress]] |state=[[Texas's congressional delegations|Texas]]}}
+{{USCongRep/TX/120}}
+{{USCongRep-end}} -->
+
+{{DEFAULTSORT:Sell, Tom}}
+[[Category:Living people]]
+[[Category:1973 births]]
+[[Category:21st-century Texas politicians]]
+[[Category:21st-century United States representatives]]
+[[Category:Republican Party United States representatives from Texas]]
+[[Category:Texas Republicans]]
+[[Category:Texas Tech University School of Law alumni]]

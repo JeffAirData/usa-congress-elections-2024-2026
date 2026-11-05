@@ -1,0 +1,135 @@
+{{Short description|American politician (born 1982)}}
+{{Use American English|date=July 2026}}
+{{Use mdy dates|date=April 2025}}
+{{Infobox officeholder
+| name               = J. D. Ford
+| image              = JD Ford, Indy Pride Parade 2023 (2) (cropped).jpg
+| caption            = Ford in 2023
+| state              = [[Indiana]]
+| district           = {{ushr|IN|5|5th}}
+| term_start         = January 3, 2027
+| term_end           = 
+| succeeding         = [[Victoria Spartz]]
+| predecessor        = [[Victoria Spartz]]
+| successor          = 
+| state_senate1      = Indiana
+| district1          = 29th
+| term_start1        = November 7, 2018
+| term_end1          = November 4, 2026
+| predecessor1       = [[Mike Delph]]
+| successor1         = [[Kristina Moorhead]]
+| birth_date         = {{birth date and age|1982|11|6}}
+| birth_place        = [[Youngstown, Ohio]], U.S.
+| death_date         = 
+| death_place        = 
+| party              = [[Democratic Party (United States)|Democratic]]
+| education          = [[University of Akron]] ([[Bachelor of Science|BS]])<br>[[Purdue University Northwest|Purdue University, Northwest]] ([[Master of Education|MEd]])
+}}
+'''James David Ford''' (born November 6, 1982) is an American politician, currently a member of the [[Indiana Senate]].<ref name=wxin>[https://fox59.com/2018/11/06/democrat-j-d-ford-becomes-first-lgbt-candidate-elected-to-indiana-general-assembly/ "Democrat J.D. Ford becomes first LGBT candidate elected to Indiana General Assembly"] {{Webarchive|url=https://web.archive.org/web/20181116010301/https://fox59.com/2018/11/06/democrat-j-d-ford-becomes-first-lgbt-candidate-elected-to-indiana-general-assembly/ |date=2018-11-16 }}. [[WXIN]], November 6, 2018.</ref> Elected in the 2018 elections, he represents Senate District 29 as a member of the [[Democratic Party (United States)|Democratic Party]].<ref name=wxin/> He earned a bachelor's degree from [[University of Akron]] in criminal justice and political science and a master's degree in education from [[Purdue University Northwest]].<ref>{{Cite web|url=https://www.nwitimes.com/news/local/govt-and-politics/elections/senate-democrats-seek-fair-redrawing-of-legislative-district-boundaries/article_2bfe71fe-7fb3-5fd6-ac04-27b70bb4ab2f.html|title=Senate Democrats seek fair redrawing of legislative district boundaries|last=Carden|first=Dan|website=Northwest Indiana Times|date=17 November 2020 |language=en|access-date=2021-09-12}}</ref> He was elected as the congressperson for [[Indiana's 5th congressional district]] in [[2026 United States House of Representatives elections in Indiana#District 5|2026]], defeating [[Republican Party (United States)|Republican]] incumbent [[Victoria Spartz]] in the general election.<ref>{{Cite web |date=2026-11-03 |title=Democrat J.D. Ford beats Spartz in major upset for Indiana House seat |url=https://thehill.com/homenews/campaign/6194526-jd-ford-upsets-victoria-spartz/ |access-date=2026-11-04 |website=Thehill.com |language=en-US|last=Vakil|first=Caroline }}</ref>
+
+He was the first and, as of 2025, the only openly [[LGBT]] person elected to Indiana's state legislature.<ref>{{Cite web|url=https://www.indianasenatedemocrats.org/senators/s29/|title=Senator J.D. Ford|website=Indiana Senate Democrats|language=en|access-date=2021-09-12}}</ref> After inauguration, he will be the first openly gay representative from Indiana to the [[United States House of Representatives]].<ref>{{Cite web |last=Smith |first=Casey |date=2026-11-04 |title=Democrat J.D. Ford unseats Victoria Spartz in major upset for Indiana's 5th District • Indiana Capital Chronicle |url=https://indianacapitalchronicle.com/2026/11/03/democrat-j-d-ford-declared-win-over-victoria-spartz-in-major-upset-for-indianas-5th-district/ |access-date=2026-11-04 |website=Indiana Capital Chronicle |language=en-US}}</ref>
+
+He first ran for [[Indiana Senate]] District 29 in 2014 and lost to Republican incumbent [[Mike Delph]] but won four years later in a rematch.
+
+In November 2020, he was elected as the Caucus Chair of the [[Indiana Senate]] [[Democratic Party (United States)|Democrats]].<ref>{{Cite web|last=Smith|first=Brandon|date=2020-11-06|title=Sen. Greg Taylor Is First Black Leader Of Legislative Caucus In State History|url=https://www.wfyi.org/news/articles/sen-greg-taylor-is-first-black-leader-of-legislative-caucus-in-state-history|access-date=2021-01-03|website=WFYI Public Media|language=en-us}}</ref> For the 2024 legislative session, Senator Ford serves on the following committees: Education and Career Development (Ranking Minority Member), Elections (Ranking Minority Member), Ethics, Family and Children Services (Ranking Minority Member), Health and Provider Services, Local Government, and Rules and Legislative Procedure<ref name="insendems">{{Cite web |last=insendems |title=Senator J.D. Ford {{!}} District 29 |url=https://iga.in.gov/legislative/2024/legislators/legislator_jd_ford_1#committees |access-date=2024-06-17 |website=Indiana Senate Democrats |language=en-US}}</ref>
+
+In addition to these committee assignments, Ford was an Interim Senate Minority Member of the Legislative Council.<ref>{{Cite web |title=Indiana General Assembly |url=https://iga.in.gov/legislative/2024/legislators/legislator_jd_ford_1#committees |access-date=2024-06-17 |website=iga.in.gov}}</ref>
+
+==Electoral history==
+{{s-start}}
+|+ [[Indiana Senate|Indiana Senate 29th District]]: Results 2014–22<ref>{{cite web |url=https://indianavoters.in.gov/ENRHistorical/ElectionResults?year=2014|title=November 4, 2014 General Election |last1= |first1= |last2= |first2= |date=March 11, 2015 |publisher=[[Secretary of State of Indiana]] |accessdate=April 16, 2019}}</ref><ref>{{cite web |url=https://indianaenr.blob.core.usgovcloudapi.net/archive/2018General/index.html |title=November 6, 2018 General Election |last1= |first1= |last2= |first2= |date=November 6, 2018 |publisher=[[Secretary of State of Indiana]] |accessdate=April 16, 2019 |archive-date=April 16, 2019 |archive-url=https://web.archive.org/web/20190416153741/https://indianaenr.blob.core.usgovcloudapi.net/archive/2018General/index.html |url-status=dead }}</ref>
+! Year
+!
+! Democratic
+! Votes
+! %
+!
+! Republican
+! Votes
+! %
+!
+! Third Party
+! Party
+! Votes
+! %
+|-
+|[[2014 Indiana elections|2014]]
+||
+|{{party shading/Democratic}} |J. D. Ford
+|{{party shading/Democratic}} |12,685
+|{{party shading/Democratic}} |46%
+|
+|{{party shading/Republican}} |'''[[Mike Delph]]'''
+|{{party shading/Republican}} |15,094
+|{{party shading/Republican}} |54%
+|
+|
+|
+|
+|
+|-
+|[[2018 Indiana State Senate election|2018]]
+||
+|{{party shading/Democratic}} |'''J. D. Ford'''
+|{{party shading/Democratic}} |31,974
+|{{party shading/Democratic}} |57%
+|
+|{{party shading/Republican}} |[[Mike Delph]]
+|{{party shading/Republican}} |24,403
+|{{party shading/Republican}} |43%
+|
+|
+|
+|
+|
+|-
+|[[2022 Indiana State Senate election|2022]]
+||
+|{{party shading/Democratic}} |'''J. D. Ford'''
+|{{party shading/Democratic}} |22,636
+|{{party shading/Democratic}} |52%
+|
+|{{party shading/Republican}} |Alex Choi
+|{{party shading/Republican}} |21,175
+|{{party shading/Republican}} |48%
+|
+|
+|
+|
+|
+{{s-end}}
+
+==References==
+{{reflist}}
+
+{{s-start}}
+{{s-par|us-hs}}
+{{s-bef|before=[[Victoria Spartz]]}}
+{{s-ttl|title=Member of the [[List of United States representatives from Indiana|U.S. House of Representatives]]<br>from [[Indiana's 5th congressional district]]|years=Taking office 2027<!-- –present -->}}
+{{s-non|reason=Elect}}<!-- {{s-inc}} -->
+{{s-end}}
+
+<!-- {{IN-FedRep}}
+{{Current U.S. representatives}}
+{{USCongRep-start |congresses=120th–present [[United States Congress]] |state=[[Indiana's congressional delegations|Indiana]]}}
+{{USCongRep/IN/120}}
+{{USCongRep-end}} -->
+{{Indiana State Senators}}
+
+{{DEFAULTSORT:Ford, J.D.}}
+[[Category:1982 births]]
+[[Category:21st-century members of the Indiana General Assembly]]
+[[Category:21st-century United States representatives]]
+[[Category:American gay politicians]]
+[[Category:Candidates in the 2026 United States House of Representatives elections]]
+[[Category:Democratic Party Indiana state senators]]
+[[Category:Democratic Party United States representatives from Indiana]]
+[[Category:LGBTQ members of the United States Congress]]
+[[Category:LGBTQ state legislators in Indiana]]
+[[Category:Living people]]
+[[Category:Politicians from Indianapolis]]
+[[Category:Politicians from Youngstown, Ohio]]
+[[Category:Purdue University alumni]]
+[[Category:University of Akron alumni]]
+
+{{Indiana-politician-stub}}

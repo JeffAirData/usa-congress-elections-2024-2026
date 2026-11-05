@@ -1,0 +1,68 @@
+{
+ "house_2024": {
+  "D": 215,
+  "R": 220,
+  "open": 0
+ },
+ "house_2026": {
+  "D": 246,
+  "R": 146,
+  "open": 43
+ },
+ "senate_before": {
+  "D": 47,
+  "R": 53,
+  "open": 0
+ },
+ "senate_2026": {
+  "D": 53,
+  "R": 44,
+  "open": 3
+ },
+ "gov_before": {
+  "D": 24,
+  "R": 26,
+  "open": 0
+ },
+ "gov_2026": {
+  "D": 27,
+  "R": 19,
+  "open": 4
+ },
+ "senate_flips_to_D": [
+  "Iowa",
+  "Kansas",
+  "Maine",
+  "North Carolina",
+  "Ohio (special)",
+  "South Carolina",
+  "Texas"
+ ],
+ "gov_flips_to_D": [
+  "Georgia",
+  "Iowa",
+  "Nevada",
+  "Ohio",
+  "Texas"
+ ],
+ "senate_open": [
+  "Alaska",
+  "Michigan",
+  "Mississippi"
+ ],
+ "gov_open": [
+  "Alaska",
+  "California",
+  "Kansas",
+  "Oklahoma"
+ ],
+ "house_flips_to_D": 44,
+ "house_flips_to_R": 2,
+ "women": {
+  "D_2024": 94,
+  "R_2024": 31,
+  "D_2026": 109,
+  "R_2026": 15,
+  "unknown": 11
+ }
+}

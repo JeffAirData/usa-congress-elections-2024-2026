@@ -1,0 +1,52 @@
+{{Short description|American politician (born 1979/80)}}
+{{Use mdy dates|date=March 2026}}
+{{Infobox officeholder
+| name = Chris Gober
+| state = [[Texas]]
+| district = {{ushr|TX|10|10th}}
+| term_start = January 3, 2027
+| term_end = 
+| succeeding = [[Michael McCaul]]
+| predecessor = [[Michael McCaul]]
+| successor = 
+| birth_date = {{birth based on age as of date|46|2026|10|12}}
+| birth_place = 
+| death_date = 
+| death_place = 
+| party = [[Republican Party (United States)|Republican]]
+| education = [[Texas A&M University]] ([[Bachelor of Science|BS]])<br/>[[Harvard University]] ([[Juris Doctor|JD]])
+| website = {{url|chrisgober.com|Campaign website}}
+}}
+'''Chris Gober''' (born {{birth based on age as of date|46|2026|3|3|noage=yes}}) is an American politician from [[Texas]]. A [[Republican Party (United States)|Republican]], he is the member-elect for {{ushr|TX|10}} in the [[US House of Representatives]].
+
+==Early life and education==
+Chris Gober was born in 1979 or 1980.<ref>{{Cite web |title=Chris Gober |url=https://www.clubforgrowth.org/candidates/chris-gober/ |website=[[Club for Growth]]}}</ref> Gober graduated from [[Texas A&M University]]. He worked on the [[George W. Bush 2000 presidential campaign]]. He declined to work in the [[George W. Bush administration]], enrolling at [[Harvard Law School]], where he graduated with a [[Juris Doctor]] in 2004.<ref>{{cite web |last=Curtis |first=Ian |date=March 2, 2026 |title='BTHO the Radical Left': Inside Chris Gober's '01 approach to law, congressional campaign |url=https://thebatt.com/news/btho-the-radical-left-inside-chris-gobers-01-approach-to-law-congressional-campaign/ |access-date=September 2, 2026 |website=The Battalion}}</ref>
+
+==Career==
+Gober worked for [[America PAC]].<ref>{{Cite web |last=Schleifer |first=Theodore |date=January 31, 2025 |title=Musk Lawyer Tries to Build a Powerhouse Firm With a Billionaire Client |url=https://www.nytimes.com/2025/01/31/us/politics/musk-trump-lawyer.html |work=The New York Times |via=NYTimes.com}}</ref><ref>{{Cite news |last=Autullo |first=Ryan |last2=Killelea |first2=Eric |date=October 3, 2025 |title=Elon Musk PAC's Lawyer Files for Congressional Seat in Texas (1) |url=https://news.bloomberglaw.com/business-and-practice/elon-musk-pacs-lawyer-files-for-congressional-seat-in-texas |website=[[Bloomberg Law]]}}</ref> He founded a law firm, Lex Politica, to focus on House and Senate Republicans.<ref>{{cite news |last1=Thomas |first1=David |last2=Scarcella |first2=Mike |last3=Thomas |first3=David |date=January 31, 2025 |title=Lawyers for Musk, Republican campaigns form new Washington firm |url=https://www.reuters.com/world/us/lawyers-musk-republican-campaigns-form-new-washington-firm-2025-01-31/ |access-date=March 4, 2026 |work=Reuters |language=en-US}}</ref> Gober's financial disclosures show that he has a net worth between $32&nbsp;million and $107&nbsp;million.<ref>{{cite web |last1=Birenbaum |first1=Gabby |last2=Ngo |first2=Hien An |date=July 22, 2026 |title=Millionaires could dominate Texas' next congressional delegation |url=https://www.texastribune.org/2026/07/22/texas-congress-delegation-net-worth-millionaires-2026-midterms/ |access-date=September 2, 2026 |website=The Texas Tribune}}</ref>
+
+In October 2025, Gober announced his campaign for the [[United States House of Representatives]] to represent {{ushr|TX|10}} in the 2026 elections.<ref>https://news.bloomberglaw.com/business-and-practice/elon-musk-pacs-lawyer-files-for-congressional-seat-in-texas</ref> Gober won the primary election without going to a runoff<ref>https://thetexan.news/elections/2026/chris-gober-wins-gop-primary-for-congressman-michael-mccauls-seat/article_3ac813ae-d190-49a7-990a-649223be0b58.html</ref> and won the November general election.<ref>https://www.kbtx.com/2026/11/04/republican-chris-gober-wins-us-house-district-10-race/</ref>
+
+==References==
+{{reflist}}
+
+{{s-start}}
+{{s-par|us-hs}}
+{{s-bef|before=[[Mike McCaul]]}}
+{{s-ttl|title=Member of the [[List of United States representatives from Texas|U.S. House of Representatives]]<br>from [[Texas's 10th congressional district]]|years=Taking office 2027<!-- –present -->}}
+{{s-non|reason=Elect}}<!-- {{s-inc}} -->
+{{s-end}}
+<!-- {{TX-FedRep}}
+{{Current U.S. representatives}}
+{{USCongRep-start |congresses=120th–present [[United States Congress]] |state=[[Texas's congressional delegations|Texas]]}}
+{{USCongRep/TX/120}}
+{{USCongRep-end}} -->
+
+{{DEFAULTSORT:Gober, Chris}}
+[[Category:21st-century Texas politicians]]
+[[Category:21st-century United States representatives]]
+[[Category:Harvard Law School alumni]]
+[[Category:Living people]]
+[[Category:Republican Party United States representatives from Texas]]
+[[Category:Texas A&M University alumni]]
+[[Category:Texas Republicans]]

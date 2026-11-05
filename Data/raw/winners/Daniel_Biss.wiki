@@ -1,0 +1,632 @@
+{{short description|American mathematician and politician (born 1977)}}
+{{Use American English|date=July 2026}}
+{{Use mdy dates|date=October 2026}}
+{{Infobox officeholder
+| name = Daniel Biss
+| image = Biss 2026.jpg
+| caption = Biss in 2026
+| state = [[Illinois]]
+| district = {{ushr|IL|9|9th}}
+| term_start = January 3, 2027
+| term_end = 
+| succeeding = [[Jan Schakowsky]]
+| predecessor = [[Jan Schakowsky]]
+| successor = 
+| office1 = 22nd [[Mayor of Evanston, Illinois|Mayor of Evanston]]
+| term_start1 = May 10, 2021
+| term_end1 = October 18, 2026
+| predecessor1 = [[Steve Hagerty]]
+| successor1 = [[Clare Kelly (politician)|Clare Kelly]] (pro tempore)
+| state_senate2 = Illinois
+| district2 = 9th
+| term_start2 = January 8, 2013
+| term_end2 = January 6, 2019
+| predecessor2 = [[Jeffrey Schoenberg]]
+| successor2 = [[Laura Fine]]
+| state_house3 = Illinois
+| district3 = 17th
+| term_start3 = January 12, 2011
+| term_end3 = January 8, 2013
+| predecessor3 = [[Elizabeth Coulson]]
+| successor3 = Laura Fine
+| birth_name = Daniel Kálmán Biss
+| birth_date = {{birth date and age|1977|8|27}}
+| birth_place = [[Akron, Ohio]], U.S.
+| death_date = 
+| death_place = 
+| party = [[Democratic Party (United States)|Democratic]]
+| spouse = Karin Steinbrueck
+| children = 2
+| relatives = {{ubl |[[Miriam Fried]] (mother) |[[Jonathan Biss]] (brother) |[[Raya Garbousova]] (grandmother)}}
+| education = {{ubl |[[Harvard University]] ([[Bachelor of Arts|BA]]) |[[Massachusetts Institute of Technology]] ([[Master of Arts|MA]], [[Doctor of Philosophy|PhD]])}}
+| signature = BissSig.png
+| website = {{url|danielbiss.com|Campaign website}}
+| module = {{Infobox scientist
+| embed = yes
+| fields = [[Algebraic topology]]
+| workplaces = [[University of Chicago]]
+| thesis_title = The Homotopy Type of the Matroid Grassmannian
+| thesis_url = https://annals.math.princeton.edu/wp-content/uploads/annals-v158-n3-p04.pdf
+| thesis_year = 2002
+| doctoral_advisor = [[Michael J. Hopkins|Michael Hopkins]]}}
+}}
+'''Daniel Kálmán Biss'''<ref>{{cite web | url=http://news.harvard.edu/gazette/1998/05.28/HoopesPrizesAwa.html | title=Hoopes Prizes Awarded to Undergraduates and Thesis Advisers | work=Harvard Gazette | date=28 May 1998 | access-date=2 June 2016}}</ref> (born August 27, 1977)<ref>{{cite web | url=http://math.mit.edu/~gracelyo/18904/BissCoveringSpaceArticle.pdf | title=A Generalized Approach to the Fundamental Group | publisher=Mathematical Association of America | work=The American Mathematical Monthly | date=October 2000 | access-date=2 June 2016 | author=Biss, Daniel K.}}</ref> is an American mathematician and politician who is Congressman-elect for [[Illinois's 9th congressional district]]. He served as the mayor of [[Evanston, Illinois|Evanston]], [[Illinois]], from 2021 to 2026. He is a former member of both the [[Illinois House of Representatives]] and [[Illinois Senate]]. He is a member of the [[Democratic Party (United States)|Democratic Party]].
+
+Prior to pursuing a political career, Biss was an assistant professor of mathematics at the [[University of Chicago]] from 2002 to 2008. Biss began his political career by running unsuccessfully as his party's nominee for the 17th district seat in the Illinois House of Representatives in 2008. He was successful in 2010 at his second attempt at running for the Illinois House of Representatives, representing its 17th district from 2011 to 2013. In 2012, Biss was elected to the Illinois Senate, and represented its 9th district from 2013 through 2019. Biss was a candidate in the Democratic primary for [[governor of Illinois]] in the [[2018 Illinois gubernatorial election|2018 election]], finishing second to [[JB Pritzker]]. In 2021, he won the election for mayor of Evanston in the city's consolidated primary.
+
+In 2025, he announced his candidacy for Illinois's 9th congressional district in the [[United States House of Representatives]], seeking to succeed retiring incumbent Democrat [[Jan Schakowsky]] in the 2026 midterm elections. Biss won the Democratic primary in March 2026.<ref>{{Cite web |url=https://www.nytimes.com/live/2026/03/17/us/illinois-election-primary-midterms/b80ae9a1-9b38-5a25-bee2-ff94a1e44121 |website=[[The New York Times]] |title=Daniel Biss, a progressive, won despite the presence of a candidate running to his left and a barrage of attacks from super PACs tied to AIPAC, the pro-Israel group, which were backing a more moderate candidate.}}</ref>
+
+== Early life and education ==
+Biss was born into a Jewish [[Israelis|Israeli]] family of musicians. His brother is pianist [[Jonathan Biss]], his parents are the violinists Paul Biss and [[Miriam Fried]], and his paternal grandmother was the Russian-born cellist [[Raya Garbousova]].<ref>{{cite news|title=Jonathan Biss: A Super, Human, Musical Mission|url=https://www.sfcv.org/events-calendar/artist-spotlight/jonathan-biss-a-super-human-musical-mission|access-date=September 5, 2013|newspaper=San Francisco Classical Voice|author=Swinkels, Niels|date=June 12, 2013}}</ref><ref>{{cite news|title=Jonathan Biss|url=https://www.timeout.com/newyork/opera-classical/jonathan-biss|access-date=September 5, 2013|newspaper=Time Out New York|author=Giovetti, Olivia|date=January 18, 2011|archive-date=September 27, 2013|archive-url=https://web.archive.org/web/20130927121233/http://www.timeout.com/newyork/opera-classical/jonathan-biss|url-status=dead}}</ref><ref>{{cite news |title=Login Jerusalem Post BDS movement Jewish candidate for Illinois governor drops running mate over BDS |url=https://www.jpost.com/BDS-THREAT/Jewish-candidate-for-Illinois-governor-drops-running-mate-over-BDS-504506 |access-date=17 August 2023 |work=The Jerusalem Post |publisher=JPost |date=September 7, 2017 |archive-url=https://web.archive.org/web/20170908054020/http://www.jpost.com/BDS-THREAT/Jewish-candidate-for-Illinois-governor-drops-running-mate-over-BDS-504506 |archive-date=September 8, 2017 |language=en-US}}</ref><ref>{{cite news |author1=David Weigel |author1-link=David Weigel |title=In Illinois, a Democrat chooses a socialist running mate, then dumps him |url=https://www.washingtonpost.com/news/powerpost/wp/2017/09/07/in-illinois-a-democrat-chooses-a-socialist-running-mate-then-dumps-him/ |newspaper=The Washington Post |date=September 7, 2017 |archive-url=https://web.archive.org/web/20170907200957/https://www.washingtonpost.com/web/20170907200957/https://www.washingtonpost.com/news/powerpost/wp/2017/09/07/in-illinois-a-democrat-chooses-a-socialist-running-mate-then-dumps-him/ |archive-date=September 7, 2017 |language=en-US}}{{Subscription required|date=August 2023}}</ref>
+
+Biss attended [[Bloomington North High School]] in [[Bloomington, Indiana]], and he was a finalist in the [[Westinghouse Science Talent Search]] in 1995.<ref>{{cite news |title=Bloomington youth stars in science |url=https://newspapers.library.in.gov/cgi-bin/indiana?a=d&d=JPOST19950222-01.1.3 |work=Jewish Post, Indianapolis |date=22 February 1995 |page=3}}</ref><ref>{{cite web |title=What does science have to do with the race for governor in Illinois? |url=https://www.societyforscience.org/content/ssp-blog/what-does-science-have-do-race-governor-illinois |publisher=Society for Science & the Public |date=February 21, 2018}}</ref> He
+received an undergraduate degree from [[Harvard University]], graduating ''[[summa cum laude]]'' in 1998, and an MA and Ph.D. at [[Massachusetts Institute of Technology|MIT]] in 2002, all in mathematics.<ref name=szpiro>{{cite book|title=A mathematical medley: fifty easy pieces on mathematics|author=Szpiro, George G.|author-link= George Szpiro|pages=97–99|year=2010|publisher=American Mathematical Society|chapter=20: Brilliant but Fallible|url=https://books.google.com/books?id=mXWr00HurmMC|chapter-url=https://books.google.com/books?id=mXWr00HurmMC&pg=PA97|isbn=9780821890646}}</ref> He won the 1999 [[Morgan Prize]] for outstanding research as an undergraduate, and was a [[Clay Mathematics Institute|Clay Research Fellow]] from 2002 to 2007.<ref>[http://www.claymath.org/fas/research_fellows/Biss Daniel Biss], [[Clay Mathematics Institute]]</ref> His doctoral advisor was [[Michael J. Hopkins]]. He was a visiting scholar at the [[Institute for Advanced Study]] in the fall of 2003.<ref>{{Cite web|url=https://www.ias.edu/scholars/daniel-biss|title=Daniel Biss &#124; Scholars &#124; Institute for Advanced Study|date=December 9, 2019|website=Ias.edu}}</ref>
+
+== Academic career ==
+Prior to full-time pursuit of a political career, Biss was an assistant professor of mathematics at the [[University of Chicago]] from 2002 to 2008.<ref name=JPost>{{cite web |url=https://www.jpost.com/American-Politics/Spot-the-differences-between-the-two-Jewish-candidates-for-Illinois-governor-543636 |title= Spot the differences between the two Jewish candidates for Illinois governor |work=[[The Jerusalem Post]] |date=February 26, 2018 |access-date=March 29, 2018}}</ref>
+
+At least four of the mathematics papers that Biss published in academic journals were later discovered to contain major errors. Mathematician Nikolai Mnëv published a report in 2007 that there was a "serious flaw" in two of Biss's works published in ''[[Annals of Mathematics]]'' and ''[[Advances in Mathematics]]'' in 2003, saying "unfortunately this simple mistake destroys the main theorems of both papers".<ref>{{cite arXiv |eprint=0709.1291|last1=Mnev|first1=N|title=On D.K. Biss' papers "The homotopy type of the matroid Grassmannian" and "Oriented matroids, complex manifolds, and a combinatorial model for BU"|class=math.CO|year=2007}}</ref> In 2008 and 2009, Biss acknowledged the flaw and published [[erratum]] reports for the two papers, thanking Mnëv for drawing his attention to the error.<ref name=szpiro/><ref>{{Cite journal|last=Biss|first=Daniel K.|date=July 2009|title=Erratum to 'The homotopy type of the matroid Grassmannian'|url=http://annals.math.princeton.edu/wp-content/uploads/annals-v170-n1-p15-p.pdf|journal=[[Annals of Mathematics]]|series=2nd|volume=170-1|page=493|doi=10.4007/annals.2009.170.493|access-date=May 19, 2016|doi-access=free}}</ref><ref>{{cite journal |first=Daniel |last=Biss |title=Erratum to 'Oriented matroids, complex manifolds, and a combinatorial model for BU' [Adv. Math. 179 (2) (2003) 250–290] |journal=[[Advances in Mathematics]] |volume=221 |issue=2 |page=681 |date=June 1, 2009 |doi=10.1016/j.aim.2008.12.012 |doi-access=free }}</ref> He and a co-author, [[Benson Farb]], also acknowledged in 2009 that there was a "fatal error" in a paper they had published in ''[[Inventiones Mathematicae]]'' in 2006, thanking mathematicians Masatoshi Sato and Tom Church for helping to explain the problem.<ref>{{cite journal |title=Erratum to {{'}}''Kg'' is not finitely generated' |first1=Daniel K. |last1=Biss |first2=Benson |last2=Farb |journal=[[Inventiones Mathematicae]] |volume=178 |issue=1 |page=229 |date=October 2009 |doi=10.1007/s00222-009-0202-x |arxiv=math/0405386 |bibcode=2009InMat.178..229B |s2cid=118454838 }}</ref> Another of his papers published in ''[[Topology and its Applications]]'' was formally retracted by the publisher in 2017, fifteen years after its 2002 publication, with the journal saying "This article has been retracted at the request of the Editors-in-Chief after receiving a complaint about anomalies in this paper. The editors solicited further independent reviews which indicated that the definitions in the paper are ambiguous and most results are false. The author was contacted and does not dispute these findings."<ref>{{Cite journal|title=Retraction notice to 'The topological fundamental group and generalized covering spaces' [Topol. Appl. 124 (3) (2002) 355–371] |journal=[[Topology and Its Applications]] |date=15 February 2017 |volume=217 |page=116 |doi=10.1016/j.topol.2016.12.016 |last1=Biss |first1=Daniel K. |doi-access=free }}</ref> The journal said they had identified twelve specific errors in the paper, but clarified that they had concluded that the paper's findings were merely inaccurate, not fraudulent.<ref name=Pi>{{cite news |url=https://chicago.suntimes.com/news/are-gov-hopeful-bisss-claims-of-math-prowess-pi-in-the-sky/ |title=Are gov hopeful Biss's claims of math prowess pi in the sky? |newspaper=[[Chicago Sun-Times]] |date=September 29, 2017 |access-date=March 26, 2018 |first=Tina |last=Sfondeles |archive-date=March 26, 2018 |archive-url=https://web.archive.org/web/20180326142642/https://chicago.suntimes.com/news/are-gov-hopeful-bisss-claims-of-math-prowess-pi-in-the-sky/ |url-status=dead }}</ref><ref name=Watch1>{{cite web |url=https://retractionwatch.com/2017/02/13/journal-retracts-paper-state-senator-former-mathematician/ |title=Journal retracts paper by state senator (and former mathematician) |date=February 13, 2017 |work=[[Retraction Watch]] |access-date=March 26, 2018}}</ref><ref name=Watch2>{{cite web |url=https://retractionwatch.com/2017/02/23/false-results-retracted-paper-senator-inaccurate-not-fraudulent-say-editors/ |title='False' results in retracted paper by senator are inaccurate, not fraudulent, say editors |work=[[Retraction Watch]] |date=February 23, 2017 |access-date=March 26, 2018}}</ref> When contacted by the journal, Biss had responded saying "Thank you for writing. I am no longer in mathematics and so don't feel equipped to fully evaluate these claims. I certainly do not dispute them. If you would like to publish a retraction to that effect, that would seem to me to be an appropriate approach."<ref name=Pi/><ref name=Watch2/>
+
+When the 2017 retraction and the previously identified errors were reported by the ''[[Chicago Sun-Times]]'' in September 2017, his campaign blamed operatives for the perceived front-runner for the [[Democratic Party (United States)|Democratic Party]] candidate for governor of Illinois, [[JB Pritzker]], for raising it as a political issue. The campaign said "whether it was training at MIT or the University of Chicago, Daniel has had dozens of academic papers reviewed by his peers and published. In a few cases, further research has found that the case posited in the original article didn't stand up, and he revised his findings."<ref name=Pi/> They referred to the raising of the issue as "silly opposition research".<ref name=Pi/>
+
+In 2026, Biss admitted to an "ill-advised" consensual romantic relationship with his former undergraduate student in 2004, during his time as a postdoctoral instructor at the University of Chicago.<ref>{{cite web|url=https://thehill.com/homenews/campaign/5788989-illinois-congressional-candidate-admits-ill-advised-dates-with-student-2004/|title=Illinois congressional candidate admits ‘ill-advised’ dates with student in 2004|date=2026-03-17|publisher=The Hill|last=Brams|first=Sophie}}</ref><ref>{{cite web|url=https://evanstonroundtable.com/2026/03/17/biss-admits-to-ill-advised-relationship-in-2004-with-former-university-of-chicago-student/|title=Biss campaign: Relationship with University of Chicago student in 2004 was ‘ill-advised’|publisher=Evanston RoundTable|date=March 17, 2026|last=Harrison|first=Alex}}</ref>
+
+== Political career ==
+=== Illinois House of Representatives ===
+Biss ran for a seat in the Illinois State House of Representatives in 2008, losing to [[Republican Party (United States)|Republican]] [[Elizabeth Coulson]] in the 17th district.<ref>{{cite web |title=Biss Seeks Coulson's State Rep Seat |url=https://evanstonroundtable.com/2009/09/15/biss-seeks-coulsons-state-rep-seat/ |website=Evanston RoundTable |access-date=24 February 2021 |date=15 September 2009}}</ref> Starting in 2009, he then worked as a policy adviser to [[Pat Quinn (politician)|Pat Quinn]], the Democratic governor of Illinois.<ref name="JPost" /><ref>{{cite news|last1=Lai|first1=Jonathan|date=12 November 2010|title=Ex-prof elected state rep|work=The Chicago Maroon|url=https://www.chicagomaroon.com/article/2010/11/12/ex-prof-elected-state-rep/|access-date=28 May 2019}}</ref><ref>{{cite web|title=Daniel Biss' Biography|url=https://votesmart.org/candidate/biography/101726/daniel-biss|access-date=28 May 2019|website=Vote Smart: Facts Matter}}</ref> He successfully ran for the same Illinois State House seat in 2010.<ref>{{Cite web|title=Daniel K. Biss|url=https://ballotpedia.org/Daniel_K._Biss|access-date=2020-09-17|website=Ballotpedia|language=en}}</ref>
+
+==== Committee assignments ====
+*Appropriations – Elementary & Secondary Education
+*Personnel & Pensions
+*Consumer Protection
+*Small Business Empowerment & Workforce Development
+*International Trade & Commerce 
+*Bio-Technology
+*Appropriations – Higher Education<ref>{{cite web|url=http://www.ilga.gov/house//Rep.asp?MemberID=1778 |title=Representative Daniel Biss (D) |website=Ilga.gov |access-date=22 February 2011}}</ref>
+
+=== Illinois Senate ===
+[[File:Illinois State Senator Daniel Biss at the Bud Billiken Parade 2015 (19807719713).jpg|thumb|Biss at the [[Bud Billiken Parade and Picnic|Bud Billiken Parade]] in 2015]]
+
+On November 10, 2011, Biss announced his intent to run for the Illinois Senate seat held by Senator [[Jeffrey Schoenberg]], who was retiring.<ref>{{Cite news|last=Svitek|first=Patrick|date=November 10, 2011|title=State Rep. Biss to seek Schoenberg's state Senate seat|publisher=The Daily Northwestern|url=http://www.dailynorthwestern.com/city/state-rep-biss-to-seek-schoenberg-s-senate-seat-1.2669291}}{{Dead link|date=November 2019|bot=InternetArchiveBot|fix-attempted=yes}}</ref> He won the election on November 6, 2012, receiving over 66% of the vote,<ref name="chang">{{cite news|last=Chang|first=Chi-an|date=November 7, 2012|title=Biss Wins 9th State Senate District Race|publisher=[[Patch Media]]|url=http://patch.com/illinois/winnetka/9th-state-senate-district-results-biss-vs-farkas|access-date=2016-09-26}}</ref> and was sworn in on January 8, 2013.<ref>{{Cite web|last=Robb|first=Tom|date=2013-01-09|title=Biss Fine Take Oath One Day Early|url=https://www.journal-topics.com/articles/biss-fine-take-oath-one-day-early/|access-date=2019-02-02|website=Journal & Topics}}</ref> The district included a number of Chicago's northern suburbs, including [[Evanston, Illinois|Evanston]], [[Glencoe, Illinois|Glencoe]], [[Glenview, Illinois|Glenview]], [[Morton Grove, Illinois|Morton Grove]], [[Northbrook, Illinois|Northbrook]], [[Northfield, Illinois|Northfield]], [[Skokie, Illinois|Skokie]], [[Wilmette, Illinois|Wilmette]], and [[Winnetka, Illinois|Winnetka]].
+
+==== Committee assignments ====
+In the [[98th Illinois General Assembly]] Biss was a member of: 
+*Conference Committee on SB1. A joint House and Senate committee that sought a way to bypass the states constitutional pension protections.
+*Education
+*Environment
+*Higher Education
+*Licensed Activities & Pensions
+*Local Government
+
+==== Tenure ====
+In 2013, Biss delivered a speech on the state senate floor in support of a bill to legalize [[same-sex marriage in Illinois]]. The bill passed, and was signed into law by Governor [[Pat Quinn (politician)|Pat Quinn]].<ref name="Farinas"/>
+
+In 2013, Biss cosponsored SB&nbsp;1, a bill that significantly reduced pension plans for retired state employees in an attempt to reduce debts owed to the state retirement system due to the state's many "pension holidays".<ref>{{cite web |url=http://votesmart.org/bill/16386/46516/amends-state-employee-pension-plans |title=SB&nbsp;1 – Amends State Employee Pension Plans – Key Vote | work = [[Project Vote Smart]] | publisher = One Common Ground | location = Philipsburg, Montana |access-date=5 September 2015}}</ref> In May 2015, the Illinois Supreme Court found the law unconstitutional.<ref>{{cite news |url=http://www.chicagotribune.com/news/local/politics/ct-illinois-pension-law-court-ruling-20150508-story.html |title=Illinois Supreme Court rules landmark pension law unconstitutional |newspaper=Chicago Tribune |date=8 May 2015 |last1=Pearson |first1=Rick |last2=Geiger |first2=Kim |access-date=5 September 2015}}</ref> In rejecting the constitutionality of SB&nbsp;1, the Illinois Supreme Court stated: "These modifications to pension benefits unquestionably diminish the value of the retirement annuities the members…were promised when they joined the pension system. Accordingly, based on the plain language of the Act, these annuity-reducing provisions contravene the pension protection clause's absolute prohibition against diminishment of pension benefits and exceed the General Assembly's authority," the ruling states.<ref>{{cite web |url=https://chicago.suntimes.com/politics/pension-reforms-illinois-supreme-court/ |last=Spielman |first=Fran |publisher=[[Chicago Sun-Times]] |title=Ill. Supreme Court overturns city pension reforms |date=2016-03-23 |archive-url=https://web.archive.org/web/20160331094806/https://chicago.suntimes.com/politics/pension-reforms-illinois-supreme-court/ |archive-date=2016-03-31 |url-status=dead}}</ref> Biss later said that his work on SB&nbsp;1 was an error, saying, "I decided this was the least bad of the bad options. I allowed myself to think we couldn't do better." Biss later expressed support for funding higher pension payments if necessary by instituting a tax system with a graduated income tax and a tax on financial transactions.<ref>{{Cite news|url=http://www.chicagobusiness.com/article/20180202/BLOGS02/180209967/illinois-governor-candidate-dan-biss-on-taxes-amazon-hq2-lasalle|title=Biss' populist play: Tax LaSalle Street and rethink Amazon HQ2|work=Crain's Chicago Business|access-date=2018-03-05}}</ref>
+
+===2016 Illinois comptroller campaign===
+{{further|2016 Illinois State Comptroller special election}}
+
+In 2015, Biss announced his candidacy to seek the Democratic nomination in the 2016 special election for [[Illinois comptroller]].<ref>{{cite news|last1=Pearson|first1=Rick|date=22 September 2015|title=City Clerk Mendoza Gets Major Union Backing In State Comptroller Bid |publisher=Chicago Tribune|url=http://www.chicagotribune.com/news/local/politics/ct-susana-mendoza-comptroller-endorsement-met0924-20150923-story.html|access-date=3 October 2015}}</ref> In November 2015, Biss ended his candidacy and [[Political endorsement|endorsed]] opponent [[Susana Mendoza]] for the Democratic nomination.<ref>{{cite press release|url=http://www.danielbiss.com/comptroller-1|first=Daniel|last=Biss|title=Comptroller Campaign Update|work=Biss for Illinois|location=[[Evanston, Illinois]]|access-date=2015-11-25|archive-url=https://web.archive.org/web/20151125205006/http://www.danielbiss.com/comptroller-1|archive-date=2015-11-25}}</ref> Mendoza went on to win the primary and general election.
+
+=== 2018 Illinois gubernatorial campaign ===
+{{Further|2018 Illinois gubernatorial election}}
+[[File:Biss For Illinois 2017 campaign logo.png|thumb|Biss 2018 gubernatorial campaign logo.]]
+[[File:Daniel Biss Chi Hack Night 21.png|thumb|Biss speaking at a gubernatorial campaign event.]]
+
+On March 20, 2017, Biss announced his candidacy for the Democratic nomination for [[governor of Illinois]] for [[Illinois gubernatorial election, 2018|the 2018 election]]. Biss's announcement was delivered during a [[Facebook Live]] video in which he criticized both incumbent governor [[Bruce Rauner]] (a Republican) and Illinois House Speaker [[Mike Madigan]] (a Democrat).<ref>{{cite news|last1=Pearson|first1=Rick|date=March 20, 2017|title=State Sen. Daniel Biss announces Democratic bid for governor|work=chicagotribune.com|agency=Chicago Tribune|url=http://www.chicagotribune.com/news/local/politics/ct-daniel-biss-illinois-governor-race-met-0320-20170319-story.html|access-date=20 March 2017|archive-date=16 August 2017|archive-url=https://web.archive.org/web/20170816005001/http://www.chicagotribune.com/news/local/politics/ct-daniel-biss-illinois-governor-race-met-0320-20170319-story.html|url-status=dead}}</ref> Biss joined a growing field of Democratic contenders, including businessman [[Christopher G. Kennedy]] and Chicago alderman [[Ameya Pawar]].<ref>{{cite news|last1=Schulte|first1=Sarah|date=20 March 2017|title=State Sen. Biss says he's running for Illinois governor|work=ABC7 Chicago|url=http://abc7chicago.com/politics/state-sen-biss-says-hes-running-for-illinois-governor/1809229/|access-date=20 March 2017|archive-url=https://web.archive.org/web/20170320173905/http://abc7chicago.com/politics/state-sen-biss-says-hes-running-for-illinois-governor/1809229/|archive-date=20 March 2017}}</ref>
+
+Biss briefly named Chicago alderman and [[Democratic Socialists of America]] member [[Carlos Ramirez-Rosa]] as his gubernatorial running mate, but dropped him from the ticket after just six days because Ramirez-Rosa had expressed some support for the [[BDS movement]] which seeks to impose comprehensive boycotts on Israel over human rights violations against Palestinians. Biss's ally, Representative [[Brad Schneider]], had rescinded his endorsement of the ticket over his pick of Ramirez-Rosa as his running mate, though Biss denied that that affected his decision.<ref>{{cite news|last1=Smith|first1=Ryan|title=Ramirez-Rosa dumped off the Biss ticket in six days; denies flip-flop on Israel issue|work=Chicago Reader|url=https://www.chicagoreader.com/Bleader/archives/2017/09/07/ramirez-rosa-dumped-off-the-biss-ticket-in-six-days-denies-flip-flop-on-israel-issue|access-date=9 October 2017}}</ref> Biss later announced his selection of [[Rockford, Illinois|Rockford]]-based [[Illinois House of Representatives|state representative]] [[Litesa Wallace]], a single mother and former [[social worker]].<ref>{{cite news|last1=Vinicky|first1=Amanda|title=Daniel Biss Replaces Ramirez-Rosa with Rep. Litesa Wallace|work=Chicago Tonight {{!}} WTTW|url=http://chicagotonight.wttw.com/2017/09/08/daniel-biss-replaces-ramirez-rosa-rep-litesa-wallace|access-date=9 October 2017}}</ref><ref>{{cite news|date=8 September 2017|title=Biss formally announces Litesa Wallace as new running mate|work=capitolfax.com|url=https://capitolfax.com/2017/09/08/biss-formally-announces-litesa-wallace-as-new-running-mate/|access-date=9 October 2017}}</ref>
+
+Biss was endorsed by many of his colleagues in the Illinois General Assembly, high-profile academics and activists including Nobel laureate [[Richard Thaler]] and presidential candidate [[Lawrence Lessig]], [[National Nurses United]], the largest organization of registered nurses in the United States, and [[Our Revolution]], the successor organization to [[Bernie Sanders]]' [[Bernie Sanders presidential campaign, 2016|2016 presidential campaign]].<ref>{{cite web|date=6 November 2017|title=Who's on Team Biss?|url=https://www.danielbiss.com/team-biss-endorsements/|archive-url=https://web.archive.org/web/20171201080830/https://www.danielbiss.com/team-biss-endorsements/|archive-date=1 December 2017|access-date=22 January 2018|website=Daniel Biss for Governor|publisher=Biss for Illinois}}</ref><ref>{{cite news|last1=Pedersen|first1=Brendan|date=30 January 2018|title=Biss Lands Major Progressive Group's Endorsement|work=NBC Chicago|url=https://www.nbcchicago.com/blogs/ward-room/our-revolution-illinois-endorses-sen-daniel-biss-471698764.html|access-date=30 January 2018}}</ref><ref>{{cite web|date=27 February 2018|title=Our Revolution Endorses Daniel Biss for Governor of Illinois|url=https://ourrevolution.com/press/our-revolution-endorses-daniel-biss-governor-illinois/|access-date=16 March 2018|website=Our Revolution|archive-date=14 March 2018|archive-url=https://web.archive.org/web/20180314224653/https://www.ourrevolution.com/press/our-revolution-endorses-daniel-biss-governor-illinois/|url-status=dead}}</ref> Biss received two-thirds of preferential votes from Illinois members of the progressive advocacy group [[MoveOn.org]].<ref>{{cite news|last1=Payne|first1=Benjamin|date=25 January 2018|title=Daniel Biss Lands MoveOn.org Endorsement For Illinois Governor|agency=WVIK|url=http://wvik.org/post/daniel-biss-lands-moveonorg-endorsement-illinois-governor#stream/0|access-date=30 January 2018}}</ref>
+
+On March 20, 2018, Biss lost the Democratic primary to [[JB Pritzker]]. He received 26.70% of the total vote, behind Pritzker with 45.13% and ahead of [[Christopher G. Kennedy|Chris Kennedy]] with 24.37%. Biss carried two counties, [[McLean County, Illinois|McLean]] and [[Champaign County, Illinois|Champaign]].<ref>{{cite web|title=Official Canvas, General Primary Election, March 20, 2018|url=https://www.elections.il.gov/Downloads/ElectionInformation/VoteTotals/2018GPOfficialVote.pdf|publisher=Illinois State Board of Elections|access-date=September 19, 2018|archive-date=September 19, 2018|archive-url=https://web.archive.org/web/20180919094356/https://www.elections.il.gov/Downloads/ElectionInformation/VoteTotals/2018GPOfficialVote.pdf|url-status=dead}}</ref>
+
+=== Post-Senate activities ===
+Having not sought reelection in the 2018 Illinois Senate election (instead running for governor), Biss was succeeded in the Illinois Senate by [[Laura Fine]] (a fellow Democrat) on January 6, 2019.<ref>{{Cite web|url=http://www.illinoissenatedemocrats.com/caucus-news/106-senator-laura-fine-news/6860-fine-sworn-in-as-state-senator|title=Fine Sworn In As State Senator|date=2019-01-07|website=Illinois Senate Democrats|access-date=2019-02-02|archive-date=2020-04-07|archive-url=https://web.archive.org/web/20200407142002/https://www.illinoissenatedemocrats.com/caucus-news/106-senator-laura-fine-news/6860-fine-sworn-in-as-state-senator|url-status=dead}}</ref> On September 18, 2018, Biss announced in an email to supporters that he had accepted the position of executive director of the nonprofit Rust Belt Rising, which aims to train and support Democratic candidates in the [[Great Lakes region|Great Lakes states]].<ref>{{cite news |last1=Meadows |first1=Jonah |title=Sen. Daniel Biss To Head Democratic Candidate Training Nonprofit |url=https://patch.com/illinois/evanston/sen-daniel-biss-head-democratic-candidate-training-nonprofit |access-date=19 September 2018 |work=Evanston, IL Patch |date=18 September 2018}}</ref> Biss also worked as a clean energy consultant.<ref>{{cite web |last1=Meadows |first1=Jonah |title=Daniel Biss: Candidate For Evanston Mayor |url=https://patch.com/illinois/evanston/daniel-biss-candidate-evanston-mayor |website=Evanston, IL Patch |access-date=16 May 2025 |language=en |date=18 February 2021}}</ref>
+
+On August 15, 2019, Biss endorsed [[Elizabeth Warren]] [[Elizabeth Warren 2020 presidential campaign|for president]].<ref>{{cite web|url=https://twitter.com/DanielBiss/status/1162009805604761600|title=Endorsement of Elizabeth Warren|last=Biss|first=Daniel|date=August 15, 2019|website=[[Twitter]]|language=en|access-date=April 3, 2020|quote="A presidential candidate whose rallying cry is "big structural change" -- yes, please! ... I'm proud to endorse [[Elizabeth Warren]], who represents a once-in-a-generation opportunity to reform our broken system. I hope you'll join me in supporting her. [pic.twitter.com/LNGu8Bufgb Video]"}}</ref><ref>{{cite news|last=Sweet|first=Lynn|url=https://chicago.suntimes.com/2019/8/15/20808045/pete-buttigieg-chicago-elizabeth-warren-hires-illinois-director-amy-klobuchar-state-delegate-slates|title=Buttigieg's Chicago presidential outpost; Warren hires Illinois director; Klobuchar working on state delegate slates|date=August 15, 2019|work=[[Chicago Sun-Times]]|access-date=April 3, 2020|url-status=live|archive-url=https://web.archive.org/web/20191211141043/https://chicago.suntimes.com/2019/8/15/20808045/pete-buttigieg-chicago-elizabeth-warren-hires-illinois-director-amy-klobuchar-state-delegate-slates|archive-date=December 11, 2019}}</ref> In January 2020, Biss was selected to be on Warren's slate of 101 potential Illinois delegates to the [[2020 Democratic National Convention]],<ref>{{cite news|last=Smith|first=Bill|url=https://evanstonnow.com/story/government/bill-smith/election-2020/2020-01-04/83994/ten-evanstonians-seek-to-be-democratic|title=Ten Evanstonians Seek To Be Democratic Presidential Convention Delegates|date=January 4, 2020|work=Evanston Now|access-date=April 3, 2020|url-status=live|archive-url=https://web.archive.org/web/20200402184805/https://evanstonnow.com/story/government/bill-smith/election-2020/2020-01-04/83994/ten-evanstonians-seek-to-be-democratic|archive-date=April 2, 2020}}</ref><ref>{{cite news|last=Meadows|first=Jonah|url=https://patch.com/illinois/evanston/these-9th-district-residents-are-potential-convention-delegates|title=These 9th district residents are potential convention delegates|date=January 31, 2020|work=[[Patch Media|Patch]]|access-date=April 3, 2020|url-status=live|archive-url=https://web.archive.org/web/20200224025514/https://patch.com/illinois/evanston/these-9th-district-residents-are-potential-convention-delegates|archive-date=February 24, 2020}}</ref> but Warren suspended her campaign on March 5, before [[2020 Illinois Democratic presidential primary|the presidential primary in Illinois]] on March 17.<ref>{{cite news|last1=Goldmacher|first1=Shane|url=https://www.nytimes.com/2020/03/05/us/politics/elizabeth-warren-drops-out.html|title=Elizabeth Warren, once a front-runner, drops out of presidential race|date=March 5, 2020|work=[[The New York Times]]|access-date=April 3, 2020|url-status=live|archive-url=https://web.archive.org/web/20200328220831/https://www.nytimes.com/2020/03/05/us/politics/elizabeth-warren-drops-out.html|archive-date=March 28, 2020|last2=Herndon|first2=Astead|language=en-US|issn=0362-4331}}</ref>
+
+===Mayor of Evanston===
+====2021 election====
+[[File:Biss mayor logo 20201218002356550177.png|thumb|Biss's 2021 mayoral campaign logo]]
+
+On September 16, 2020, Biss announced the launch of a campaign for mayor of Evanston, Illinois.<ref>{{Cite web|last1=Kapos|first1=Shai|last2=Carrasco|first2=Maria|date=2020-09-17|title=AT THE FEDS' BECK AND CALL — FOP RATCHETS UP RHETORIC — GEORGE RYAN'S BOOK — BISS IS BACK|url=https://www.politico.com/newsletters/illinois-playbook/2020/09/17/at-the-feds-beck-and-call-fop-ratchets-up-rhetoric-george-ryans-book-biss-is-back-490358|access-date=2020-09-17|website=POLITICO|language=en}}</ref><ref>{{Cite web|last=Biss|first=Daniel|date=2020-11-18|title=THREAD: I've made a big decision: I'm running for mayor of Evanston!|url=https://www.twitter.com/DanielBiss/status/1329120486807265280|access-date=2020-11-18|website=Twitter}}</ref><ref>{{Cite web|date=2020-09-18|title=Former State Sen. Daniel Biss Is Running For Mayor Of Evanston|url=https://patch.com/illinois/evanston/former-state-sen-daniel-biss-running-mayor-evanston|access-date=2020-09-18|website=Evanston, IL Patch|language=en}}</ref><ref>{{Cite web|title=Daniel Biss Announces Run for Mayor|url=https://evanstonroundtable.com/Content/Default/City-News/Article/Daniel-Biss-Announces-Run-for-Mayor/-3/228/18571|access-date=2020-09-18|website=evanstonroundtable.com|language=en-us|archive-date=2020-11-21|archive-url=https://web.archive.org/web/20201121184354/https://evanstonroundtable.com/Content/Default/City-News/Article/Daniel-Biss-Announces-Run-for-Mayor/-3/228/18571|url-status=dead}}</ref> On October 28, 2020, the incumbent mayor, [[Steve Hagerty]], announced that he would not be seeking reelection.<ref>{{cite web |last1=Fulton |first1=Jacob |title=Evanston Mayor Steve Hagerty announces he will not seek re-election |url=https://dailynorthwestern.com/2020/10/28/city/evanston-mayor-steve-hagerty-announces-he-will-not-seek-re-election/ |website=The Daily Northwestern |access-date=24 February 2021 |date=29 October 2020}}</ref>
+
+Biss's mayoral campaign received many prominent endorsements. In December 2020, his campaign rolled out a list of 100 endorsements, including those of nine Evanston aldermen, as well as United States congresswoman [[Jan Schakowsky]]; state senator Laura Fine; state representatives [[Kelly Cassidy]], [[Robyn Gabel]], [[Jennifer Gong-Gershowitz]]; and [[Cook County Board of Commissioners|Cook County commissioner]] [[Larry Suffredin]].<ref>{{cite web |last1=Smith |first1=Bill |title=Biss announces over 200 endorsements |url=https://evanstonnow.com/biss-announces-over-200-endorsements/ |website=Evanston Now |access-date=24 February 2021 |date=3 December 2020}}</ref> The Democratic Party of Evanston gave Biss its endorsement,<ref>{{cite web |last1=Nelson |first1=Delaney |title=DPOE endorses 2021 municipal candidates, addresses controversy |url=https://dailynorthwestern.com/2021/02/11/city/dpoe-endorses-2021-municipal-candidates-addresses-membership-questions/ |website=The Daily Northwestern |access-date=24 February 2021 |date=11 February 2021}}</ref><ref>{{cite web |title=2021 DPOE Endorsement Session Results |url=https://evanstondems.com/2021-dpoe-endorsement-session-results/ |website=Democratic Party of Evanston |access-date=24 February 2021 |archive-date=25 February 2021 |archive-url=https://web.archive.org/web/20210225105704/https://evanstondems.com/2021-dpoe-endorsement-session-results/ |url-status=dead }}</ref> as did Northside [[Democracy for America]],<ref>{{cite web |title=Northside Democracy for America |url=https://www.northsidedfa.com |website=Northside Democracy for America |access-date=24 February 2021}}</ref> the Organization for Positive Action and Leadership (OPAL),<ref>{{cite web |title=2021 Election |url=http://www.opalevanston.com/election2021 |website=OPAL |access-date=24 February 2021 |archive-date=22 January 2021 |archive-url=https://web.archive.org/web/20210122192634/http://www.opalevanston.com/election2021 |url-status=dead }}</ref> and the Community Alliance for Better Government (CABG).<ref>{{Cite web|title=Primary Election Endorsements for Mayor and Aldermen: Daniel Biss for Mayor, Diane Goldring and Devon Reid for Aldermanic Seats – Community Alliance for Better Government|date=4 February 2021 |url=https://evanstonalliance.com/index.php/2021/02/04/primary-election-endorsements-for-mayor-and-aldermen-daniel-biss-for-mayor-diane-goldring-and-devon-reid-for-aldermanic-seats/|access-date=2021-07-31|language=en-US}}</ref> Biss was also endorsed by incumbent mayor Stephen Hagerty, and former mayors [[Elizabeth Tisdahl]] and [[Jay Lytle]].<ref name="strongcitywidesupport">{{cite web |last1=Seidenberg |first1=Bob |last2=Gavin |first2=Mary Helt |title=Biss Received Strong Citywide Support in Capturing the Mayor's Seat, Precinct Results From Primary Show |url=https://evanstonroundtable.com/2021/03/18/biss-received-strong-citywide-support-in-capturing-the-mayors-seat-precinct-results-from-primary-show/ |website=Evanston RoundTable |access-date=15 April 2021 |date=18 March 2021}}</ref> On February 18, 2021, Biss's former gubernatorial primary opponent JB Pritzker, now the governor of Illinois, endorsed his candidacy for mayor.<ref>{{cite web |last1=Richardson |first1=Julia |title=Gov. Pritzker Endorses mayoral candidate Daniel Biss |url=https://dailynorthwestern.com/2021/02/18/city/gov-pritzker-endorses-mayoral-candidate-daniel-biss-opponents-respond/ |website=The Daily Northwestern |access-date=24 February 2021 |date=19 February 2021}}</ref>
+
+Biss had a vast financial advantage over his two opponents. In the first three months after announcing his candidacy, he had received in excess of $100,000 in contributions. By that point, opponent Lori Keenan had only raised $3,000 and opponent Sebastian Nalls had only raised $1,000.<ref name="strongcitywidesupport"/>
+
+Biss won a [[landslide victory]] in the consolidated primary on February 23, 2021, precluding the need for a [[runoff election]]{{efn|Evanston mayoral elections use a [[two-round system]] in which a nonpartisan general primary (nonpartisan preliminary election) is held when more than two candidates file to appear on the ballot. Outright election can be secured in a primary only if a candidate wins a majority of the vote. If no candidate secures a majority, the top-two finishers advance to a [[runoff election]].<ref name="HarrisonAgnewChallengertoBissEmerges">{{cite web |last1=Harrison |first1=Duncan | last2=Agnew |first2= Alex |title=Challenger to Biss Emerges, Along With 2 District 65 Candidates |url=https://evanstonroundtable.com/2024/10/05/daniel-biss-challenger-emerges-along-with-2-district-65-candidates |website=Evanston RoundTable |access-date=16 May 2025 |date=5 October 2024}}</ref>}} by receiving an outright majority of the vote.<ref>{{cite web |last1=Bookwalter |first1=Genevieve |title=Daniel Biss Declares Victory In Evanston Mayor's Race; results tight in aldermanic primaries |url=https://www.chicagotribune.com/suburbs/evanston/ct-evr-evanston-mayor-race-tl-0304-20210224-mggb3cggs5cmbahv5b7ezrynwi-story.html |website=chicagotribune.com |publisher=Chicago Tribune |access-date=24 February 2021 |date=23 February 2021}}</ref> Biss won all but one of the city's 50 voting precincts.<ref name="2021mayoralresult">{{cite web |title=Suburban Cook County Election Results February 23, 2021 Consolidated Primary Election |url=https://electionnight.cookcountyclerkil.gov/ |website=electionnight.cookcountyclerkil.gov |publisher=Cook County Clerk |access-date=24 February 2021 |archive-date=24 February 2021 |archive-url=https://web.archive.org/web/20210224133934/https://electionnight.cookcountyclerkil.gov/ |url-status=dead }}</ref>
+
+====2025 election====
+Biss was re-elected on April 1,{{efn|Since there were only two candidates, only a single round of voting was scheduled. If there had been more than two candidates, a nonpartisan general would have been held on February 25; and the April 1 local election would have been the date in which a continent runoff election would be been held between the top-two finishers if no candidate secured a majority in the primary.<ref name="HarrisonAgnewChallengertoBissEmerges"/>}} receiving 62.7% against challenger Jeff Boarini.<ref name="Clerk2025results">{{cite web |title=Tabulated Statement of the Returns and Proclamation of the results of the Canvass of the Election Returns for the April 1, 2025 Consolidated Election Held in Each of the Participating Precincts in Cook County, Illinois and Certain Districts and Political Subdivisions With Overlapping Boundaries Where the Cook County Clerk is the Reporting Election Authority |page=6 |url=https://www.cookcountyclerkil.gov/sites/default/files/pdfs/official-results_040125.pdf |website=Cook County Clerk |date=April 22, 2025 |access-date=16 May 2025}}</ref> Biss received a majority of the vote in all but two of the city's 45 voting precincts.<ref name="424-vote2025">{{cite web |title=Mayor, City of Evanston - Vote For 1 |url=https://results425.cookcountyclerkil.gov/Home/Detail?contestId=93&townshipId=75 |website=results245.cookcountyclerkil.gov |publisher=Cook County Clerk |access-date=16 May 2025 |date=2025}}</ref> However, his victory coincided with a local election that produced a city council regarded as less receptive towards his agenda that the previous council had been, as an incumbent alderman supportive of him had lost-reelection while a top council critic of his won re-election against a Biss-endorsed challenger.<ref name="winsbig"/>
+
+During his re-election bid, Biss again received Governor Pritzker's endorsement. He also received the endorsement of Illinois Attorney General [[Kwame Raoul]], U.S. Senators [[Dick Durbin]] and [[Tammy Duckworth]], Congresswoman Schakowsky, and several of the state legislators representing portions of Evanston. Boarini's campaign against Biss had touted endorsements from several city council members.<ref name="HarrisonPritzkerBacks">{{cite web |last1=Harrison |first1=Alex |title=Gov. Pritzker Backs Mayor Biss For Reelection |url=https://evanstonroundtable.com/2025/03/19/gov-pritzker-backs-mayor-biss-for-reelection |website=Evanston RoundTable |access-date=16 May 2025 |date=19 March 2025}}</ref>
+
+Biss strongly out-spent and out-fundraised his challenger. Biss raised over $125,000, while Boardini raised over $86,500. Biss spent over $147,300, while Boardini spent over $52,000.<ref>{{cite web |last1=Harrison |first1=Alex |title=Biss Spent Nearly 3 Times As Much As Boarini In Campagn's Final Months |url=https://evanstonroundtable.com/2025/04/18/biss-spent-nearly-3-times-as-much-as-boarini-in-campaigns-final-months/ |website=Evanston RoundTable |access-date=16 May 2025 |date=18 April 2025}}</ref>
+
+====Transition====
+Before taking office on May 10, 2021, Biss voiced a number positions on prominent political matters in the city.<ref name="Farinas">{{cite web |last1=Farinas |first1=Gerald |title=Marriage equality hero Daniel Biss becomes Evanston Mayor; Takes on Race and Police Reform |url=https://chicago.gopride.com/news/article.cfm/articleid/115824564 |website=ChicagoPride.com |access-date=11 May 2021 |language=EN |date=10 May 2021}}</ref><ref name="winsbig">{{Cite web |last=Eadie |first=Matthew |date=2025-04-02 |title=Biss Wins Big, Sets Vision For Next Four Years |url=https://evanstonnow.com/biss-wins-big-sets-vision-for-next-four-years/ |access-date=2025-05-15 |website=Evanston Now |language=en-US}}</ref> In March 2021, after Evanston passed a measure [[Evanston Reparations Committee|establishing the first expenditure of the city's first-in-the-nation municipal fund offering reparations]] to [[Black people|black]] residents, mayor-elect Biss released a statement in support of the approved measure.<ref>{{cite web |title=Watch now: Evanston 1st in US to offer Black residents reparations |url=https://www.pantagraph.com/news/state-and-regional/govt-and-politics/watch-now-evanston-1st-in-us-to-offer-black-residents-reparations/article_f35b3da9-9fb3-505f-b67f-c25085835052.html |website=pantagraph.com |publisher=The Pantagraph |agency=Associated Press |access-date=15 April 2021 |language=en |date=23 March 2021}}</ref> Biss also gave outgoing mayor Steve Hagerty input on the members he recommended to the city's Reparations Committee.<ref>{{cite web |last1=Bookwalter |first1=Genevieve |title=Community members, aldermen named to Evanston Reparations Committee |url=https://www.chicagotribune.com/suburbs/evanston/ct-evr-reparations-committee-named-tl-0506-20210504-n7265tqcizdjth6oh5jnzqgidm-story.html |website=chicagotribune.com |publisher=Chicago Tribune |access-date=12 May 2021 |date=4 May 2021}}</ref> Ahead of the April 6 Evanston municipal general election, mayor-elect Biss criticized the group Evanston Together LLC for distributing mailers which inaccurately implied that several candidates for municipal office had outright supported switching the city from a [[council-manager government]] to a [[strong mayor]] government. Biss also remarked that, while a shift in the city's form of government would not be a priority to him, he is not opposed to exploring the idea if it would remedy issues in the city.<ref>{{cite web |last1=Fulton |first1=Jacob |title=Evanston Together LLC prompts controversy ahead of April 6 election |url=https://dailynorthwestern.com/2021/04/01/city/evanston-together-llc-prompts-controversy-about-evanston-governing-style-ahead-of-april-6-election/ |website=The Daily Northwestern |access-date=15 April 2021 |date=1 April 2021}}</ref>
+
+===2026 congressional campaign===
+{{further|2026 United States House of Representatives elections in Illinois#District 9}}
+
+In May 2025, Biss announced his 2026 candidacy for the [[Illinois's 9th congressional district]] in the [[United States House of Representatives]], long represented by retiring Democrat [[Jan Schakowsky]], joining a Democratic primary field that also includes his state senate successor [[Laura Fine]] and journalist [[Kat Abughazaleh]].<ref name="politicoBissIs">{{Cite web |last=Kapos |first=Shia |date=2025-05-15 |title=Biss Is Running for Congress |url=https://www.politico.com/newsletters/illinois-playbook/2025/05/15/daniel-biss-is-running-for-jan-schakowsky-seat-00350959 |access-date=2025-05-15 |website=Politico |language=en}}</ref><ref name="Marc2025FineBiss1">{{cite web |last1=Kassel |first1=Matthew |title=Schakowsky Retirement Sets Up Illinois Democratic Primary Battle Over Mideast Policy |url=https://jewishinsider.com/2025/05/jan-schakowsky-laura-fine-north-shore-chicago-illinois/ |website=Jewish Insider |access-date=16 May 2025 |date=6 May 2025}}</ref> On January 7, 2026, Schakowsky formally endorsed him to succeed her.<ref>{{cite web |last=Eadie |first=Matthew |title=Schakowsky will endorse Biss as successor |url=https://evanstonnow.com/schakowsky-will-endorse-biss-as-successor/|website=Evanston Now |access-date=7 January 2026 |date=6 January 2026}}</ref>
+
+[[Federal Election Commission]] (FEC) campaign finance filings for the final quarter of 2025 showed Abughazaleh leading in fundraising with $2.7 million raised, while Biss and Fine trail her with just under $2 million each.<ref>{{cite web |title=Illinois - House District 09 |url=https://www.fec.gov/data/elections/house/IL/09/2026/ |website=Election data and reporting deadlines |publisher=[[Federal Election Commission]]|access-date=16 February 2026}}</ref>
+
+With only a few weeks until the March 17 primary, Biss and Fine began trading accusations over campaign finance misconduct, and both campaigns announced that surrogates filed complaints against the other with the [[Federal Election Commission]] (FEC).<ref>{{cite news |last1=Harrison |first1=Alex |title=Biss and Fine campaigns trade accusations of financial misconduct |url=https://evanstonroundtable.com/2026/02/25/biss-and-fine-campaigns-trade-accusations-of-financial-misconduct/ |access-date=2 March 2026 |publisher=[[Evanston Round Table]] |date=25 February 2026}}</ref>
+
+On March 17, 2026, he defeated journalist [[Kat Abughazaleh]] and [[Laura Fine]], second and third respectively, with 29.6% of the vote.<ref>{{cite news |title=Illinois House Primary Election Results 2026 |url=https://www.nbcnews.com/politics/2026-primary-elections/illinois-house-results |access-date=17 March 2026 |publisher=[[NBC News]] |date=17 March 2026}}</ref>
+
+== Political positions ==
+[[File:Protest Trump and Protect the Mueller Investigation Rally and March Downtown Chicago Illinois 11-8-18 5058 Illinois State Senator Daniel Biss (45793370721).jpg|thumb|Biss speaking at a protest in 2018]]
+
+===Abortion and reproductive healthcare===
+In his response in a 2008 "[[Political Courage Test]]", Biss indicated support for [[abortion rights|legal access to abortion]].<ref name=PCT2008/>
+
+===Election and campaign finance reform===
+
+As a state senator, in 2017 Biss had sponsored SB&nbsp;1424, which would have created a program for state matching funds for small-donor contributions to political campaigns.<ref name="sb1424">{{Cite web|url=http://www.ilga.gov/legislation/BillStatus.asp?GA=100&DocTypeID=SB&DocNum=1424&GAID=14&SessionID=91&LegID=103770|title=Illinois General Assembly – Bill Status for SB1424|website=Ilga.gov|access-date=2017-03-20}}</ref>In 2023 as mayor, Biss supported the passage and signed into law a municipal campaign finance reform that creates a public matching fund scheme for municipal races. This made Evanston the first city in Illinois to create a public matching scheme for local elections.<ref name="DavidMoore1">{{cite web |last1=Moore |first1=David |title=Evanston Becomes First Illinois City to Counteract Big Money With Public Match |url=https://readsludge.com/2023/10/27/evanston-becomes-first-illinois-city-to-counteract-big-money-with-public-match/ |website=Sludge |access-date=16 May 2025 |language=en |date=27 October 2023}}</ref>
+
+As a state senator, in 2017 Biss sponsored SB&nbsp;780, a bill proposing to elect a number of statewide offices by [[Instant-runoff voting|ranked-choice ballot]].<ref name="SB780">{{Cite web|url=http://www.ilga.gov/legislation/BillStatus.asp?GA=100&DocTypeID=SB&DocNum=780&GAID=14&SessionID=91&LegID=102091|title=Illinois General Assembly – Bill Status for SB0780|website=Ilga.gov|access-date=2017-03-20}}</ref> He also co-sponsored SB&nbsp;1933, a bill authored by State Sen. [[Andy Manar]] to allow for automatic voter registration when applying for an Illinois driver's license.<ref name="SB 1933">{{Cite web|url=http://www.ilga.gov/legislation/BillStatus.asp?GA=100&DocTypeID=SB&DocNum=1933&GAID=14&SessionID=91&LegID=105253|title=Illinois General Assembly – Bill Status for SB1933|website=Ilga.gov|access-date=2017-03-20}}</ref>
+
+===Environmentalism===
+In his response in a 2008 "Political Courage Test", Biss indicated support for limiting carbon emissions.<ref name=PCT2008/>
+
+===Education===
+In his response in a 2008 "Political Courage Test", Biss declared support for allowing Illinois high school graduates to pay in-state tuition rates at public universities regardless of immigration status, as well as state funding to raise the salaries of teachers.<ref name=PCT2008>{{cite web | url = http://votesmart.org/candidate/political-courage-test/101726/daniel-biss/ | title = Daniel Biss' Issue Positions | work = [[Project Vote Smart]] | year = 2008 | publisher = One Common Ground | location = Philipsburg, Montana }}</ref>
+
+===Gun policy===
+In 2010, Biss received a 7% rating from the [[NRA Political Victory Fund]], a group which opposes restrictions on firearms.<ref>{{cite web | url = http://votesmart.org/candidate/101726/daniel-biss?categoryId=37&type=R | title = Daniel K. Biss' Political Summary on Issue: Guns | work = [[Project Vote Smart]] | access-date = November 25, 2015 | publisher = One Common Ground | location = Philipsburg, Montana }}</ref>  By March 2026, this had dropped to 0%.  These ratings are associated with a voting history favoring gun control.
+
+===Trade unions===
+Biss has expressed support for [[labor union]]s<ref>{{cite press release | url = http://danielbiss.com/releases/Kickoff%20Press%20Release_091409.pdf | title = Biss Kicks Off Campaign With 150 Strong | date = September 14, 2009 | archive-url = https://web.archive.org/web/20140221021013/http://danielbiss.com/releases/Kickoff%20Press%20Release_091409.pdf | archive-date=February 21, 2014 | publisher = Daniel Biss for State Representative | location = [[Evanston, Illinois]] }}</ref> and as a candidate for state rep received campaign contributions from [[AFSCME]].<ref>{{cite news | url = http://www.journalstandard.com/x1696634795/Wage-increases-slow-but-not-campaign-contributions | title = Wage Increases Slow, But Not Campaign ontributions | work = [[Journal Standard]] | edition = online | location = Freeport, Illinois | date = November 9, 2011 | agency = Illinois Statehouse News | access-date = November 25, 2015 | archive-date = November 25, 2015 | archive-url = https://web.archive.org/web/20151125173036/http://www.journalstandard.com/x1696634795/Wage-increases-slow-but-not-campaign-contributions | url-status = dead }}</ref> Although he later said “as a matter of politics, I can get away with really offending state employees because I don't represent that many of them.”<ref>{{Cite web|url=https://www.wcia.com/capitol-connection/pension-remarks-haunt-biss-bid-for-governor/|title=Pension remarks haunt Biss bid for governor|website=Wcia.com|date=March 10, 2018|access-date=November 4, 2026}}</ref> AFSCME is one of the largest unions representing state employees.
+
+===Israel===
+In January 2026, Republican members of the U.S. House requested information from Biss regarding his handling of 2024 protests at [[Northwestern University]], alleging the city declined to provide additional police support during a [[pro-Palestine]] [[List of pro-Palestinian protests on university campuses in the United States in 2024|student encampment]]. [[Tim Walberg]] cited documents that the university sought assistance and raised concerns about the Jewish student safety, and criticized Biss’s characterization of the protests as peaceful.<ref>{{Cite web|title=Lawmakers demand answers after Dem mayor allegedly declined police support to university amid Israel protests|url=https://www.foxnews.com/media/lawmakers-demand-answers-after-dem-mayor-allegedly-declined-police-support-university-amid-israel-protests|website=Fox News|date=2026-01-28|access-date=2026-01-30|language=en-US|first=Joshua|last=Nelson}}</ref><ref>{{Cite web|title=Walberg Releases Documents Alleging Evanston Mayor Endangered Jewish Students’ Safety to “Shore Up…Progressive Credentials”|url=https://edworkforce.house.gov/news/documentsingle.aspx?DocumentID=413052|website=Committee on Education &amp; the Workforce|date=2026-01-29|access-date=2026-01-30|language=en}}</ref> Biss defended his decision not to deploy Evanston police, citing public safety and respect for the right to peaceful protest. He also described the letter as “a dishonest political attack,” but that he would cooperate with any congressional subpoena.<ref>{{Cite web|title=Walberg Wants Briefing With Evanston Mayor Over Northwestern Protests|url=https://www.insidehighered.com/news/quick-takes/2026/01/30/walberg-questions-evanston-mayor-over-northwestern-protests|website=Inside Higher Ed|access-date=2026-01-30|language=en|first=Jessica|last=Blake}}</ref>
+
+''Jewish Insider'' reported that Biss sought [[AIPAC]]’s support in the 2026 congressional primary election before campaigning less pro-Israel. Biss has denied this, instead claiming that the organization attempted to recruit him.<ref>{{cite news |last1=Rod |first1=Marc |title=Daniel Biss sought AIPAC’s support before turning against Israel in congressional bid, sources say |url=https://jewishinsider.com/2026/01/daniel-biss-aipac-support-campaign-israel-illinois-9th-district-democratic-primary |access-date=3 March 2026 |publisher=[[Jewish Insider]] |date=20 January 2026}}</ref>
+
+===Healthcare===
+Biss supports [[universal health care]] and advocates specifically for a state-level [[single-payer healthcare]] system.<ref>{{cite news|last1=Miller|first1=Rich|title=Biss, Pawar respond *** Pritzker outlines Medicaid buy-in idea|url=https://capitolfax.com/2017/08/01/pritzker-outlines-medicaid-buy-in-idea/|access-date=12 August 2017|work=capitolfax.com|date=1 August 2017}}</ref><ref>{{cite web|title=The truth about single-payer|url=https://www.danielbiss.com/single-payer/|website=Daniel Biss for Governor|access-date=12 August 2017|date=5 August 2017|archive-date=13 August 2017|archive-url=https://web.archive.org/web/20170813054647/https://www.danielbiss.com/single-payer/|url-status=dead}}</ref> In June 2017, Biss voted to reinforce the [[Affordable Care Act]] in Illinois by prohibiting insurance companies from discriminating against customers with [[pre-existing conditions]].<ref>{{cite news|last1=Dugyala|first1=Rishika|title=Biss joins fight to prevent denial of pre-existing conditions in Illinois|url=https://dailynorthwestern.com/2017/06/14/city/biss-joins-fight-to-prevent-denial-of-pre-existing-conditions-in-illinois/|access-date=12 August 2017|work=The Daily Northwestern|date=14 June 2017}}</ref>
+
+Biss also supports legalizing marijuana in Illinois.<ref>{{Cite web|url=https://capitolfax.com/2017/03/29/where-do-the-candidates-stand-on-marijuana/|title=Capitol Fax.com - Your Illinois News Radar » Where do the candidates stand on marijuana?|website=capitolfax.com|access-date=2017-04-03}}</ref>
+
+===Housing and development===
+As mayor, Biss enacted and passed a Healthy Buildings Ordinance to curb carbon emissions through [[greenhouse gas emission]] limits.<ref>{{cite news |last1=Hurbanis |first1=Emma |title=Evanston's Healthy Buildings Ordinance: The Newest Building Performance Standard in the Midwest |url=https://www.mwalliance.org/blog/evanstons-healthy-buildings-ordinance-newest-building-performance-standard-midwest |access-date=3 March 2026 |publisher=Midwest Energy Efficiency Alliance |date=11 April 2025}}</ref>
+
+Biss set an aim of increasing Evanston's housing density.<ref>{{cite web |last1=Requena |first1=Richard |title=Neighbors mixed on proposed Evanston tower that would rival suburbs' tallest buildings |url=https://www.chicagotribune.com/2025/05/14/neighbors-mixed-on-proposed-evanston-tower-that-would-rival-suburbs-tallest-buildings/ |website=Chicago Tribune |access-date=16 May 2025 |date=14 May 2025}}</ref> Biss played a hands-on role in developing the city's [[comprehensive plan]] dubbed "Envision Evanston".<ref>{{cite web |last1=Baker |first1=Sophie |title=New councilmembers reflect on Envision Evanston as zoning legislation emerges in Springfield |url=https://dailynorthwestern.com/2025/05/05/city/new-councilmembers-reflect-on-envision-evanston-as-zoning-legislation-emerges-in-springfield/ |website=The Daily Northwestern |access-date=16 May 2025 |date=6 May 2025}}</ref> Backlash over the initial draft due to its emphasis on expanding higher density housing a revised plan was developed led to scaling back.<ref>{{cite web |last1=Requena |first1=Richard |title=Evanston candidates push back against proposal for increased density, Envision Evanston |url=https://www.chicagotribune.com/2025/02/16/evanston-candidates-push-back-against-proposal-for-increased-density-envision-evanston/ |website=Chicago Tribune |access-date=16 May 2025 |date=16 February 2025}}</ref><ref name="deemphasizes">{{cite web |last1=Martinez |first1=Clara |title=New Envision Evanston Draft Deemphasizes Higher-Density Housing |url=https://dailynorthwestern.com/2025/02/23/city/new-envision-evanston-draft-deemphasizes-higher-density-housing/ |website=The Daily Northwestern |access-date=16 May 2025 |date=24 February 2025}}</ref> Biss has pushed for the city to permit the construction of four-unit [[apartments]] on larger lots zoned for single-family residences.<ref>{{cite web |last1=Finkel |first1=Ed |title=City Council appears ready to support 2-flats, still divided on 4-flats |url=https://evanstonroundtable.com/2025/05/14/city-council-appears-ready-to-support-2-flats-still-divided-on-4-flats |website=Evanston RoundTable |access-date=16 May 2025 |date=14 May 2025}}</ref>
+
+In 2024, Biss cast a tie-breaking council vote to allow Northwestern University to demolish and rebuild its [[Ryan Field (1926)|football stadium]]. The new law approved a [[community benefits agreement]] where Northwestern invests approximately $10 million in the city annually for fifteen years. Biss called the privately-funded $800 million stadium project a "generational investment."<ref>{{cite web |last1=Carey |first1=Lily |title=Evanston Mayor Daniel Biss explains Ryan Field approval |url=https://dailynorthwestern.com/2023/11/21/lateststories/a-generational-investment-mayor-biss-explains-his-yes-vote-on-ryan-field |website=The Daily Northwestern |access-date=September 18, 2025 |date=November 21, 2023}}</ref><ref>{{cite web |last1=Carey |first1=Lily |title=Evanston Mayor Daniel Biss Explains Ryan Field Approval |url=https://dailynorthwestern.com/2023/11/21/lateststories/a-generational-investment-mayor-biss-explains-his-yes-vote-on-ryan-field/ |website=The Daily Northwestern |access-date=September 18, 2025 |date=November 21, 2023}}</ref>
+
+==Personal life==
+Biss is married to Karin Steinbrueck and they have two children.<ref name=round>{{cite web|url=https://evanstonroundtable.com/2021/11/30/ive-got-a-lot-to-learn-from-everybody-daniel-biss-and-his-journey-to-evanston-city-hall/|title=‘I’ve got a lot to learn from everybody’: Daniel Biss and his journey to Evanston City Hall|publisher=Evanston Round Table|access-date=October 21, 2026|date=November 30, 2021}}</ref> They moved to Evanston in 2006.<ref name=round/>
+
+== Electoral history ==
+===Illinois House of Representatives===
+;2008
+{{election box begin no change
+| title = 2008 Illinois House of Representatives 17th district Democratic primary<ref name="results">{{cite web |title=Vote Total Search Election Results |url=https://www.elections.il.gov/electionoperations/votetotalsearch.aspx |website=Elections.il.gov |access-date=24 February 2021 |archive-date=18 November 2020 |archive-url=https://web.archive.org/web/20201118144557/https://www.elections.il.gov/electionoperations/votetotalsearch.aspx |url-status=dead }}</ref>
+}}
+{{election box winning candidate with party link no change
+| candidate  = Daniel Biss
+| party      = Democratic Party (United States)
+| votes      = 16,756
+| percentage = 100
+}}
+{{election box total no change
+| votes      = 16,756
+| percentage = 100
+}}
+{{election box end}}
+
+{{election box begin no change
+| title = [[2008 Illinois House of Representatives election|2008 Illinois House of Representatives 17th district election]]<ref name="results"/>
+}}
+{{election box winning candidate with party link no change
+| candidate  = [[Elizabeth Coulson]] (incumbent)
+| party      = Republican Party (United States)
+| votes      = 27,540
+| percentage = 51.48
+}}
+{{election box candidate with party link no change
+| candidate  = Daniel Biss
+| party      = Democratic Party (United States)
+| votes      = 25,959
+| percentage = 48.52
+}}
+{{election box total no change
+| votes      = 53,499
+| percentage = 100
+}}
+{{election box end}}
+
+;2010
+{{election box begin no change
+| title = 2010 Illinois House of Representatives 17th district Democratic primary<ref name="results"/>
+}}
+{{election box winning candidate with party link no change
+| candidate  = Daniel K. Biss
+| party      = Democratic Party (United States)
+| votes      = 11,636
+| percentage = 100
+}}
+{{election box total no change
+| votes      = 11,636
+| percentage = 100
+}}
+{{election box end}}
+
+{{election box begin no change
+| title = [[2010 Illinois House of Representatives election|2010 Illinois House of Representatives 17th district election]]<ref name="results"/>
+}}
+{{election box winning candidate with party link no change
+| candidate  = Daniel K. Biss
+| party      = Democratic Party (United States)
+| votes      = 23,134
+| percentage = 54.78
+}}
+{{election box candidate with party link no change
+| candidate  = Hamilton Chang
+| party      = Republican Party (United States)
+| votes      = 19,096
+| percentage = 45.22
+}}
+{{election box total no change
+| votes      = 42,230
+| percentage = 100
+}}
+{{election box end}}
+
+===Illinois Senate===
+;2012
+{{election box begin no change
+| title = 2012 Illinois Senate 9th district Democratic primary<ref name="results"/>
+}}
+{{election box winning candidate with party link no change
+| candidate  = Daniel Biss
+| party      = Democratic Party (United States)
+| votes      = 18,583
+| percentage = 100
+}}
+{{election box total no change
+| votes      = 18,583
+| percentage = 100
+}}
+{{election box end}}
+
+{{election box begin no change
+| title = [[2012 Illinois Senate election|2012 Illinois Senate 9th district election]]<ref name="results"/>
+}}
+{{election box winning candidate with party link no change
+| candidate  = Daniel K. Biss
+| party      = Democratic Party (United States)
+| votes      = 68,064
+| percentage = 66.63
+}}
+{{election box candidate with party link no change
+| candidate  = Glenn Farkas
+| party      = Republican Party (United States)
+| votes      = 34,081
+| percentage = 33.37
+}}
+{{election box total no change
+| votes      = 102,145
+| percentage = 100
+}}
+{{election box end}}
+
+;2014
+{{election box begin no change
+| title = 2014 Illinois Senate 9th district Democratic primary<ref name="results"/>
+}}
+{{election box winning candidate with party link no change
+| candidate  = Daniel Biss (incumbent)
+| party      = Democratic Party (United States)
+| votes      = 11,509
+| percentage = 100
+}}
+{{election box total no change
+| votes      = 11,509
+| percentage = 100
+}}
+{{election box end}}
+
+{{election box begin no change
+| title = [[2014 Illinois Senate election|2014 Illinois Senate 9th district election]]<ref name="results"/>
+}}
+{{election box winning candidate with party link no change
+| candidate  = Daniel Biss (incumbent)
+| party      = Democratic Party (United States)
+| votes      = 55,986
+| percentage = 100
+}}
+{{election box total no change
+| votes      = 55,986
+| percentage = 100
+}}
+{{election box end}}
+
+===Illinois gubernatorial===
+[[File:Illinois gubernatorial Democratic primary, 2018.svg|thumb|upright|2018 Illinois Democratic gubernatorial primary results by county
+{{collapsible list
+|title=Map legend
+|{{legend|#2c5aa0|Pritzker—70–80%}}
+|{{legend|#3771c8|Pritzker—60–70%}}
+|{{legend|#5f8dd3|Pritzker—50–60%}}
+|{{legend|#87aade|Pritzker—40–50%}}
+|{{legend|#afc6e9|Pritzker—30–40%}}
+|{{legend|#87de87|Biss—40–50%}}
+|{{legend|#e9afaf|Kennedy—30–40%}}
+|{{legend|#de8787|Kennedy—40–50%}}
+<ref>{{cite web|url=https://www.nytimes.com/interactive/2018/03/20/us/elections/results-illinois-primary-elections.html|title=Illinois Primary Election Results|first=The New York|last=Times|date=March 20, 2018|access-date=May 22, 2018|website=[[The New York Times]]}}</ref>
+}}
+]]
+{{election box begin no change
+| title = [[2018 Illinois gubernatorial election#Democratic primary|2018 Illinois Democratic gubernatorial primary]]<ref name="results"/>
+}}
+{{election box winning candidate with party link no change
+| candidate  = [[JB Pritzker]]
+| party      = Democratic Party (United States)
+| votes      = 597,756
+| percentage = 45.13
+}}
+{{election box candidate with party link no change
+| candidate  = Daniel Biss
+| party      = Democratic Party (United States)
+| votes      = 353,625
+| percentage = 26.70
+}}
+{{election box candidate with party link no change
+| candidate  = [[Christopher G. Kennedy|Chris Kennedy]]
+| party      = Democratic Party (United States)
+| votes      = 322,730
+| percentage = 24.37
+}}
+{{election box candidate with party link no change
+| candidate  = Tio Hardiman
+| party      = Democratic Party (United States)
+| votes      = 21,075
+| percentage = 1.59
+}}
+{{election box candidate with party link no change
+| candidate  = Bob Daiber
+| party      = Democratic Party (United States)
+| votes      = 15,009
+| percentage = 1.13
+}}
+{{election box candidate with party link no change
+| candidate  = Robert Marshall
+| party      = Democratic Party (United States)
+| votes      = 14,353
+| percentage = 1.08
+}}
+{{election box total no change
+| votes      = 1,324,548
+| percentage = 100
+}}
+{{election box end}}
+
+===Evanston mayoral===
+{{election box begin no change
+| title = 2021 Evanston, Illinois mayoral election<ref name="2021mayoralresult"/>
+}}
+{{election box winning candidate with party link no change
+| candidate  = Daniel Biss
+| party      = Nonpartisan politician
+| votes      = 7,786
+| percentage = 72.97
+}}
+{{election box candidate with party link no change
+| candidate  = Lori Keenan
+| party      = Nonpartisan politician
+| votes      = 1,867
+| percentage = 17.50
+}}
+{{Election box candidate with party link no change
+| party = Nonpartisan politician
+| candidate  = Sebastian Nalls
+| votes      = 960
+| percentage = 9.00
+}}
+{{election box candidate with party link no change
+| candidate  = ''[[Write-in]]''
+| party      = Nonpartisan politician
+| votes      = 57 
+| percentage = 0.53
+}}
+{{election box total no change
+| votes      = 10670 
+| percentage  =100
+}}{{election box end}}
+
+{{election box begin no change
+| title = 2025 Evanston, Illinois mayoral election<ref name="Clerk2025results"/>
+}}
+{{election box winning candidate with party link no change
+| candidate  = Daniel Biss (incumbent)
+| party      = Nonpartisan politician
+| votes      = 11,176
+| percentage = 62.69
+}}
+{{election box candidate with party link no change
+| candidate  = Jeff Boarini
+| party      = Nonpartisan politician
+| votes      = 6,973
+| percentage = 37.31
+}}
+{{election box total no change
+| votes      = 18,689 
+| percentage  =100
+}}
+{{election box turnout no change
+| votes = 18,911
+| percentage = 36.01%{{efn|18,911 ballots were cast in Evanston's April 1, 2025 local elections, including 222 [[undervote]]s for mayor. With 52,519 registered voters in Evanston, overall turnout among registered voters was 36.01%. Mayoral votes were cast by 35.58% of registered voters, with a further 0.42% casting recorded ballots that under voted the mayoral race.<ref name="424-vote2025"/>}}
+}}
+{{election box end}}
+===U.S. House of Representatives===
+{{Election box begin no change
+| title = 2026 Illinois's 9th Congressional District Democratic primary results
+}}
+{{Election box winning candidate with party link no change
+| candidate = Daniel Biss
+| party = Democratic Party (United States)
+| votes = 36,690
+| percentage = 29.5
+}}
+{{Election box candidate with party link no change
+| candidate = [[Kat Abughazaleh]]
+| party = Democratic Party (United States)
+| votes = 32,233
+| percentage = 26.0
+}}
+{{Election box candidate with party link no change
+| candidate = [[Laura Fine]]
+| party = Democratic Party (United States)
+| votes = 25,262
+| percentage = 20.3
+}}
+{{Election box candidate with party link no change
+| candidate = [[Mike Simmons]]
+| party = Democratic Party (United States)
+| votes = 8,647
+| percentage = 7.0
+}}
+{{Election box candidate with party link no change
+| candidate = Phil Andrew
+| party = Democratic Party (United States)
+| votes = 7,709
+| percentage = 6.2
+}}
+{{Election box candidate with party link no change
+| candidate = [[Bushra Amiwala]]
+| party = Democratic Party (United States)
+| votes = 6,240
+| percentage = 5.0
+}}
+{{Election box candidate with party link no change
+| candidate = [[Hoan Huynh]]
+| party = Democratic Party (United States)
+| votes = 2,174
+| percentage = 1.8
+}}
+{{Election box candidate with party link no change
+| candidate = Patricia Brown
+| party = Democratic Party (United States)
+| votes = 1,600
+| percentage = 1.3
+}}
+{{Election box candidate with party link no change
+| candidate = Jeff Cohen
+| party = Democratic Party (United States)
+| votes = 1,041
+| percentage = 0.8
+}}
+{{Election box candidate with party link no change
+| candidate = Justin Ford
+| party = Democratic Party (United States)
+| votes = 748
+| percentage = 0.6
+}}
+{{Election box candidate with party link no change
+| candidate = Bethany Johnson
+| party = Democratic Party (United States)
+| votes = 613
+| percentage = 0.5
+}}
+{{Election box candidate with party link no change
+| candidate = Sam Polan
+| party = Democratic Party (United States)
+| votes = 508
+| percentage = 0.4
+}}
+{{Election box candidate with party link no change
+| candidate = Howard Rosenblum
+| party = Democratic Party (United States)
+| votes = 296
+| percentage = 0.2
+}}
+{{Election box candidate with party link no change
+| candidate = Nick Pyati
+| party = Democratic Party (United States)
+| votes = 227
+| percentage = 0.2
+}}
+{{Election box candidate with party link no change
+| candidate = Mark Fredrickson
+| party = Democratic Party (United States)
+| votes = 213
+| percentage = 0.2
+}}
+{{Election box total no change
+| votes = 124,201
+| percentage = 100.0
+}}
+{{Election box end}}
+
+==Notes==
+{{notelist}}
+
+== References ==
+{{reflist|30em}}
+
+== External links ==
+{{commonscat}}
+*[http://my.ilga.gov/Member/Index/2020?tab=1&chamber=S Biography, bills and committees] at the 98th Illinois General Assembly
+**By session: [http://www.ilga.gov/senate/Senator.asp?GA=98&MemberID=2020 98th], [http://www.ilga.gov/house/Rep.asp?GA=97&MemberID=1778 97th]
+*[http://senatorbiss.com/ Illinois State Senator Daniel Biss] {{Webarchive|url=https://web.archive.org/web/20130602222028/http://senatorbiss.com/ |date=2013-06-02 }} legislative website
+*[http://www.illinoissenatedemocrats.com/index.php/sen-biss-home Senator Daniel Biss] {{Webarchive|url=https://web.archive.org/web/20150403131223/http://www.illinoissenatedemocrats.com/index.php/sen-biss-home |date=2015-04-03 }} at Illinois Senate Democrats
+*[http://danielbiss.com/ Daniel Biss for Illinois] campaign website
+{{CongLinks | votesmart = 101726 }}
+*{{MathGenealogy|67217}}
+*[http://rustbeltrising.org Rust Belt Rising]
+
+{{s-start}}
+{{s-off}}
+{{s-bef|before=[[Steve Hagerty]]}}
+{{s-ttl|title=[[List of mayors of Evanston, Illinois|Mayor of Evanston]]|years=2021–2026}}
+{{s-aft|after=Clare Kelly<br />Acting}}
+|-
+{{s-par|us-hs}}
+{{s-bef|before=[[Jan Schakowsky]]}}
+{{s-ttl|title=Member of the [[List of United States representatives from Illinois|U.S. House of Representatives]]<br>from [[Illinois's 9th congressional district]]|years=Taking office 2027<!-- –present -->}}
+{{s-non|reason=Elect}}<!-- {{s-inc}} -->
+{{s-end}}
+
+<!-- {{IL-FedRep}}
+{{Current U.S. representatives}}
+{{USCongRep-start |congresses=120th–present [[United States Congress]] |state=[[Illinois's congressional delegations|Illinois]]}}
+{{USCongRep/IL/120}}
+{{USCongRep-end}} -->
+
+{{Cook county democratic committeemen}}
+{{Authority control}}
+
+{{DEFAULTSORT:Biss, Daniel}}
+[[Category:1977 births]]
+[[Category:Living people]]
+[[Category:20th-century American Jews]]
+[[Category:20th-century American mathematicians]]
+[[Category:21st-century American Jews]]
+[[Category:21st-century American mathematicians]]
+[[Category:21st-century mayors of places in Illinois]]
+[[Category:21st-century members of the Illinois General Assembly]]
+[[Category:21st-century United States representatives]]
+[[Category:American people of Romanian-Jewish descent]]
+[[Category:American people of Russian-Jewish descent]]
+[[Category:American topologists]]
+[[Category:Harvard College alumni]]
+[[Category:Democratic Party Illinois state senators]]
+[[Category:Democratic Party members of the Illinois House of Representatives]]
+[[Category:Democratic Party United States representatives from Illinois]]
+[[Category:Institute for Advanced Study visiting scholars]]
+[[Category:Jewish American mayors]]
+[[Category:Jewish state legislators in Illinois]]
+[[Category:Mathematicians from Illinois]]
+[[Category:Mathematicians from Ohio]]
+[[Category:Mayors of Evanston, Illinois]]
+[[Category:MIT School of Humanities, Arts, and Social Sciences alumni]]
+[[Category:Politicians from Akron, Ohio]]
+[[Category:Politicians from Bloomington, Illinois]]
+[[Category:Research Science Institute alumni]]

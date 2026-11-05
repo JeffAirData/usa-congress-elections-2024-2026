@@ -1,0 +1,54 @@
+{{Short description|American politician}}
+{{Use American English|date=November 2026}}
+{{Use mdy dates|date=November 2026}}
+{{Infobox officeholder
+| name               = Zack Mullock
+| state              = [[New Jersey]]
+| district           = {{ushr|NJ|2|2nd}}
+| term_start         = January 3, 2027
+| term_end           = 
+| succeeding         = [[Jeff Van Drew]]
+| predecessor        = [[Jeff Van Drew]]
+| successor          = 
+| birth_date         = {{birth based on age as of date|41|2026|10|23}}
+| birth_place        = [[South Jersey]], U.S.
+| death_date         = 
+| death_place        = 
+| party              = [[Democratic Party (United States)|Democratic]]
+| spouse             = Justine
+| children           = 3
+| education          = [[Mount St. Mary's University (Maryland)|Mount St. Mary's University]] ([[Bachelor of Arts|BA]])<br>{{nowrap|[[Saint Joseph's University]] ([[Master of Business Administration|MBA]])}}
+}}
+'''Zachary Mullock''' (born 1984/1985)<ref>{{Cite web|url=https://www.inquirer.com/politics/new-jersey/jeff-van-drew-zack-mullock-debate-south-jersey-20261023.html|title=‘Daddy Trump,’ data centers and the Iran war: Here are the highlights from Jeff Van Drew’s debate with Zack Mullock|first=Aliya|last=Schneider|date=October 23, 2026|website=Inquirer.com}}</ref><ref>{{Cite web|url=https://www.capemaycity.com/mayorzacharymullock|title=Official Website of Cape May New Jersey|website=Cape May New Jersey}}</ref> is an American politician. He is the representative-elect for [[New Jersey's 2nd congressional district]] in the [[United States House of Representatives]].
+
+Mullock has a bachelor's from [[Mount St. Mary's University (Maryland)|Mount Saint Mary's University]] and a [[Master of Business Administration]] from [[Saint Joseph's University]].<ref>{{Cite web|url=https://ocnjsentinel.com/zack-mullock-running-in-the-democratic-primary-for-congress/|title=Zack Mullock running in the Democratic primary for Congress ‣ Ocean City Sentinel|date=April 8, 2026}}</ref> He succeeded Chuck Lear as the mayor of [[Cape May, New Jersey|Cape May]] on January 1, 2021.<ref>{{Cite web|url=https://newjerseyglobe.com/congress/cape-may-mayor-prepping-congressional-bid-in-nj-2/|title=Cape May mayor prepping congressional bid in NJ-2|first=Joey|last=Fox|date=February 4, 2026}}</ref> As the mayor of Cape May, he oversaw the construction of a new fire house, library, community center, and theater, as well as a new police station.<ref>{{Cite web |last=EvoGov.com |title=Official Website of Cape May New Jersey |url=https://www.capemaycity.com/MayorZacharyMullock |access-date=2026-11-04 |website=Cape May New Jersey |language=en}}</ref>
+
+Mullock ran for the [[United States House of Representatives]] for {{ushr|NJ|2}} in the 2026 elections. Endorsed by the [[Blue Dog Coalition|Blue Dog PAC]]<ref>{{Cite web|url=https://bluedogdems.com/zack-mullock/|title=Mayor Zack Mullock|website=https://bluedogdems.com/}}</ref>, he defeated Republican incumbent [[Jeff Van Drew]].<ref>{{Cite web|url=https://6abc.com/post/nj-primary-2026-zack-mullock-wins-democratic-nomination-us-house-new-jerseys-2nd-congressional-district/19223439/|title=Zack Mullock wins Democratic nomination for U.S. House in New Jersey's 2nd Congressional District|date=June 3, 2026|website=6abc Philadelphia}}</ref>
+
+==References==
+{{reflist}}
+
+{{s-start}}
+{{s-par|us-hs}}
+{{s-bef|before=[[Jeff Van Drew]]}}
+{{s-ttl|title=Member of the [[List of United States representatives from New Jersey|U.S. House of Representatives]]<br>from [[New Jersey's 2nd congressional district]]|years=Taking office 2027<!-- –present -->}}
+{{s-non|reason=Elect}}<!-- {{s-inc}} -->
+{{s-end}}
+<!-- {{NJ-FedRep}}
+{{Current U.S. representatives}}
+{{USCongRep-start |congresses=120th–present [[United States Congress]] |state=[[New Jersey's congressional delegations|New Jersey]]}}
+{{USCongRep/NJ/120}}
+{{USCongRep-end}} -->
+
+{{DEFAULTSORT:Mullock, Zack}}
+[[Category:1980s births]]
+[[Category:21st-century New Jersey politicians]]
+[[Category:21st-century United States representatives]]
+[[Category:Democratic Party United States representatives from New Jersey]]
+[[Category:Living people]]
+[[Category:Mayors of places in New Jersey]]
+[[Category:Mount St. Mary's University alumni]]
+[[Category:New Jersey Democrats]]
+[[Category:People from Cape May, New Jersey]]
+[[Category:Politicians from Cape May County, New Jersey]]
+[[Category:Saint Joseph's University alumni]]

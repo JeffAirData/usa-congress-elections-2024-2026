@@ -1,0 +1,49 @@
+{{Short description|American attorney and politician}}
+{{Other people|Paul Barringer|Paul Barringer}}{{Use mdy dates|date=November 2026}}
+{{Infobox officeholder
+|name = Paul Barringer
+|state = [[North Carolina]]
+|district = {{ushr|NC|13|13th}}
+|term_start = January 3, 2027
+|term_end = 
+|succeeding = [[Brad Knott]]
+|predecessor = [[Brad Knott]]
+|successor = 
+|birth_date = {{birth based on age as of date|31|1998|8|23}}
+|birth_place = 
+|death_date = 
+|death_place = 
+|party = [[Democratic Party (United States)|Democratic]]
+|education = [[Davidson College]] ([[Bachelor of Arts|BA]])<br>[[Princeton University]] ([[Master of Public Administration|MPA]])<br>[[University of North Carolina, Chapel Hill]] ([[Juris Doctor|JD]])<br>[[Victoria University of Wellington]] ([[Master of Arts|MA]])
+}}
+'''Paul Barringer''' (born 1966/1967) is an American attorney and politician from North Carolina.<ref>{{Cite news |last=Battaglia |first=Danielle |date=October 14, 2026 |title=Challenger for NC seat says Congress has given up too much power |url=https://www.newsobserver.com/news/politics-government/election/article317339469.html |work=[[News & Observer]]}}</ref> He is the [[Democratic Party (United States)|Democratic]] nominee in the 2026 election for [[North Carolina's 13th congressional district]], running against [[Brad Knott]].<ref>{{Cite web |last=Zhu |first=Christine |date=2026-10-28 |title=Democrats see opening for Barringer in NC-13 race against freshman Republican Knott |url=https://ncnewsline.com/2026/10/28/democrats-see-opening-for-barringer-in-nc-13-race-against-freshman-republican-knott/ |access-date=2026-11-04 |website=[[NC Newsline]] |language=en-US}}</ref> He has a bachelor's in environmental history from [[Davidson College]], a [[Master of Public Administration]] from the [[Princeton School of Public and International Affairs]], a law degree from the [[University of North Carolina School of Law]] and a master's in health policy from [[Victoria University of Wellington]] on a [[Rotary Scholarship]].<ref>{{Cite news |last=Battaglia |first=Danielle |date=February 18, 2026 |title=See where candidates for 13th US House District disagree with their own party |url=https://www.newsobserver.com/news/politics-government/election/article314549085.html |work=[[News & Observer]]}}</ref>
+
+Barringer is endorsed by the [[Blue Dog Coalition|Blue Dog PAC]]<ref>https://bluedogdems.com/paul-barringer/</ref> and is a signatory of the "Promise to America" pledge criticized by the Democratic Party's left for its support for capitalism and opposition to socialism.<ref>https://www.thepromisetoamerica.com/signatories/barringer</ref>
+
+==References==
+{{reflist}}
+
+{{s-start}}
+{{s-par|us-hs}}
+{{s-bef|before=[[Brad Knott]]}}
+{{s-ttl|title=Member of the [[List of United States representatives from North Carolina|U.S. House of Representatives]]<br>from [[North Carolina's 13th congressional district]]|years=Taking office 2027<!-- –present -->}}
+{{s-non|reason=Elect}}<!-- {{s-inc}} -->
+{{s-end}}
+
+<!-- {{NC-FedRep}}
+{{Current U.S. representatives}}
+{{USCongRep-start |congresses=120th–present [[United States Congress]] |state=[[North Carolina's congressional delegations|North Carolina]]}}
+{{USCongRep/NC/120}}
+{{USCongRep-end}} -->
+
+{{DEFAULTSORT:Barringer, Paul}}
+[[Category:1960s births]]
+[[Category:21st-century North Carolina politicians]]
+[[Category:21st-century United States representatives]]
+[[Category:Davidson College alumni]]
+[[Category:Democratic Party United States representatives from North Carolina]]
+[[Category:Living people]]
+[[Category:North Carolina Democrats]]
+[[Category:Princeton School of Public and International Affairs alumni]]
+[[Category:University of North Carolina School of Law alumni]]
+[[Category:Victoria University of Wellington alumni]]

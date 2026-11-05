@@ -1,0 +1,75 @@
+{{Short description|American politician}}
+{{Use American English|date=July 2026}}
+{{Use mdy dates|date=May 2025}}
+{{Infobox officeholder
+|name         = Mark Tedford
+|image        = Tedford Mark OKHouse.jpg
+|caption      = Official portrait, 2023 
+|state        = [[Oklahoma]]
+|district     = {{ushr|OK|1|1st}}
+|term_start   = January 3, 2027
+|term_end     = 
+|succeeding   = [[Kevin Hern]]
+|predecessor  = [[Kevin Hern]]
+|successor    = 
+|state_house1 = Oklahoma
+|district1    = 69th
+|term_start1  = November 16, 2022
+|term_end1    = 
+|predecessor1 = [[Sheila Dills]]
+|successor1   = 
+|birth_name   = Mark Andrew Tedford
+|birth_date   = {{birth date and age|1969|6|26}}
+|birth_place  = [[Lafayette, Louisiana]], U.S.
+|death_date   = 
+|death_place  = 
+|party        = [[Republican Party (United States)|Republican]]
+|spouse       = {{marriage|Kristin Anderson|1992}}
+|children     = 4
+|education    = [[Missouri Southern State University]] ([[Bachelor of Science|BS]])<br>[[University of Tulsa]] ([[Master of Business Administration|MBA]])<br>[[Biola University]] ([[Master of Arts|MA]])
+}}
+'''Mark Tedford''' (born June 26, 1969) is an American politician and insurance agent who is the [[Oklahoma House of Representatives]] member from the 69th district. He represents [[Jenks, Oklahoma|Jenks]] and South [[Tulsa, Oklahoma|Tulsa]].
+
+Tedford was born in Lafayette, Louisiana, and raised in Jenks, Oklahoma, before graduating from [[Missouri Southern State University]] which he attended on a football scholarship. In [[2022 Oklahoma House of Representatives election|2022]], he was elected to the Oklahoma House of Representatives to succeed retiring Representative [[Sheila Dills]]. He was initially elected and reelected in 2024 unopposed.
+
+In [[2026 United States House of Representatives elections in Oklahoma|2026]], he filed for the [[Republican Party (United States)|Republican Party]]'s nomination  to succeed [[Kevin Hern]] in the [[U.S. House of Representatives]]. After advancing to a Republican primary runoff with Jackson Lahmeyer, Lahmeyer dropped out, making Tedford the nominee. He is endorsed by President [[Donald Trump]].
+
+==Early life, education and family==
+Mark Andrew Tedford was born on June 26, 1969, to George and Kay Tedford in Lafayette, Louisiana.<ref>{{cite news |title=Mark Andrew Tedford |url=https://www.newspapers.com/article/the-shreveport-journal-mark-andrew-tedfo/193184759/ |access-date=March 12, 2026 |work=[[The Shreveport Journal]] |date=July 4, 1969 |page=20}}</ref> He graduated from [[Jenks High School]] and signed with [[Missouri Southern State University]] to play for their [[Missouri Southern Lions football|football team]] in 1988.<ref>{{cite news |last1=O'Kane |first1=Dan |title=Johnson Wavered, But Still Chose Irish |url=https://www.newspapers.com/article/tulsa-world-johnson-wavered-but-still-c/193184932/ |access-date=March 12, 2026 |work=[[Tulsa World]] |date=February 12, 1988 |page=25}}</ref> He married Kristin Anderson on July 18, 1992.<ref>{{cite news |title=Kristin Elizabeth Anderson and Mark Andrew Tedford |url=https://www.newspapers.com/article/tulsa-world-kristin-elizabeth-anderson-a/193185117/ |access-date=March 12, 2026 |work=[[Tulsa World]] |date=December 1, 1991 |page=82}}</ref>
+
+==Oklahoma House of Representatives==
+===2022 election===
+Tedford was elected to the [[Oklahoma House of Representatives]] after running unopposed to succeed retiring Representative [[Sheila Dills]] in the [[2022 Oklahoma House of Representatives election]].<ref name="TW-24April2022">{{cite news |last1=Krehbiel |first1=Randy |title='New' legislator wins state House seat just by filing |url=https://tulsaworld.com/news/state-and-regional/govt-and-politics/new-legislator-wins-state-house-seat-just-by-filing/article_a610a034-c269-11ec-966f-8b75f4445a2d.html |access-date=24 April 2022 |publisher=Tulsa World |date=24 April 2022}}</ref> He was sworn in on November 16, 2022.<ref>{{cite news |last1=Shular |first1=Daniel |title=Photos: Lawmakers sworn in at Capitol on Oklahoma Statehood Day |url=https://tulsaworld.com/news/local/photos-lawmakers-sworn-in-at-capitol-on-oklahoma-statehood-day/collection_2f0ed44e-65ff-11ed-881e-6bc7ff24ff5e.html#1 |access-date=13 December 2022 |work=[[Tulsa World]] |date=16 November 2022}}</ref>
+
+===Tenure===
+Prior to his first legislative session, Tedford advocated for an increase in teacher pay by arguing current wages were not competitive in the Oklahoma jobs market.<ref>{{cite news |last1=Eger |first1=Andrea |title=Several Tulsa-area Republicans say they would support pay raises for Oklahoma teachers in 2023 |url=https://tulsaworld.com/news/local/several-tulsa-area-republicans-say-they-would-support-pay-raises-for-oklahoma-teachers-in-2023/article_831a23b4-7756-11ed-a361-eb406d952136.html |access-date=17 December 2022 |work=[[Tulsa World]] |date=11 December 2022}}</ref> He was endorsed for [[2024 Oklahoma House of Representatives election|re-election]] by [[Kevin Hern]] in September 2023.<ref>{{cite news |last1=Krehbiel |first1=Randy |title=Political notebook: Stitt says Republican presidential nomination ‘wide open’ |url=https://tulsaworld.com/news/state-regional/government-politics/political-notebook-stitt-says-republican-presidential-nomination-wide-open/article_af05669e-5975-11ee-af45-ef7e136ca77a.html |access-date=24 September 2023 |work=[[Tulsa World]] |date=September 23, 2023}}</ref>
+
+==Congressional campaign==
+On March 11, 2026, Tedford announced that he would be a candidate for the [[United States House of Representatives]].<ref>https://www.newson6.com/politics/mark-tedford-announces-ok1-congress-run-hern-seat</ref>
+
+==References==
+{{Reflist}}
+
+{{s-start}}
+{{s-par|us-hs}}
+{{s-bef|before=[[Kevin Hern]]}}
+{{s-ttl|title=Member of the [[List of United States representatives from Oklahoma|U.S. House of Representatives]]<br>from [[Oklahoma's 1st congressional district]]|years=Taking office 2027<!-- –present -->}}
+{{s-non|reason=Elect}}<!-- {{s-inc}} -->
+{{s-end}}
+
+<!-- {{OK-FedRep}}
+{{Current U.S. representatives}}
+{{USCongRep-start |congresses=120th–present [[United States Congress]] |state=[[Oklahoma's congressional delegations|Oklahoma]]}}
+{{USCongRep/OK/120}}
+{{USCongRep-end}} -->
+{{Oklahoma House of Representatives}}
+
+{{DEFAULTSORT:Tedford, Mark}}
+[[Category:1969 births]]
+[[Category:21st-century members of the Oklahoma Legislature]]
+[[Category:21st-century United States representatives]]
+[[Category:Living people]]
+[[Category:Republican Party members of the Oklahoma House of Representatives]]
+[[Category:Republican Party United States representatives from Oklahoma]]
+
+{{Oklahoma-politician-stub}}

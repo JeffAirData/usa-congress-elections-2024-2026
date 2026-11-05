@@ -1,0 +1,54 @@
+{{Short description|American politician (b. 1964/1965)}}
+{{Use American English|date=November 2026}}
+{{cs1 config|mode=cs2}}
+{{Infobox officeholder
+|name = Fred Wellman
+|image = Fred Wellman, August 2025.png
+|caption = Wellman in 2025
+|alt = 
+|state = [[Missouri]]
+|district = {{ushr|MO|2|2nd}}
+|term_start = January 3, 2027
+|term_end = 
+|succeeding = [[Ann Wagner]]
+|predecessor = [[Ann Wagner]]
+|successor = 
+|birth_date = {{birth based on age as of date|61|2026|10|27}}
+|birth_place = 
+|death_date = 
+|death_place = 
+|party = [[Democratic Party (United States)|Democratic]]
+|education = [[United States Military Academy]] ([[Bachelor of Science|BS]])<br>[[Harvard University]] ([[Master of Public Policy|MPP]])
+}}
+'''Fred Wellman''' (born 1964/1965)<ref name="Fox2 spending">{{Cite news |last=Banker |first=Andy |date=October 27, 2026 |title=Wagner has massive spending edge over opponent Wellman  |url=https://fox2now.com/news/missouri/wagner-has-massive-spending-edge-over-opponent-wellman/ |access-date=November 4, 2026 |work=[[KTVI|Fox 2 Now]] |publisher=[[Nexstar Media Group]]}}</ref> is an American politician and podcast host from Missouri.<ref name="KMOV">{{Cite web |last=Kipper |first=Jon |date=October 22, 2026 |title=Seven-term Congresswoman Ann Wagner locked in tight race with Democrat Fred Wellman |url=https://www.firstalert4.com/2026/10/22/seven-term-congresswoman-ann-wagner-locked-tight-race-with-democrat-fred-wellman/ |url-status=live |archive-url=https://web.archive.org/web/20261023055831/https://www.firstalert4.com/2026/10/22/seven-term-congresswoman-ann-wagner-locked-tight-race-with-democrat-fred-wellman/ |archive-date=October 23, 2026 |access-date=November 4, 2026 |website=[[KMOV|First Alert 4]] |publisher=[[Gray Media]]}}</ref> A member of the [[Democratic Party (United States)|Democratic Party]], he is the member-elect to the [[United States House of Representatives]] for {{ushr|MO|2}}.
+
+== Early life and education ==
+Wellman graduated from [[Kirkwood High School]] in [[Kirkwood, Missouri]], in 1983.<ref name="slpd-Beer Hall Project">{{Cite news |last=Messenger |first=Tony |date=January 10, 2022 |title=The Beer Hall Project aims to protect American democracy |url=https://www.newspapers.com/article/st-louis-post-dispatch-the-beer-hall-pr/209639988/ |access-date=2026-11-04 |work=[[St. Louis Post-Dispatch]] |pages=A2 |via=[[Newspapers.com]]}}</ref><ref name="wkt-close">{{Cite web |last=Suchland |first=Colin |date=October 19, 2026 |title=Polls Show Close Race Between Wagner & Wellman In 2nd Congressional District |url=https://www.timesnewspapers.com/webster-kirkwoodtimes/polls-show-close-race-between-wagner-wellman-in-2nd-congressional-district/article_92e970f2-594b-412a-a598-901b171f8f3e.html |url-status=live |archive-url=https://web.archive.org/web/20261020173702/https://www.timesnewspapers.com/webster-kirkwoodtimes/polls-show-close-race-between-wagner-wellman-in-2nd-congressional-district/article_92e970f2-594b-412a-a598-901b171f8f3e.html |archive-date=October 20, 2026 |access-date=2026-11-04 |website=Webster-Kirkwood Times |language=en}}</ref> He attended [[West Point Military Academy]], graduating in 1987.<ref name="ajc">{{Cite news |last=Martz |first=Ron |date=September 2, 2002 |title=Reservist trades golf carts for copters |url=https://www.newspapers.com/article/the-atlanta-constitution-reservist-trade/209639546/ |access-date=2026-11-04 |work=[[Atlanta Journal-Constitution]] |pages=A1, [https://www.newspapers.com/article/the-atlanta-constitution-reservist-trade/209639533/ A5] |via=[[Newspapers.com]]}}</ref> Wellman earned a [[Master of Public Policy]] from [[Harvard Kennedy School]].<ref>{{Cite web|url=https://www.prsa.org/article/fred-wellman|title=Fred Wellman|website=Public Relations Society of America}}</ref>
+
+== U.S. House of Representatives ==
+A member of the [[Democratic Party (United States)|Democratic Party]], he defeated [[Ann Wagner]] in the [[2026 United States House of Representatives elections in Missouri]] for [[Missouri's 2nd congressional district]].<ref>{{Cite web|url=https://www.kcur.org/politics-elections-and-government/2026-11-01/missouri-2nd-congressional-district-wagner-wellman|title=Another toss-up in Missouri? 2nd District race between Wagner and Wellman gets national buzz|first=Jason|last=Rosenbaum|date=November 1, 2026|website=KCUR - Kansas City news and NPR}}</ref>
+
+==References==
+{{reflist}}
+
+{{s-start}}
+{{s-par|us-hs}}
+{{s-bef|before=[[Ann Wagner]]}}
+{{s-ttl|title=Member of the [[List of United States representatives from Missouri|U.S. House of Representatives]]<br>from [[Missouri's 2nd congressional district]]|years=Taking office 2027<!-- –present -->}}
+{{s-non|reason=Elect}}<!-- {{s-inc}} -->
+{{s-end}}
+<!-- {{MO-FedRep}}
+{{Current U.S. representatives}}
+{{USCongRep-start |congresses=120th–present [[United States Congress]] |state=[[Missouri's congressional delegations|Missouri]]}}
+{{USCongRep/MO/120}}
+{{USCongRep-end}} -->
+
+{{DEFAULTSORT:Wellman, Fred}}
+[[Category:1960s births]]
+[[Category:21st-century Missouri politicians]]
+[[Category:21st-century United States representatives]]
+[[Category:Democratic Party United States representatives from Missouri]]
+[[Category:Harvard Kennedy School alumni]]
+[[Category:Living people]]
+[[Category:Missouri Democrats]]
+[[Category:United States Military Academy alumni]]

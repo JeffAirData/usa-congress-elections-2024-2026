@@ -1,0 +1,109 @@
+{{Short description|American politician}}
+{{Use mdy dates|date=August 2026}}
+{{Infobox politician
+| name               = Cait Conley
+| image              = Cait Conley.jpg
+| caption            = Conley in 2023
+| state              = [[New York (state)|New York]]
+| district           = {{ushr|NY|17|17th}}
+| term_start         = January 3, 2027
+| term_end           = 
+| succeeding         = [[Mike Lawler]]
+| predecessor        = [[Mike Lawler]]
+| successor          = 
+| birth_name         = Caitlin Conley
+| birth_date         = {{birth based on age as of date|39|2025|3|24}}
+| birth_place        = {{nowrap|[[Hudson Valley, New York]], U.S.}}
+| death_date         = 
+| death_place        =
+| party              = [[Democratic Party (United States)|Democratic]]
+| education          = {{ubl |[[United States Military Academy]] ([[Bachelor of Science|BS]]) |[[Harvard University]] ([[Master of Public Policy|MPP]]) |[[Massachusetts Institute of Technology]] ([[Master of Business Administration|MBA]])}}
+| branch             = [[United States Army]]
+| service_years      = 2007–2023
+| rank               = [[Major (United States)|Major]]<ref>{{cite web |date=June 8, 2026 |title=Center Alumni Tapped to Serve the Nation {{!}} The Belfer Center for Science and International Affairs |url=https://www.belfercenter.org/publication/center-alumni-tapped-serve-nation |access-date=August 28, 2026 |website=Belfer Center |language=en}}</ref>
+}}
+'''Caitlin Conley''' (born 1985/1986)<ref name=":4">{{Cite news |last=Oreskes |first=Benjamin |date=2025-03-24 |title=Democrat and Army Veteran Enters Key N.Y. House Race |url=https://www.nytimes.com/2025/03/24/nyregion/cait-conley-lawler.html |access-date=August 28, 2026 |work=The New York Times |language=en-US |issn=0362-4331}}</ref> is an American politician and national security official who served 18 years in the U.S. Army. She is the [[Democratic Party (United States)|Democratic]] nominee for the [[United States House of Representatives|U.S. House of Representatives]] for [[New York's 17th congressional district|New York's 17th district]] in the [[2026 United States House of Representatives elections in New York#District 17|2026 election]], challenging incumbent Republican [[Mike Lawler]].
+
+Conley served as an officer in the [[United States Army|U.S. Army]] for 16 years with overseas deployments to [[Iraq]] and [[Afghanistan]]. Conley later led the [[Cybersecurity and Infrastructure Security Agency]] (CISA)'s election security efforts during the [[2024 United States elections|2024 elections]] and was a director for counterterrorism on the [[United States National Security Council|National Security Council]].
+
+== Early life and education ==
+Conley is a native of the [[Hudson Valley]] region of [[New York (state)|New York]].<ref>{{Cite web |last=Mancini |first=Ryan |date=June 23, 2026 |title=Lawler to face combat veteran in key toss-up House race in New York |url=https://thehill.com/homenews/campaign/5934397-lawler-conley-new-york-house-primary/ |access-date=August 27, 2026 |website=The Hill}}</ref> Her father was a [[construction worker]] and her mother was a postal worker.<ref name=":5">{{Cite news |last=Walsh |first=Joan |date=2026-01-13 |title=Hell Cats vs. Hegseth |url=https://www.thenation.com/article/society/hellcats-hegseth-democrats-military-vets/ |access-date=2026-09-15 |language=en-US |issn=0027-8378}}</ref> Her grandfather and great-grandfather both worked in a [[Montrose, New York|Montrose]] brickyard.<ref>{{Cite web |title=Cait Conley |url=https://emilyslist.org/candidate/cait-conley/ |access-date=2026-11-04 |website=EMILYs List |language=en-US}}</ref> She is a graduate of the [[United States Military Academy]] at West Point.<ref name=":5" /> She later earned a [[Master of Public Policy]] from the [[Harvard Kennedy School]] and a [[Master of Business Administration]] from the [[Massachusetts Institute of Technology]].<ref name=":1">{{cite web |title=Cait Conley |url=https://ctc.westpoint.edu/scholars/cait-conley/ |access-date=July 24, 2026 |publisher=Combating Terrorism Center at West Point}}</ref><ref name=":2">{{cite news |last=Stanton |first=Andrew |date=June 24, 2026 |title=Cait Conley's chances of beating Mike Lawler to flip GOP-held seat in NY |url=https://www.newsweek.com/cait-conleys-chances-of-beating-mike-lawler-to-flip-gop-held-seat-in-ny-12114918 |access-date=July 24, 2026 |work=Newsweek}}</ref>
+
+== Military career ==
+After her graduation from West Point, Conley served as an officer in the U.S. Army for 16 years.<ref name=":2" /> She completed six overseas deployments, in [[Iraq War|Iraq]] and [[War in Afghanistan (2001–2021)|Afghanistan]], and was one of the first women to lead a [[Special operations|special ops]] team.<ref>{{Cite news |last=Ashford |first=Grace |date=June 24, 2026 |title=Cait Conley Wins Primary to Face Mike Lawler in N.Y. Swing District |url=https://www.nytimes.com/2026/06/23/nyregion/ny17-primary-cait-conley.html |access-date=August 28, 2026 |work=The New York Times |language=en-US |issn=0362-4331}}</ref> Early in her career, she was a [[military police]] platoon leader in the 4th Brigade, [[2nd Infantry Division (United States)|2nd Infantry Division]], based at [[Fort Lewis (Washington)|Fort Lewis]] in [[Washington (state)|Washington]].<ref name=":0">{{Cite news |last=Fontaine |first=Scott |date=2010-01-24 |title=Biden visits deployed troops |url=https://www.newspapers.com/article/the-olympian-biden-visits-deployed-troop/204733900/ |access-date=August 28, 2026 |work=The Olympian |pages=A3}}</ref> In January 2010, while Conley was deployed to Iraq with the platoon as a lieutenant, she was among the soldiers who met Vice President [[Joe Biden]] during his unannounced visit to [[Baghdad]].<ref name=":0" /> She later spent more than a decade in the special operations community, serving as a team leader and a troop commander for regional and global [[counterterrorism]] task forces.<ref>{{Cite web |title=Cait Conley |url=https://ctc.westpoint.edu/scholars/cait-conley/ |access-date=August 28, 2026 |website=Combating Terrorism Center at West Point |language=en-US}}</ref>
+
+From 2021 to 2023, Conley served as a Director for Counterterrorism on the [[United States National Security Council|National Security Council]].<ref name=":3" /><ref>{{Cite web |last=Capellini |first=Jeff |last2=Herrera |first2=Alexa |last3=Aiello |first3=Tony |date=June 24, 2026 |title=Cait Conley wins NY-17 Democratic primary, CBS News projects |url=https://www.cbsnews.com/newyork/news/17th-congressional-district-primary-election-results/ |access-date=August 28, 2026 |website=CBS News |language=en-US}}</ref> In 2023, the Russian [[Ministry of Foreign Affairs (Russia)|Ministry of Foreign Affairs]] added Conley to a list of 500 Americans barred from entering the country, one of several entry bans imposed in response to what it described as the [[Biden administration]]'s "anti-Russian sanctions".<ref>{{Cite web |date=May 19, 2023 |title=Foreign Ministry statement on new personal sanctions on US citizens |url=https://mid.ru/en/foreign_policy/news/1871495/ |access-date=August 27, 2026 |website=The Ministry of Foreign Affairs of the Russian Federation}}</ref><ref>{{Cite news |last=Hallam |first=Jonny |last2=John |first2=Tara |date=2023-05-19 |title=Russia bans '500 Americans' including CNN journalists |url=https://www.cnn.com/2023/05/19/europe/russia-bans-american-citizens-obama-intl |access-date=August 28, 2026 |work=CNN |language=en}}</ref> ''[[The New York Times]]'' attributed the ban to her counterterrorism work.<ref name=":4" />
+
+== National security career ==
+[[File:DHS Secretary Alejandro Mayorkas Gives Opening Remarks During CISA National Election Exercise in Arlington, Virginia on 22 August 2024 - 6.jpg|thumb|[[Cybersecurity and Infrastructure Security Agency]] (CISA) Senior Advisor, Cait Conley, introduces the Department of Homeland Security (DHS) Secretary, [[Alejandro Mayorkas]] (not shown)]]
+After leaving active duty in 2023, Conley joined the [[Cybersecurity and Infrastructure Security Agency]] (CISA) as a senior advisor to director [[Jen Easterly]].<ref name=":3" /> That year, she took over the agency's election security portfolio from [[Kim Wyman]], becoming CISA's lead official for coordinating election security with state and local officials ahead of the [[2024 United States elections|2024 election]].<ref>{{Cite web |last=Matishak |first=Martin |date=June 30, 2023 |title=CISA lines up new leader of election security efforts |url=https://therecord.media/cisa-election-security-kim-wyman-cait-conley |access-date=August 28, 2026 |website=The Record |language=en}}</ref> In the run-up to the election, she was a frequent public voice for the agency, describing the election cycle as facing "the most complex threat landscape we've seen for an election cycle" while describing U.S. election infrastructure as more secure than in any previous cycle.<ref>{{Cite web |last=Matishak |first=Martin |date=June 18, 2024 |title=November election will be 'more secure than any previous,' US cyber official says |url=https://therecord.media/november-elections-more-secure-than-ever |access-date=August 28, 2026 |website=The Record |language=en}}</ref> On the morning of the election, Conley reported no evidence that malicious activity had materially affected the security or integrity of the election process.<ref>{{Cite web |last=DiMolfetta |first=David |date=November 5, 2024 |title=CISA has not clocked any 'national-level significant incidents' impacting the election, official says |url=https://www.nextgov.com/cybersecurity/2024/11/cisa-has-not-clocked-any-national-level-significant-incidents-impacting-election-official-says/400822/ |access-date=August 27, 2026 |website=NextGov}}</ref> She left her position after the inauguration of [[Second presidency of Donald Trump|Donald Trump]] in 2025.<ref name=":6">{{Cite news |last=Ashford |first=Grace |last2=Oreskes |first2=Benjamin |date=2026-09-20 |title=G.O.P. Seizes on Democrat’s Ties to Defense Companies in N.Y. House Race |url=https://www.nytimes.com/2026/09/20/nyregion/cait-conley-lawler-ny.html |access-date=2026-10-06 |work=The New York Times |language=en-US |issn=0362-4331}}</ref> She worked as a consultant at anti-drone systems company Hidden Level and data company Primer AI for 19 months.<ref name=":6" />
+
+In 2023, Conley also joined the bipartisan [[Belfer Center for Science and International Affairs]] as the executive director of the Defending Digital Democracy Project, which worked to create strategies for election security.<ref name=":3">{{Cite web |last=Cassidy |first=Christina A. |date=2023-06-30 |title=Army combat veteran to take over key election security role working with state, local officials |url=https://apnews.com/article/us-election-security-interference-2024-cisa-cyber-threats-f3e60076990a637c6cec283e53eacfc7 |access-date=August 28, 2026 |website=The Associated Press |language=en}}</ref>
+
+== Political career ==
+
+=== 2026 congressional campaign ===
+{{main|2026 United States House of Representatives elections in New York#District 17}}
+On March 24, 2025, Conley announced her candidacy for [[New York's 17th congressional district]].<ref name=":4" /> The district is one of three Republican-held seats nationally that [[Kamala Harris]] carried in the [[2024 United States presidential election]], leading Democrats to target it as a pick-up district.<ref>{{Cite web |last=Campanile |first=Carl |date=July 30, 2026 |title=New York Rep. Mike Lawler's race now a 'toss-up' as Dems target battleground district |url=https://nypost.com/2026/07/30/us-news/new-york-rep-mike-lawlers-race-now-a-toss-up-as-dems-target-battleground-district/ |access-date=August 28, 2026 |website=New York Post |language=en-US}}</ref>
+
+Conley is a [[New Democrats (United States)|moderate Democrat]].<ref>{{cite web |last=Baratta |first=James |title=A Tale of Two Toss-Ups |url=https://prospect.org/2026/10/01/tale-of-two-toss-ups-democrats-rebecca-bennett-cait-conley/ |website=The American Prospect |date=October 1, 2026 |access-date=October 19, 2026 |archive-url=https://web.archive.org/web/20261001130209/https://prospect.org/2026/10/01/tale-of-two-toss-ups-democrats-rebecca-bennett-cait-conley/ |archive-date=October 1, 2026 |url-status=live}}</ref><ref name=Playbook2026WFP /><ref>{{cite news |title=The Fight for New York's 17th Congressional District |last=Thakker |first=Prem |date=May 30, 2025 |work=The Nation |publisher=The Nation Company LLC |url=https://www.thenation.com/article/politics/ny-17-congress-lawler-conley/ |url-status=live |archive-url=https://web.archive.org/web/20260425150034/https://www.thenation.com/article/politics/ny-17-congress-lawler-conley/ |archive-date=April 25, 2026}}</ref> Conley's campaign has emphasized homeland security and public safety, protecting [[Medicaid]] and [[Medicare (United States)|Medicare]], and codifying [[Abortion rights in the United States|abortion rights]].<ref name=Playbook2026WFP /><ref>{{Cite web |last=DiMolfetta |first=David |date=2025-03-24 |title=Former election security official announces run for Congress in New York |url=https://www.nextgov.com/people/2025/03/former-election-security-official-announces-run-congress-new-york/403980/ |access-date=August 28, 2026 |website=Nextgov |language=en}}</ref>
+
+In June 2026, Conley won the Democratic primary with 49.6% percent of the vote, defeating four other candidates.<ref name="The New York Times">{{Cite news |date=June 23, 2026 |title=New York 17th Congressional District Primary Election Results |url=https://www.nytimes.com/interactive/2026/us/elections/results-new-york-us-house-17-primary.html |access-date=August 28, 2026 |work=The New York Times |language=en-US |issn=0362-4331}}</ref> Her campaign was endorsed by [[Vote Vets]]<ref>{{Cite web |last=Facciola |first=Timmy |date=June 24, 2026 |title=Cait Conley wins NY-17 primary to take on Lawler |url=https://www.cityandstateny.com/politics/2026/06/cait-conley-wins-ny-17-primary-take-lawler/414372/ |access-date=August 28, 2026 |website=City & State NY |language=en}}</ref> and the [[New York Working Families Party]].<ref name=Playbook2026WFP>{{cite news |title=What El-Sayed's win means for AOC |last1=Fernandez |first1=Madison |last2=Beeferman |first2=Jason |last3=Sommerfeldt |first3=Chris |date=August 7, 2026 |publisher=Politico |url=https://www.politico.com/newsletters/new-york-playbook/2026/08/07/what-el-sayeds-win-means-for-aoc-01028489 |quote="The people of NY-17 deserve a leader who will actually fight for them, and Cait Conley is ready to step up and serve her community," NYWFP director Jasmine Gripper said in an announcement first shared with Playbook.}}</ref>
+
+In October 2026, during a debate with [[Mike Lawler]], both candidates were asked by a moderator from [[Nexstar Media Group|PIX11 News]] if there should be a federal definition for consent. This was asked in the context of the [[2024 Cornell University rape allegations|Cornell rape allegations]]. Conley accused Lawler of failing to call out Representative [[Max Miller (politician)|Max Miller]], an Ohio Republican, for the domestic violence allegations he is facing from Emily Moreno. Lawler responded to this accusation saying: "First of all, I did not blame Emily. I know both of them. It’s very tragic, and it should be dealt with in family court," and then accused Conley of taking "money from [[Eliot Spitzer]], [[Eliot Spitzer prostitution scandal|who trafficked young women across state lines for the purpose of sexually abusing them]], and you refuse to return those funds. You refuse to denounce him in any way." Refrencing the fundraiser Spitzer held for Conley in 2025, which she received immense amounts of criticism for. Conley replied stating: "I do not need you to [[Mansplaining|mansplain]] to me what domestic abuse and sexual assault against women is and the appropriate response. Don’t start. Sit over there. I do not need you to mansplain to me, Mike."<ref>{{Cite web |date=2026-10-15 |title=Cait Conley tells Rep. Mike Lawler not to ‘mansplain’ about domestic abuse |url=https://thehill.com/homenews/campaign/6149718-conley-lawler-debate-clash/ |access-date=2026-11-04 |website=The Hill |language=en-US}}</ref>
+
+In November 2026, Conley won the race for New York's 17th congressional district after Lawler conceded.<ref>{{Cite AV media |url=https://www.youtube.com/watch?is=biTDJUxHshDVw2MJ&v=V3qV79u5po0&feature=youtu.be |title=Lawler concedes to Conley in NY-17 race {{!}} 2026 election results |language=en |access-date=2026-11-04|date=November 4, 2026|last=CBS New York|type=Video|via=YouTube}}</ref>
+
+== Personal life ==
+
+Conley is an out lesbian<ref>{{Cite web |last=Gallagher |first=John |title=Cait Conley hands Republicans a defeat in a swing district in New York |url=https://www.lgbtqnation.com/2026/11/cait-conley-hands-republicans-a-defeat-in-a-swing-district-in-new-york/ |access-date=2026-11-04 |website=LGBTQ Nation |language=en}}</ref> and mother of one daughter.<ref>{{cite web |last1=Keller |first1=Jared |title=Human Rights Campaign PAC Endorses Pro-Equality Champion Cait Conley for U.S. House |url=https://www.hrc.org/press-releases/human-rights-campaign-pac-endorses-pro-equality-champion-cait-conley-for-u-s-house |website=Human Rights Campaign |access-date=October 23, 2026 |date=July 23, 2026}}</ref>
+
+== Election results ==
+{{Election box begin no change|title=New York's 17th congressional district, Primary Election 2026<ref name="The New York Times">{{Cite news |date=June 23, 2026 |title=New York 17th Congressional District Primary Election Results |url=https://www.nytimes.com/interactive/2026/us/elections/results-new-york-us-house-17-primary.html |access-date=August 28, 2026 |work=The New York Times |language=en-US |issn=0362-4331}}</ref>}}
+{{Election box winning candidate with party link no change|candidate=Cait Conley|party=Democratic Party (United States)|votes=23,263|percentage=49.6}}
+{{Election box candidate with party link no change|candidate=Beth Davidson|party=Democratic Party (United States)|votes=14,938|percentage=31.8}}
+{{Election box candidate with party link no change|candidate=Effie Guadalupe Phillips-Staley|party=Democratic Party (United States)|votes=7,196|percentage=15.3}}
+{{Election box candidate with party link no change|candidate=John Cappello|party=Democratic Party (United States)|votes=758|percentage=1.6}}
+{{Election box candidate with party link no change|candidate=Michael Sacks|party=Democratic Party (United States)|votes=756|percentage=1.6}}
+{{Election box total no change|votes=46,948|percentage=100.0}}
+{{Election box end}}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [https://caitconley.com/ Campaign website]
+
+{{s-start}}
+{{s-par|us-hs}}
+{{s-bef|before=[[Mike Lawler]]}}
+{{s-ttl|title=Member of the [[List of United States representatives from New York|U.S. House of Representatives]]<br>from [[New York's 17th congressional district]]|years=Taking office 2027<!-- –present -->}}
+{{s-non|reason=Elect}}<!-- {{s-inc}} -->
+{{s-end}}
+
+<!-- {{NY-FedRep}}
+{{Current U.S. representatives}}
+{{USCongRep-start |congresses=120th–present [[United States Congress]] |state=[[New York's congressional delegations|New York]]}}
+{{USCongRep/NY/120}}
+{{USCongRep-end}} -->
+
+{{DEFAULTSORT:Conley, Cait}}
+[[Category:21st-century American LGBTQ people]]
+[[Category:21st-century American women politicians]]
+[[Category:21st-century United States representatives]]
+[[Category:American lesbian politicians]]
+[[Category:Candidates in the 2026 United States House of Representatives elections]]
+[[Category:Democratic Party United States representatives from New York (state)]]
+[[Category:Female United States representatives]]
+[[Category:Harvard Kennedy School alumni]]
+[[Category:LGBTQ members of the United States Congress]]
+[[Category:LGBTQ people from New York (state)]]
+[[Category:Living people]]
+[[Category:Massachusetts Institute of Technology alumni]]
+[[Category:New York (state) Democrats]]
+[[Category:People from Ossining, New York]]
+[[Category:United States Army officers]]
+[[Category:United States Military Academy alumni]]
+[[Category:United States National Security Council staffers]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Lesbian military personnel]]

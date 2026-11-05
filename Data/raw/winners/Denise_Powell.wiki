@@ -1,0 +1,69 @@
+{{Short description|American politician}}
+{{Use mdy dates|date=March 2026}}
+{{Infobox officeholder
+| name               = Denise Powell
+| image              = Denise Powell talking at Campaign Rally (cropped).jpg
+| state              = [[Nebraska]]
+| district           = {{ushr|NE|2|2nd}}
+| term_start         = January 3, 2027
+| term_end           = 
+| succeeding         = [[Don Bacon]]
+| predecessor        = [[Don Bacon]]
+| successor          = 
+| birth_name         = Denise Blaya
+| birth_date         = {{birth date and age |1978|05|31}}
+| birth_place        = [[Florida]], U.S.
+| death_date         = 
+| death_place        = 
+| party              = [[Democratic Party (United States)|Democratic]]
+| education          = [[University of Miami]] ([[Bachelor of Science|BS]])
+| website            = {{url|https://deniseforcongress.org/|Campaign website}}
+}}
+'''Denise Blaya Powell''' (born 1978) is an American politician and political organizer from Nebraska.<ref>{{cite web |title=Voter Guide: 2026 Primary Election |website=Nebraska Examiner |date=May 12, 2026 |access-date=July 3, 2026 |url=https://nebraskaexaminer.com/voter-guides/contests/2026-primary-u-s-house-district-2/}}</ref> She was the [[Democratic Party (United States)|Democratic Party]] nominee for {{ushr|NE|2}} in the [[2026 United States House of Representatives elections in Nebraska#District 2|2026 election]].<ref>{{cite news |title=Denise Powell wins Democratic primary for Nebraska's 2nd congressional district |first=Jason |last=Breslow |website=[[Oregon Public Broadcasting]] |date=May 14, 2026 |access-date=July 3, 2026 |url=https://www.opb.org/article/2026/05/14/denise-powell-wins-democratic-primary-for-nebraska-s-2nd-congressional-district/}}</ref>
+She became the first Latina elected to Congress from Nebraska,<ref name="auto1">{{Cite web|url=https://metro.newschannelnebraska.com/story/370525381/denise-powell-makes-history-with-win-in-nebraskas-2nd-district|title=Denise Powell makes history with win in Nebraska’s 2nd District|website=Metro News Channel Nebraska}}</ref> and the first Democratic woman elected to the House from Nebraska.<ref name="auto">{{Cite web|url=https://bsky.app/profile/cawp-ru.bsky.social/post/3mzhnztl7xc2f|title=CAWP (@cawp-ru.bsky.social)|date=November 4, 2026}}</ref>
+
+== Political career ==
+After attending the [[2017 Women's March]] in [[Washington, D.C.]], Powell joined Leanne Prewitt in co-founding the [[political action committee]] Women Who Run Nebraska, aiming to train and advocate for women running for local office.<ref name=TheReader>{{cite news |title=Nebraska’s Progressive Women Fight for Their Place in Politics |first=Leah |last=Cates |website=The Reader |date=March 31, 2021 |access-date=July 3, 2026 |url=https://thereader.com/2021/03/31/nebraskas-progressive-women-fight-for-their-place-in-politics/}}</ref><ref>{{cite news |title=Key Nebraska House Primary Features an Establishment Progressive and an Outsider Moderate |first=Austin |last=Ahlman |website=[[The American Prospect]] |date=November 13, 2025 |access-date=July 3, 2026 |url=https://prospect.org/2025/11/13/key-nebraska-house-primary-features-establishment-progressive-and-outsider-moderate/}}</ref>
+[[File:Denise Powell talking at Campaign Rally.jpg|thumb|Denise Powell speaks to supporters at a campaign event in South Omaha.]]
+In May 2025, Powell launched her campaign for the [[United States House of Representatives]] representing {{ushr|NE|2}}.<ref>{{cite news |title=Democratic candidate announces run for Congress |first=Kassidy |last=Arena |website=Nebraska Public Media |date=May 1, 2025 |access-date=July 3, 2026 |url=https://nebraskapublicmedia.org/en/news/news-articles/democratic-candidate-announces-run-for-congress/}}</ref> Including much of [[Omaha, Nebraska|Omaha]] and the surrounding [[Omaha–Council Bluffs metropolitan area|metropolitan area]], the district has been held by [[Republican Party (United States)|Republican]] Congressman [[Don Bacon]] since 2017, although it was won by Democratic candidate [[Kamala Harris]] in the [[2024 United States presidential election in Nebraska|2024 presidential election]]. Bacon announced his retirement on June 2025, leaving the seat open and creating a greater opportunity for Democrats.<ref>{{Cite web |url=https://www.nytimes.com/2025/06/27/us/politics/don-bacon-retiring.html |title=Don Bacon, House Republican Who Often Criticized Trump, Won't Seek Re-election |date=June 27, 2025 |last=Karni |first=Annie |author-link=Annie Karni |work=[[The New York Times]] |access-date=June 27, 2025}}</ref>
+
+Powell faced a number of candidates in the May 2026 primary, including [[Nebraska Legislature|state senator]] [[John Cavanaugh (politician)|John Cavanaugh]] and [[Douglas County, Nebraska|Douglas County]] district court clerk [[Crystal Rhoades]].<ref>{{cite news |last1=Salinas |first1=Juan II |title=Crystal Rhoades jumps into crowded Nebraska 2nd District field |url=https://nebraskaexaminer.com/2025/07/21/douglas-county-district-court-clerk-jumps-into-nebraska-2nd-district-field/ |access-date=July 21, 2025 |work=[[Nebraska Examiner]] |date=July 21, 2025}}</ref> Prior to election day on May 12, ''[[Nebraska Public Media]]'' found that the Democratic primary campaign attracted more than $5.6 million in outside spending, largely in support of Powell and opposing Cavanugh.<ref>{{cite news |title=Outside spending reaches fever pitch in Nebraska congressional primary as candidates spar over ‘dark money’ |first=Molly |last=Ashford |website=Nebraska Public Media |date=May 11, 2026 |access-date=July 3, 2026 |url=https://nebraskapublicmedia.org/en/news/news-articles/outside-spending-reaches-fever-pitch-in-nebraska-congressional-primary-as-candidates-spar-over-dark-money/}}</ref> Powell was declared the winner of the primary the next day, May 13, narrowly defeating Cavanaugh with 38.8% of the vote. She defeated Republican Brinker Harding, a member of the [[Omaha City Council]], in the November general election.<ref>{{cite news |title=Political Organizer Wins Democratic Primary in Key Nebraska House Race |first=Kellen |last=Browning |work=The New York Times |issn=15538095 |date=May 13, 2026 |access-date=July 3, 2026 |url=https://www.nytimes.com/2026/05/13/us/politics/denise-powell-nebrasaka-house-don-bacon.html}}</ref> She became the first Latina elected to Congress from Nebraska,<ref name="auto1"/> and the first Democratic woman elected to the House from Nebraska.<ref name="auto"/>
+
+== Personal life ==
+Powell currently resides in [[Omaha, Nebraska]]. She has previously lived in [[Miami]], [[New York City]], and [[Los Angeles]].<ref name=TheReader />
+
+==References==
+{{reflist}}
+
+[[Category:Draft articles about American politicians]]
+
+==External links==
+* [https://deniseforcongress.org/ Denise Powell for Congress] official website
+
+{{s-start}}
+{{s-par|us-hs}}
+{{s-bef|before=[[Don Bacon]]}}
+{{s-ttl|title=Member of the [[List of United States representatives from Nebraska|U.S. House of Representatives]]<br>from [[Nebraska's 2nd congressional district]]|years=Taking office 2027<!-- –present -->}}
+{{s-non|reason=Elect}}<!-- {{s-inc}} -->
+{{s-end}}
+
+<!-- {{NE-FedRep}}
+{{Current U.S. representatives}}
+{{USCongRep-start |congresses=120th–present [[United States Congress]] |state=[[Nebraska's congressional delegations|Nebraska]]}}
+{{USCongRep/NE/120}}
+{{USCongRep-end}} -->
+
+{{DEFAULTSORT:Powell, Denise}}
+[[Category:1970s births]]
+[[Category:21st-century Nebraska politicians]]
+[[Category:21st-century United States representatives]]
+[[Category:American politicians of Cuban descent]]
+[[Category:21st-century American women politicians]]
+[[Category:Democratic Party United States representatives from Nebraska]]
+[[Category:Female United States representatives]]
+[[Category:Hispanic and Latino American members of the United States Congress]]
+[[Category:Hispanic and Latino American women in politics]]
+[[Category:Living people]]
+[[Category:Nebraska Democrats]]
+[[Category:University of Miami alumni]]
+[[Category:Women in Nebraska politics]]

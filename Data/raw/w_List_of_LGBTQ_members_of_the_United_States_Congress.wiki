@@ -1,0 +1,649 @@
+{{Short description|None}}
+{{Use American English|date=March 2021}}
+{{Use mdy dates|date=May 2020}}
+{{Dynamic list}}
+{{multiple image
+| perrow            = 4/4/3/3
+| total_width       = 455
+| image1            = Tammy Baldwin, official portrait, 113th Congress.jpg
+| image2            = Mark Pocan official photo.jpg
+| image3            = Mark Takano 118th Congress.jpeg
+| image4            = Angie Craig, official portrait (119th Congress).jpg
+| image5            = Sharice Davids.jpg
+| image6            = Chris Pappas, official portrait, 116th Congress.jpg
+| image7            = Ritchie Torres 117th U.S Congress.jpg
+| image8            = Rep. Becca Balint - 118th Congress.jpg
+| image9            = Rep. Robert Garcia - 118th Congress.jpg
+| image10           = Sorensen House Photo.jpg
+| image11           = Rep. Julie Johnson Official Portrait.jpg
+| image12           = Representative Sarah McBride Official Portrait.jpg
+| image13           = Randall Emily 119th Congress.jpg
+| image14           = Everton Blair, official portrait (119th Congress).jpg
+| footer            = One incumbent senator and 13 representatives are [[LGBT]]: Senator [[Tammy Baldwin]], [[Mark Pocan]], [[Mark Takano]], [[Angie Craig]], [[Sharice Davids]], [[Chris Pappas (American politician)|Chris Pappas]], [[Ritchie Torres]], [[Becca Balint]], [[Robert Garcia (California politician)|Robert Garcia]], [[Eric Sorensen (politician)|Eric Sorensen]], [[Julie Johnson (politician)|Julie Johnson]], [[Sarah McBride]], [[Emily Randall]], and [[Everton Blair]]
+}}
+
+{{As of|2026|9|post=,}} 38 members of the [[LGBTQ community]] are known to have held office in the [[United States Congress]]. In the House, 34 LGBTQ people held office; in the Senate, 4 held office. Two people, [[Tammy Baldwin]] and [[Kyrsten Sinema]], served in the House and were later elected into the Senate. The earliest known LGBTQ senator is [[Harris Wofford]], who began his term in 1991; Wofford announced his plans to marry a man over 20 years after serving in the Senate. In 2024, [[Sarah McBride]] was elected as the nation's first openly [[transgender]] member of Congress.
+
+{{As of|alt=There are|2026|09|12}} 14 openly LGBTQ members of the [[119th United States Congress|current (119th) Congress]], all of whom are Democrats.  One is a senator and the rest are House representatives. This is the record highest number of LGBTQ congresspeople openly serving at the same time in U.S. history.
+
+==Senate==
+{{legend2|#CCF|Came out after serving|border=1px solid #AAAAAA|text={{dagger}}}}
+{{legend2|#e0e0e0|Incumbent (currently serving)|border=1px solid #AAAAAA}}
+
+{|class="wikitable sortable" style="text-align:center"
+!scope="col" rowspan=2 colspan=2 |Name
+!scope="col" rowspan=2 colspan=2 |Party
+!scope="col" rowspan=2 |State
+!scope="col" colspan=3 |Term
+!scope="col" rowspan=2 |Notes
+|-
+!scope="col" |Start
+!scope="col" |End
+!scope="col" |Duration
+|- style="background:#CCF"
+|data-sort-value="Wofford, Harris" |[[File:Harriswofford.jpg|100px]]
+|{{sortname|Harris|Wofford}}{{dagger}}
+|style="background-color:{{party color|Democratic Party (United States)}}" |
+|[[Democratic Party (United States)|Democratic]]
+|[[Pennsylvania]]
+|{{dts|1991|5|8|abbr=on}}
+|{{dts|1995|1|3|abbr=on}}
+|{{ayd|1991|5|8|1995|1|3}}
+|width=300 |Announced his marriage to a man in 2016.<ref>{{cite web |last=Wofford |first=Harris |title=Finding love again, this time with a man |date=2016-04-23 |work=[[The New York Times]] |url=https://www.nytimes.com/2016/04/24/opinion/sunday/findinglove-again-this-time-with-a-man.html |access-date=2016-05-07 |url-access=subscription |quote=Too often, our society seeks to label people by pinning them on the wall – straight, gay or in between. I don't categorize myself based on the gender of those I love. I had a half-century of marriage with a wonderful woman, and now am lucky for a second time to have found happiness.}}</ref><ref name=WorldAtlas>{{cite web |last=Illsley |first=C. L. |title=Openly LGBT Members Of Congress |date=2019-05-31 |website=WorldAtlas |url=https://www.worldatlas.com/articles/openly-lgbt-members-of-u-s-congress-past-and-present.html |access-date=2021-03-06}}</ref>
+|- style="background:#e0e0e0"
+|data-sort-value="Baldwin, Tammy" |[[File:Tammy Baldwin, official portrait, 113th Congress.jpg|100px]]
+|{{sortname|Tammy|Baldwin}}
+|style="background-color:{{party color|Democratic Party (United States)}}" |
+|[[Democratic Party (United States)|Democratic]]
+|[[Wisconsin]]
+|{{dts|2013|1|3|abbr=on}}
+|Incumbent
+|{{ayd|2013|1|3}}
+|As an openly lesbian woman, Baldwin is the first openly LGBTQ senator.<ref name="117th Congress">{{cite news |last1=Flores |first1=Andrew |last2=Gossett |first2=Charles |last3=Magni |first3=Gabriele |last4=Reynolds |first4=Andrew |title=11 openly LGBTQ lawmakers will take their seats in the next Congress. That's a record in both numbers and diversity |date=2020-11-30 |newspaper=[[The Washington Post]] |url=https://www.washingtonpost.com/politics/2020/11/30/11-lgbtq-legislators-will-take-their-seats-next-congress-largest-most-diverse-group-ever/ |access-date=2021-03-06 |url-access=subscription}}</ref><ref name="Gay1">{{cite web |last=O'Brien |first=Brendan |title=Wisconsin's Baldwin becomes first openly gay senator |date=2012-10-19 |work=[[Chicago Tribune]] |url=https://www.chicagotribune.com/news/ct-xpm-2012-11-07-sns-rt-us-usa-campaign-wisconsin-senatebre8a60by-20121106-story.html |access-date=2021-03-06}}</ref><ref name="DCInno">{{cite web |last=Olugbemiga |first=Ayobami |title=Capitol Hill: The 7 Openly Gay and Lesbian Members of Congress |date=2014-02-04 |work=DC Inno |publisher=Business Journals |url=https://www.bizjournals.com/washington/inno/stories/news/2014/02/04/capitol-hill-the-7-openly-gay-and-lesbian-members.html |access-date=2021-03-07}}</ref>
+|-
+|rowspan=2 data-sort-value="Sinema, Krysten" |[[File:Kyrsten Sinema in 2020 (cropped).jpg|100px]]
+|rowspan=2 |{{sortname|Kyrsten|Sinema}}
+|style="background-color:{{party color|Democratic Party (United States)}}" |
+|[[Democratic Party (United States)|Democratic]]<br>{{small|(2019–2022)}}
+|rowspan=2 |[[Arizona]]
+|rowspan=2 |{{dts|2019|1|3|abbr=on}}
+|rowspan=2 |{{dts|2025|1|3|abbr=on}}
+|rowspan=2 |{{ayd|2019|1|3|2025|1|3}}
+|rowspan=2 |Sinema was the first openly bisexual senator.<ref name="117th Congress"/><ref>{{cite web |last=Vagianos |first=Alanna |title=Kyrsten Sinema Makes History As First Openly Bisexual Person Sworn In To Senate |date=2019-01-03 |work=[[Huffington Post]] |url=https://www.huffingtonpost.co.uk/entry/kyrsten-sinema-first-openly-bisexual-person-senate_us_5c2e5094e4b08aaf7a97504f |access-date=2019-01-03}}</ref>
+|-
+|style="background-color:{{party color|Independent}}" |
+|[[Independent politician|Independent]]<br>{{small|(2022–2025)}}
+|-
+|data-sort-value="Butler, Laphonza" |[[File:Laphonza Butler Senate photo, 2023 (cropped).jpg |100px]]
+|{{sortname|Laphonza|Butler}}
+|style="background-color:{{party color|Democratic Party (United States)}}" |
+|[[Democratic Party (United States)|Democratic]]
+|[[California]]
+|{{dts|2023|10|3|abbr=on}}
+|{{dts|2024|12|8|abbr=on}}
+|{{ayd|2023|10|3|2024|12|8}}
+|Butler is openly lesbian and was the first openly [[African-American LGBTQ community|LGBTQ African-American]] senator.<ref>{{cite news |last1=Reston |first1=Maeve |last2=Pager |first2=Tyler |date=October 1, 2023 |title=Newsom taps Emily's List leader to fill Feinstein's Senate seat |newspaper=[[The Washington Post]] |url=https://www.washingtonpost.com/politics/2023/10/01/dianne-feinstein-replacement-senate/ |access-date=October 2, 2023 |url-access=subscription}}</ref><ref>{{cite web |last=Hubler |first=Shawn |title=Newsom Names Emily's List President as Feinstein Successor |work=[[The New York Times]] |date=2023-10-01 |url=https://www.nytimes.com/2023/10/01/us/newsom-senate-feinstein-laphonza-butler.html |access-date=2023-10-02 |url-access=subscription}}</ref>
+|}
+
+==House of Representatives==
+{{legend2|#CCF|Came out after serving|border=1px solid #AAAAAA|text={{dagger}}}}
+{{legend2|#b4ddb4|Posthumously identified as LGBTQ|border=1px solid #AAAAAA|text={{double-dagger}}}}
+{{legend2|#e0e0e0|Incumbent (currently serving)|border=1px solid #AAAAAA}}
+
+{|class="wikitable sortable" style="text-align:center"
+!scope="col" rowspan=2 colspan=2 |Name
+!scope="col" rowspan=2 colspan=2 |Party
+!scope="col" rowspan=2 |State
+!scope="col" colspan=3 |Term
+!scope="col" rowspan=2 |Notes
+|-
+!scope="col" |Start
+!scope="col" |End
+!scope="col" |Duration
+|- style="background:#b4ddb4"
+|data-sort-value="McKinney, Stewart" |[[File:Stewart McKinney.jpg|100px]]
+|nowrap|{{sortname|Stewart|McKinney|dab=politician}}{{double-dagger}}
+|style="background-color:{{party color|Republican Party (United States)}}" |
+|[[Republican Party (United States)|Republican]]
+|[[Connecticut]]
+|{{dts|1971|1|3|abbr=on}}
+|{{dts|1987|5|7|abbr=on}}
+|{{ayd|1971|1|3|1987|5|7}}
+|After dying in office of [[AIDS]]-related illness, McKinney was outed as bisexual in his obituary.<ref name=WorldAtlas/><ref>{{cite web |title=AIDS Makes Another Chilling Advance, Claiming the Life of a Congressman |date=1987-05-25 |work=[[People (magazine)|People]] |url=http://www.people.com/people/archive/article/0,,20096357,00.html |access-date=2014-08-31}}</ref><ref>{{cite web |last=Houston |first=Paul |title=Connecticut's McKinney, GOP Liberal, Dies of AIDS |date=1987-05-08 |work=[[Los Angeles Times]] |url=https://www.latimes.com/archives/la-xpm-1987-05-08-mn-2826-story.html |access-date=2014-08-31}}</ref><ref>{{cite web |last=Kimmey |first=Samantha |title=Rep. Barney Frank Comments on Scalia, Prostitution, Marijuana and More |date=2012-12-20 |work=[[The Raw Story]] |url=https://www.rawstory.com/2012/12/rep-barney-frank-comments-on-scalia-prostitution-marijuana-and-more/ |access-date=2014-08-31 |archive-date=September 3, 2014 |archive-url=https://web.archive.org/web/20140903130916/http://www.rawstory.com/rs/2012/12/20/rep-barney-frank-comments-on-scalia-prostitution-marijuana-and-more/ |url-status=live}}</ref><ref>{{cite web |title=Congressman Killed by AIDS Led Secret Life, Gay Man Claims |date=1989-08-23 |work=[[Bangor Daily News]] |agency=[[Associated Press]] |url=https://news.google.com/newspapers?nid=2457&dat=19890823&id=U69JAAAAIBAJ&pg=1266,2387375 |access-date=2014-08-31}}</ref><ref>{{cite web |last=May |first=Clifford D. |title=Friends Say McKinney Had Homosexual Sex |date=1987-05-09 |work=[[The New York Times]] |url=https://www.nytimes.com/1987/05/09/nyregion/friends-say-mckinney-had-homosexual-sex.html |access-date=2014-08-31 |url-access=subscription}}</ref>
+|- style="background:#b4ddb4"
+|data-sort-value="Jordan, Barbara" |[[File:Rep. Barbara Jordan - Restoration.jpg|100px]]
+|{{sortname|Barbara|Jordan}}{{double-dagger}}
+|style="background-color:{{party color|Democratic Party (United States)}}" |
+|[[Democratic Party (United States)|Democratic]]
+|[[Texas]]
+|{{dts|1973|1|3|abbr=on}}
+|{{dts|1979|1|3|abbr=on}}
+|{{ayd|1973|1|3|1979|1|3}}
+|Jordan's domestic partnership with Nancy Earl was revealed in her obituary in 1996, making her the first LGBTQ woman in Congress (per the [[U.S. National Archives]]).<ref name=archives>{{cite web |url=https://prologue.blogs.archives.gov/2021/06/10/lgbtq-history-month-barbara-jordan/ |title=LGBTQ+ History Month: Barbara Jordan |last=Bartgis |first=Rachel |editor-last=Kratz |editor-first=Jessie |work=Pieces of History |publisher=[[U.S. National Archives]] |date=June 10, 2021 |archive-url=https://web.archive.org/web/20210701225145/https://prologue.blogs.archives.gov/2021/06/10/lgbtq-history-month-barbara-jordan/ |archive-date=July 1, 2021 |url-status=live}}</ref><ref>{{cite web |last=Henderson |first=Kali |title=Barbara Jordan {{!}} LGBT African Americans (2014) by Kali Henderson and Dionn McDonald |website=OutHistory.org |url=http://outhistory.org/exhibits/show/aa-history-month-bios/barbara-jordan |access-date=2019-04-27}}</ref>
+|-
+|data-sort-value="Studds, Gerry" |[[File:S001040.jpg|100px]]
+|{{sortname|Gerry|Studds}}
+|style="background-color:{{party color|Democratic Party (United States)}}" |
+|[[Democratic Party (United States)|Democratic]]
+|[[Massachusetts]]
+|{{dts|1973|1|3|abbr=on}}
+|{{dts|1997|1|3|abbr=on}}
+|{{ayd|1973|1|3|1997|1|3}}
+|Studds came out as gay as a result of his implication in the [[1983 congressional page sex scandal]].<ref name="time">{{cite magazine |title=Housecleaning |date=July 25, 1983 |magazine=[[Time (magazine)|Time]] |url=http://www.time.com/time/magazine/article/0,9171,953990,00.html |archive-url=https://web.archive.org/web/20061103153414/http://www.time.com/time/magazine/article/0,9171,953990,00.html |url-status=dead |archive-date=November 3, 2006}}</ref> He became the first openly LGBTQ person to win election to Congress with his [[1984 United States House of Representatives elections|reelection in 1984]].<ref name=WorldAtlas/>
+|-
+|data-sort-value="Bauman, Robert" |[[File:Robert Bauman US Congress photo portrait.jpg|100px]]
+|{{sortname|Robert|Bauman}}
+|style="background-color:{{party color|Republican Party (United States)}}" |
+|[[Republican Party (United States)|Republican]]
+|[[Maryland]]
+|{{dts|1973|8|21|abbr=on}}
+|{{dts|1981|1|3|abbr=on}}
+|{{ayd|1973|8|21|1981|1|3}}
+|Bauman was outed as gay in October 1980 while in office, making him the first openly LGBTQ member of Congress.<ref>{{cite book |last=Bauman |first=Robert |title=The Gentleman from Maryland: The Conscience of a Gay Conservative |date=August 1986 |publisher=[[Arbor House]] |isbn=978-0877956860 |pages=1–3 |url=https://archive.org/details/gentlemanfrommar00baum |url-access=registration}}</ref><ref>{{cite web |last=Kelly |first=Jacques |title=Whatever happened to... Robert E. Bauman? |date=2008-04-05 |work=[[Baltimore Sun]] |url=https://www.baltimoresun.com/2008/04/05/whatever-happened-to-robert-e-bauman/ |access-date=2021-02-21}}</ref><ref name=WorldAtlas/>
+|- style="background:#CCF"
+|data-sort-value="Kostmayer, Pete" rowspan=2 |[[File:Peter Kostmeyer.png|100px]]
+|rowspan=2 |{{sortname|Pete|Kostmayer|Peter H. Kostmayer}}{{dagger}}
+|rowspan=2 style="background-color:{{party color|Democratic Party (United States)}}" |
+|rowspan=2 |[[Democratic Party (United States)|Democratic]]
+|rowspan=2 |[[Pennsylvania]]
+|{{dts|1977|1|3|abbr=on}}
+|{{dts|1981|1|3|abbr=on}}
+|rowspan=2 | {{ayd|1979|1|3|1993|1|3}}<!-- The template uses "wrong" values in this way to correctly calculate 14 years, 0 days, in a way that ensures proper table sorting -->
+|rowspan=2 |Announced in 2025 his 2021 marriage to a man.<ref>{{cite web |title=For a City Escape, They Skipped the Hudson Valley and Settled on Connecticut |first=Addie |last=Morfoot |date=June 5, 2025 |work=[[The New York Times]] |url=https://www.nytimes.com/interactive/2025/06/05/realestate/connecticut-litchfield-county-home-sales.html |access-date=September 6, 2025 |quote=Shortly after they met online in 2004, Mr. Kostmayer, 78, and Mr. Hirn moved into Mr. Kostmayer’s West Village apartment, which he’d bought the previous year after serving seven terms as a United States Congressman from Pennsylvania. In 2021, when they got married, the couple moved to Brooklyn, and then to a three-bedroom condo in the Two Bridges neighborhood on the East Side of Manhattan.}}</ref>
+|- style="background:#CCF"
+|{{dts|1983|1|3|abbr=on}}
+|{{dts|1993|1|3|abbr=on}}
+|-
+|data-sort-value="Hinson, Jon" |[[File:Jon Hinson.jpg|100px]]
+|{{sortname|Jon|Hinson}}
+|style="background-color:{{party color|Republican Party (United States)}}" |
+|[[Republican Party (United States)|Republican]]
+|[[Mississippi]]
+|{{dts|1979|1|3|abbr=on}}
+|{{dts|1981|4|13|abbr=on}}
+|{{ayd|1979|1|3|1981|4|13}}
+|Hinson was outed as gay after being arrested on a charge of oral sodomy on February 4, 1981.<ref>{{cite web |title=Jon Hinson, 53, Congressman and Then Gay-Rights Advocate |work=[[New York Times]] |date=July 26, 1995 |page=19 |url=https://www.nytimes.com/1995/07/26/obituaries/jon-hinson-53-congressman-and-then-gay-rights-advocate.html |access-date=2021-03-06}}</ref><ref name=WorldAtlas/>
+|-
+|data-sort-value="Frank, Barney" |[[File:Barneyfrank.jpg|100px]]
+|{{sortname|Barney|Frank}}
+|style="background-color:{{party color|Democratic Party (United States)}}" |
+|[[Democratic Party (United States)|Democratic]]
+|[[Massachusetts]]
+|{{dts|1981|1|3|abbr=on}}
+|{{dts|2013|1|3|abbr=on}}
+|{{ayd|1981|1|3|2013|1|3}}
+|Frank came out as gay in 1987 and in 2012 became the first member of Congress in a same-sex marriage.<ref name=WorldAtlas/><ref>{{cite news |last=O'Keefe |first=Ed |title=When Barney Frank announced he was 'coming out of the room' (er... the closet) |date=2012-12-03 |newspaper=[[The Washington Post]] |url=https://www.washingtonpost.com/blogs/2chambers/wp/2012/12/03/when-barney-frank-announced-he-was-coming-out-of-the-room-er-the-closet/ |url-access=subscription}}</ref><ref>{{cite web |title=DC's Most Influential Gay Couple Calls It Quits |date=1998-07-03 |work=[[Tuscaloosa News]] |url=https://news.google.com/newspapers?id=WD0dAAAAIBAJ&pg=6736,534553&dq=washington's-most-prominent-and-influential-gay-couple-rep-barney-frank |access-date=2010-01-19}}</ref>
+|-
+|data-sort-value="Gunderson, Steve" |[[File:SteveGunderson.jpg|100px]]
+|{{sortname|Steve|Gunderson}}
+|style="background-color:{{party color|Republican Party (United States)}}" |
+|[[Republican Party (United States)|Republican]]
+|[[Wisconsin]]
+|{{dts|1981|1|3|abbr=on}}
+|{{dts|1997|1|3|abbr=on}}
+|{{ayd|1981|1|3|1997|1|3}}
+|Gunderson was outed as gay on the floor of the House in 1994, Gunderson was the first openly gay Republican to be reelected after being outed.<ref>{{cite web |last=Bergling |first=Tim |title=Closeted in the capital: they're powerful, Republican, and gay. Will the marriage battle finally get them to come out to their bosses? |date=2004-05-11 |work=[[The Advocate (magazine)|The Advocate]] |url=http://www.thefreelibrary.com/Closeted+in+the+capital%3a+they%27re+powerful%2c+Republican%2c+and+gay.+Will...-a0116288151 |access-date=2009-08-27}}</ref><ref>{{cite web |last=Bierbauer |first=Charles |title=Gunderson Leaves 'Increasingly Polarized' House |date=1997-11-28 |publisher=[[CNN]] |url=http://www.cnn.com/ALLPOLITICS/1997/9611/28/ngunderson.bierbauer/index.shtml |access-date=2016-05-07 |url-status=dead |archive-date=2016-06-10 |archive-url=https://web.archive.org/web/20160610004509/http://www.cnn.com/ALLPOLITICS/1997/9611/28/ngunderson.bierbauer/index.shtml}}</ref><ref name=WorldAtlas/>
+|-
+|data-sort-value="Kolbe, Jim" |[[File:Jim Kolbe.jpg|100px]]
+|{{sortname|Jim|Kolbe}}
+|style="background-color:{{party color|Republican Party (United States)}}" |
+|[[Republican Party (United States)|Republican]]
+|[[Arizona]]
+|{{dts|1985|1|3|abbr=on}}
+|{{dts|2007|1|3|abbr=on}}
+|{{ayd|1985|1|3|2007|1|3}}
+|Kolbe came out as gay while in office after voting for the [[Defense of Marriage Act]] in 1996. He was the first openly gay person to address the [[Republican National Convention]].<ref name="dunlap">{{cite web |last=Dunlap |first=David W. |title=A Republican Congressman Discloses He Is a Homosexual |date=1996-08-03 |work=[[New York Times]] |url=https://query.nytimes.com/gst/fullpage.html?res=9E05E3DD103FF930A3575BC0A960958260 |access-date=2007-11-25}}</ref><ref>{{cite web |last=Campbell |first=Julia |title=Openly Gay Congressman Addresses Convention |date=2000-08-01 |publisher=[[ABC News (United States)|ABC News]] |url=https://abcnews.go.com/Politics/story?id=121719}}</ref><ref>{{cite book |last=Eaklor |first=Vicki Lynn |title=Queer America: a GLBT history of the 20th century |year=2008 |publisher=[[ABC-CLIO]] |isbn=978-0-313-33749-9 |page=213}}</ref><ref name=WorldAtlas/>
+|- style="background:#CCF"
+|data-sort-value="Huffington, Michael" |[[File:Michael Huffington Dod.jpg|100px]]
+|{{sortname|Michael|Huffington}}{{dagger}}
+|style="background-color:{{party color|Republican Party (United States)}}" |
+|[[Republican Party (United States)|Republican]]
+|[[California]]
+|{{dts|1993|1|3|abbr=on}}
+|{{dts|1995|1|3|abbr=on}}
+|{{ayd|1993|1|3|1995|1|3}}
+|Huffington came out as bisexual in 1998<ref name=WorldAtlas/><ref>{{cite web|last=King|first=Ryan James|date=May 22, 2006|title=Michael Huffington: The long-awaited Advocate interview|work=[[The Advocate (magazine)|The Advocate]]|url=http://www.advocate.com/politics/commentary/2006/05/22/michael-huffington-long-awaited-advocate-interview|access-date=January 11, 2013}}</ref>
+|- style="background:#CCF"
+|data-sort-value="Foley, Mark" |[[File:Mark Foley, official 109th Congress photo.jpg|100px]]
+|{{sortname|Mark|Foley}}{{dagger}}
+|style="background-color:{{party color|Republican Party (United States)}}" |
+|[[Republican Party (United States)|Republican]]
+|[[Florida]]
+|{{dts|1995|1|3|abbr=on}}
+|{{dts|2006|9|29|abbr=on}}
+|{{ayd|1995|1|3|2006|9|29}}
+|Foley came out as gay after being implicated in a [[Mark Foley congressional page incident|2006 congressional page scandal]].<ref>{{cite web |title=Foley lawyer makes statement |date=2006-10-02 |publisher=[[CNN]] |url=http://www.cnn.com/2006/POLITICS/10/03/foley.scandal/index.html |access-date=2006-10-04}}</ref>
+|-
+|data-sort-value="Baldwin, Tammy" |[[File:Tammy Baldwin, official photo portrait, color.jpg|100px]]
+|{{sortname|Tammy|Baldwin}}
+|style="background-color:{{party color|Democratic Party (United States)}}" |
+|[[Democratic Party (United States)|Democratic]]
+|[[Wisconsin]]
+|{{dts|1999|1|3|abbr=on}}
+|{{dts|2013|1|3|abbr=on}}
+|{{ayd|1999|1|3|2013|1|3}}
+|Baldwin is openly lesbian, and was the first openly LGBTQ non-incumbent elected to Congress.<ref name="Gay1" /><ref name=WorldAtlas/>
+|-
+|data-sort-value="Michaud, Mike" |[[File:Mike Michaud Official.jpg|100px]]
+|{{sortname|Mike|Michaud}}
+|style="background-color:{{party color|Democratic Party (United States)}}" |
+|[[Democratic Party (United States)|Democratic]]
+|[[Maine]]
+|{{dts|2003|1|3|abbr=on}}
+|{{dts|2015|1|3|abbr=on}}
+|{{ayd|2003|1|3|2015|1|3}}
+|Michaud came out as gay in 2013.<ref>{{cite web |last=Cousins |first=Christopher |title=Michaud: 'I haven't changed. I'm Mike.' |date=2013-11-05 |work=[[Bangor Daily News]] |url=http://bangordailynews.com/2013/11/04/politics/michaud-i-havent-changed-im-mike/ |access-date=2021-03-06}}</ref><ref>{{cite web |last=Michaud |first=Mike |title=Rep. Michaud's op-ed column: Yes, I'm gay. Now let's get our state back on track |date=2013-11-04 |work=[[Portland Press Herald]] |url=https://www.pressherald.com/2013/11/04/mike_michaud__yes__i_m_gay__now_let_s_get_our_state_back_on_track_/# |access-date=2021-03-06}}</ref><ref name=WorldAtlas/>
+|-
+|data-sort-value="Polis, Jared" |[[File:Jared Polis Official 2012.jpg|100px]]
+|{{sortname|Jared|Polis}}
+|style="background-color:{{party color|Democratic Party (United States)}}" |
+|[[Democratic Party (United States)|Democratic]]
+|[[Colorado]]
+|{{dts|2009|1|3|abbr=on}}
+|{{dts|2019|1|3|abbr=on}}
+|{{ayd|2009|1|3|2019|1|3}}
+|In 2011, Polis became the first same-sex parent in Congress.<ref name=WorldAtlas/><ref name="ABC News">{{cite web |last=Parkinson |first=John |title=House Democrat Jared Polis Becomes First Openly Gay Parent in Congress |date=2011-09-30 |publisher=[[ABC News (United States)|ABC News]] |url=https://abcnews.go.com/blogs/politics/2011/09/house-democrat-jared-polis-becomes-first-openly-gay-parent-in-congress/ |access-date=2011-09-30}}</ref><ref name="DCInno"/><ref>{{cite web |last1=Anderson |first1=James |last2=Slevin |first2=Colleen |title=Colorado's Jared Polis Makes History as Gay Governor |website=[[Associated Press]] |date=2019-01-09 |url=https://apnews.com/0ecc5e72becf41ddbf0a69bbbf2c0ecf |access-date=2020-09-16}}</ref>
+|- style="background:#CCF"
+|data-sort-value="Schock, Aaron" |[[File:Aaron Schock Official.jpg|100px]]
+|{{sortname|Aaron|Schock}}{{dagger}}
+|style="background-color:{{party color|Republican Party (United States)}}" |
+|[[Republican Party (United States)|Republican]]
+|[[Illinois]]
+|{{dts|2009|1|3|abbr=on}}
+|{{dts|2015|3|31|abbr=on}}
+|{{ayd|2009|1|3|2015|3|31}}
+|Schock came out as gay in 2020.<ref>{{cite web |last=Coleman |first=Justin |title=Former GOP Rep. Aaron Schock comes out as gay |date=2020-03-05 |work=[[The Hill (newspaper)|The Hill]] |url=https://thehill.com/blogs/blog-briefing-room/news/486135-former-gop-rep-aaron-schock-comes-out-as-gay |access-date=2020-03-05}}</ref>
+|-
+|data-sort-value="Cicilline, David" |[[File:David Cicilline, Official Portrait, 112th Congress 2.jpg|100px]]
+|{{sortname|David|Cicilline}}
+|style="background-color:{{party color|Democratic Party (United States)}}" |
+|[[Democratic Party (United States)|Democratic]]
+|[[Rhode Island]]
+|{{dts|2011|1|3|abbr=on}}
+|{{dts|2023|5|31|abbr=on}}
+|{{ayd|2011|1|3|2023|5|31}}
+|Cicilline is openly gay.<ref name="117th Congress"/><ref name=WorldAtlas/><ref name="DCInno"/>
+|-
+|data-sort-value="Maloney, Sean Patrick" |[[File:Congressman Maloney official.jpg|100px]]
+|{{sortname|Sean Patrick|Maloney}}
+|style="background-color:{{party color|Democratic Party (United States)}}" |
+|[[Democratic Party (United States)|Democratic]]
+|[[New York (state)|New York]]
+|{{dts|2013|1|3|abbr=on}}
+|{{dts|2023|1|3|abbr=on}}
+|{{ayd|2013|1|3|2023|1|3}}
+|Maloney is openly gay.<ref name="117th Congress"/><ref name=WorldAtlas/><ref name="DCInno"/> In 2014, he married his longtime partner.<ref>{{cite web |title=New York's First Openly Gay Congressman Marries Longtime Partner |url=http://www.newyorkcitynews.net/index.php/sid/223187505/scat/5a8b8c26522de7fd/ht/New-Yorks-first-openly-gay-Congressman-marries-longtime-partner |access-date=2014-06-23 |publisher=NewYorkCityNews.net |archive-date=2014-10-20 |archive-url=https://web.archive.org/web/20141020065422/http://www.newyorkcitynews.net/index.php/sid/223187505/scat/5a8b8c26522de7fd/ht/New-Yorks-first-openly-gay-Congressman-marries-longtime-partner |url-status=dead}}</ref>
+|- style="background:#e0e0e0"
+|data-sort-value="Pocan, Mark" |[[File:Mark Pocan official photo.jpg|100px]]
+|{{sortname|Mark|Pocan}}
+|style="background-color:{{party color|Democratic Party (United States)}}" |
+|[[Democratic Party (United States)|Democratic]]
+|[[Wisconsin]]
+|{{dts|2013|1|3|abbr=on}}
+|Incumbent
+|{{ayd|2013|1|3}}
+|Pocan is openly gay and the first LGBTQ member of Congress to replace another LGBTQ member of Congress ([[Tammy Baldwin]]) and the first non-incumbent in a same-sex marriage elected to Congress.<ref name="117th Congress"/><ref name=WorldAtlas/><ref name="DCInno"/><ref>{{cite web |last=Craver |first=Jack |title=Mark Pocan's husband finally recognized as congressional 'spouse' |date=2013-05-11 |work=[[Capital Times]] |url=https://madison.com/news/local/writers/jack_craver/mark-pocans-husband-finally-recognized-as-congressional-spouse/article_5a974092-659e-519e-af9e-9127dea0395b.html |access-date=2020-09-16}}</ref>
+|-
+|data-sort-value="Sinema, Kyrsten" |[[File:Rep Kyrsten Sinema, Official Portrait (cropped).jpg|100px]]
+|{{sortname|Kyrsten|Sinema}}
+|style="background-color:{{party color|Democratic Party (United States)}}" |
+|[[Democratic Party (United States)|Democratic]]
+|[[Arizona]]
+|{{dts|2013|1|3|abbr=on}}
+|{{dts|2019|1|3|abbr=on}}
+|{{ayd|2013|1|3|2019|1|3}}
+|Sinema was the first openly bisexual member of Congress.<ref name=WorldAtlas/><ref name="DCInno"/><ref>{{cite web |last=Fitzsimons |first=Tom |title=Kyrsten Sinema makes history as first bisexual member of U.S. Senate |date=2018-11-03 |website=NBC News |url=https://www.nbcnews.com/feature/nbc-out/kyrsten-sinema-makes-history-first-bisexual-member-u-s-senate-n935816 |access-date=2020-09-16}}</ref>
+|- style="background:#e0e0e0"
+|data-sort-value="Takano, Mark" |[[File: Mark Takano 118th Congress.jpeg|100px]]
+|{{sortname|Mark|Takano}}
+|style="background-color:{{party color|Democratic Party (United States)}}" |
+|[[Democratic Party (United States)|Democratic]]
+|[[California]]
+|{{dts|2013|1|3|abbr=on}}
+|Incumbent
+|{{ayd|2013|1|3}}
+|Takano is openly gay and the first openly LGBTQ [[person of color]] (specifically [[Asian Americans|Asian American]]) elected to Congress.<ref name="117th Congress"/><ref name="DCInno"/>
+|- style="background:#e0e0e0"
+|data-sort-value="Craig, Angie" |[[File: Angie Craig, official portrait (119th Congress).jpg|100px]]
+|{{sortname|Angie|Craig}}
+|style="background-color:{{party color|Democratic Party (United States)}}" |
+|[[Democratic Party (United States)|Democratic]]
+|[[Minnesota]]
+|{{dts|2019|1|3|abbr=on}}
+|Incumbent
+|{{ayd|2019|1|3}}
+|Craig is openly lesbian and the first non-incumbent [[Same-sex parenting|LGBTQ parent]] elected to Congress.<ref name="117th Congress"/><ref>{{cite web |title=Minnesota Democrat Angie Craig, a former health care executive, is the first lesbian mother to be elected to Congress. |publisher=WJCT |url=https://www.wjct.org/2018/11/the-midterm-elections-have-made-history-with-these-notable-firsts/minnesota-democrat-angie-craig-a-former-health-care-executive-is-the-first-lesbian-mother-to-be-elected-to-congress-2/ |access-date=2021-01-19}}{{Dead link|date=March 2023 |bot=InternetArchiveBot |fix-attempted=yes}}</ref>
+|- style="background:#e0e0e0"
+|data-sort-value="Davids, Sharice" |[[File:Sharice Davids.jpg|100px]]
+|{{sortname|Sharice|Davids}}
+|style="background-color:{{party color|Democratic Party (United States)}}" |
+|[[Democratic Party (United States)|Democratic]]
+|[[Kansas]]
+|{{dts|2019|1|3|abbr=on}}
+|Incumbent
+|{{ayd|2019|1|3}}
+|Davids is openly lesbian and the first openly LGBTQ woman of color ([[Native Americans in the United States|Native American]]) elected to Congress.<ref name="117th Congress"/><ref>{{cite web |last1=Sopelsa |first1=Brooke |last2=Fitzsimons |first2=Tim |title=Sharice Davids, a lesbian Native American, makes political history in Kansas |date=2018-11-07 |publisher=NBC News |url=https://www.nbcnews.com/feature/nbc-out/sharice-davids-lesbian-native-american-makes-political-history-kansas-n933211 |access-date=2021-01-19}}</ref>
+|-
+|data-sort-value="Hill, Katie" |[[File:Katie Hill, official portrait, 116th Congress.jpg|100px]]
+|{{sortname|Katie|Hill}}
+|style="background-color:{{party color|Democratic Party (United States)}}" |
+|[[Democratic Party (United States)|Democratic]]
+|[[California]]
+|{{dts|2019|1|3|abbr=on}}
+|{{dts|2019|11|1|abbr=on}}
+|{{ayd|2019|1|3|2019|11|1}}
+|Hill is openly bisexual.<ref>{{cite web |last=North |first=Anna |title=Revenge porn, biphobia, and alleged relationships with staffers: The complicated story around Rep. Katie Hill, explained |date=2019-10-28 |publisher=Vox |url=https://www.vox.com/identities/2019/10/23/20928700/katie-hill-congresswoman-resigns-leaked-red-state |access-date=2021-01-19}}</ref>
+|- style="background:#e0e0e0"
+|data-sort-value="Pappas, Chris" |[[File:Chris Pappas, official portrait, 116th Congress.jpg|100px]]
+|{{sortname|Chris|Pappas|dab=American politician}}
+|style="background-color:{{party color|Democratic Party (United States)}}" |
+|[[Democratic Party (United States)|Democratic]]
+|[[New Hampshire]]
+|{{dts|2019|1|3|abbr=on}}
+|Incumbent
+|{{ayd|2019|1|3}}
+|Pappas is openly gay.<ref name="117th Congress"/><ref>{{cite web |last=Verhovek |first=John |title=New Hampshire could elect its first openly gay congressman |date=2018-11-03 |publisher=ABC News |url=https://abcnews.go.com/Politics/hampshire-elect-openly-gay-congressman/story?id=58937852 |access-date=2021-01-19}}</ref>
+|-
+|data-sort-value="Jones, Mondaire" |[[File:Mondaire Jones 117th U.S Congress.jpg|100px]]
+|{{sortname|Mondaire|Jones}}
+|style="background-color:{{party color|Democratic Party (United States)}}" |
+|[[Democratic Party (United States)|Democratic]]
+|[[New York (state)|New York]]
+|{{dts|2021|1|3|abbr=on}}
+|{{dts|2023|1|3|abbr=on}}
+|{{ayd|2021|1|3|2023|1|3}}
+|Along with [[Ritchie Torres]], Jones was the first [[African-American LGBTQ community|openly gay African American]] elected to Congress.<ref name="117th Congress"/><ref name=mondaire>{{cite web |last=Avery |first=Dan |title=Mondaire Jones joins Ritchie Torres as first gay Black men elected to Congress |date=2020-11-06 |publisher=NBC News |url=https://www.nbcnews.com/feature/nbc-out/mondaire-jones-joins-ritchie-torres-first-gay-black-men-elected-n1246693 |access-date=2021-01-19}}</ref>
+|- style="background:#e0e0e0"
+|data-sort-value="Torres, Ritchie" |[[File:Ritchie Torres 117th U.S Congress.jpg|100px]]
+|{{sortname|Ritchie|Torres}}
+|style="background-color:{{party color|Democratic Party (United States)}}" |
+|[[Democratic Party (United States)|Democratic]]
+|[[New York (state)|New York]]
+|{{dts|2021|1|3|abbr=on}}
+|Incumbent
+|{{ayd|2021|1|3}}
+|Along with [[Mondaire Jones]], Torres was the first [[African-American LGBTQ community|openly gay African American]] elected to Congress,<ref name=mondaire/> and the first openly gay Hispanic member of Congress.<ref name="117th Congress"/>
+|- style="background:#e0e0e0"
+|data-sort-value="Balint, Becca" |[[File:Rep. Becca Balint - 118th Congress.jpg|100px]]
+|{{sortname|Becca|Balint}}
+|style="background-color:{{party color|Democratic Party (United States)}}" |
+|[[Democratic Party (United States)|Democratic]]
+|[[Vermont]]
+|{{dts|2023|1|3|abbr=on}}
+|Incumbent
+|{{ayd|2023|1|3}}
+|Balint is openly lesbian.<ref>{{cite web |url=https://www.pbs.org/newshour/politics/becca-balint-becomes-vermonts-1st-woman-elected-to-congress |title=Becca Balint becomes Vermont's 1st woman elected to Congress |date=November 8, 2022 |first=Lisa |last=Rathke |work=[[PBS News Hour]]}}</ref>
+|- style="background:#e0e0e0"
+|data-sort-value="Garcia, Robert" |[[File:Rep. Robert Garcia - 118th Congress.jpg|100px]]
+|{{sortname|Robert|Garcia|dab=California politician}}
+|style="background-color:{{party color|Democratic Party (United States)}}" |
+|[[Democratic Party (United States)|Democratic]]
+|[[California]]
+|{{dts|2023|1|3|abbr=on}}
+|Incumbent
+|{{ayd|2023|1|3}}
+|Garcia is openly gay.<ref>{{cite web |url=https://www.foxla.com/election/robert-garcia-makes-history-as-first-lgbtq-immigrant-to-serve-in-congress |title=Robert Garcia makes history as first LGBTQ immigrant to serve in Congress |date=November 8, 2022 |author=Fox11 Digital Team |work=[[KTTV]]}}</ref>
+|-
+|data-sort-value="Santos, George" |[[File:Rep. George Santos Official Portrait.jpg|100px]]
+|{{sortname|George|Santos}}
+|style="background-color:{{party color|Republican Party (United States)}}" |
+|[[Republican Party (United States)|Republican]]
+|[[New York (state)|New York]]
+|{{dts|2023|1|3|abbr=on}}
+|{{dts|2023|12|1|abbr=on}}
+|{{ayd|2023|1|3|2023|12|1}}
+|Santos is openly gay<ref name=Moreau>{{cite web |last1=Moreau |first1=Julie |title=In a political first, two gay candidates face off in congressional election |url=https://www.nbcnews.com/nbc-out/out-politics-and-policy/political-first-two-gay-candidates-face-congressional-election-rcna48712 |website=nbcnews.com |date=September 22, 2022 |publisher=NBC |access-date=22 September 2022}}</ref> and the first openly LGBTQ non-incumbent Republican elected to Congress.{{efn|Incidentally, this also marked the first election in which both major party candidates (Santos and Democrat Rob Zimmerman) were openly LGBTQ.<ref name=Moreau/>}}
+|- style="background:#e0e0e0"
+|data-sort-value="Sorenson, Eric" |[[File:Sorensen House Photo.jpg|125x125px]]
+|{{sortname|Eric|Sorensen|dab=politician}}
+|style="background-color:{{party color|Democratic Party (United States)}}" |
+|[[Democratic Party (United States)|Democratic]]
+|[[Illinois]]
+|{{dts|2023|1|3|abbr=on}}
+|Incumbent
+|{{ayd|2023|1|3}}
+|Sorensen is openly gay.<ref>{{cite web |url=https://www.wglt.org/illinois/2022-11-09/eric-sorensen-declares-victory-in-17th-congressional-district-esther-joy-king-has-not-conceded |title=Eric Sorensen declares victory in 17th Congressional District |date=November 9, 2022 |first1=Ryan |last1=Denham |first2=Brady |last2=Johnson|first3=Tim |last3=Shelley |work=[[WGLT]]}}</ref>
+|- style="background:#e0e0e0"
+|data-sort-value="Johnson, Julie" |[[File:Rep. Julie Johnson Official Portrait.jpg|125x125px]]
+|{{sortname|Julie|Johnson|dab=politician}}
+|style="background-color:{{party color|Democratic Party (United States)}}" |
+|[[Democratic Party (United States)|Democratic]]
+|[[Texas]]
+|{{dts|2025|1|3|abbr=on}}
+|Incumbent
+|{{ayd|2025|1|3}}
+|Johnson is openly lesbian and the first openly LGBTQ individual to represent a southern state in Congress.<ref name=McBride>{{cite web |url=https://www.yahoo.com/lifestyle/sarah-mcbride-becomes-1st-openly-050113604.html |title=Sarah McBride becomes 1st openly transgender member of Congress: A look at history being made in the 2024 election |date=November 6, 2024 |first=Rachel |last=Bender |work=[[Yahoo|Yahoo! Life]]}}</ref>
+|- style="background:#e0e0e0"
+|data-sort-value="McBride, Sarah" |[[File:Representative Sarah McBride Official Portrait.jpg| 125x125px]]
+|{{sortname|Sarah|McBride}}
+|style="background-color:{{party color|Democratic Party (United States)}}" |
+|[[Democratic Party (United States)|Democratic]]
+|[[Delaware]]
+|{{dts|2025|1|3|abbr=on}}
+|Incumbent
+|{{ayd|2025|1|3}}
+|McBride is the first openly [[transgender]] individual elected to Congress.<ref name=McBride/>
+|- style="background:#e0e0e0"
+|data-sort-value="Randall, Emily" |[[File: Randall Emily 119th Congress.jpg |125x125px]]
+|{{sortname|Emily|Randall}}
+|style="background-color:{{party color|Democratic Party (United States)}}" |
+|[[Democratic Party (United States)|Democratic]]
+|[[Washington (state)|Washington]]
+|{{dts|2025|1|3|abbr=on}}
+|Incumbent 
+|{{ayd|2025|1|3}}
+|Randall is the first openly LGBTQ Hispanic woman elected to Congress.<ref name=McBride/>
+|- 
+|- style="background:#e0e0e0"
+|data-sort-value="Blair, Everton" |[[File:Everton Blair, official portrait (119th Congress).jpg|100px]]
+|{{sortname|Everton|Blair}}
+|style="background-color:{{party color|Democratic Party (United States)}}" |
+|[[Democratic Party (United States)|Democratic]]
+|[[Georgia (U.S. state)|Georgia]]
+|{{dts|2026|9|1|abbr=on}}
+|Incumbent 
+|{{ayd|2026|9|1}}
+|Blair is openly gay.<ref>{{Cite web |date=2019-10-11 |title=Georgia school official comes out as gay on #NationalComingOutDay |url=https://www.nbcnews.com/feature/nbc-out/georgia-school-official-comes-out-gay-nationalcomingoutday-n1065001 |access-date=2026-08-26 |website=NBC News |language=en}}</ref>
+|}
+
+===Shadow representatives===
+{{Further|Shadow congressperson}}
+
+{|class="wikitable sortable" style="text-align:center"
+!scope="col" rowspan=2 colspan=2 |Name
+!scope="col" rowspan=2 colspan=2 |Party
+!scope="col" rowspan=2 |Jurisdiction
+!scope="col" colspan=3 |Term
+!scope="col" rowspan=2 |Notes
+|-
+!scope="col" data-sort-type="date" |Start
+!scope="col" data-sort-type="date" |End
+!scope="col" data-sort-type="date" |Duration
+|-
+|data-sort-value="Sojourner, Sabrina" |[[File:No image.svg|100px]]
+|{{sortname|Sabrina|Sojourner}}
+|style="background-color:{{party color|Democratic Party (United States)}}" |
+|[[Democratic Party (United States)|Democratic]]
+|[[District of Columbia]]
+|{{dts|1997|1|3|abbr=on}}
+|{{dts|1999|1|3|abbr=on}}
+|{{ayd|1997|1|3|1999|1|3}}
+|Sojourner came out as lesbian in 1976.<ref>{{cite news |last=Hamilton |first=Martha |title=Washingtonpost.com: Retirement |url=https://www.washingtonpost.com/wp-srv/business/longterm/retirement/oct99/story3.htm |newspaper=[[The Washington Post]] |access-date=10 May 2020 |url-access=subscription}}</ref><ref name="Yeager">{{cite book |last=Yeager |first=Kenneth S. |title=Trailblazers: profiles of America's gay and lesbian elected officials |date=2019 |publisher=Routledge |isbn=9781317712305 |url=https://books.google.com/books?id=zwekDwAAQBAJ |access-date=10 May 2020}}</ref>
+|}
+
+==Histograph of openly-serving LGBTQ members of Congress==
+{|class="wikitable sortable"
+|-
+!Starting
+!Total
+!Graph
+!width=450|Event
+|-
+|March 4, 1789 
+|0 
+|&nbsp; 
+|{{steady}} United States Congress established
+|-
+|October 3, 1980 
+|1 
+|{{Composition histogram|red|1|title=Republican Party}}
+|{{increase}} Robert Bauman outed
+|-
+|January 3, 1981 
+|0 
+|{{Composition histogram|black|0}}
+|{{decrease}} Robert Bauman lost reelection
+|-
+|February 4, 1981 
+|1 
+|{{Composition histogram|red|1|title=Republican Party}}
+|{{increase}} Jon Hinson outed
+|-
+|April 13, 1981 
+|0 
+|{{Composition histogram|black|0}}
+|{{decrease}} Jon Hinson resigned
+|-
+|July 14, 1983 
+|1 
+|{{Composition histogram|blue|1|title=Democratic Party}}
+|{{increase}} Gerry Studds comes out
+|-
+|May 29, 1987 
+|2 
+|{{Composition histogram|blue|2|title=Democratic Party}}
+|{{increase}} Barney Frank comes out
+|-
+|March 24, 1994 
+|3 
+|{{Composition histogram|blue|2|title=Democratic Party}}{{Composition histogram|red|1|title=Republican Party}}
+|{{increase}} Steve Gunderson outed
+|-
+|August 1, 1996 
+|4 
+|{{Composition histogram|blue|2|title=Democratic Party}}{{Composition histogram|red|2|title=Republican Party}}
+|{{increase}} Jim Kolbe comes out
+|-
+|January 3, 1997 
+|2 
+|{{Composition histogram|blue|1|title=Democratic Party}}{{Composition histogram|red|1|title=Republican Party}}
+|{{decrease}} Gerry Studds and Steve Gunderson retired
+|-
+|January 3, 1999 
+|3 
+|{{Composition histogram|blue|2|title=Democratic Party}}{{Composition histogram|red|1|title=Republican Party}}
+|{{increase}} [[Tammy Baldwin]] elected to the House
+|-
+|January 3, 2007 
+|2 
+|{{Composition histogram|blue|2|title=Democratic Party}}{{Composition histogram|red|0}}
+|{{decrease}} Jim Kolbe retired
+|-
+|January 3, 2009 
+|3 
+|{{Composition histogram|blue|3|title=Democratic Party}}{{Composition histogram|red|0}}
+|{{increase}} Jared Polis elected
+|-
+|January 3, 2011 
+|4 
+|{{Composition histogram|blue|4|title=Democratic Party}}{{Composition histogram|red|0}}
+|{{increase}} [[David Cicilline]] elected
+|-
+|January 3, 2013 
+|7 
+|{{Composition histogram|blue|7|title=Democratic Party}}{{Composition histogram|red|0}}
+|{{increase}} Tammy Baldwin retired from the House, elected to the Senate; Sean Patrick Maloney, Mark Pocan, Kyrsten Sinema, and Mark Takano elected; Barney Frank retired
+|-
+|November 4, 2013 
+|8 
+|{{Composition histogram|blue|8|title=Democratic Party}}{{Composition histogram|red|0}}
+|{{increase}} Mike Michaud comes out
+|-
+|January 3, 2015 
+|7 
+|{{Composition histogram|blue|7|title=Democratic Party}}{{Composition histogram|red|0}}
+|{{decrease}} Mike Michaud retired
+|-
+|January 3, 2019 
+|10 
+|{{Composition histogram|blue|10|title=Democratic Party}}{{Composition histogram|red|0}}
+|{{increase}} Kyrsten Sinema retired from the House, elected to the Senate; Angie Craig, Sharice Davids, Katie Hill, and Chris Pappas elected; Jared Polis retired
+|-
+|November 1, 2019 
+|9 
+|{{Composition histogram|blue|9|title=Democratic Party}}{{Composition histogram|red|0}}
+|{{decrease}} Katie Hill resigned
+|-
+|January 3, 2021 
+|11 
+|{{Composition histogram|blue|11|title=Democratic Party}}{{Composition histogram|red|0}}
+|{{increase}} [[Mondaire Jones]] and [[Ritchie Torres]] elected
+|-
+|December 9, 2022 
+|11 
+|{{Composition histogram|blue|10|title=Democratic Party}}{{Composition histogram|grey|1|title=Independent}}
+|{{steady}} Kyrsten Sinema registered as an independent
+|-
+|January 3, 2023 
+|13 
+|{{Composition histogram|blue|11|title=Democratic Party}}{{Composition histogram|red|1|title=Republican Party}}{{Composition histogram|grey|1|title=Independent}}
+|{{increase}} [[Becca Balint]], [[Robert Garcia (California politician)|Robert Garcia]], [[George Santos]], and [[Eric Sorensen (politician)|Eric Sorensen]] elected; Mondaire Jones lost renomination; Sean Patrick Maloney lost reelection
+|-
+|June 1, 2023 
+|12 
+|{{Composition histogram|blue|10|title=Democratic Party}}{{Composition histogram|red|1|title=Republican Party}}{{Composition histogram|grey|1|title=Independent}}
+|{{decrease}} David Cicilline resigned
+|-
+|October 4, 2023 
+|13 
+|{{Composition histogram|blue|11|title=Democratic Party}}{{Composition histogram|red|1|title=Republican Party}}{{Composition histogram|grey|1|title=Independent}}
+|{{increase}} [[Laphonza Butler]] appointed
+|-
+|December 1, 2023 
+|12 
+|{{Composition histogram|blue|11|title=Democratic Party}}{{Composition histogram|red|0}}{{Composition histogram|grey|1|title=Independent}}
+|{{decrease}} George Santos expelled
+|-
+|December 8, 2024 
+|11 
+|{{Composition histogram|blue|10|title=Democratic Party}}{{Composition histogram|red|0}}{{Composition histogram|grey|1|title=Independent}}
+|{{decrease}} Laphonza Butler resigned
+|-
+|January 3, 2025 
+|13 
+|{{Composition histogram|blue|13|title=Democratic Party}}{{Composition histogram|red|0}}{{Composition histogram|grey|0}}
+|{{increase}} Kyrsten Sinema retired; [[Julie Johnson (politician)|Julie Johnson]], [[Sarah McBride]], and [[Emily Randall]] elected
+|-
+|September 1, 2026
+|14
+|{{Composition histogram|blue|14|title=Democratic Party}}{{Composition histogram|red|0}}{{Composition histogram|grey|0}}
+|{{increase}} [[Everton Blair]] elected
+|-
+|}
+{{Legend|blue|Democratic Party}}
+{{Legend|red|Republican Party}}
+{{Legend|grey|Independent}}
+
+==See also==
+*[[Congressional LGBTQ+ Equality Caucus]]
+*[[List of LGBTQ politicians in the United States]]
+*[[List of first openly LGBTQ politicians in the United States]]
+*[[List of transgender public officeholders in the United States]]
+
+==Notes==
+{{notelist}}
+
+==References==
+
+{{reflist}}
+
+{{LGBTQ in the United States}}
+{{LGBTQ Politicians and Office-holders by country}}
+{{Congresslists}}
+
+{{DEFAULTSORT:LGBTQ members of the United States Congress}}
+[[Category:LGBTQ members of the United States Congress|LGBTQ members of the United States Congress]]
+[[Category:Lists of LGBTQ politicians|United States]]
+[[Category:Lists of members of the United States Congress|LGBTQ]]
+[[Category:Lists of American LGBTQ people]]
+[[Category:United States LGBTQ-related lists]]

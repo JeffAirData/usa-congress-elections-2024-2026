@@ -1,0 +1,76 @@
+{{short description|American politician (born 1978)}}
+{{Use American English|date=July 2026}}
+{{Use mdy dates|date=May 2025}}
+{{Infobox officeholder
+| name                = Johnny Garrett 
+| state               = [[Tennessee]]
+| district            = {{ushr|TN|6|6th}}
+| term_start          = January 3, 2027
+| term_end            = 
+| succeeding          = [[John Rose (Tennessee politician)|John Rose]]
+| predecessor         = [[John Rose (Tennessee politician)|John Rose]]
+| successor           = 
+| state_house1        = Tennessee
+| district1           = 45th
+| term_start1         = January 8, 2019
+| term_end1           = <!-- January 3, 2027 -->
+| predecessor1        = [[Courtney Rogers]]
+| successor1          = <!-- ''Vacant'' -->
+| birth_date          = {{birth date and age|1978|8|8}}
+| birth_place         = 
+| death_date          = 
+| death_place         = 
+| party               = [[Republican Party (United States)|Republican]]
+| education           = [[University of Tennessee]] ([[Bachelor of Science|BS]])<br>[[Nashville School of Law]] ([[Juris Doctor|JD]])
+| website             = {{url|capitol.tn.gov/house/members/h45.html|State House website}}<br>{{url|johnnycgarrett.com|Campaign website}}
+}}
+'''Johnny Claude Garrett''' (born August 8, 1978) is an American attorney and politician from the state of [[Tennessee]]. A member of the [[Republican Party (United States)|Republican Party]], Garrett has represented the 45th district of the [[Tennessee House of Representatives]], based in the northern suburbs of [[Nashville, Tennessee|Nashville]], since 2019.<ref name="Leg">{{Cite web|url= http://www.capitol.tn.gov/house/members/h45.html|title=Representative Johnny Garrett|publisher=Tennessee General Assembly|access-date=July 26, 2020}}</ref><ref name="Ballotpedia">{{Cite web|url=https://ballotpedia.org/Johnny_Garrett|title=Johnny Garrett|publisher=Ballotpedia|access-date=July 26, 2020}}</ref>
+
+==Early life and education==
+Johnny C. Garrett was born on August 8, 1978, to John Claude Garrett and his wife Susan Garrett. His father served as president of the Bank of Goodlettsville as well as co-owner of Cole and Garrett Funeral Home and Cremation Services. Garrett earned a Bachelor of Science degree from the [[University of Tennessee]] and a [[Juris Doctor]] from [[Nashville School of Law]].<ref>{{cite web|url=https://justfacts.votesmart.org/candidate/biography/182452/johnny-garrett|title= Johnny Garrett's Biography |publisher=VoteSmart |access-date=July 26, 2020}}</ref>
+
+== Career ==
+Garrett began practicing law in [[Sumner County, Tennessee|Sumner County]] in 2006, representing businesses and entrepreneurs.<ref name="Campaign" />
+
+In 2018, [[Courtney Rogers]], incumbent for the 45th district of the [[Tennessee House of Representatives]], announced her retirement. Garrett overwhelmingly won the [[Republican Party (United States)|Republican]] primary to replace her, and defeated [[Democratic Party (United States)|Democrat]] Hana Ali in the general election with nearly 70% of the vote.<ref>{{Cite web|url=https://www.hendersonvillestandard.com/garrett-handily-wins-th-district-state-race/article_d5bec36e-e249-11e8-8fc1-c76e1f7c720b.html|title= Garrett handily wins 45th district state race |website=Hendersonville Standard|author=Tena Lee|date=November 6, 2018|access-date=July 26, 2020}}</ref> He was sworn into office in January 2019.
+
+Garrett was elected as majority whip by his House colleagues for the 2020 legislative session.<ref>{{Cite web|url=https://www.wvlt.tv/content/news/Tennessee-House-GOP-elect-new-majority-whip-567351841.html|title= Tennessee House GOP elect new majority whip|website=WVLT8|agency=Associated Press|date=January 28, 2020|access-date=July 26, 2020}}</ref>
+
+In 2023, Garrett co-sponsored a resolution to [[2023 Tennessee House of Representatives expulsions|expel]] [[Democratic Party (United States)|Democratic]] lawmakers from the legislature for violating decorum rules. The expulsion was widely characterized as unprecedented. Following the public outrage of the expulsion, robocalls went out to Tennesseans with false claims that Antifa members from all over the country came to the Capitol, that Tennessee Highway Patrol confiscated brass knuckles and pipe bombs, and urged Tennesseans to thank Johnny Garrett for "standing up to the radical liberals and their two-tiered justice system."<ref>{{cite web | url=https://www.wbir.com/article/news/politics/conservative-robocall-raises-questions-makes-false-allegations-possibly-from-enlight-tennessee/51-6000f712-9d15-445f-a74f-57a0a3c53c36 | title=Conservative robocall raises questions, makes false allegations | date=17 April 2023 }}</ref>
+
+In leaked audio of a Tennessee House GOP meeting, Garrett claimed that "no legislation in the history of the world has ever been passed under protest."<ref>{{Cite web|url=https://www.fox13memphis.com/news/leaked-audio-reveals-what-republicans-said-in-private-after-tn-house-expulsion-vote/article_cfc2460a-da58-11ed-b398-1f0878ab175a.html|title=Leaked audio reveals what Republicans said in private after TN House expulsion vote|website=Fox13 Memphis|date=13 April 2023 |language=en|access-date=2023-04-14}}</ref>
+
+Garrett is running as the Republican candidate for [[Tennessee's 6th congressional district]] in [[2026 United States House of Representatives elections in Tennessee|2026]].<ref name="Ballotpedia" />
+
+==Personal life==
+Garrett was born and raised in [[Goodlettsville, Tennessee|Goodlettsville]], where he continues to live with his wife and three children.<ref name="Campaign">{{Cite web|url=http://www.johnnycgarrett.com|title=Johnny Garrett - State Representative|publisher=Campaign website |access-date=July 26, 2020}}</ref>
+
+==References==
+{{reflist|2}}
+
+{{s-start}}
+{{s-par|us-hs}}
+{{s-bef|before=[[John Rose (Tennessee politician)|John Rose]]}}
+{{s-ttl|title=Member of the [[List of United States representatives from Tennessee|U.S. House of Representatives]]<br>from [[Tennessee's 6th congressional district]]|years=Taking office 2027<!-- –present -->}}
+{{s-non|reason=Elect}}<!-- {{s-inc}} -->
+{{s-end}}
+
+<!-- {{TN-FedRep}}
+{{Current U.S. representatives}}
+{{USCongRep-start |congresses=120th–present [[United States Congress]] |state=[[Tennessee's congressional delegations|Tennessee]]}}
+{{USCongRep/TN/120}}
+{{USCongRep-end}} -->
+{{Tennessee House of Representatives}}
+
+{{DEFAULTSORT:Garrett, Johnny}}
+[[Category:1978 births]]
+[[Category:21st-century members of the Tennessee General Assembly]]
+[[Category:21st-century United States representatives]]
+[[Category:Living people]]
+[[Category:Nashville School of Law alumni]]
+[[Category:People from Goodlettsville, Tennessee]]
+[[Category:Republican Party members of the Tennessee House of Representatives]]
+[[Category:Republican Party United States representatives from Tennessee]]
+[[Category:University of Tennessee alumni]]
+
+{{Tennessee-politician-stub}}

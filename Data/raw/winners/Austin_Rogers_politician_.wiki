@@ -1,0 +1,60 @@
+{{Short description|American politician}}
+{{Infobox officeholder
+|name = Austin Rogers
+|state = [[Florida]]
+|district = {{ushr|FL|2|2nd}}
+|term_start = January 3, 2027
+|term_end = 
+|succeeding = [[Neal Dunn]]
+|predecessor = [[Neal Dunn]]
+|successor = 
+|birth_name = Austin James Rogers
+|birth_date = {{birth based on age as of date|slash=y|35|2026|8|18}}
+|birth_place = 
+|death_date = 
+|death_place = 
+|party = [[Republican Party (United States)|Republican]]
+|education = [[Southeastern University]] ([[Bachelor of Science|BS]])<br>[[Wheaton College (Illinois)|Wheaton College]] ([[Bachelor of Arts|BA]])<br>[[Duke University]] ([[Master of Arts|MA]], [[Juris Doctor|JD]])
+|website = {{url|rogersforflorida.com|Campaign website}}
+}}
+'''Austin James Rogers''' (born 1990/1991) is an American attorney and politician who is a member-elect of the [[United States House of Representatives]] for [[Florida's 2nd congressional district]]. He is a member of the [[Republican Party (United States)|Republican Party]].
+
+==Early life and legal career==
+Rogers was born in [[Panama City, Florida]], where he grew up.<ref name="auto2">{{Cite news|url=https://www.miamiherald.com/news/article317796420.html|newspaper=[[Miami Herald]]|title=Who is Austin Rogers? Meet the Republican running for Congress |date=October 27, 2026|author=Rusin, Gregory}}</ref><ref>{{Cite web|url=https://www.legistorm.com/person/bio/466258/Austin_James_Rogers.html|publisher=[[LegiStorm]]|access-date=November 4, 2026|title=Incoming Rep. Austin Rogers - R Florida, 2nd, Member-elect}}</ref> His father was a member of the [[United States Air Force Thunderbirds]] while his mother was a public school teacher.<ref name="auto">{{Cite web|url=https://floridapolitics.com/archives/776853-austin-rogers-throws-hat-in-ring-to-succeed-neal-dunn-in-cd-2/|title=Austin Rogers throws hat in ring to succeed Neal Dunn in CD 2|first=Jacob|last=Ogles|date=January 29, 2026|website=[[Florida Politics]]}}</ref> He attended [[A. Crawford Mosley High School]] in Lynn Haven before attending [[Southeastern University]] in [[Lakeland, Florida|Lakeland]], where he earned a [[bachelor's degree]] in international business.<ref name="auto"/> After Rogers graduated from Southeastern, he then attended [[Wheaton College (Illinois)|Wheaton College]] in Illinois where he earned another bachelor's degree in theology.<ref name="auto"/> He graduated ''[[summa cum laude]]'' at both schools.<ref name="auto1">{{Cite web|url=https://fedsoc.org/bio/austin-rogers-1|publisher=[[Federalist Society]]|access-date=November 4, 2026|title=Austin Rogers}}</ref> In college, he played [[Associated football|soccer]].<ref name="auto"/>
+
+Rogers later attended [[Duke University]] in North Carolina and earned graduate degrees, ''summa cum laude'', in theology and law.<ref>{{Cite web|url=https://news.wfsu.org/state-news/2026-10-26/meet-your-republican-nominee-for-floridas-second-district-austin-rogers|publisher=[[WFSU-TV]]|title=Meet your Republican nominee for Florida's second district, Austin Rogers |author=Vuxta, Randall|date=October 26, 2026}}</ref> He wrote articles regarding the [[First Amendment to the United States Constitution|First Amendment]] that appeared in the ''[[Duke Law Journal]]'' and the ''[[Marquette Law Review]]''.<ref name="auto1"/> Rogers is admitted to the [[District of Columbia Bar]] and is a member of the [[Federalist Society]].<ref name="auto1"/> He served as a [[law clerk]] for [[Steven D. Merryday]] and then worked for [[White & Case]] with a focus on commercial and appellate litigation.<ref name="auto1"/> After that, Rogers was Senior Counsel of Oversight and Investigations for the [[United States Senate Committee on the Judiciary]] and then Chief Civil Counsel for the Senate Judiciary Committee.<ref name="auto1"/> During his time in this role, he helped draft immigration provisions in the [[One Big Beautiful Bill Act]].<ref>{{Cite web|url=https://fox49.tv/news/local/austin-rogers-where-the-north-florida-congressional-candidate-stands-on-the-issues|publisher=[[WTWC-TV]]|title=Austin Rogers: Where the North Florida congressional candidate stands on the issues|author=Karmia, Nick|date=October 30, 2026}}</ref> He served as a Senate Judiciary Counsel from 2023 to 2025 and then became general counsel for Florida Senator [[Rick Scott]].<ref>{{Cite news|url=https://thehill.com/homenews/campaign/6149770-rogers-wins-florida-house-race/|newspaper=[[The Hill (newspaper)|The Hill]]|title=Austin Rogers wins House race to succeed retiring Dunn in Florida |author=Rego, Max|date=November 3, 2026}}</ref>
+
+== U.S. House of Representatives ==
+=== Elections ===
+==== 2026 ====
+In January 2026, Rogers launched his campaign for the [[United States House of Representatives]] for [[Florida's 2nd congressional district]] as a [[Republican Party (United States)|Republican]], seeking to succeed the retiring [[Neal Dunn]].<ref name="auto"/> He became the Republican nominee after defeating seven others in the primary, receiving 31% of the vote.<ref name="auto2"/> In the general election, Rogers defeated [[Democratic Party (United States)|Democratic Party]] nominee Amanda Green with 52.2% of the vote.<ref>{{Cite news|url=https://www.tallahassee.com/story/news/politics/elections/2026/11/03/results-florida-2nd-congressional-district-election-amanda-green-austin-rogers/92561112007/|newspaper=[[Tallahassee Democrat]]|title=Democratic wave falls short and Austin Rogers holds CD 2 for GOP|date=November 3, 2026|author=Call, James}}</ref>
+
+==Personal life==
+Rogers is married and has three children.<ref name="auto2"/>
+
+==References==
+{{reflist}}
+
+{{s-start}}
+{{s-par|us-hs}}
+{{s-bef|before=[[Neal Dunn]]}}
+{{s-ttl|title=Member of the [[List of United States representatives from Florida|U.S. House of Representatives]]<br>from [[Florida's 2nd congressional district]]|years=Taking office 2027<!-- –present -->}}
+{{s-non|reason=Elect}}<!-- {{s-inc}} -->
+{{s-end}}
+
+<!-- {{FL-FedRep}}
+{{Current U.S. representatives}}
+{{USCongRep-start |congresses=120th–present [[United States Congress]] |state=[[Florida's congressional delegations|Florida]]}}
+{{USCongRep/FL/120}}
+{{USCongRep-end}} -->
+
+{{DEFAULTSORT:Rogers, Austin}}
+[[Category:1990s births]]
+[[Category:21st-century Florida politicians]]
+[[Category:21st-century United States representatives]]
+[[Category:Duke University alumni]]
+[[Category:Florida Republicans]]
+[[Category:Living people]]
+[[Category:Republican Party United States representatives from Florida]]
+[[Category:Southeastern University (Florida) alumni]]
+[[Category:Wheaton College (Illinois) alumni]]

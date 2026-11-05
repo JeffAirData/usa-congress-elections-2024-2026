@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>U.S. elections: Congress and governors, 2024 vs 2026</title>
+<style>
+  :root { color-scheme: light; --page:#f9f9f7; --surface:#fcfcfb; --ink:#0b0b0b; --ink-2:#52514e; --muted:#898781;
+          --line:#e1e0d9; --dem:#2a78d6; --rep:#e34948; --open:#c3c2b7; --warn:#fbf3df; }
+  * { box-sizing: border-box; }
+  body { font-family: Inter, "Segoe UI", system-ui, -apple-system, sans-serif; background: var(--page); color: var(--ink); margin: 0; }
+  main { max-width: 920px; margin: 0 auto; padding: 16px 16px 48px; }
+  .top { display: flex; justify-content: flex-end; margin-bottom: 8px; }
+  .switch { display: inline-block; padding: 8px 14px; border: 2px solid var(--dem); border-radius: 999px; color: var(--dem);
+            font-weight: 700; text-decoration: none; }
+  .switch:hover { background: var(--dem); color: #fff; }
+  h1 { font-size: 1.9rem; line-height: 1.2; margin: 0 0 8px; }
+  h2 { font-size: 1.4rem; margin: 40px 0 8px; }
+  p, li { color: var(--ink-2); line-height: 1.55; }
+  .lead { font-size: 1.15rem; color: var(--ink); }
+  .warn { background: var(--warn); border-left: 4px solid #d99a1e; padding: 12px 14px; border-radius: 6px; color: var(--ink); }
+  img { width: 100%; height: auto; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); margin: 12px 0; }
+  .legend { display: flex; gap: 16px; flex-wrap: wrap; color: var(--ink-2); font-size: .95rem; margin: 6px 0 10px; }
+  .sw { display: inline-block; width: 12px; height: 12px; border-radius: 3px; margin-right: 6px; vertical-align: -1px; }
+  section.box { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 16px; margin: 16px 0; }
+  select { width: 100%; font: inherit; font-size: 1.05rem; padding: 10px 12px; border: 2px solid var(--dem); border-radius: 8px; background: #fff; }
+  table { width: 100%; border-collapse: collapse; margin-top: 12px; font-variant-numeric: tabular-nums; }
+  th, td { text-align: left; padding: 6px 4px; border-bottom: 1px solid var(--line); font-size: .95rem; vertical-align: top; }
+  .D { color: var(--dem); font-weight: 700; } .R { color: var(--rep); font-weight: 700; } .O { color: var(--muted); }
+  .flip { background: var(--warn); }
+  .totals { display: flex; gap: 18px; flex-wrap: wrap; margin-top: 10px; }
+  footer { margin-top: 40px; font-size: .9rem; color: var(--muted); }
+  footer a, main a { color: var(--dem); }
+</style>
+</head>
+<body>
+<main>
+<div class="top"><a href="../" class="switch" hreflang="pt-BR">Versão em português</a></div>
+<h1>U.S. elections: Congress and governors, 2024 vs 2026</h1>
+<p class="warn"><strong>Provisional results.</strong> A snapshot from November 5, 2026, two days after the election: 43 House seats, 3 Senate seats and 4 governorships still uncalled. The numbers are for comparison and are not final.</p>
+<p class="lead">Democrats went from 215 to at least 246 House seats, from 47 to 53 in the Senate and from 24 to 27 governorships. I compared them with the 2024 election and with the historical series since 1913.</p>
+<div class="legend"><span><span class="sw" style="background:var(--dem)"></span>Democrats</span>
+<span><span class="sw" style="background:var(--rep)"></span>Republicans</span>
+<span><span class="sw" style="background:var(--open)"></span>uncalled</span></div>
+
+<h2 id="parte-1">1. House, Senate and governors</h2>
+<ul><li><strong>House:</strong> 215 D vs 220 R in 2024; now 246 D vs 146 R, with 43 uncalled. A majority is 218: Democrats already have it.</li><li><strong>Senate:</strong> 47 D vs 53 R before the election (both independents caucus with Democrats); now 53 D vs 44 R. Flipped to Democrats: Iowa, Kansas, Maine, North Carolina, Ohio (special), South Carolina and Texas. Uncalled: Alaska, Michigan and Mississippi.</li><li><strong>Governors:</strong> 24 D vs 26 R before; now 27 D vs 19 R. Flipped to Democrats: Georgia, Iowa, Nevada, Ohio and Texas. Uncalled: Alaska, California, Kansas and Oklahoma.</li></ul>
+<img src="img/01_nacional.png" alt="Bars for House, Senate and governors before and after the election">
+
+<h2 id="parte-2">2. State by state</h2>
+<p>44 seats flipped to Democrats and 2 to Republicans. Several states redrew their maps in 2025 and 2026, so the comparison is by each state's delegation and by the party that won each seat.</p>
+<img src="img/02_estados.png" alt="Seats that changed party, by state">
+<section class="box">
+  <label for="st"><strong>Pick a state</strong></label>
+  <select id="st"></select>
+  <div class="totals" id="tot"></div>
+  <table><thead><tr><th>District</th><th>2024</th><th>2026</th></tr></thead><tbody id="rows"></tbody></table>
+</section>
+
+<h2 id="parte-3">3. The historical series</h2>
+<p>From 1946 to 2022 the president's party lost House seats in 18 of 20 midterms. The biggest loss was in 2010: 64 seats. In 2026 Republicans lose between 31 and 74, depending on the 43 uncalled seats. A loss above 64 would be the biggest since 1946.</p>
+<img src="img/03_midterms.png" alt="Seats gained or lost by the president's party in every midterm since 1946">
+<img src="img/04_camara_historico.png" alt="House seats held by each party since 1913">
+
+<h2 id="parte-4">4. Women, Black, Hispanic, Native American and LGBTQ+ members</h2>
+<ul><li><strong>Women:</strong> 125 elected to the House in 2024 and at least 124 in 2026, with 43 seats uncalled. The change is in the parties: Democratic women went from 94 to 109; Republican women from 31 to 15. All 26 first-time women confirmed so far are Democrats.</li><li><strong>Hispanic Americans:</strong> 49 in 2024 and at least 50 in 2026, with 14 first-time winners.</li><li><strong>Native Americans:</strong> 3 in the House in 2024 and 4 in 2026, with Claire Valdez (New York). In the Senate, Peggy Flanagan (Minnesota) will be the first Native American woman elected senator.</li><li><strong>LGBTQ+:</strong> 12 in the House at the start of 2025 and at least 13 in 2026. In the Senate, Chris Pappas (New Hampshire) is the first openly gay man elected senator and joins Tammy Baldwin.</li><li><strong>Black Americans:</strong> 61 elected in 2024; 46 were re-elected. There is no list of first-time winners yet. The press highlights Melat Kiros, Colorado's first Black congresswoman, and Juliana Stratton, elected senator for Illinois.</li></ul>
+<img src="img/05_diversidade_serie.png" alt="Members of each group in the House by Congress since 1945">
+<img src="img/06_grupos_2024_2026.png" alt="Members of each group elected in 2024 and what is known of 2026">
+<img src="img/07_mulheres_partido.png" alt="Women elected to the House by party, 2024 and 2026">
+
+<h2>How to read the numbers</h2>
+<ul><li>Blue is always Democratic and red always Republican. Other parties and uncalled races are grey.</li><li>A race counts as called only when the source marks a winner. No result is estimated.</li><li>2024 matches the official House result: 220 Republicans and 215 Democrats.</li><li>The House series is the House Historian's official <em>Party Divisions</em> table.</li><li>Women, Black and Hispanic members by Congress come from the House Historian's official lists; Native American and LGBTQ+ members from Wikipedia's lists. The line counts everyone who served during each Congress, replacements included; the dots count only those elected in November.</li><li>Women elected in 2026: the Clerk's courtesy title (Mr./Ms.) for current members; for first-time winners, the pronouns in each one's Wikipedia article. Winners with no source are left out; nothing is inferred from first names.</li><li>First-time winners of the other groups count only when a source names them, so 2026 is a minimum, not a total.</li><li>First-time means not in the current House; a few, such as Elaine Luria, served before.</li></ul>
+<footer><p>Sources: Wikipedia (the 2024 and 2026 House, Senate and governor election articles, which cite AP, DDHQ and state election offices), House Clerk (MemberData.xml), House Historian (Party Divisions and the lists of women, Black and Hispanic members), unitedstates/congress-legislators and the press cited in the text.</p><p>Code and data: <a href="https://github.com/JeffAirData/eua-eleicoes-congresso-2024-2026">github.com/JeffAirData/eua-eleicoes-congresso-2024-2026</a></p></footer>
+</main>
+<script>
+const L = {"seats": "seats", "d": "District", "open": "uncalled", "gain": "changed party", "nameKey": "en", "al": "at large"};
+const sel = document.getElementById("st"), rows = document.getElementById("rows"), tot = document.getElementById("tot");
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[c]));
+const cell = (w, p) => w ? `<span class="${p === "D" || p === "R" ? p : "O"}">${esc(w)} (${esc(p)})</span>` : `<span class="O">${L.open}</span>`;
+fetch("../data.json").then(r => r.json()).then(d => {
+  const st = Object.entries(d.states).sort((a, b) => a[1][L.nameKey].localeCompare(b[1][L.nameKey]));
+  sel.innerHTML = st.map(([k, v]) => `<option value="${k}">${esc(v[L.nameKey])} (${v.seats} ${L.seats})</option>`).join("");
+  const show = k => {
+    const v = d.states[k];
+    tot.innerHTML = `<span>2024: <span class="D">${v.D_2024} D</span> · <span class="R">${v.R_2024} R</span></span>` +
+      `<span>2026: <span class="D">${v.D_2026} D</span> · <span class="R">${v.R_2026} R</span>` + (v.open ? ` · <span class="O">${v.open} ${L.open}</span>` : "") + `</span>`;
+    rows.innerHTML = v.districts.map(x => `<tr class="${x.label && x.label.endsWith("gain") ? "flip" : ""}"><td>${x.d === "AL" ? L.al : x.d}` +
+      `${x.label && x.label.endsWith("gain") ? `<br><small>${L.gain}</small>` : ""}</td><td>${cell(x.w24, x.p24)}</td><td>${cell(x.w26, x.p26)}</td></tr>`).join("");
+  };
+  sel.value = "NC"; show("NC");
+  sel.addEventListener("change", e => show(e.target.value));
+});
+</script>
+</body>
+</html>

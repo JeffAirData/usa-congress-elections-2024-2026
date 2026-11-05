@@ -1,0 +1,65 @@
+{{short description|American politician (born 1958)}}
+{{use American English|date=August 2026}}
+{{use mdy dates|date=August 2026}}
+{{Infobox officeholder
+|name         = Charlie Hatcher
+|state        = [[Tennessee]]
+|district     = {{ushr|TN|5|5th}}
+|term_start   = January 3, 2027
+|term_end     = 
+|succeeding   = [[Andy Ogles]]
+|predecessor  = [[Andy Ogles]]
+|successor    = 
+|office1      = [[Tennessee Department of Agriculture#List of commissioners|Agriculture Commissioner of Tennessee]]
+|governor1    = [[Bill Lee (Tennessee politician)|Bill Lee]]
+|term_start1  = January 12, 2019
+|term_end1    = September 30, 2025
+|predecessor1 = Jai Templeton
+|successor1   = [[Andy Holt (politician)|Andy Holt]]
+|birth_name   = Charles Woodbridge Hatcher
+|birth_date   = {{birth date and age|1958|6|15}}
+|birth_place  = 
+|death_date   = 
+|death_place  = 
+|party		  = [[Republican Party (United States)|Republican]]
+|education	  = [[Middle Tennessee State University]] ([[Bachelor of Science|BS]])<br>[[University of Tennessee]] ([[Doctor of Veterinary Medicine|DVM]])
+|website      = {{url|charliehatcher.com|Campaign website}}
+}}
+'''Charles Woodbridge Hatcher''' (born June 15, 1958)<ref>{{cite news |title=Charlie Hatcher |website=LegiStorm |access-date=August 6, 2026 |url=https://www.legistorm.com/person/bio/477071/Charles_W_Hatcher.html}}</ref> is an American dairy farmer who is the [[Republican Party (United States)|Republican Party]] nominee for {{ushr|TN|5}} in the [[2026 United States House of Representatives elections|2026 general election]].<ref>{{cite news |title=Charlie Hatcher aims to bring 'common sense' to Washington |date=August 5, 2026 |access-date=August 6, 2026 |website=Williamson Herald |first=Macy |last=Joyce |url=https://www.williamsonherald.com/news/local_news/charlie-hatcher-aims-to-bring-common-sense-to-washington/article_aa36a755-93a9-4ce6-90c4-8b42e7d23686.html}}</ref> He defeated incumbent U.S. representative [[Andy Ogles]] in the Republican primary in an [[Upset (competition)|upset]] race. He previously served as the commissioner of the [[Tennessee Department of Agriculture]] from 2019 to 2025.<ref>{{cite news |url=https://www.nbcnews.com/politics/2026-election/rep-andy-ogles-loses-republican-primary-tennessee-rcna591185 |title=Rep. Andy Ogles loses his Republican primary in Tennessee |work=NBC News |date=August 6, 2026 |access-date=August 6, 2026 |first=Ben |last=Kamisar}}</ref><ref>{{cite news |title=Charlie Hatcher shares family history at Franklin Noon Rotary |first=Macy |last=Joyce |website=Williamson Herald |date=July 16, 2026 |access-date=August 6, 2026 |url=https://www.williamsonherald.com/news/local_news/charlie-hatcher-shares-family-history-at-franklin-noon-rotary/article_92e1cb67-35fa-4349-b9c4-01404947e309.html}}</ref>
+
+Hatcher graduated with a [[Bachelor of Science]] in animal science from [[Middle Tennessee State University]] in 1980, and as a [[Doctor of Veterinary Medicine]] from [[University of Tennessee, Knoxville]] in 1984.<ref>{{cite web |title=Dr. Charlie Hatcher, Tennessee's Commissioner of Agriculture |website=Economic Club of Nashville |date=April 5, 2022 |access-date=August 6, 2026 |url=https://econclubnashville.org/events-test/dr-charlie-hatcher-tennessees-commissioner-of-agriculture/}}</ref><ref>{{cite web |title=Outstanding in Their Field: Charlie Hatcher |website=University of Tennessee Institute of Agriculture |date=July 23, 2024 |access-date=August 6, 2026 |url=https://utia.tennessee.edu/spotlights/charlie-hatcher/}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://charliehatcher.com/ Charlie Hatcher for Congress] campaign website
+* {{CongLinks|fec=H6TN05405|votesmart=237874}}
+
+{{s-start}}
+{{s-par|us-hs}}
+{{s-bef|before=[[Andy Ogles]]}}
+{{s-ttl|title=Member of the [[List of United States representatives from Tennessee|U.S. House of Representatives]]<br>from [[Tennessee's 5th congressional district]]|years=Taking office 2027<!-- –present -->}}
+{{s-non|reason=Elect}}<!-- {{s-inc}} -->
+{{s-end}}
+
+<!-- {{TN-FedRep}}
+{{Current U.S. representatives}}
+{{USCongRep-start |congresses=120th–present [[United States Congress]] |state=[[Tennessee's congressional delegations|Tennessee]]}}
+{{USCongRep/TN/120}}
+{{USCongRep-end}} -->
+
+{{DEFAULTSORT:Hatcher, Charlie}}
+[[Category:1958 births]]
+[[Category:Living people]]
+[[Category:21st-century Tennessee politicians]]
+[[Category:21st-century United States representatives]]
+[[Category:Dairy farmers]]
+[[Category:Farmers from Tennessee]]
+[[Category:Middle Tennessee State University alumni]]
+[[Category:Republican Party United States representatives from Tennessee]]
+[[Category:Tennessee commissioners of agriculture]]
+[[Category:Tennessee Republicans]]
+[[Category:University of Tennessee alumni]]
+
+{{Tennessee-politician-stub}}
