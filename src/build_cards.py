@@ -183,13 +183,26 @@ def main() -> None:
 
 Dois dias depois das eleições de meio de mandato, os Democratas já têm maioria na Câmara, no Senado e entre os governadores.
 
-🔵 Câmara: {h24['D']} → {h26['D']} Democratas
-🔴 Republicanos: {h24['R']} → {h26['R']} ({h26['open']} cadeiras em aberto)
-🏛️ Senado: {sb['D']} → {s26['D']} Democratas
-🗺️ Governadores: {gb['D']} → {g26['D']} Democratas
-👩 Republicanas na Câmara: {w['R_2024']} → {w['R_2026']}
+🏛️ Câmara (435 cadeiras)
+🔵 Democratas: {h24['D']} → {h26['D']}
+🔴 Republicanos: {h24['R']} → {h26['R']}
+⚪ Em aberto: {h26['open']}
 
-Arraste para ver a série histórica e a representação de mulheres, hispânicos, indígenas e LGBTQ+.
+🏛️ Senado (100 cadeiras)
+🔵 Democratas: {sb['D']} → {s26['D']}
+🔴 Republicanos: {sb['R']} → {s26['R']}
+⚪ Em aberto: {s26['open']}
+
+🗺️ Governadores (50 estados)
+🔵 Democratas: {gb['D']} → {g26['D']}
+🔴 Republicanos: {gb['R']} → {g26['R']}
+⚪ Em aberto: {g26['open']}
+
+📉 Os Republicanos perdem de {lo} a até {hi} cadeiras na Câmara. Se passar de {-int(worst.change)}, é recorde desde 1946.
+
+👩 Mulheres na Câmara: as democratas foram de {w['D_2024']} para {w['D_2026']}; as republicanas, de {w['R_2024']} para {w['R_2026']}.
+
+Arraste para ver a série histórica e a representação de mulheres, hispânicos, indígenas e LGBTQ+ ➡️
 
 Resultados parciais de 5/11/2026, só para comparação.
 
