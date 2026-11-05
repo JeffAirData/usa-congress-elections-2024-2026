@@ -12,6 +12,6 @@ Arraste para ver a série histórica e a representação de mulheres, hispânico
 
 Resultados parciais de 5/11/2026, só para comparação.
 
-👉 Veja cada distrito, estado por estado: link na bio
+👉 Quer ver cada distrito do seu estado favorito? Mande-me um Direct que te envio o link.
 
 #eleicoes2026 #eua #midterms #congressoamericano #dados #datascience #visualizacaodedados #politicainternacional

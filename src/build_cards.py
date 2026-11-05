@@ -130,11 +130,11 @@ def main() -> None:
     ax.text(80, 1030, "O partido do presidente\nquase sempre perde\nno meio do mandato", fontsize=50, fontweight="bold",
             va="center", linespacing=1.1)
     ax.text(80, 820, f"Republicanos em 2026: perda de", fontsize=32, color=INK_2, va="center")
-    ax.text(80, 700, f"{lo} a {hi}", fontsize=140, color=REP, fontweight="bold", va="center")
-    ax.text(80, 590, "cadeiras na Câmara", fontsize=32, color=INK_2, va="center")
+    ax.text(80, 700, f"{lo} a até {hi}", fontsize=120, color=REP, fontweight="bold", va="center")
+    ax.text(80, 590, "cadeiras na Câmara.", fontsize=32, color=INK_2, va="center")
     ax.add_patch(FancyBboxPatch((80, 330), 920, 180, boxstyle="round,pad=0,rounding_size=18", color=LINE))
-    ax.text(120, 420, f"Maior perda desde 1946:\n{-int(worst.change)} cadeiras, em {int(worst.year)}.\n"
-                      f"Se passar disso, é recorde.", fontsize=30, va="center", linespacing=1.3)
+    ax.text(120, 420, f"Dependendo das {h26['open']} cadeiras ainda em jogo.\n"
+                      f"Se passar de {-int(worst.change)} cadeiras, é recorde!", fontsize=28, va="center", linespacing=1.4)
     save(fig, 5)
 
     # 6 women
@@ -168,14 +168,15 @@ def main() -> None:
 
     # 8 call to action
     fig, ax = card(8, N)
-    kicker(ax, "Quer ver o seu estado?")
-    ax.text(80, 920, "Cada distrito,\n2024 x 2026,\nnuma página\ninterativa", fontsize=76, fontweight="bold", va="center",
+    kicker(ax, "Quer ver o seu estado favorito?")
+    ax.text(80, 950, "Cada distrito,\n2024 x 2026,\nnuma página\ninterativa", fontsize=70, fontweight="bold", va="center",
             linespacing=1.0)
-    ax.add_patch(FancyBboxPatch((80, 480), 920, 130, boxstyle="round,pad=0,rounding_size=24", color=DEM))
-    ax.text(540, 545, "Link na bio", fontsize=56, color="white", fontweight="bold", ha="center", va="center")
-    ax.text(80, 345, "Azul é Democrata, vermelho é Republicano.\nNenhum resultado em aberto foi estimado.\n"
+    ax.add_patch(FancyBboxPatch((80, 480), 920, 180, boxstyle="round,pad=0,rounding_size=24", color=DEM))
+    ax.text(540, 570, "Mande-me um Direct\nque te envio o link.", fontsize=44, color="white", fontweight="bold",
+            ha="center", va="center", linespacing=1.2)
+    ax.text(80, 330, "Azul é Democrata, vermelho é Republicano.\nNenhum resultado em aberto foi estimado.\n"
                      "Código e dados abertos no GitHub.", fontsize=29, color=INK_2, va="center", linespacing=1.4)
-    ax.text(80, 190, "github.com/JeffAirData", fontsize=30, color=INK, fontweight="bold", va="center")
+    ax.text(80, 175, "github.com/JeffAirData", fontsize=30, color=INK, fontweight="bold", va="center")
     save(fig, 8)
 
     (OUT / "legenda.md").write_text(f"""Eleições nos EUA 2026: a virada democrata, em números 🇺🇸📊
@@ -192,7 +193,7 @@ Arraste para ver a série histórica e a representação de mulheres, hispânico
 
 Resultados parciais de 5/11/2026, só para comparação.
 
-👉 Veja cada distrito, estado por estado: link na bio
+👉 Quer ver cada distrito do seu estado favorito? Mande-me um Direct que te envio o link.
 
 #eleicoes2026 #eua #midterms #congressoamericano #dados #datascience #visualizacaodedados #politicainternacional
 """, encoding="utf8")
