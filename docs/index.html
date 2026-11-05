@@ -1,9 +1,9 @@
 <!doctype html>
-<html lang="pt-BR">
+<html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Eleições nos EUA: Congresso e governadores, 2024 x 2026</title>
+<title>U.S. elections: Congress and governors, 2024 vs 2026</title>
 <style>
   :root { color-scheme: light; --page:#f9f9f7; --surface:#fcfcfb; --ink:#0b0b0b; --ink-2:#52514e; --muted:#898781;
           --line:#e1e0d9; --dem:#2a78d6; --rep:#e34948; --open:#c3c2b7; --warn:#fbf3df; }
@@ -29,51 +29,59 @@
   .D { color: var(--dem); font-weight: 700; } .R { color: var(--rep); font-weight: 700; } .O { color: var(--muted); }
   .flip { background: var(--warn); }
   .totals { display: flex; gap: 18px; flex-wrap: wrap; margin-top: 10px; }
+  sup.fn { font-size: .7em; line-height: 0; margin-left: 1px; }
+  sup.fn a { text-decoration: none; font-weight: 700; }
+  .notes { margin-top: 40px; font-size: .8rem; }
+  .notes hr { width: 5cm; max-width: 40%; margin: 0 0 8px; border: 0; border-top: 1px solid var(--ink-2); }
+  .notes ol { padding-left: 18px; margin: 0; }
+  .notes li { font-size: .8rem; line-height: 1.45; margin-bottom: 6px; overflow-wrap: anywhere; }
+  .notes .back { text-decoration: none; }
   footer { margin-top: 40px; font-size: .9rem; color: var(--muted); }
   footer a, main a { color: var(--dem); }
 </style>
 </head>
 <body>
 <main>
-<div class="top"><a href="en/" class="switch" hreflang="en">English version</a></div>
-<h1>Eleições nos EUA: Congresso e governadores, 2024 x 2026</h1>
-<p class="warn"><strong>Resultados parciais.</strong> Retrato de 5 de novembro de 2026, dois dias depois da eleição: 43 cadeiras da Câmara, 3 do Senado e 4 governos ainda sem vencedor. Os números servem para comparar, não são definitivos.</p>
-<p class="lead">Os Democratas passaram de 215 para pelo menos 246 cadeiras na Câmara, de 47 para 53 no Senado e de 24 para 27 governos estaduais. Comparei com a eleição de 2024 e com a série histórica desde 1913.</p>
-<div class="legend"><span><span class="sw" style="background:var(--dem)"></span>Democratas</span>
-<span><span class="sw" style="background:var(--rep)"></span>Republicanos</span>
-<span><span class="sw" style="background:var(--open)"></span>em aberto</span></div>
+<div class="top"><a href="pt/" class="switch" hreflang="pt-BR">Versão em português</a></div>
+<h1>U.S. elections: Congress and governors, 2024 vs 2026</h1>
+<p class="warn"><strong>Provisional results.</strong><sup class="fn"><a href="#nota-1" id="ref-1">1</a></sup> A snapshot from November 5, 2026, two days after the election: 43 House seats, 3 Senate seats and 4 governorships still uncalled. The numbers are for comparison and are not final.</p>
+<p class="lead">Democrats went from 215 to at least 246 House seats, from 47 to 53 in the Senate and from 24 to 27 governorships. I compared them with the 2024 election and with the historical series since 1913.</p>
+<div class="legend"><span><span class="sw" style="background:var(--dem)"></span>Democrats</span>
+<span><span class="sw" style="background:var(--rep)"></span>Republicans</span>
+<span><span class="sw" style="background:var(--open)"></span>uncalled</span></div>
 
-<h2 id="parte-1">1. Câmara, Senado e governadores</h2>
-<ul><li><strong>Câmara:</strong> 215 D x 220 R em 2024; agora 246 D x 146 R, com 43 em aberto. A maioria é 218: os Democratas já a têm.</li><li><strong>Senado:</strong> 47 D x 53 R antes da eleição (os dois independentes votam com os Democratas); agora 53 D x 44 R. Passaram para os Democratas: Iowa, Kansas, Maine, Carolina do Norte, Ohio (eleição especial), Carolina do Sul e Texas. Em aberto: Alasca, Michigan e Mississippi.</li><li><strong>Governadores:</strong> 24 D x 26 R antes; agora 27 D x 19 R. Viraram para os Democratas: Geórgia, Iowa, Nevada, Ohio e Texas. Em aberto: Alasca, Califórnia, Kansas e Oklahoma.</li></ul>
-<img src="img/01_nacional.png" alt="Barras de Câmara, Senado e governadores antes e depois da eleição">
+<h2 id="parte-1">1. House, Senate and governors</h2>
+<ul><li><strong>House:</strong> 215 D vs 220 R in 2024; now 246 D vs 146 R, with 43 uncalled. A majority is 218: Democrats already have it.</li><li><strong>Senate:</strong> 47 D vs 53 R before the election (both independents caucus with Democrats); now 53 D vs 44 R. Flipped to Democrats: Iowa, Kansas, Maine, North Carolina, Ohio (special), South Carolina and Texas. Uncalled: Alaska, Michigan and Mississippi.</li><li><strong>Governors:</strong> 24 D vs 26 R before; now 27 D vs 19 R. Flipped to Democrats: Georgia, Iowa, Nevada, Ohio and Texas. Uncalled: Alaska, California, Kansas and Oklahoma.</li></ul>
+<img src="img/01_nacional.png" alt="Bars for House, Senate and governors before and after the election">
 
-<h2 id="parte-2">2. Estado por estado</h2>
-<p>44 cadeiras passaram para os Democratas e 2 para os Republicanos. Vários estados redesenharam os distritos entre 2025 e 2026, por isso a comparação é pela bancada de cada estado e pelo partido que ganhou cada cadeira.</p>
-<img src="img/02_estados.png" alt="Cadeiras que mudaram de partido, por estado">
+<h2 id="parte-2">2. State by state</h2>
+<p>44 seats flipped to Democrats and 2 to Republicans. Several states redrew their maps in 2025 and 2026, so the comparison is by each state's delegation and by the party that won each seat.</p>
+<img src="img/02_estados.png" alt="Seats that changed party, by state">
 <section class="box">
-  <label for="st"><strong>Escolha um estado</strong></label>
+  <label for="st"><strong>Pick a state</strong></label>
   <select id="st"></select>
   <div class="totals" id="tot"></div>
-  <table><thead><tr><th>Distrito</th><th>2024</th><th>2026</th></tr></thead><tbody id="rows"></tbody></table>
+  <table><thead><tr><th>District</th><th>2024</th><th>2026</th></tr></thead><tbody id="rows"></tbody></table>
 </section>
 
-<h2 id="parte-3">3. A série histórica</h2>
-<p>De 1946 a 2022, o partido do presidente perdeu cadeiras na Câmara em 18 de 20 eleições de meio de mandato. A maior perda foi a de 2010: 64 cadeiras. Em 2026, os Republicanos perdem entre 31 e 74, dependendo das 43 cadeiras em aberto. Se a perda passar de 64, será a maior desde 1946.</p>
-<img src="img/03_midterms.png" alt="Cadeiras ganhas ou perdidas pelo partido do presidente em cada eleição de meio de mandato desde 1946">
-<img src="img/04_camara_historico.png" alt="Cadeiras de cada partido na Câmara desde 1913">
+<h2 id="parte-3">3. The historical series</h2>
+<p>From 1946 to 2022 the president's party lost House seats in 18 of 20 midterms. The biggest loss was in 2010: 64 seats. In 2026 Republicans lose between 31 and 74, depending on the 43 uncalled seats. A loss above 64 would be the biggest since 1946.</p>
+<img src="img/03_midterms.png" alt="Seats gained or lost by the president's party in every midterm since 1946">
+<img src="img/04_camara_historico.png" alt="House seats held by each party since 1913">
 
-<h2 id="parte-4">4. Mulheres, negros, hispânicos, indígenas e LGBTQ+</h2>
-<ul><li><strong>Mulheres:</strong> 125 eleitas para a Câmara em 2024 e pelo menos 124 em 2026, com 43 cadeiras em aberto. A mudança está nos partidos: as democratas passaram de 94 para 109; as republicanas, de 31 para 15. As 26 novatas já confirmadas são todas democratas.</li><li><strong>Hispânicos:</strong> 49 em 2024 e pelo menos 50 em 2026, com 14 novatos.</li><li><strong>Indígenas:</strong> 3 na Câmara em 2024 e 4 em 2026, com Claire Valdez (Nova York). No Senado, Peggy Flanagan (Minnesota) será a primeira mulher indígena eleita senadora.</li><li><strong>LGBTQ+:</strong> 12 na Câmara no início de 2025 e pelo menos 13 em 2026. No Senado, Chris Pappas (New Hampshire) é o primeiro homem abertamente gay eleito senador e se junta a Tammy Baldwin.</li><li><strong>Negros:</strong> 61 eleitos em 2024; 46 foram reeleitos. Ainda não há lista dos novatos. A imprensa destaca Melat Kiros, primeira congressista negra do Colorado, e Juliana Stratton, eleita senadora por Illinois.</li></ul>
-<img src="img/05_diversidade_serie.png" alt="Membros de cada grupo na Câmara por legislatura desde 1945">
-<img src="img/06_grupos_2024_2026.png" alt="Eleitos de cada grupo em 2024 e o que se sabe de 2026">
-<img src="img/07_mulheres_partido.png" alt="Mulheres eleitas para a Câmara por partido, 2024 e 2026">
+<h2 id="parte-4">4. Women, Black, Hispanic, Native American and LGBTQ+ members<sup class="fn"><a href="#nota-2" id="ref-2">2</a></sup></h2>
+<ul><li><strong>Women:</strong> 125 elected to the House in 2024 and at least 124 in 2026, with 43 seats uncalled. The change is in the parties: Democratic women went from 94 to 109; Republican women from 31 to 15. All 26 first-time women confirmed so far are Democrats.</li><li><strong>Hispanic Americans:</strong> 49 in 2024 and at least 50 in 2026, with 14 first-time winners.<sup class="fn"><a href="#nota-4" id="ref-4">4</a></sup></li><li><strong>Native Americans:</strong> 3 in the House in 2024 and 4 in 2026, with Claire Valdez (New York). In the Senate, Peggy Flanagan (Minnesota) will be the first Native American woman elected senator.</li><li><strong>LGBTQ+:</strong> 12 in the House at the start of 2025 and at least 13 in 2026. In the Senate, Chris Pappas (New Hampshire) is the first openly gay man elected senator and joins Tammy Baldwin.<sup class="fn"><a href="#nota-3" id="ref-3">3</a></sup></li><li><strong>Black Americans:</strong> 61 elected in 2024; 46 were re-elected. There is no list of first-time winners yet. The press highlights Melat Kiros, Colorado's first Black congresswoman, and Juliana Stratton, elected senator for Illinois.<sup class="fn"><a href="#nota-3" id="ref-3">3</a></sup></li></ul>
+<img src="img/05_diversidade_serie.png" alt="Members of each group in the House by Congress since 1945">
+<img src="img/06_grupos_2024_2026.png" alt="Members of each group elected in 2024 and what is known of 2026">
+<img src="img/07_mulheres_partido.png" alt="Women elected to the House by party, 2024 and 2026">
 
-<h2>Como ler os números</h2>
-<ul><li>Azul é sempre Democrata e vermelho, sempre Republicano. Outros partidos e disputas sem resultado ficam em cinza.</li><li>Uma disputa só conta como decidida quando a fonte marca o vencedor. Nenhum resultado é estimado.</li><li>2024 bate com o resultado oficial da Câmara: 220 Republicanos e 215 Democratas.</li><li>A série histórica da Câmara é a tabela oficial <em>Party Divisions</em> do Historiador da Câmara.</li><li>Mulheres, negros e hispânicos por legislatura vêm das listas oficiais do Historiador da Câmara; indígenas e LGBTQ+, das listas da Wikipedia. A linha conta quem passou pela Câmara em cada legislatura, inclusive substitutos; os pontos contam só os eleitos em novembro.</li><li>Mulheres eleitas em 2026: para quem já está na Câmara, o tratamento oficial do Clerk (Mr./Ms.); para as novatas, os pronomes do artigo da Wikipedia de cada uma. Quem não tem fonte fica de fora; nada é deduzido pelo primeiro nome.</li><li>Novatos dos outros grupos só entram quando uma fonte os nomeia. Por isso 2026 é um mínimo, não um total.</li><li>Novato quer dizer quem não está na Câmara atual; alguns, como Elaine Luria, já foram deputados antes.</li></ul>
-<footer><p>Fontes: Wikipedia (artigos das eleições de 2024 e 2026 para Câmara, Senado e governadores, que citam AP, DDHQ e as secretarias estaduais), House Clerk (MemberData.xml), House Historian (Party Divisions e listas de mulheres, negros e hispânicos), unitedstates/congress-legislators e a imprensa citada no texto.</p><p>Código e dados: <a href="https://github.com/JeffAirData/eua-eleicoes-congresso-2024-2026">github.com/JeffAirData/eua-eleicoes-congresso-2024-2026</a></p></footer>
+<h2>How to read the numbers</h2>
+<ul><li>Blue is always Democratic and red always Republican. Other parties and uncalled races are grey.</li><li>A race counts as called only when the source marks a winner. No result is estimated.</li><li>2024 matches the official House result: 220 Republicans and 215 Democrats.</li><li>The House series is the House Historian's official <em>Party Divisions</em> table.</li><li>Women, Black and Hispanic members by Congress come from the House Historian's official lists; Native American and LGBTQ+ members from Wikipedia's lists. The line counts everyone who served during each Congress, replacements included; the dots count only those elected in November.</li><li>Women elected in 2026: the Clerk's courtesy title (Mr./Ms.) for current members; for first-time winners, the pronouns in each one's Wikipedia article. Winners with no source are left out; nothing is inferred from first names.</li><li>First-time winners of the other groups count only when a source names them, so 2026 is a minimum, not a total.</li><li>First-time means not in the current House; a few, such as Elaine Luria, served before.</li></ul>
+<section class="notes" aria-label="Notes"><hr><ol><li id="nota-1">The source of the 2026 results is Wikipedia, which cites AP, Decision Desk HQ and state election offices; the Nov. 5, 2026 revision is stored in <code>Data/raw/</code>. AP blocks automated reading. For 2024 the same method reproduces the official result exactly (220 vs 215, Republicans vs Democrats). In the seats already called, the House numbers are slightly ahead of AP's tally of Nov. 5, 2026 at 9:10 a.m. (Brasília time): 240 D vs 147 R. WIKIPEDIA. <em>2026 United States House of Representatives elections</em>. Available at: https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections. Accessed: Nov. 5, 2026. <a href="#ref-1" class="back" aria-label="back to text">↩</a></li><li id="nota-2">The 2026 diversity numbers are minimums, not totals: a first-time winner counts only when a source names them. The gender of first-time winners comes from the pronouns in each one's Wikipedia article; 11 winners with no article are left out. Nothing is inferred from first names. <a href="#ref-2" class="back" aria-label="back to text">↩</a></li><li id="nota-3">Information found only in the press, still to be checked: the four first-time LGBTQ+ winners and Melat Kiros as Colorado's first Black congresswoman. WASHINGTON BLADE. <em>Record number of LGBTQ lawmakers elected to Congress in midterms</em>. Nov. 4, 2026. Available at: https://www.washingtonblade.com/2026/11/04/record-number-lgbtq-lawmakers-elected-congress-midterms/. Accessed: Nov. 5, 2026. FAST COMPANY. <em>A night of historic firsts</em>. Available at: https://www.fastcompany.com/91635400/midterm-elections-2026-list-of-historic-firsts-diverse-winners. Accessed: Nov. 5, 2026. See also Advocate, GLAAD and ABC News. <a href="#ref-3" class="back" aria-label="back to text">↩</a></li><li id="nota-4">Sources disagree: Wikipedia's list of Hispanic winners does not include Denise Powell (Nebraska), whom the press calls the state's first Hispanic member of Congress. She is not counted until the list includes her. <a href="#ref-4" class="back" aria-label="back to text">↩</a></li></ol></section>
+<footer><p>Sources: Wikipedia (the 2024 and 2026 House, Senate and governor election articles, which cite AP, DDHQ and state election offices), House Clerk (MemberData.xml), House Historian (Party Divisions and the lists of women, Black and Hispanic members), unitedstates/congress-legislators and the press cited in the text.</p><p>Code and data: <a href="https://github.com/JeffAirData/usa-congress-elections-2024-2026">github.com/JeffAirData/usa-congress-elections-2024-2026</a></p></footer>
 </main>
 <script>
-const L = {"seats": "cadeiras", "d": "Distrito", "open": "em aberto", "gain": "mudou de partido", "nameKey": "pt", "al": "único"};
+const L = {"seats": "seats", "d": "District", "open": "uncalled", "gain": "changed party", "nameKey": "en", "al": "at large"};
 const sel = document.getElementById("st"), rows = document.getElementById("rows"), tot = document.getElementById("tot");
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[c]));
 const cell = (w, p) => w ? `<span class="${p === "D" || p === "R" ? p : "O"}">${esc(w)} (${esc(p)})</span>` : `<span class="O">${L.open}</span>`;

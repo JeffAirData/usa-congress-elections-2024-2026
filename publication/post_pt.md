@@ -1,4 +1,4 @@
-Imagens: `docs/img/01_nacional.png` a `07_mulheres_partido.png` (carrossel).
+Imagens: `docs/pt/img/01_nacional.png` a `07_mulheres_partido.png` (carrossel).
 
 ---
 
@@ -17,10 +17,10 @@ Na representação:
 - LGBTQ+: de 12 para pelo menos 13 na Câmara; Chris Pappas é o primeiro homem abertamente gay eleito senador.
 
 Escolha um estado e veja cada distrito, 2024 x 2026:
-https://jeffairdata.github.io/eua-eleicoes-congresso-2024-2026/
+https://jeffairdata.github.io/usa-congress-elections-2024-2026/pt/
 
 Azul é Democrata, vermelho é Republicano. Nenhum resultado em aberto foi estimado.
 
-Código e dados: https://github.com/JeffAirData/eua-eleicoes-congresso-2024-2026
+Código e dados: https://github.com/JeffAirData/usa-congress-elections-2024-2026
 
 #Eleições2026 #EUA #DadosAbertos #DataScience

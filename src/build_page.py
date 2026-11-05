@@ -1,4 +1,4 @@
-"""Build the GitHub Pages site in two languages: docs/index.html (Portuguese) and docs/en/index.html (English).
+"""Build the GitHub Pages site in two languages: docs/index.html (English, the main page) and docs/pt/index.html (Portuguese).
 
 One button at the top switches language. Every number comes from Data/processed/summary_2026.json and the group
 tables, so the two pages always say the same thing.
@@ -13,12 +13,17 @@ import pandas as pd
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "Data" / "processed"
 DOCS = ROOT / "docs"
-REPO = "https://github.com/JeffAirData/eua-eleicoes-congresso-2024-2026"
+REPO = "https://github.com/JeffAirData/usa-congress-elections-2024-2026"
 
 PT_STATES = {"Iowa": "Iowa", "Kansas": "Kansas", "Maine": "Maine", "North Carolina": "Carolina do Norte",
              "Ohio (special)": "Ohio (eleição especial)", "South Carolina": "Carolina do Sul", "Texas": "Texas",
              "Georgia": "Geórgia", "Nevada": "Nevada", "Ohio": "Ohio", "Alaska": "Alasca", "Michigan": "Michigan",
              "Mississippi": "Mississippi", "California": "Califórnia", "Oklahoma": "Oklahoma"}
+
+
+def fn(n: int) -> str:
+    """ABNT-style note call: superscript number linked to the note at the foot of the page."""
+    return f'<sup class="fn"><a href="#nota-{n}" id="ref-{n}">{n}</a></sup>'
 
 
 def lst(items, lang):
@@ -40,15 +45,15 @@ def texts(lang: str) -> dict:
     T = {}
     T["lang"] = "pt-BR" if pt else "en"
     T["title"] = "Eleições nos EUA: Congresso e governadores, 2024 x 2026" if pt else "U.S. elections: Congress and governors, 2024 vs 2026"
-    T["switch"] = ('<a href="en/" class="switch" hreflang="en">English version</a>' if pt
-                   else '<a href="../" class="switch" hreflang="pt-BR">Versão em português</a>')
+    T["switch"] = ('<a href="../" class="switch" hreflang="en">English version</a>' if pt
+                   else '<a href="pt/" class="switch" hreflang="pt-BR">Versão em português</a>')
     T["img"] = "img/"
     T["leg_d"], T["leg_r"] = ("Democratas", "Republicanos") if pt else ("Democrats", "Republicans")
-    T["data"] = "data.json" if pt else "../data.json"
-    T["warn"] = (f"<strong>Resultados parciais.</strong> Retrato de 5 de novembro de 2026, dois dias depois da eleição: "
+    T["data"] = "../data.json" if pt else "data.json"
+    T["warn"] = (f"<strong>Resultados parciais.</strong>{fn(1)} Retrato de 5 de novembro de 2026, dois dias depois da eleição: "
                  f"{h26['open']} cadeiras da Câmara, {s26['open']} do Senado e {g26['open']} governos ainda sem vencedor. "
                  f"Os números servem para comparar, não são definitivos." if pt else
-                 f"<strong>Provisional results.</strong> A snapshot from November 5, 2026, two days after the election: "
+                 f"<strong>Provisional results.</strong>{fn(1)} A snapshot from November 5, 2026, two days after the election: "
                  f"{h26['open']} House seats, {s26['open']} Senate seats and {g26['open']} governorships still uncalled. "
                  f"The numbers are for comparison and are not final.")
     T["lead"] = (f"Os Democratas passaram de {h24['D']} para pelo menos {h26['D']} cadeiras na Câmara, "
@@ -89,37 +94,76 @@ def texts(lang: str) -> dict:
                       f"From 1946 to 2022 the president's party lost House seats in {n_loss} of {n_mid} midterms. The biggest loss was in "
                       f"{int(worst.year)}: {-int(worst.change)} seats. In 2026 Republicans lose between {loss_min} and {loss_max}, depending on the "
                       f"{h26['open']} uncalled seats. A loss above {-int(worst.change)} would be the biggest since 1946.")
-    T["h_div"] = "4. Mulheres, negros, hispânicos, indígenas e LGBTQ+" if pt else "4. Women, Black, Hispanic, Native American and LGBTQ+ members"
+    T["h_div"] = ("4. Mulheres, negros, hispânicos, indígenas e LGBTQ+" if pt else "4. Women, Black, Hispanic, Native American and LGBTQ+ members") + fn(2)
     T["p_div"] = (
         f"<ul><li><strong>Mulheres:</strong> {g.loc['women','elected_2024']} eleitas para a Câmara em 2024 e pelo menos "
         f"{g.loc['women','at_least_2026']} em 2026, com {h26['open']} cadeiras em aberto. A mudança está nos partidos: "
         f"as democratas passaram de {w['D_2024']} para {w['D_2026']}; as republicanas, de {w['R_2024']} para {w['R_2026']}. "
         f"As {g.loc['women','new_identified']} novatas já confirmadas são todas democratas.</li>"
         f"<li><strong>Hispânicos:</strong> {g.loc['hispanic','elected_2024']} em 2024 e pelo menos {g.loc['hispanic','at_least_2026']} em 2026, "
-        f"com {g.loc['hispanic','new_identified']} novatos.</li>"
+        f"com {g.loc['hispanic','new_identified']} novatos.{fn(4)}</li>"
         f"<li><strong>Indígenas:</strong> {g.loc['native','elected_2024']} na Câmara em 2024 e {g.loc['native','at_least_2026']} em 2026, "
         f"com Claire Valdez (Nova York). No Senado, Peggy Flanagan (Minnesota) será a primeira mulher indígena eleita senadora.</li>"
         f"<li><strong>LGBTQ+:</strong> {g.loc['lgbtq','elected_2024']} na Câmara no início de 2025 e pelo menos "
         f"{g.loc['lgbtq','at_least_2026']} em 2026. No Senado, Chris Pappas (New Hampshire) é o primeiro homem abertamente gay eleito "
-        f"senador e se junta a Tammy Baldwin.</li>"
+        f"senador e se junta a Tammy Baldwin.{fn(3)}</li>"
         f"<li><strong>Negros:</strong> {g.loc['black','elected_2024']} eleitos em 2024; {g.loc['black','reelected']} foram reeleitos. "
         f"Ainda não há lista dos novatos. A imprensa destaca Melat Kiros, primeira congressista negra do Colorado, e Juliana Stratton, "
-        f"eleita senadora por Illinois.</li></ul>"
+        f"eleita senadora por Illinois.{fn(3)}</li></ul>"
         if pt else
         f"<ul><li><strong>Women:</strong> {g.loc['women','elected_2024']} elected to the House in 2024 and at least "
         f"{g.loc['women','at_least_2026']} in 2026, with {h26['open']} seats uncalled. The change is in the parties: "
         f"Democratic women went from {w['D_2024']} to {w['D_2026']}; Republican women from {w['R_2024']} to {w['R_2026']}. "
         f"All {g.loc['women','new_identified']} first-time women confirmed so far are Democrats.</li>"
         f"<li><strong>Hispanic Americans:</strong> {g.loc['hispanic','elected_2024']} in 2024 and at least {g.loc['hispanic','at_least_2026']} "
-        f"in 2026, with {g.loc['hispanic','new_identified']} first-time winners.</li>"
+        f"in 2026, with {g.loc['hispanic','new_identified']} first-time winners.{fn(4)}</li>"
         f"<li><strong>Native Americans:</strong> {g.loc['native','elected_2024']} in the House in 2024 and {g.loc['native','at_least_2026']} in 2026, "
         f"with Claire Valdez (New York). In the Senate, Peggy Flanagan (Minnesota) will be the first Native American woman elected senator.</li>"
         f"<li><strong>LGBTQ+:</strong> {g.loc['lgbtq','elected_2024']} in the House at the start of 2025 and at least "
         f"{g.loc['lgbtq','at_least_2026']} in 2026. In the Senate, Chris Pappas (New Hampshire) is the first openly gay man elected "
-        f"senator and joins Tammy Baldwin.</li>"
+        f"senator and joins Tammy Baldwin.{fn(3)}</li>"
         f"<li><strong>Black Americans:</strong> {g.loc['black','elected_2024']} elected in 2024; {g.loc['black','reelected']} were re-elected. "
         f"There is no list of first-time winners yet. The press highlights Melat Kiros, Colorado's first Black congresswoman, "
-        f"and Juliana Stratton, elected senator for Illinois.</li></ul>")
+        f"and Juliana Stratton, elected senator for Illinois.{fn(3)}</li></ul>")
+    back = lambda n: f' <a href="#ref-{n}" class="back" aria-label="{"voltar ao texto" if pt else "back to text"}">↩</a>'
+    ap = f"{h24['R']} x {h24['D']}" if pt else f"{h24['R']} vs {h24['D']}"
+    T["notes"] = "".join(f'<li id="nota-{i}">{txt}{back(i)}</li>' for i, txt in enumerate((
+        [f"A fonte dos resultados de 2026 é a Wikipedia, que cita AP, Decision Desk HQ e as secretarias estaduais de eleição; "
+         f"a revisão de 5 nov. 2026 está guardada em <code>Data/raw/</code>. A AP bloqueia leitura automática. Para 2024, o mesmo "
+         f"método reproduz exatamente o resultado oficial ({ap}, Republicanos x Democratas). Nas cadeiras já decididas, os números "
+         f"da Câmara estão um pouco à frente do placar da AP de 5 nov. 2026, às 9h10 (horário de Brasília): 240 D x 147 R. "
+         f"WIKIPEDIA. <em>2026 United States House of Representatives elections</em>. Disponível em: "
+         f"https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections. Acesso em: 5 nov. 2026.",
+         "Os números de diversidade de 2026 são mínimos, não totais: um novato só entra quando alguma fonte o nomeia. O gênero "
+         f"dos novatos vem dos pronomes do artigo de cada um na Wikipedia; {w['unknown']} vencedores sem artigo ficaram de fora. "
+         "Nada é deduzido pelo primeiro nome.",
+         "Informações obtidas só na imprensa, ainda a conferir: os quatro novatos LGBTQ+ e Melat Kiros como primeira congressista "
+         "negra do Colorado. WASHINGTON BLADE. <em>Record number of LGBTQ lawmakers elected to Congress in midterms</em>. 4 nov. 2026. "
+         "Disponível em: https://www.washingtonblade.com/2026/11/04/record-number-lgbtq-lawmakers-elected-congress-midterms/. "
+         "Acesso em: 5 nov. 2026. FAST COMPANY. <em>A night of historic firsts</em>. Disponível em: "
+         "https://www.fastcompany.com/91635400/midterm-elections-2026-list-of-historic-firsts-diverse-winners. Acesso em: 5 nov. 2026. "
+         "Ver também Advocate, GLAAD e ABC News.",
+         "Divergência entre fontes: a lista de hispânicos eleitos da Wikipedia não inclui Denise Powell (Nebraska), que a imprensa "
+         "cita como a primeira pessoa hispânica do estado no Congresso. Ela não entra na contagem até que a lista a inclua."]
+        if pt else
+        [f"The source of the 2026 results is Wikipedia, which cites AP, Decision Desk HQ and state election offices; the "
+         f"Nov. 5, 2026 revision is stored in <code>Data/raw/</code>. AP blocks automated reading. For 2024 the same method "
+         f"reproduces the official result exactly ({ap}, Republicans vs Democrats). In the seats already called, the House "
+         f"numbers are slightly ahead of AP's tally of Nov. 5, 2026 at 9:10 a.m. (Brasília time): 240 D vs 147 R. "
+         f"WIKIPEDIA. <em>2026 United States House of Representatives elections</em>. Available at: "
+         f"https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections. Accessed: Nov. 5, 2026.",
+         "The 2026 diversity numbers are minimums, not totals: a first-time winner counts only when a source names them. The "
+         f"gender of first-time winners comes from the pronouns in each one's Wikipedia article; {w['unknown']} winners with no "
+         "article are left out. Nothing is inferred from first names.",
+         "Information found only in the press, still to be checked: the four first-time LGBTQ+ winners and Melat Kiros as "
+         "Colorado's first Black congresswoman. WASHINGTON BLADE. <em>Record number of LGBTQ lawmakers elected to Congress in "
+         "midterms</em>. Nov. 4, 2026. Available at: https://www.washingtonblade.com/2026/11/04/record-number-lgbtq-lawmakers-elected-congress-midterms/. "
+         "Accessed: Nov. 5, 2026. FAST COMPANY. <em>A night of historic firsts</em>. Available at: "
+         "https://www.fastcompany.com/91635400/midterm-elections-2026-list-of-historic-firsts-diverse-winners. Accessed: Nov. 5, 2026. "
+         "See also Advocate, GLAAD and ABC News.",
+         "Sources disagree: Wikipedia's list of Hispanic winners does not include Denise Powell (Nebraska), whom the press "
+         "calls the state's first Hispanic member of Congress. She is not counted until the list includes her."]), start=1))
+    T["notes_title"] = "Notas" if pt else "Notes"
     T["h_method"] = "Como ler os números" if pt else "How to read the numbers"
     T["p_method"] = (
         "<ul><li>Azul é sempre Democrata e vermelho, sempre Republicano. Outros partidos e disputas sem resultado ficam em cinza.</li>"
@@ -200,6 +244,13 @@ PAGE = """<!doctype html>
   .D {{ color: var(--dem); font-weight: 700; }} .R {{ color: var(--rep); font-weight: 700; }} .O {{ color: var(--muted); }}
   .flip {{ background: var(--warn); }}
   .totals {{ display: flex; gap: 18px; flex-wrap: wrap; margin-top: 10px; }}
+  sup.fn {{ font-size: .7em; line-height: 0; margin-left: 1px; }}
+  sup.fn a {{ text-decoration: none; font-weight: 700; }}
+  .notes {{ margin-top: 40px; font-size: .8rem; }}
+  .notes hr {{ width: 5cm; max-width: 40%; margin: 0 0 8px; border: 0; border-top: 1px solid var(--ink-2); }}
+  .notes ol {{ padding-left: 18px; margin: 0; }}
+  .notes li {{ font-size: .8rem; line-height: 1.45; margin-bottom: 6px; overflow-wrap: anywhere; }}
+  .notes .back {{ text-decoration: none; }}
   footer {{ margin-top: 40px; font-size: .9rem; color: var(--muted); }}
   footer a, main a {{ color: var(--dem); }}
 </style>
@@ -241,6 +292,7 @@ PAGE = """<!doctype html>
 
 <h2>{h_method}</h2>
 {p_method}
+<section class="notes" aria-label="{notes_title}"><hr><ol>{notes}</ol></section>
 <footer><p>{sources}</p><p>{code}</p></footer>
 </main>
 <script>
@@ -268,7 +320,7 @@ fetch("{data}").then(r => r.json()).then(d => {{
 
 
 def main() -> None:
-    for lang, out in (("pt", DOCS / "index.html"), ("en", DOCS / "en" / "index.html")):
+    for lang, out in (("en", DOCS / "index.html"), ("pt", DOCS / "pt" / "index.html")):
         T = texts(lang)
         alt = {f"alt_{k[:2]}": v for k, v in T.pop("alt").items()}
         js = T.pop("js")

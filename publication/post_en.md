@@ -1,4 +1,4 @@
-Images: `docs/en/img/01_nacional.png` to `07_mulheres_partido.png` (carousel).
+Images: `docs/img/01_nacional.png` to `07_mulheres_partido.png` (carousel).
 
 ---
 
@@ -17,10 +17,10 @@ Representation:
 - LGBTQ+: from 12 to at least 13 in the House; Chris Pappas is the first openly gay man elected senator.
 
 Pick a state and see every district, 2024 vs 2026:
-https://jeffairdata.github.io/eua-eleicoes-congresso-2024-2026/en/
+https://jeffairdata.github.io/usa-congress-elections-2024-2026/
 
 Blue is Democratic, red is Republican. No uncalled race was estimated.
 
-Code and data: https://github.com/JeffAirData/eua-eleicoes-congresso-2024-2026
+Code and data: https://github.com/JeffAirData/usa-congress-elections-2024-2026
 
 #Midterms2026 #USPolitics #OpenData #DataScience

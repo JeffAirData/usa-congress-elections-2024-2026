@@ -1,76 +1,84 @@
-# Eleições nos EUA: Congresso e governadores, 2024 x 2026
+# U.S. elections: Congress and governors, 2024 vs 2026
 
-As eleições de meio de mandato de 3 de novembro de 2026 comparadas com a eleição de 2024 e com a série histórica: Câmara, Senado e governadores, sempre Democratas (azul) contra Republicanos (vermelho), e a representação de mulheres, negros, hispânicos, indígenas e LGBTQ+ na Câmara.
+The November 3, 2026 midterms compared with the 2024 election and with the historical series: House, Senate and governors, always Democrats (blue) against Republicans (red), and the representation of women, Black, Hispanic, Native American and LGBTQ+ members of the House.
 
-👉 **[Abrir a página](https://jeffairdata.github.io/eua-eleicoes-congresso-2024-2026/)**: escolha um estado e veja cada distrito, 2024 x 2026.
+👉 **[Open the page](https://jeffairdata.github.io/usa-congress-elections-2024-2026/)**: pick a state and see every district, 2024 vs 2026.
 
-🇺🇸 **English:** [jeffairdata.github.io/eua-eleicoes-congresso-2024-2026/en/](https://jeffairdata.github.io/eua-eleicoes-congresso-2024-2026/en/). O botão no topo de cada página troca de idioma.
+🇧🇷 **Português:** [jeffairdata.github.io/usa-congress-elections-2024-2026/pt/](https://jeffairdata.github.io/usa-congress-elections-2024-2026/pt/). The button at the top of each page switches language.
 
-> **Resultados parciais.** Retrato de 5 de novembro de 2026. Na Câmara ainda há 43 cadeiras em aberto; no Senado, 3; entre os governadores, 4. Os números de 2026 servem para comparar, não são definitivos. Para atualizar, rode `./run_all.sh --download`.
+> **Provisional results.**¹ A snapshot from November 5, 2026. 43 House seats, 3 Senate seats and 4 governorships are still uncalled. The 2026 numbers are for comparison and are not final. To refresh them, run `./run_all.sh --download`.
 
-## Os quatro recortes
+## The four comparisons
 
-| | Recorte | Gráficos |
+| | Comparison | Charts |
 |---|---|---|
-| 1 | Câmara, Senado e governadores, antes e depois | `01_nacional.png` |
-| 2 | Estado por estado: cadeiras que mudaram de partido | `02_estados.png` |
-| 3 | Série histórica: o partido do presidente nas eleições de meio de mandato desde 1946 e a Câmara desde 1913 | `03_midterms.png`, `04_camara_historico.png` |
-| 4 | Mulheres, negros, hispânicos, indígenas e LGBTQ+ na Câmara, por legislatura, e 2024 x 2026 | `05_diversidade_serie.png`, `06_grupos_2024_2026.png`, `07_mulheres_partido.png` |
+| 1 | House, Senate and governors, before and after | `01_nacional.png` |
+| 2 | State by state: seats that changed party | `02_estados.png` |
+| 3 | Historical series: the president's party in every midterm since 1946, and the House since 1913 | `03_midterms.png`, `04_camara_historico.png` |
+| 4 | Women, Black, Hispanic, Native American and LGBTQ+ members of the House, by Congress, and 2024 vs 2026² | `05_diversidade_serie.png`, `06_grupos_2024_2026.png`, `07_mulheres_partido.png` |
 
-Gráficos em português em `docs/img/` e em inglês em `docs/en/img/`.
+English charts are in `docs/img/`, Portuguese charts in `docs/pt/img/`.
 
-![Câmara, Senado e governadores](docs/img/01_nacional.png)
-![Meio de mandato desde 1946](docs/img/03_midterms.png)
-![Diversidade na Câmara](docs/img/05_diversidade_serie.png)
+![House, Senate and governors](docs/img/01_nacional.png)
+![Midterms since 1946](docs/img/03_midterms.png)
+![Diversity in the House](docs/img/05_diversidade_serie.png)
 
-## Como ler os números
+## How to read the numbers
 
-- **Cores fixas:** azul para Democratas, vermelho para Republicanos, cinza para outros partidos e disputas sem resultado. Os dois senadores independentes (Sanders e King) votam com os Democratas e entram no total democrata.
-- **Disputa decidida** é a que a fonte marca com vencedor. Nada é estimado.
-- **2024 confere com o oficial:** o parser lê 220 Republicanos e 215 Democratas, como na tabela *Party Divisions* do Historiador da Câmara.
-- **Mapas redesenhados:** vários estados mudaram os distritos entre 2025 e 2026. Por isso a comparação é pela bancada de cada estado e pelo partido que ganhou cada cadeira ("ganho" quando muda de partido), não distrito a distrito.
-- **Série dos grupos:** a linha conta quem passou pela Câmara em cada legislatura, inclusive substitutos; os pontos contam só os eleitos em novembro, nos dois anos com o mesmo critério.
-- **Mulheres em 2026:** para quem já está na Câmara, o tratamento oficial do Clerk (Mr./Ms.); para as novatas, os pronomes do artigo da Wikipedia de cada uma. 11 vencedores sem artigo ficam de fora. Nada é deduzido pelo primeiro nome.
-- **Novatos dos outros grupos** só entram quando uma fonte os nomeia: a lista de eleitos da Wikipedia para hispânicos e indígenas, e a imprensa para LGBTQ+ e negros. 2026 é um mínimo, não um total. Para negros, ainda não há lista de novatos.
-- **Novato** é quem não está na Câmara atual; alguns, como Elaine Luria, já foram deputados antes.
-- **LGBTQ+** conta quem já era assumido durante o mandato; quem se assumiu depois ou foi identificado postumamente fica de fora.
+- **Fixed colours:** blue for Democrats, red for Republicans, grey for other parties and uncalled races. The two independent senators (Sanders and King) caucus with Democrats and count in the Democratic total.
+- **A race is called** when the source marks a winner. Nothing is estimated.
+- **2024 matches the official result:** the parser reads 220 Republicans and 215 Democrats, as in the House Historian's *Party Divisions* table.
+- **Redrawn maps:** several states changed their districts in 2025 and 2026, so the comparison is by each state's delegation and by the party that won each seat (a "gain" when the seat changes party), not district against district.
+- **Group series:** the line counts everyone who served during each Congress, replacements included; the dots count only members elected in November, by the same rule in both years.
+- **Women in 2026:** the Clerk's courtesy title (Mr./Ms.) for current members; for first-time winners, the pronouns in each one's Wikipedia article. 11 winners with no article are left out. Nothing is inferred from first names.
+- **First-time winners of the other groups** count only when a source names them: Wikipedia's lists of members-elect for Hispanic and Native American members, and the press for LGBTQ+ and Black members.³ 2026 is a minimum, not a total. For Black members there is no list of first-time winners yet.
+- **First-time** means not in the current House; a few, such as Elaine Luria, served before.
+- **LGBTQ+** counts members who were out while serving; those who came out later or were identified posthumously are left out.
 
-## Fontes
+## Sources
 
-| Dado | Fonte |
+| Data | Source |
 |---|---|
-| Resultados de 2024 e 2026, distrito a distrito; Senado e governadores 2026 | Wikipedia, artigos das eleições (citam AP, Decision Desk HQ e secretarias estaduais), texto bruto com revisão fixada em `Data/raw/` |
-| Câmara por partido em cada legislatura, desde 1913 | [House Historian, Party Divisions](https://history.house.gov/Institution/Party-Divisions/Party-Divisions/) |
-| Mulheres, negros e hispânicos por legislatura | House Historian: [mulheres](https://history.house.gov/Exhibitions-and-Publications/WIC/Historical-Data/Women-Representatives-and-Senators-by-Congress/), [negros](https://history.house.gov/Exhibitions-and-Publications/BAIC/Historical-Data/Black-American-Representatives-and-Senators-by-Congress/), [hispânicos](https://history.house.gov/Exhibitions-and-Publications/HAIC/Historical-Data/Hispanic-American-Representatives,-Senators,-Delegates,-and-Resident-Commissioners-by-Congress/) |
-| Indígenas e LGBTQ+ | Wikipedia: *List of Native Americans in the United States Congress*, *List of LGBTQ members of the United States Congress* |
-| Membros atuais e tratamento (Mr./Ms.) | [House Clerk, MemberData.xml](https://clerk.house.gov/xml/lists/MemberData.xml) |
-| Novatos LGBTQ+ e negros de 2026 | Washington Blade, Advocate, GLAAD, Fast Company e ABC News (4 e 5/11/2026) |
+| 2024 and 2026 results by district; 2026 Senate and governors | Wikipedia election articles (citing AP, Decision Desk HQ and state election offices), raw wikitext stored in `Data/raw/` |
+| House seats by party in every Congress since 1913 | [House Historian, Party Divisions](https://history.house.gov/Institution/Party-Divisions/Party-Divisions/) |
+| Women, Black and Hispanic members by Congress | House Historian: [women](https://history.house.gov/Exhibitions-and-Publications/WIC/Historical-Data/Women-Representatives-and-Senators-by-Congress/), [Black Americans](https://history.house.gov/Exhibitions-and-Publications/BAIC/Historical-Data/Black-American-Representatives-and-Senators-by-Congress/), [Hispanic Americans](https://history.house.gov/Exhibitions-and-Publications/HAIC/Historical-Data/Hispanic-American-Representatives,-Senators,-Delegates,-and-Resident-Commissioners-by-Congress/) |
+| Native American and LGBTQ+ members | Wikipedia: *List of Native Americans in the United States Congress*, *List of LGBTQ members of the United States Congress* |
+| Current members and courtesy titles | [House Clerk, MemberData.xml](https://clerk.house.gov/xml/lists/MemberData.xml) |
+| First-time LGBTQ+ and Black winners in 2026 | Washington Blade, Advocate, GLAAD, Fast Company and ABC News (Nov. 4–5, 2026) |
 
-Quando a AP e as secretarias estaduais fecharem a contagem, a fonte final será o Clerk da Câmara (*Statistics of the Congressional Election*), e as contagens oficiais de diversidade virão do CAWP (mulheres), do CRS e do Pew.
+Once AP and the states finish counting, the final source will be the House Clerk (*Statistics of the Congressional Election*), and the official diversity counts will come from CAWP (women), CRS and Pew.
 
 ---
 
-## Para quem quer os dados
+## For those who want the data
 
-Em `Data/processed/`:
+In `Data/processed/`:
 
-| Arquivo | Conteúdo |
+| File | Contents |
 |---|---|
-| `house_districts_2024.csv`, `house_districts_2026.csv` | um distrito por linha: membros anteriores, vencedor, partido, se já foi decidido, rótulo (ganho ou manutenção) |
-| `house_states_2024_2026.csv` | uma linha por estado: cadeiras D e R em 2024 e em 2026, em aberto |
-| `senate_races_2026.csv`, `governor_races_2026.csv` | as 35 disputas do Senado e as 36 de governador |
-| `house_party_divisions.csv` | Câmara por partido no início de cada legislatura desde 1913 |
-| `midterm_president_party_change.csv` | cadeiras ganhas ou perdidas pelo partido do presidente em cada meio de mandato desde 1946 |
-| `members_by_group_and_congress.csv` | cada mulher, negro e hispânico em cada legislatura (Historiador da Câmara) |
-| `house_group_series.csv` | contagem por grupo e legislatura, os cinco grupos |
-| `group_members_119_status_2026.csv` | o que aconteceu em 2026 com cada membro desses grupos da Câmara atual |
-| `house_winners_2026_gender.csv` | gênero de cada vencedor de 2026 e como foi obtido |
-| `house_groups_2024_2026.csv` | resumo 2024 x 2026 por grupo |
-| `summary_2026.json` | os números do texto |
+| `house_districts_2024.csv`, `house_districts_2026.csv` | one district per row: previous members, winner, party, whether called, label (gain or hold) |
+| `house_states_2024_2026.csv` | one row per state: D and R seats in 2024 and 2026, uncalled |
+| `senate_races_2026.csv`, `governor_races_2026.csv` | the 35 Senate races and the 36 governor races |
+| `house_party_divisions.csv` | House seats by party at the start of every Congress since 1913 |
+| `midterm_president_party_change.csv` | seats gained or lost by the president's party in every midterm since 1946 |
+| `members_by_group_and_congress.csv` | every woman, Black and Hispanic member in every Congress (House Historian) |
+| `house_group_series.csv` | count by group and Congress, all five groups |
+| `group_members_119_status_2026.csv` | what happened in 2026 to each member of these groups in the current House |
+| `house_winners_2026_gender.csv` | gender of each 2026 winner and how it was obtained |
+| `house_groups_2024_2026.csv` | 2024 vs 2026 summary by group |
+| `summary_2026.json` | the numbers in the text |
 
-Para refazer tudo:
+To rebuild everything:
 
 ```bash
 pip install -r requirements.txt
 ./run_all.sh --download
 ```
+
+---
+
+<sub>¹ The source of the 2026 results is Wikipedia, which cites AP, Decision Desk HQ and state election offices; the Nov. 5, 2026 revision is stored in `Data/raw/`. AP blocks automated reading. For 2024 the same method reproduces the official result exactly (220 vs 215). In the seats already called, the House numbers are slightly ahead of AP's tally of Nov. 5, 2026 at 9:10 a.m. Brasília time (240 D vs 147 R).</sub>
+
+<sub>² The 2026 diversity numbers are minimums, not totals: a first-time winner counts only when a source names them. Gender of first-time winners comes from the pronouns in their Wikipedia articles; 11 winners with no article are left out. Nothing is inferred from first names.</sub>
+
+<sub>³ Found only in the press, still to be checked: the four first-time LGBTQ+ winners (Washington Blade, Advocate, GLAAD) and Melat Kiros as Colorado's first Black congresswoman (Fast Company, ABC News). Sources also disagree on Denise Powell (Nebraska): the press calls her the state's first Hispanic member of Congress, but Wikipedia's list of Hispanic winners does not include her, so she is not counted.</sub>

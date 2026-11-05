@@ -57,7 +57,7 @@ def t(pt: str, en: str) -> str:
 
 
 def img_dir() -> Path:
-    d = DOCS / ("en/img" if LANG == "en" else "img")
+    d = DOCS / ("pt/img" if LANG == "pt" else "img")  # English is the main page
     d.mkdir(parents=True, exist_ok=True)
     return d
 
