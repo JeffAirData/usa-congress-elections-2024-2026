@@ -14,6 +14,8 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "Data" / "processed"
 DOCS = ROOT / "docs"
 REPO = "https://github.com/JeffAirData/usa-congress-elections-2024-2026"
+# page-view counter (hits.sh): one shared key, so both languages add to the same total
+HITS = "https://hits.sh/jeffairdata.github.io/usa-congress-elections-2024-2026.svg"
 
 PT_STATES = {"Iowa": "Iowa", "Kansas": "Kansas", "Maine": "Maine", "North Carolina": "Carolina do Norte",
              "Ohio (special)": "Ohio (eleição especial)", "South Carolina": "Carolina do Sul", "Texas": "Texas",
@@ -197,6 +199,8 @@ def texts(lang: str) -> dict:
         "Sources: Wikipedia (the 2024 and 2026 House, Senate and governor election articles, which cite AP, DDHQ and state "
         "election offices), House Clerk (MemberData.xml), House Historian (Party Divisions and the lists of women, Black and "
         "Hispanic members), unitedstates/congress-legislators and the press cited in the text.")
+    T["counter"] = (f'<img class="hits" src="{HITS}?label={"visualiza%C3%A7%C3%B5es" if pt else "views"}&color=2a78d6" '
+                    f'alt="{"Contador de visualizações da página" if pt else "Page view counter"}" loading="lazy">')
     T["code"] = f'{"Código e dados" if pt else "Code and data"}: <a href="{REPO}">{REPO.replace("https://", "")}</a>'
     T["alt"] = {k: v for k, v in zip(
         ["01_nacional", "02_estados", "03_midterms", "04_camara_historico", "05_diversidade_serie", "06_grupos_2024_2026", "07_mulheres_partido"],
@@ -251,6 +255,7 @@ PAGE = """<!doctype html>
   .notes ol {{ padding-left: 18px; margin: 0; }}
   .notes li {{ font-size: .8rem; line-height: 1.45; margin-bottom: 6px; overflow-wrap: anywhere; }}
   .notes .back {{ text-decoration: none; }}
+  img.hits {{ width: auto; height: 20px; border: 0; border-radius: 0; margin: 0; background: none; }}
   footer {{ margin-top: 40px; font-size: .9rem; color: var(--muted); }}
   footer a, main a {{ color: var(--dem); }}
 </style>
@@ -293,7 +298,7 @@ PAGE = """<!doctype html>
 <h2>{h_method}</h2>
 {p_method}
 <section class="notes" aria-label="{notes_title}"><hr><ol>{notes}</ol></section>
-<footer><p>{sources}</p><p>{code}</p></footer>
+<footer><p>{sources}</p><p>{code}</p><p>{counter}</p></footer>
 </main>
 <script>
 const L = {js};
