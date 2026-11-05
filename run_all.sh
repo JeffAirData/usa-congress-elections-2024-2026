@@ -10,3 +10,4 @@ python3 build_groups.py
 python3 build_charts.py
 python3 build_page.py
 python3 build_post.py
+python3 build_cards.py
